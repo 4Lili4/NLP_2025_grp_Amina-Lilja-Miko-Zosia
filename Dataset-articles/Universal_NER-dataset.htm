@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class=" js "><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Universal NER - Universal NER</title>
+<meta name="description" content="Building gold standard Multilingual NER datasets.">
+
+
+  <meta name="author" content="Stephen Mayhew">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Universal NER">
+<meta property="og:title" content="Universal NER">
+<meta property="og:url" content="http://www.universalner.org/">
+
+
+  <meta property="og:description" content="Building gold standard Multilingual NER datasets.">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://www.universalner.org/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Stephen Mayhew",
+      "url": "http://www.universalner.org/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="http://www.universalner.org/feed.xml" type="application/atom+xml" rel="alternate" title="Universal NER Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<style class="anchorjs"></style><link rel="stylesheet" href="Universal_NER-dataset_files/main.css">
+<link rel="stylesheet" href="Universal_NER-dataset_files/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+<script src="Universal_NER-dataset_files/anchor.min.js"></script>
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+
+  <body class="layout--home">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="http://www.universalner.org/">
+          Universal NER
+          <span class="site-subtitle"></span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="http://www.universalner.org/">Home</a>
+            </li><li class="masthead__menu-item">
+              <a href="http://www.universalner.org/datasets/">Datasets</a>
+            </li><li class="masthead__menu-item">
+              <a href="http://www.universalner.org/guidelines/">Annotation Guidelines</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button" count="0">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar">
+  
+  
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title">Pages</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="http://www.universalner.org/" class="active">Home</a></li>
+          
+            <li><a href="http://www.universalner.org/datasets/">Datasets</a></li>
+          
+            <li><a href="http://www.universalner.org/guidelines/">Annotation Guidelines</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">External</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://groups.google.com/g/ner-for-universaldependencies">Google Group</a></li>
+          
+            <li><a href="https://github.com/mayhewsw/UniversalNER/issues">Issue Tracker</a></li>
+          
+            <li><a href="https://github.com/mayhewsw/UniversalNER/tree/main/docs">Page Source</a></li>
+          
+            <li><a href="https://annotate.universalner.org/">Annotation Website</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+
+  <div class="archive">
+    
+      <h1 id="page-title" class="page__title">Universal NER</h1>
+    
+    <p>Universal Named Entity Recognition (UNER) aims to fill a gap in multilingual NLP: high quality NER datasets 
+in many languages with a shared tagset.</p>
+
+<p>UNER is modeled after the <a href="https://universaldependencies.org/">Universal Dependencies</a> project, in that
+it is intended to be a large community annotation effort with language-universal guidelines. Further, we use the <em>same text corpora</em> as Universal Dependencies.</p>
+
+<h2 id="universal-ner-v1">Universal NER v1<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#universal-ner-v1" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
+
+<p>We are excited to release Universal NER v1. Here are the relevant links:</p>
+
+<ul>
+  <li>Harvard Dataverse for official release: <a href="https://doi.org/10.7910/DVN/GQ8HDL">https://doi.org/10.7910/DVN/GQ8HDL</a></li>
+  <li>Github repos for bleeding edge datasets: <a href="https://github.com/UniversalNER">https://github.com/UniversalNER</a></li>
+  <li><a href="https://arxiv.org/abs/2311.09122">The paper</a>, accepted to <a href="https://2024.naacl.org/">NAACL 2024</a>.</li>
+  <li>Huggingface dataset: <em>Coming soon</em></li>
+</ul>
+
+<h2 id="contributing">Contributing<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#contributing" style="font: 1em / 1 anchorjs-icons; margin-left: 0.1875em; padding-right: 0.1875em; padding-left: 0.1875em;"></a></h2>
+
+<p>Are you interested in annotating or organizing? <em>We need your help!</em> Please join <a href="https://discord.gg/QUCxcg4CmU">our discord!</a></p>
+
+<!-- If you want to receive news about Universal NER, you can subscribe to the [UNER mailing list](https://groups.google.com/g/ner-for-universaldependencies). If you want to discuss individual annotation questions, use the [Github issue tracker](https://github.com/mayhewsw/UniversalNER/issues). -->
+
+
+  </div>
+</div>
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <!-- <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul> -->
+</div>
+
+<div class="page__footer-copyright">© 2025 Stephen Mayhew. Powered by <a href="https://jekyllrb.com/" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="Universal_NER-dataset_files/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+<script>
+  anchors.add();
+</script>
+
+  
+
+</body></html>
