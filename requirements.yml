@@ -1,0 +1,16 @@
+name: NLP_grp1
+
+channels:
+ - defaults
+ - conda-forge
+
+dependencies:
+ - python
+ - numpy
+ - pandas
+ - jupyter
+ - notebook
+ - regex
+ - nltk
+ - pytorch
+ - transformers
