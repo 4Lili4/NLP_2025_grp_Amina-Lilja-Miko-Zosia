@@ -132,7 +132,7 @@
 2	Tea	O	-	-
 3	Or	O	-	-
 4	White	B-LOC	-	stephen
-5	Tea	O	-	-
+5	Tea	I-ORG	-	stephen
 6	?	O	-	-
 
 # text = Green
@@ -171,7 +171,7 @@
 6	any	O	-	-
 7	koreans	O	-	-
 8	in	O	-	-
-9	Miramar	O	-	-
+9	Miramar	B-LOC	-	stephen
 10	?	O	-	-
 
 # text = Heck there must be at least 1 korean .
@@ -212,7 +212,7 @@
 5	good	O	-	-
 6	restaurants	O	-	-
 7	in	O	-	-
-8	cordoba	O	-	-
+8	cordoba	B-LOC	-	stephen
 9	?	O	-	-
 
 # text = Not me sorry .
@@ -230,7 +230,7 @@
 6	good	O	-	-
 7	food	O	-	-
 8	in	O	-	-
-9	iguazu	O	-	-
+9	iguazu	B-LOC	-	stephen
 10	?	O	-	-
 
 # text = Not me sorry .
@@ -326,7 +326,7 @@
 9	people	O	-	-
 10	do	O	-	-
 11	in	O	-	-
-12	Miramar	O	-	-
+12	Miramar	B-LOC	-	stephen
 13	?	O	-	-
 
 # text = Well , they have a variety of sports that they play like basketball , soccer , etc .
@@ -456,7 +456,7 @@
 # text = The Hank Green I know is hardly awesome .
 1	The	O	-	-
 2	Hank	O	-	-
-3	Green	O	-	-
+3	Green	I-ORG	-	stephen
 4	I	O	-	-
 5	know	O	-	-
 6	is	O	-	-
@@ -642,11 +642,11 @@
 6	be	O	-	-
 7	inspired	O	-	-
 8	in	O	-	-
-9	Mexicans	O	-	-
+9	Mexicans	B-LOC	-	stephen
 10	,	O	-	-
 11	not	O	-	-
 12	in	O	-	-
-13	Argentineans	O	-	-
+13	Argentineans	B-LOC	-	stephen
 14	.	O	-	-
 
 # text = How much does it cost to buy a Big Mac meal in your area ?
@@ -704,7 +704,7 @@
 8	can	O	-	-
 9	buy	O	-	-
 10	in	O	-	-
-11	philadelphia	O	-	-
+11	philadelphia	B-LOC	-	stephen
 12	pa	O	-	-
 13	?	O	-	-
 
@@ -780,7 +780,7 @@
 5	italian	O	-	-
 6	food	O	-	-
 7	in	O	-	-
-8	phila	O	-	-
+8	phila	B-LOC	-	stephen
 9	pa	O	-	-
 10	?	O	-	-
 
@@ -792,9 +792,9 @@
 5	at	O	-	-
 6	3901	O	-	-
 7	conshocken	O	-	-
-8	ave	O	-	-
+8	ave	I-ORG	-	stephen
 9	in	O	-	-
-10	phila	O	-	-
+10	phila	B-LOC	-	stephen
 11	pa	O	-	-
 12	really	O	-	-
 13	the	O	-	-
@@ -823,7 +823,7 @@
 14	will	O	-	-
 15	travel	O	-	-
 16	from	O	-	-
-17	maryland	B-LOC	-	stephen
+17	maryland	O	-	-
 18	if	O	-	-
 19	that	O	-	-
 20	s	O	-	-
@@ -943,7 +943,7 @@
 4	daily	O	-	-
 5	deals	O	-	-
 6	from	O	-	-
-7	Groupon	B-LOC	-	stephen
+7	Groupon	O	-	-
 8	,	O	-	-
 9	Living	O	-	-
 10	Social	O	-	-
@@ -1221,8 +1221,8 @@
 12	sundae	O	-	-
 13	from	O	-	-
 14	in	O	-	-
-15	Invercargill	O	-	-
-16	New	O	-	-
+15	Invercargill	B-LOC	-	stephen
+16	New	I-ORG	-	stephen
 17	Zealand	I-LOC	-	stephen
 18	?	O	-	-
 
@@ -1232,7 +1232,7 @@
 3	live	O	-	-
 4	in	O	-	-
 5	Invercargill	B-LOC	-	stephen
-6	New	O	-	-
+6	New	I-ORG	-	stephen
 7	Zealand	I-LOC	-	stephen
 8	and	O	-	-
 9	i	O	-	-
@@ -1277,8 +1277,8 @@
 5	and	O	-	-
 6	you	O	-	-
 7	eat	O	-	-
-8	McDonald	B-LOC	-	stephen
-9	s	I-LOC	-	stephen
+8	McDonald	B-ORG	-	stephen
+9	s	I-ORG	-	stephen
 10	ice	O	-	-
 11	cream	O	-	-
 12	?	O	-	-
@@ -1392,8 +1392,8 @@
 5	.	O	-	-
 
 # text = Bay of Plenty - Are you even old enough to vote ?
-1	Bay	I-LOC	-	stephen
-2	of	I-LOC	-	stephen
+1	Bay	B-LOC	-	stephen
+2	of	O	-	-
 3	Plenty	O	-	-
 4	-	O	-	-
 5	Are	O	-	-
@@ -1452,7 +1452,7 @@
 4	have	O	-	-
 5	usually	O	-	-
 6	voted	O	-	-
-7	National	O	-	-
+7	National	B-ORG	-	stephen
 8	.	O	-	-
 
 # text = I do see myself as a conservative
@@ -1602,7 +1602,7 @@
 12	Harms	O	-	-
 13	Rd	O	-	-
 14	in	O	-	-
-15	Glenview	O	-	-
+15	Glenview	B-LOC	-	stephen
 16	:	O	-	-
 
 # text = http://www.youtube.com/watch?v=q2lDF0XU3NI
@@ -1876,7 +1876,7 @@
 4	visiting	O	-	-
 5	the	O	-	-
 6	Chicago	B-LOC	-	stephen
-7	Botanical	I-LOC	-	stephen
+7	Botanical	O	-	-
 8	Gardens	O	-	-
 9	and	O	-	-
 10	see	O	-	-
@@ -2003,15 +2003,15 @@
 2	there	O	-	-
 3	s	O	-	-
 4	Mc.	O	-	-
-5	Donald	I-LOC	-	stephen
-6	s	I-LOC	-	stephen
+5	Donald	B-PER	-	stephen
+6	s	I-PER	-	stephen
 7	,	O	-	-
 8	Taco	B-LOC	-	stephen
 9	Bell	I-LOC	-	stephen
 10	,	O	-	-
 11	Burger	B-ORG	-	stephen
 12	King	I-ORG	-	stephen
-13	.....	I-ORG	-	stephen
+13	.....	O	-	-
 
 # text = But my resturant is way better than all of them ... and it 's quite close .
 1	But	O	-	-
@@ -2138,7 +2138,7 @@
 5	in	O	-	-
 6	the	O	-	-
 7	Lincoln	O	-	-
-8	Square	O	-	-
+8	Square	I-LOC	-	stephen
 9	area	O	-	-
 10	but	O	-	-
 11	do	O	-	-
@@ -2249,7 +2249,7 @@
 2	is	O	-	-
 3	Flat	O	-	-
 4	Top	O	-	-
-5	Grill	B-ORG	-	stephen
+5	Grill	B-PER	-	stephen
 
 # text = Arriving in Auckland on a direct flight from Canada .?
 1	Arriving	O	-	-
@@ -2319,7 +2319,7 @@
 5	on	O	-	-
 6	'	O	-	-
 7	Border	O	-	-
-8	Patrol	O	-	-
+8	Patrol	I-ORG	-	stephen
 9	'	O	-	-
 
 # text = Yes you can carry your duty free bottles , and liquids onto your connection as it is only a domestic flight :-)
@@ -2486,7 +2486,7 @@
 7	the	O	-	-
 8	re	O	-	-
 9	from	O	-	-
-10	iraland	B-LOC	-	stephen
+10	iraland	O	-	-
 11	.	O	-	-
 
 # text = i would like more bands like them pleasseee
@@ -2539,12 +2539,12 @@
 12	look	O	-	-
 13	at	O	-	-
 14	General	O	-	-
-15	Fiasco	B-LOC	-	stephen
+15	Fiasco	I-ORG	-	stephen
 16	,	O	-	-
 17	Two	O	-	-
 18	Door	O	-	-
 19	Cinema	O	-	-
-20	Club	O	-	-
+20	Club	B-ORG	-	stephen
 21	and	O	-	-
 22	Wallis	O	-	-
 23	Bird	O	-	-
@@ -2633,7 +2633,7 @@
 
 # text = Candy Apple
 1	Candy	O	-	-
-2	Apple	B-LOC	-	stephen
+2	Apple	B-ORG	-	stephen
 
 # text = Meat Kabob
 1	Meat	O	-	-
@@ -2738,14 +2738,14 @@
 12	II	O	-	-
 13	the	O	-	-
 14	Viet	O	-	-
-15	Minh	I-LOC	-	stephen
+15	Minh	O	-	-
 16	were	O	-	-
 17	in	O	-	-
 18	control	O	-	-
 19	of	O	-	-
 20	the	O	-	-
-21	Red	I-PER	-	stephen
-22	River	I-ORG	-	stephen
+21	Red	B-PER	-	stephen
+22	River	I-LOC	-	stephen
 23	Delta	I-LOC	-	stephen
 24	.	O	-	-
 
@@ -3402,8 +3402,8 @@
 7	link	O	-	-
 8	for	O	-	-
 9	Red	B-PER	-	stephen
-10	FM	I-ORG	-	stephen
-11	93.5	I-ORG	-	stephen
+10	FM	O	-	-
+11	93.5	O	-	-
 12	delhi	I-LOC	-	stephen
 13	?	O	-	-
 
@@ -3699,14 +3699,14 @@
 3	you	O	-	-
 4	think	O	-	-
 5	of	O	-	-
-6	Air	O	-	-
+6	Air	B-ORG	-	stephen
 7	France	I-ORG	-	stephen
 8	?	O	-	-
 
 # text = I love Air France !
 1	I	O	-	-
 2	love	O	-	-
-3	Air	O	-	-
+3	Air	B-ORG	-	stephen
 4	France	I-ORG	-	stephen
 5	!	O	-	-
 
@@ -3742,7 +3742,7 @@
 8	than	O	-	-
 9	many	O	-	-
 10	other	O	-	-
-11	airlines	B-LOC	-	stephen
+11	airlines	O	-	-
 12	.	O	-	-
 
 # text = Plus you land in a preferential terminal ...
@@ -3764,7 +3764,7 @@
 6	way	O	-	-
 7	to	O	-	-
 8	use	O	-	-
-9	Air	O	-	-
+9	Air	B-ORG	-	stephen
 10	France	I-ORG	-	stephen
 11	.	O	-	-
 
@@ -3928,7 +3928,7 @@
 # text = My canon t2i stops working at times as in the power bottom is switched to " on " but the camera does not respond to any function .
 1	My	O	-	-
 2	canon	B-ORG	-	stephen
-3	t2i	O	-	-
+3	t2i	I-ORG	-	stephen
 4	stops	O	-	-
 5	working	O	-	-
 6	at	O	-	-
@@ -4181,8 +4181,8 @@
 3	.	O	-	-
 
 # text = Google the term or find photography supplies websites and put it in the search box ( or look for studio equipment supplies ) .
-1	Google	B-ORG	-	stephen
-2	the	O	-	-
+1	Google	O	-	-
+2	the	I-ORG	-	stephen
 3	term	O	-	-
 4	or	O	-	-
 5	find	O	-	-
@@ -4240,7 +4240,7 @@
 4	"	O	-	-
 5	So	O	-	-
 6	in	O	-	-
-7	Louvre	O	-	-
+7	Louvre	B-LOC	-	stephen
 8	Are	O	-	-
 9	We	O	-	-
 10	Two	O	-	-
@@ -4677,7 +4677,7 @@
 # text = Which Compact System Camera Should I Get ... ?
 1	Which	O	-	-
 2	Compact	O	-	-
-3	System	O	-	-
+3	System	I-ORG	-	stephen
 4	Camera	O	-	-
 5	Should	O	-	-
 6	I	O	-	-
@@ -4882,7 +4882,7 @@
 4	a	O	-	-
 5	game	O	-	-
 6	at	O	-	-
-7	gamestop	O	-	-
+7	gamestop	B-LOC	-	stephen
 8	can	O	-	-
 9	someone	O	-	-
 10	else	O	-	-
@@ -5170,9 +5170,9 @@
 # text = weather in december in Tremblant ?
 1	weather	O	-	-
 2	in	O	-	-
-3	december	O	-	-
+3	december	B-LOC	-	stephen
 4	in	O	-	-
-5	Tremblant	O	-	-
+5	Tremblant	B-LOC	-	stephen
 6	?	O	-	-
 
 # text = Typically it 's cold .
@@ -5320,7 +5320,7 @@
 15	found	O	-	-
 16	that	O	-	-
 17	Korean	O	-	-
-18	Air	O	-	-
+18	Air	B-ORG	-	stephen
 19	has	O	-	-
 20	had	O	-	-
 21	the	O	-	-
@@ -5381,7 +5381,7 @@
 11	used	O	-	-
 12	"	O	-	-
 13	Fly	O	-	-
-14	genesis	O	-	-
+14	genesis	B-LOC	-	stephen
 15	"	O	-	-
 16	based	O	-	-
 17	in	O	-	-
@@ -5409,7 +5409,7 @@
 3	the	O	-	-
 4	difference	O	-	-
 5	between	O	-	-
-6	Indian	O	-	-
+6	Indian	B-ORG	-	stephen
 7	and	O	-	-
 8	African	O	-	-
 9	ringnecks	O	-	-
@@ -5604,7 +5604,7 @@
 5	a	O	-	-
 6	150	O	-	-
 7	gal	O	-	-
-8	aquarium	O	-	-
+8	aquarium	B-ORG	-	stephen
 9	,	O	-	-
 10	what	O	-	-
 11	can	O	-	-
@@ -6490,7 +6490,7 @@
 3	Houston	B-LOC	-	stephen
 4	,	O	-	-
 5	Texas	B-LOC	-	stephen
-6	USA	B-LOC	-	stephen
+6	USA	I-LOC	-	stephen
 
 # text = Compensation : $ 60000 - 70000
 1	Compensation	O	-	-
@@ -6603,14 +6603,14 @@
 1	Marvel	O	-	-
 2	Consultants	O	-	-
 3	,	O	-	-
-4	Inc.	B-LOC	-	stephen
+4	Inc.	B-PER	-	stephen
 5	28601	O	-	-
 6	Chagrin	O	-	-
 7	Blvd.	O	-	-
 8	Cleveland	B-LOC	-	stephen
 9	,	O	-	-
 10	Ohio	B-LOC	-	stephen
-11	44122	O	-	-
+11	44122	I-LOC	-	stephen
 12	USA	B-LOC	-	stephen
 13	Email	O	-	-
 14	:	O	-	-
@@ -6719,13 +6719,13 @@
 4	some	O	-	-
 5	friends	O	-	-
 6	at	O	-	-
-7	Duke	B-ORG	-	stephen
+7	Duke	B-LOC	-	stephen
 8	and	O	-	-
 9	Dynegy	B-ORG	-	stephen
 10	from	O	-	-
-11	B	O	-	-
-12	-	O	-	-
-13	school	O	-	-
+11	B	B-ORG	-	stephen
+12	-	I-ORG	-	stephen
+13	school	I-ORG	-	stephen
 14	,	O	-	-
 15	the	O	-	-
 16	Gianoucous	O	-	-
@@ -6757,7 +6757,7 @@
 42	man	O	-	-
 43	is	O	-	-
 44	at	O	-	-
-45	Schlumberger	O	-	-
+45	Schlumberger	B-LOC	-	stephen
 46	and	O	-	-
 47	has	O	-	-
 48	good	O	-	-
@@ -7077,7 +7077,7 @@
 
 # text = Michael Olsen@ENRON
 1	Michael	B-PER	-	stephen
-2	Olsen@ENRON	O	-	-
+2	Olsen@ENRON	I-PER	-	stephen
 
 # text = 12/07/2000 02:29 PM
 1	12/07/2000	O	-	-
@@ -7297,7 +7297,7 @@
 6	had	O	-	-
 7	20.000	O	-	-
 8	at	O	-	-
-9	LS	O	-	-
+9	LS	B-LOC	-	stephen
 10	HPL	O	-	-
 11	for	O	-	-
 12	the	O	-	-
@@ -7321,7 +7321,7 @@
 5	HPL	O	-	-
 6	IFERC	O	-	-
 7	;	O	-	-
-8	20.000	B-LOC	-	stephen
+8	20.000	O	-	-
 9	/	O	-	-
 10	Enron	B-ORG	-	stephen
 
@@ -7348,7 +7348,7 @@
 5	HPL	O	-	-
 6	IFERC	O	-	-
 7	;	O	-	-
-8	20.000	B-LOC	-	stephen
+8	20.000	O	-	-
 9	/	O	-	-
 10	Enron	B-ORG	-	stephen
 
@@ -7375,7 +7375,7 @@
 5	HPL	O	-	-
 6	IFERC	O	-	-
 7	;	O	-	-
-8	20.000	B-LOC	-	stephen
+8	20.000	O	-	-
 9	/	O	-	-
 10	Enron	B-ORG	-	stephen
 
@@ -7391,7 +7391,7 @@
 # text = Now at 83.5 .
 1	Now	O	-	-
 2	at	O	-	-
-3	83.5	O	-	-
+3	83.5	B-LOC	-	stephen
 4	.	O	-	-
 
 # text = I need a new lawnmower , so I 'll try to bump it up a little more .
@@ -7431,7 +7431,7 @@
 # text = KEEP UP THE GOOD WORK .
 1	KEEP	O	-	-
 2	UP	B-ORG	-	stephen
-3	THE	O	-	-
+3	THE	I-ORG	-	stephen
 4	GOOD	O	-	-
 5	WORK	O	-	-
 6	.	O	-	-
@@ -7507,7 +7507,7 @@
 19	photo	O	-	-
 20	album	O	-	-
 21	at	O	-	-
-22	http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday	O	-	-
+22	http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday	B-LOC	-	stephen
 23	.	O	-	-
 
 # text = If you want to pass this web site address along to other folks , feel free .
@@ -7561,15 +7561,15 @@
 7	Owner	O	-	-
 8	,	O	-	-
 9	Abacus	O	-	-
-10	Technologies	O	-	-
-11	17611	O	-	-
-12	Loring	O	-	-
-13	Lane	I-LOC	-	stephen
+10	Technologies	I-ORG	-	stephen
+11	17611	I-ORG	-	stephen
+12	Loring	I-ORG	-	stephen
+13	Lane	I-ORG	-	stephen
 14	,	O	-	-
 15	Spring	O	-	-
 16	,	O	-	-
 17	TX	B-LOC	-	stephen
-18	77388-5746	O	-	-
+18	77388-5746	I-LOC	-	stephen
 19	(	O	-	-
 20	281	O	-	-
 21	)	O	-	-
@@ -7844,9 +7844,9 @@
 3	Belle	I-PER	-	stephen
 4	Consultant	O	-	-
 5	PHB	O	-	-
-6	Hagler	O	-	-
-7	Bailly	O	-	-
-8	MANAGEMENT	O	-	-
+6	Hagler	I-ORG	-	stephen
+7	Bailly	I-ORG	-	stephen
+8	MANAGEMENT	I-ORG	-	stephen
 9	AND	O	-	-
 10	ECONOMIC	O	-	-
 11	CONSULTANTS	O	-	-
@@ -7854,7 +7854,7 @@
 13	Hagler	O	-	-
 14	Bailly	O	-	-
 15	,	O	-	-
-16	Inc.	B-ORG	-	stephen
+16	Inc.	I-ORG	-	stephen
 17	(	O	-	-
 18	202	O	-	-
 19	)	O	-	-
@@ -7952,7 +7952,7 @@
 4	titman@mail.utexas.edu	O	-	-
 5	>	O	-	-
 6	on	O	-	-
-7	01/24/2001	O	-	-
+7	01/24/2001	B-LOC	-	stephen
 8	02:45:50	O	-	-
 9	PM	O	-	-
 
@@ -8035,20 +8035,20 @@
 # text = Sheridan Titman Department of Finance College of Business Administration University of Texas Austin , Texas 78712-1179 512-232-2787 ( phone ) 512-471-5073 ( fax ) titman@mail.utexas.edu
 1	Sheridan	O	-	-
 2	Titman	B-PER	-	stephen
-3	Department	O	-	-
-4	of	O	-	-
-5	Finance	O	-	-
-6	College	O	-	-
-7	of	O	-	-
+3	Department	I-ORG	-	stephen
+4	of	I-ORG	-	stephen
+5	Finance	I-ORG	-	stephen
+6	College	I-ORG	-	stephen
+7	of	I-ORG	-	stephen
 8	Business	I-ORG	-	stephen
 9	Administration	I-ORG	-	stephen
-10	University	I-ORG	-	stephen
+10	University	B-ORG	-	stephen
 11	of	I-ORG	-	stephen
 12	Texas	I-ORG	-	stephen
 13	Austin	I-ORG	-	stephen
 14	,	O	-	-
 15	Texas	B-LOC	-	stephen
-16	78712-1179	O	-	-
+16	78712-1179	I-ORG	-	stephen
 17	512-232-2787	O	-	-
 18	(	O	-	-
 19	phone	O	-	-
@@ -8147,7 +8147,7 @@
 
 # text = Kevin Kindall@ENRON
 1	Kevin	B-PER	-	stephen
-2	Kindall@ENRON	O	-	-
+2	Kindall@ENRON	I-PER	-	stephen
 
 # text = 01/24/2001 03:51 PM
 1	01/24/2001	O	-	-
@@ -8181,8 +8181,8 @@
 12	the	O	-	-
 13	Canadian	O	-	-
 14	Risk	O	-	-
-15	Managers	O	-	-
-16	Conference	O	-	-
+15	Managers	I-ORG	-	stephen
+16	Conference	I-ORG	-	stephen
 17	in	O	-	-
 18	Edmonton	B-LOC	-	stephen
 19	in	O	-	-
@@ -8325,7 +8325,7 @@
 
 # text = Vince / Taiichi
 1	Vince	B-PER	-	stephen
-2	/	O	-	-
+2	/	I-PER	-	stephen
 3	Taiichi	O	-	-
 
 # text = In case you are interested , I attach this paper on gas Storage value modeling .
@@ -8362,7 +8362,7 @@
 3	mail	O	-	-
 4	GSB	O	-	-
 5	Stanford	B-ORG	-	stephen
-6	CA	B-LOC	-	stephen
+6	CA	I-PER	-	stephen
 7	94305-5015	O	-	-
 8	USA	B-LOC	-	stephen
 9	phone	O	-	-
@@ -8722,12 +8722,12 @@
 # text = Hilary E. Ackermann Goldman Sachs Credit Risk Management & Advisory Phone : 212-902-3724 Fax : 212-428-1181 E-Mail : hilary.ackermann@gs.com
 1	Hilary	O	-	-
 2	E.	B-PER	-	stephen
-3	Ackermann	I-PER	-	stephen
-4	Goldman	I-ORG	-	stephen
+3	Ackermann	O	-	-
+4	Goldman	B-ORG	-	stephen
 5	Sachs	I-ORG	-	stephen
 6	Credit	I-ORG	-	stephen
-7	Risk	B-ORG	-	stephen
-8	Management	O	-	-
+7	Risk	I-ORG	-	stephen
+8	Management	I-ORG	-	stephen
 9	&	O	-	-
 10	Advisory	O	-	-
 11	Phone	O	-	-
@@ -8758,7 +8758,7 @@
 9	conversation	O	-	-
 10	with	O	-	-
 11	Gary	B-PER	-	stephen
-12	Cohn	O	-	-
+12	Cohn	I-ORG	-	stephen
 13	,	O	-	-
 14	I	O	-	-
 15	would	O	-	-
@@ -8774,23 +8774,23 @@
 25	each	O	-	-
 26	of	O	-	-
 27	Goldman	B-ORG	-	stephen
-28	Sachs	O	-	-
-29	Capital	I-LOC	-	stephen
+28	Sachs	I-ORG	-	stephen
+29	Capital	I-ORG	-	stephen
 30	Markets	O	-	-
 31	and	O	-	-
 32	J.	B-PER	-	stephen
-33	Aron	O	-	-
+33	Aron	I-PER	-	stephen
 34	.	O	-	-
 
 # text = Hilary E. Ackermann Goldman Sachs Credit Risk Management & Advisory Phone : 212-902-3724 Fax : 212-428-1181 E-Mail : hilary.ackermann@gs.com
 1	Hilary	O	-	-
 2	E.	B-PER	-	stephen
-3	Ackermann	I-PER	-	stephen
-4	Goldman	I-ORG	-	stephen
+3	Ackermann	O	-	-
+4	Goldman	B-ORG	-	stephen
 5	Sachs	I-ORG	-	stephen
 6	Credit	I-ORG	-	stephen
-7	Risk	B-ORG	-	stephen
-8	Management	O	-	-
+7	Risk	I-ORG	-	stephen
+8	Management	I-ORG	-	stephen
 9	&	O	-	-
 10	Advisory	O	-	-
 11	Phone	O	-	-
@@ -8948,7 +8948,7 @@
 4	the	O	-	-
 5	word	O	-	-
 6	from	O	-	-
-7	Lavo	B-LOC	-	stephen
+7	Lavo	O	-	-
 8	we	O	-	-
 9	'll	O	-	-
 10	let	O	-	-
@@ -9529,12 +9529,12 @@
 2	Abel	I-ORG	-	stephen
 3	Manager	O	-	-
 4	,	O	-	-
-5	Risk	B-ORG	-	stephen
-6	Controls	I-ORG	-	stephen
+5	Risk	O	-	-
+6	Controls	O	-	-
 7	Global	O	-	-
-8	Risk	B-ORG	-	stephen
-9	Operations	I-ORG	-	stephen
-10	chris.abel@enron.com	I-ORG	-	stephen
+8	Risk	O	-	-
+9	Operations	O	-	-
+10	chris.abel@enron.com	O	-	-
 11	<	O	-	-
 12	mailto:chris.abel@enron.com	O	-	-
 13	>	O	-	-
@@ -10005,7 +10005,7 @@
 2	dose	O	-	-
 3	on	O	-	-
 4	enron	B-ORG	-	stephen
-5	-	O	-	-
+5	-	I-ORG	-	stephen
 
 # text = we are finished .
 1	we	O	-	-
@@ -10481,7 +10481,7 @@
 1	i	O	-	-
 2	am	O	-	-
 3	in	O	-	-
-4	portland	O	-	-
+4	portland	B-LOC	-	stephen
 5	.	O	-	-
 
 # text = you can buy me dinner when we get back .
@@ -10607,7 +10607,7 @@
 
 # text = Mike McConnell
 1	Mike	B-PER	-	stephen
-2	McConnell	I-PER	-	stephen
+2	McConnell	O	-	-
 
 # text = 07/06/2000 14:57
 1	07/06/2000	O	-	-
@@ -10688,7 +10688,7 @@
 1	Richard	B-PER	-	stephen
 2	Harper	O	-	-
 3	and	O	-	-
-4	Mary	B-PER	-	stephen
+4	Mary	O	-	-
 5	Nell	O	-	-
 6	Browning	O	-	-
 7	may	O	-	-
@@ -11113,7 +11113,7 @@
 4	be	O	-	-
 5	there	O	-	-
 6	at	O	-	-
-7	7:30	B-ORG	-	stephen
+7	7:30	O	-	-
 8	,	O	-	-
 9	but	O	-	-
 10	will	O	-	-
@@ -11333,7 +11333,7 @@
 42	Wilson	I-PER	-	stephen
 43	received	O	-	-
 44	from	O	-	-
-45	MIPS	B-LOC	-	stephen
+45	MIPS	O	-	-
 46	.	O	-	-
 
 # text = To summarize : Enron 's pad gas will now be 3,993,310 MMBTU , instead of 4,223,000 MMBTU .
@@ -11342,7 +11342,7 @@
 3	:	O	-	-
 4	Enron	B-ORG	-	stephen
 5	's	O	-	-
-6	pad	O	-	-
+6	pad	I-ORG	-	stephen
 7	gas	O	-	-
 8	will	O	-	-
 9	now	O	-	-
@@ -11446,7 +11446,7 @@
 7	Sat	O	-	-
 8	@	O	-	-
 9	Compaq	B-ORG	-	stephen
-10	Center	I-LOC	-	stephen
+10	Center	I-ORG	-	stephen
 11	.	O	-	-
 
 # text = Would love for you to join us .
@@ -11468,7 +11468,7 @@
 6	my	O	-	-
 7	girlfriends	O	-	-
 8	from	O	-	-
-9	LJ	B-LOC	-	stephen
+9	LJ	O	-	-
 10	.	O	-	-
 
 # text = Debra Perlingiere
@@ -11553,8 +11553,8 @@
 
 # text = Stacey Barclay Richardson Enron Net Works , LLC - Global Contracts Stacey.Richardson@enron.com ( 713 ) 853-0569 Office ( 713 ) 646-2495 Fax ( 713 ) 710-6084 Pager
 1	Stacey	B-PER	-	stephen
-2	Barclay	I-PER	-	stephen
-3	Richardson	I-ORG	-	stephen
+2	Barclay	B-ORG	-	stephen
+3	Richardson	B-ORG	-	stephen
 4	Enron	B-ORG	-	stephen
 5	Net	I-ORG	-	stephen
 6	Works	I-ORG	-	stephen
@@ -11736,7 +11736,7 @@
 7	Sat	O	-	-
 8	@	O	-	-
 9	Compaq	B-ORG	-	stephen
-10	Center	I-LOC	-	stephen
+10	Center	I-ORG	-	stephen
 11	.	O	-	-
 
 # text = Would love for you to join us .
@@ -11758,7 +11758,7 @@
 6	my	O	-	-
 7	girlfriends	O	-	-
 8	from	O	-	-
-9	LJ	B-LOC	-	stephen
+9	LJ	O	-	-
 10	.	O	-	-
 
 # text = Debra Perlingiere
@@ -12093,7 +12093,7 @@
 
 # text = Mike Curry
 1	Mike	B-PER	-	stephen
-2	Curry	I-PER	-	stephen
+2	Curry	O	-	-
 
 # text = 11/14/2000 11:37 AM
 1	11/14/2000	O	-	-
@@ -12195,7 +12195,7 @@
 7	of	O	-	-
 8	the	O	-	-
 9	Enron	B-ORG	-	stephen
-10	guaranties	O	-	-
+10	guaranties	I-ORG	-	stephen
 11	to	O	-	-
 12	be	O	-	-
 13	made	O	-	-
@@ -12208,9 +12208,9 @@
 20	under	O	-	-
 21	the	O	-	-
 22	Indian	B-ORG	-	stephen
-23	Mesa	O	-	-
+23	Mesa	I-ORG	-	stephen
 24	II	O	-	-
-25	Renewable	I-ORG	-	stephen
+25	Renewable	O	-	-
 26	Energy	I-ORG	-	stephen
 27	Purchase	I-ORG	-	stephen
 28	Agreement	O	-	-
@@ -12220,7 +12220,7 @@
 32	"	O	-	-
 33	)	O	-	-
 34	and	O	-	-
-35	Green	O	-	-
+35	Green	B-ORG	-	stephen
 36	Premium	O	-	-
 37	Sharing	O	-	-
 38	Agreement	O	-	-
@@ -12242,7 +12242,7 @@
 8	against	O	-	-
 9	the	O	-	-
 10	Enron	B-ORG	-	stephen
-11	EPC	O	-	-
+11	EPC	I-ORG	-	stephen
 12	Contract	O	-	-
 13	guaranty	O	-	-
 14	in	O	-	-
@@ -12292,7 +12292,7 @@
 7	since	O	-	-
 8	the	O	-	-
 9	Enron	B-ORG	-	stephen
-10	guaranties	O	-	-
+10	guaranties	I-ORG	-	stephen
 11	will	O	-	-
 12	need	O	-	-
 13	to	O	-	-
@@ -12350,7 +12350,7 @@
 9	for	O	-	-
 10	the	O	-	-
 11	Enron	B-ORG	-	stephen
-12	guaranty	O	-	-
+12	guaranty	I-ORG	-	stephen
 13	that	O	-	-
 14	will	O	-	-
 15	be	O	-	-
@@ -12368,7 +12368,7 @@
 27	obligations	O	-	-
 28	under	O	-	-
 29	the	O	-	-
-30	PPA	B-LOC	-	stephen
+30	PPA	O	-	-
 31	.	O	-	-
 
 # text = We will forward the draft of that guaranty to you later today .
@@ -12463,7 +12463,7 @@
 6	the	O	-	-
 7	Senior	O	-	-
 8	Regulatory	O	-	-
-9	Counsel	I-PER	-	stephen
+9	Counsel	O	-	-
 10	at	O	-	-
 11	ISO	B-ORG	-	stephen
 12	New	I-ORG	-	stephen
@@ -12514,21 +12514,21 @@
 4	will	O	-	-
 5	be	O	-	-
 6	:	O	-	-
-7	Mary	B-PER	-	stephen
+7	Mary	O	-	-
 8	Hain	O	-	-
 9	Senior	O	-	-
-10	Regulatory	B-PER	-	stephen
+10	Regulatory	O	-	-
 11	Counsel	O	-	-
 12	ISO	B-ORG	-	stephen
 13	New	I-ORG	-	stephen
 14	England	I-LOC	-	stephen
 15	Inc.	I-ORG	-	stephen
 16	One	O	-	-
-17	Sullivan	I-LOC	-	stephen
+17	Sullivan	I-ORG	-	stephen
 18	Road	I-LOC	-	stephen
-19	Holyoke	I-LOC	-	stephen
+19	Holyoke	O	-	-
 20	,	O	-	-
-21	MA	B-LOC	-	stephen
+21	MA	O	-	-
 22	01040-2841	O	-	-
 23	(	O	-	-
 24	413	O	-	-
@@ -12713,8 +12713,8 @@
 6	/	O	-	-
 7	Enron	B-ORG	-	stephen
 8	/	O	-	-
-9	Randy	B-ORG	-	stephen
-10	Maffett	I-ORG	-	stephen
+9	Randy	B-PER	-	stephen
+10	Maffett	I-PER	-	stephen
 11	lawsuit	O	-	-
 12	.	O	-	-
 
@@ -12754,12 +12754,12 @@
 20	.	O	-	-
 
 # text = Hall has agreed to release Enron , Ecogas , Maffett and every affiliate , related party and subsidiary .
-1	Hall	I-PER	-	stephen
+1	Hall	B-PER	-	stephen
 2	has	O	-	-
 3	agreed	O	-	-
 4	to	O	-	-
 5	release	O	-	-
-6	Enron	B-ORG	-	stephen
+6	Enron	O	-	-
 7	,	O	-	-
 8	Ecogas	O	-	-
 9	,	O	-	-
@@ -12813,7 +12813,7 @@
 2	have	O	-	-
 3	asked	O	-	-
 4	Doug	B-PER	-	stephen
-5	Daniels	B-ORG	-	stephen
+5	Daniels	I-PER	-	stephen
 6	to	O	-	-
 7	prepare	O	-	-
 8	the	O	-	-
@@ -12832,7 +12832,7 @@
 
 # text = Becky Stephens@ENRON
 1	Becky	O	-	-
-2	Stephens@ENRON	I-PER	-	stephen
+2	Stephens@ENRON	B-LOC	-	stephen
 
 # text = 06/12/2000 10:20 AM
 1	06/12/2000	O	-	-
@@ -12895,7 +12895,7 @@
 # text = Michael L. Beatty & Associates , PC ; # 10461 , # 10469 & # 10468 dated 5/28/00 .
 1	Michael	B-PER	-	stephen
 2	L.	I-PER	-	stephen
-3	Beatty	O	-	-
+3	Beatty	I-PER	-	stephen
 4	&	O	-	-
 5	Associates	O	-	-
 6	,	O	-	-
@@ -12916,8 +12916,8 @@
 # text = Becky A. Stephens Litigation Unit , Enron Corp. 713/853-5025 EB 4809
 1	Becky	O	-	-
 2	A.	I-PER	-	stephen
-3	Stephens	I-PER	-	stephen
-4	Litigation	I-ORG	-	stephen
+3	Stephens	I-ORG	-	stephen
+4	Litigation	O	-	-
 5	Unit	O	-	-
 6	,	O	-	-
 7	Enron	B-ORG	-	stephen
@@ -12972,7 +12972,7 @@
 7	Elizabeth	B-PER	-	stephen
 8	to	O	-	-
 9	ensure	O	-	-
-10	Sanders	I-PER	-	stephen
+10	Sanders	B-PER	-	stephen
 11	is	O	-	-
 12	on	O	-	-
 13	board	O	-	-
@@ -13250,7 +13250,7 @@
 5	Services	O	-	-
 6	1400	O	-	-
 7	Smith	O	-	-
-8	Street	I-LOC	-	stephen
+8	Street	O	-	-
 9	,	O	-	-
 10	EB	O	-	-
 11	3801a	O	-	-
@@ -13419,10 +13419,10 @@
 
 # text = First Union Securities , Inc .
 1	First	O	-	-
-2	Union	O	-	-
+2	Union	I-ORG	-	stephen
 3	Securities	O	-	-
 4	,	O	-	-
-5	Inc	B-ORG	-	stephen
+5	Inc	I-ORG	-	stephen
 6	.	O	-	-
 
 # text = Hi Sara ,
@@ -13507,8 +13507,8 @@
 9	Union	I-ORG	-	stephen
 10	Securities	O	-	-
 11	,	O	-	-
-12	Inc.	B-ORG	-	stephen
-13	Telephone	I-ORG	-	stephen
+12	Inc.	I-ORG	-	stephen
+13	Telephone	O	-	-
 14	:	O	-	-
 15	(	O	-	-
 16	212	O	-	-
@@ -13746,8 +13746,8 @@
 27	according	O	-	-
 28	to	O	-	-
 29	a	O	-	-
-30	Yale	O	-	-
-31	School	O	-	-
+30	Yale	B-ORG	-	stephen
+31	School	I-ORG	-	stephen
 32	of	I-ORG	-	stephen
 33	Medicine	I-ORG	-	stephen
 34	study	O	-	-
@@ -13810,7 +13810,7 @@
 4	Beavers	O	-	-
 5	to	O	-	-
 6	Cognitive	O	-	-
-7	Science	I-ORG	-	stephen
+7	Science	O	-	-
 8	News	I-ORG	-	stephen
 9	at	O	-	-
 10	8/28/2005	B-LOC	-	stephen
@@ -13839,7 +13839,7 @@
 19	series	O	-	-
 20	called	O	-	-
 21	the	O	-	-
-22	The	O	-	-
+22	The	B-ORG	-	stephen
 23	Tale	O	-	-
 24	of	O	-	-
 25	Terra	O	-	-
@@ -13899,7 +13899,7 @@
 4	/	O	-	-
 5	The	O	-	-
 6	Detroit	B-LOC	-	stephen
-7	News	O	-	-
+7	News	I-ORG	-	stephen
 
 # text = Deb Price
 1	Deb	B-PER	-	stephen
@@ -14057,7 +14057,7 @@
 37	Manchester	O	-	-
 38	School	O	-	-
 39	of	I-ORG	-	stephen
-40	Economics	I-LOC	-	stephen
+40	Economics	O	-	-
 41	:	O	-	-
 
 # text = ' Everything is for the best in the best of all possible worlds if only no artificial hindrances are put in the way of free exchange , for demand and supply will regulate everything better than any Government would be able to . '
@@ -14157,14 +14157,14 @@
 
 # text = Good Morning * *
 1	Good	O	-	-
-2	Morning	O	-	-
-3	*	O	-	-
+2	Morning	B-PER	-	stephen
+3	*	I-PER	-	stephen
 4	*	O	-	-
 
 # text = Have a Nice Day * **
 1	Have	O	-	-
 2	a	O	-	-
-3	Nice	O	-	-
+3	Nice	B-LOC	-	stephen
 4	Day	O	-	-
 5	*	O	-	-
 6	**	O	-	-
@@ -14191,7 +14191,7 @@
 
 # text = 81 K Download
 1	81	O	-	-
-2	K	B-PER	-	stephen
+2	K	O	-	-
 3	Download	O	-	-
 
 # text = Key Delhi blast suspect arrested
@@ -14205,9 +14205,9 @@
 1	Police	O	-	-
 2	in	O	-	-
 3	the	O	-	-
-4	Indian	O	-	-
+4	Indian	B-ORG	-	stephen
 5	capital	O	-	-
-6	Delhi	O	-	-
+6	Delhi	I-LOC	-	stephen
 7	say	O	-	-
 8	they	O	-	-
 9	have	O	-	-
@@ -14230,7 +14230,7 @@
 26	.	O	-	-
 
 # text = Delhi police chief K K Paul named the man as Tariq Ahmed Dar , and said police were hunting for four accomplices .
-1	Delhi	B-LOC	-	stephen
+1	Delhi	I-LOC	-	stephen
 2	police	O	-	-
 3	chief	O	-	-
 4	K	O	-	-
@@ -14242,7 +14242,7 @@
 10	as	O	-	-
 11	Tariq	O	-	-
 12	Ahmed	B-PER	-	stephen
-13	Dar	O	-	-
+13	Dar	I-PER	-	stephen
 14	,	O	-	-
 15	and	O	-	-
 16	said	O	-	-
@@ -14265,10 +14265,10 @@
 8	was	O	-	-
 9	arrested	O	-	-
 10	in	O	-	-
-11	Indian	O	-	-
+11	Indian	B-ORG	-	stephen
 12	-	O	-	-
-13	administered	O	-	-
-14	Kashmir	O	-	-
+13	administered	I-ORG	-	stephen
+14	Kashmir	I-LOC	-	stephen
 15	and	O	-	-
 16	belonged	O	-	-
 17	to	O	-	-
@@ -14277,9 +14277,9 @@
 20	Lashkar	O	-	-
 21	-	O	-	-
 22	e	O	-	-
-23	-	O	-	-
-24	Toiba	O	-	-
-25	militant	O	-	-
+23	-	I-ORG	-	stephen
+24	Toiba	I-ORG	-	stephen
+25	militant	I-LOC	-	stephen
 26	group	O	-	-
 27	.	O	-	-
 
@@ -14306,14 +14306,14 @@
 2	stuff	O	-	-
 
 # text = lifted from another list
-1	lifted	O	-	-
+1	lifted	B-PER	-	stephen
 2	from	O	-	-
 3	another	O	-	-
 4	list	O	-	-
 
 # text = Amy :-)
 1	Amy	B-PER	-	stephen
-2	:-)	O	-	-
+2	:-)	I-PER	-	stephen
 
 # text = ------
 1	------	O	-	-
@@ -14397,7 +14397,7 @@
 
 # text = Santa Claus has the right idea .
 1	Santa	B-LOC	-	stephen
-2	Claus	O	-	-
+2	Claus	I-LOC	-	stephen
 3	has	O	-	-
 4	the	O	-	-
 5	right	O	-	-
@@ -14416,7 +14416,7 @@
 # text = - Victor Borge
 1	-	O	-	-
 2	Victor	B-PER	-	stephen
-3	Borge	O	-	-
+3	Borge	I-PER	-	stephen
 
 # text = ------
 1	------	O	-	-
@@ -14625,7 +14625,7 @@
 # text = - Joe Namath
 1	-	O	-	-
 2	Joe	B-PER	-	stephen
-3	Namath	O	-	-
+3	Namath	I-PER	-	stephen
 
 # text = ------
 1	------	O	-	-
@@ -14649,7 +14649,7 @@
 
 # text = - Herbert Henry Asquith
 1	-	O	-	-
-2	Herbert	B-LOC	-	stephen
+2	Herbert	O	-	-
 3	Henry	I-PER	-	stephen
 4	Asquith	I-ORG	-	stephen
 
@@ -14698,7 +14698,7 @@
 3	worry	O	-	-
 4	about	O	-	-
 5	avoiding	O	-	-
-6	temptation	O	-	-
+6	temptation	B-LOC	-	stephen
 7	...	O	-	-
 8	as	O	-	-
 9	you	O	-	-
@@ -14749,7 +14749,7 @@
 # text = - Phyllis Diller
 1	-	O	-	-
 2	Phyllis	B-PER	-	stephen
-3	Diller	O	-	-
+3	Diller	I-PER	-	stephen
 
 # text = ------
 1	------	O	-	-
@@ -14780,7 +14780,7 @@
 # text = - Billy Crystal
 1	-	O	-	-
 2	Billy	B-PER	-	stephen
-3	Crystal	O	-	-
+3	Crystal	I-PER	-	stephen
 
 # text = __________________________________________________
 1	__________________________________________________	O	-	-
@@ -14812,7 +14812,7 @@
 
 # text = 52 K Download
 1	52	O	-	-
-2	K	B-PER	-	stephen
+2	K	O	-	-
 3	Download	O	-	-
 
 # text = Hello ,
@@ -14910,7 +14910,7 @@
 24	by	O	-	-
 25	Gravity	O	-	-
 26	CEO	O	-	-
-27	Kim	B-PER	-	stephen
+27	Kim	I-PER	-	stephen
 28	Jung	O	-	-
 29	-	O	-	-
 30	Ryool	O	-	-
@@ -15062,7 +15062,7 @@
 8	Clients	O	-	-
 9	across	O	-	-
 10	the	O	-	-
-11	Nation	B-PER	-	stephen
+11	Nation	B-ORG	-	stephen
 12	.	O	-	-
 
 # text = If you own a Retail Store or are a Professional Vendor who exhibits at Sport , Hunting , or Craft Shows and are interested in selling our products , please give us a call !
@@ -15076,11 +15076,11 @@
 8	are	O	-	-
 9	a	O	-	-
 10	Professional	O	-	-
-11	Vendor	O	-	-
+11	Vendor	I-ORG	-	stephen
 12	who	O	-	-
 13	exhibits	O	-	-
 14	at	O	-	-
-15	Sport	B-LOC	-	stephen
+15	Sport	O	-	-
 16	,	O	-	-
 17	Hunting	O	-	-
 18	,	O	-	-
@@ -15179,13 +15179,13 @@
 2	R	B-LOC	-	stephen
 3	Us.Net	O	-	-
 4	Bill	B-PER	-	stephen
-5	Schmidt	I-ORG	-	stephen
+5	Schmidt	O	-	-
 6	animalsr...@aol.com	O	-	-
 7	732-657-3416	O	-	-
 8	1027	O	-	-
 9	Jolson	O	-	-
-10	Court	O	-	-
-11	Manchester	O	-	-
+10	Court	I-ORG	-	stephen
+11	Manchester	I-ORG	-	stephen
 12	,	O	-	-
 13	N.J.	O	-	-
 14	08759	O	-	-
@@ -15361,11 +15361,11 @@
 1	-----=	O	-	-
 2	Posted	O	-	-
 3	via	O	-	-
-4	Newsfeeds.Com	O	-	-
+4	Newsfeeds.Com	I-ORG	-	stephen
 5	,	O	-	-
 6	Uncensored	O	-	-
 7	Usenet	O	-	-
-8	News	O	-	-
+8	News	I-ORG	-	stephen
 9	=-----	O	-	-
 
 # text = http://www.newsfeeds.com - The # 1 Newsgroup Service in the World !
@@ -15378,7 +15378,7 @@
 7	Service	O	-	-
 8	in	O	-	-
 9	the	O	-	-
-10	World	O	-	-
+10	World	B-LOC	-	stephen
 11	!	O	-	-
 
 # text = -----== Over 100,000 Newsgroups - 19 Different Servers ! =-----
@@ -15529,7 +15529,7 @@
 10	the	O	-	-
 11	site	O	-	-
 12	at	O	-	-
-13	www.southbhamcats.org.uk	O	-	-
+13	www.southbhamcats.org.uk	B-LOC	-	stephen
 
 # text = PS - we also have more cats coming in for re-homing see our ' Homes Wanted ' page
 1	PS	O	-	-
@@ -15593,8 +15593,8 @@
 28	courtesy	O	-	-
 29	of	O	-	-
 30	the	O	-	-
-31	International	O	-	-
-32	Fund	O	-	-
+31	International	B-ORG	-	stephen
+32	Fund	I-ORG	-	stephen
 33	for	O	-	-
 34	Animal	O	-	-
 35	Welfare	O	-	-
@@ -15610,8 +15610,8 @@
 # text = Animal News Center Webmaster
 1	Animal	O	-	-
 2	News	O	-	-
-3	Center	O	-	-
-4	Webmaster	O	-	-
+3	Center	B-ORG	-	stephen
+4	Webmaster	I-ORG	-	stephen
 
 # text = Email : " Ruth " < ruth.penyc...@bbc.co.uk >
 1	Email	O	-	-
@@ -15628,7 +15628,7 @@
 2	there	O	-	-
 
 # text = Action Network is a BBC website for people who are taking action on issues that concern them .
-1	Action	O	-	-
+1	Action	B-ORG	-	stephen
 2	Network	I-ORG	-	stephen
 3	is	O	-	-
 4	a	O	-	-
@@ -15686,7 +15686,7 @@
 15	a	O	-	-
 16	group	O	-	-
 17	called	O	-	-
-18	NHS	B-LOC	-	stephen
+18	NHS	O	-	-
 19	SOS	O	-	-
 20	have	O	-	-
 21	already	O	-	-
@@ -15698,7 +15698,7 @@
 27	ward	O	-	-
 28	closures	O	-	-
 29	in	O	-	-
-30	Cumbria	O	-	-
+30	Cumbria	B-LOC	-	stephen
 31	.	O	-	-
 
 # text = I 'm hoping to build this up to be a hub for all the campaigners - a place where people can exchange ideas and advice .
@@ -15738,7 +15738,7 @@
 6	the	O	-	-
 7	person	O	-	-
 8	from	O	-	-
-9	CHANT	B-LOC	-	stephen
+9	CHANT	O	-	-
 10	who	O	-	-
 11	started	O	-	-
 12	this	O	-	-
@@ -15761,13 +15761,13 @@
 29	page	O	-	-
 30	on	O	-	-
 31	the	O	-	-
-32	Action	O	-	-
+32	Action	B-ORG	-	stephen
 33	Network	I-ORG	-	stephen
-34	site	O	-	-
+34	site	I-ORG	-	stephen
 35	.	O	-	-
 
 # text = Action Network is also a good place to post details of events , or try to rally together a group if you want to take action in your area .
-1	Action	O	-	-
+1	Action	B-ORG	-	stephen
 2	Network	I-ORG	-	stephen
 3	is	O	-	-
 4	also	O	-	-
@@ -15840,7 +15840,7 @@
 14	any	O	-	-
 15	questions	O	-	-
 16	about	O	-	-
-17	Action	O	-	-
+17	Action	B-ORG	-	stephen
 18	Network	I-ORG	-	stephen
 19	-	I-ORG	-	stephen
 20	just	O	-	-
@@ -15905,8 +15905,8 @@
 1	*	O	-	-
 2	Washington	B-LOC	-	stephen
 3	,	O	-	-
-4	D.C.	B-ORG	-	stephen
-5	-	O	-	-
+4	D.C.	B-LOC	-	stephen
+5	-	I-ORG	-	stephen
 6	*	O	-	-
 
 # text = The overwhelming human and financial impacts of Hurricane Katrina are powerful evidence that political and economic decisions made in the United States and other countries have failed to account for our dependence on a healthy resource base , according to an assessment released today by the Worldwatch Institute .
@@ -15957,7 +15957,7 @@
 45	by	O	-	-
 46	the	O	-	-
 47	Worldwatch	O	-	-
-48	Institute	O	-	-
+48	Institute	B-ORG	-	stephen
 49	.	O	-	-
 
 # text = Alteration of the Mississippi River and the destruction of wetlands at its mouth have left the area around New Orleans abnormally vulnerable to the forces of nature .
@@ -16112,7 +16112,7 @@
 5	and	O	-	-
 6	exhibited	O	-	-
 7	in	O	-	-
-8	British	O	-	-
+8	British	B-LOC	-	stephen
 9	Museum	I-LOC	-	stephen
 10	in	O	-	-
 11	2002	O	-	-
@@ -16233,7 +16233,7 @@
 3	to	O	-	-
 4	gaze	O	-	-
 5	at	O	-	-
-6	Wei	O	-	-
+6	Wei	B-LOC	-	stephen
 7	's	O	-	-
 8	art	O	-	-
 9	is	O	-	-
@@ -16250,15 +16250,15 @@
 # text = --- The Art of Calligraphy in Modern China ( British Museum Press , 2002 )
 1	---	O	-	-
 2	The	O	-	-
-3	Art	O	-	-
-4	of	O	-	-
-5	Calligraphy	B-LOC	-	stephen
+3	Art	I-ORG	-	stephen
+4	of	I-ORG	-	stephen
+5	Calligraphy	I-ORG	-	stephen
 6	in	O	-	-
 7	Modern	O	-	-
 8	China	B-LOC	-	stephen
 9	(	O	-	-
 10	British	O	-	-
-11	Museum	I-LOC	-	stephen
+11	Museum	B-LOC	-	stephen
 12	Press	I-ORG	-	stephen
 13	,	O	-	-
 14	2002	O	-	-
@@ -16361,7 +16361,7 @@
 26	.	O	-	-
 
 # text = Google is probably making this move to counter Microsoft Search using Encarta ( it's online dictionary ) .
-1	Google	B-ORG	-	stephen
+1	Google	O	-	-
 2	is	O	-	-
 3	probably	O	-	-
 4	making	O	-	-
@@ -16509,9 +16509,9 @@
 6	Hidden	O	-	-
 7	Nook	O	-	-
 8	at	O	-	-
-9	2/14/2005	O	-	-
+9	2/14/2005	B-LOC	-	stephen
 10	07:03:00	O	-	-
-11	PM	O	-	-
+11	PM	I-ORG	-	stephen
 
 # text = [ http://www.space.com/astronotes/astronotes.html ]
 1	[	O	-	-
@@ -16521,7 +16521,7 @@
 # text = Photo from Space.com
 1	Photo	O	-	-
 2	from	O	-	-
-3	Space.com	B-LOC	-	stephen
+3	Space.com	O	-	-
 
 # text = ( Space.com )
 1	(	O	-	-
@@ -16532,9 +16532,9 @@
 1	It	O	-	-
 2	looks	O	-	-
 3	like	O	-	-
-4	The	O	-	-
+4	The	B-ORG	-	stephen
 5	Lunar	O	-	-
-6	Transportation	I-LOC	-	stephen
+6	Transportation	B-ORG	-	stephen
 7	Systems	O	-	-
 8	,	O	-	-
 9	Inc.	I-ORG	-	stephen
@@ -16612,7 +16612,7 @@
 16	and	O	-	-
 17	operate	O	-	-
 18	this	O	-	-
-19	Earth	O	-	-
+19	Earth	B-LOC	-	stephen
 20	-	O	-	-
 21	Moon	O	-	-
 22	highway	O	-	-
@@ -16687,7 +16687,7 @@
 18	Kistler	O	-	-
 19	and	O	-	-
 20	Bob	B-PER	-	stephen
-21	Citron	I-ORG	-	stephen
+21	Citron	I-PER	-	stephen
 22	.	O	-	-
 
 # text = Both of these men are heavily involved in the private sector of the space industry , and both are also involved with another space company called SPACEHAB .
@@ -16717,7 +16717,7 @@
 24	space	O	-	-
 25	company	O	-	-
 26	called	O	-	-
-27	SPACEHAB	B-LOC	-	stephen
+27	SPACEHAB	O	-	-
 28	.	O	-	-
 
 # text = They want to use LTS to tie into NASA 's vision for Space Exploration , and seem pleased that the White House is moving in that direction .
@@ -16733,7 +16733,7 @@
 10	's	O	-	-
 11	vision	O	-	-
 12	for	O	-	-
-13	Space	O	-	-
+13	Space	B-LOC	-	stephen
 14	Exploration	O	-	-
 15	,	O	-	-
 16	and	O	-	-
@@ -16742,7 +16742,7 @@
 19	that	O	-	-
 20	the	O	-	-
 21	White	B-ORG	-	stephen
-22	House	I-LOC	-	stephen
+22	House	I-ORG	-	stephen
 23	is	O	-	-
 24	moving	O	-	-
 25	in	O	-	-
@@ -16759,7 +16759,7 @@
 6	that	O	-	-
 7	the	O	-	-
 8	White	B-ORG	-	stephen
-9	House	I-LOC	-	stephen
+9	House	I-ORG	-	stephen
 10	and	O	-	-
 11	the	O	-	-
 12	recent	O	-	-
@@ -16786,7 +16786,7 @@
 33	new	O	-	-
 34	Vision	O	-	-
 35	for	O	-	-
-36	Space	O	-	-
+36	Space	B-LOC	-	stephen
 37	Exploration	O	-	-
 38	,	O	-	-
 39	"	O	-	-
@@ -16807,7 +16807,7 @@
 4	of	O	-	-
 5	a	O	-	-
 6	"	O	-	-
-7	Earth	O	-	-
+7	Earth	B-LOC	-	stephen
 8	-	O	-	-
 9	Moon	O	-	-
 10	"	O	-	-
@@ -16844,9 +16844,9 @@
 6	Hidden	O	-	-
 7	Nook	O	-	-
 8	at	O	-	-
-9	2/15/2005	O	-	-
+9	2/15/2005	B-LOC	-	stephen
 10	05:12:00	O	-	-
-11	PM	O	-	-
+11	PM	I-ORG	-	stephen
 
 # text = [ http://www.space.com/missionlaunches/ft_050829_ksc_spacefuture.html ]
 1	[	O	-	-
@@ -16859,7 +16859,7 @@
 3	)	O	-	-
 
 # text = U.S. astronauts will launch to the moon on sleek , single , shuttle booster rockets and the first new upper - stage rocket this country has developed in more than a decade , NASA and the Pentagon have told the White House .
-1	U.S.	B-ORG	-	stephen
+1	U.S.	B-LOC	-	stephen
 2	astronauts	I-ORG	-	stephen
 3	will	O	-	-
 4	launch	O	-	-
@@ -16867,7 +16867,7 @@
 6	the	O	-	-
 7	moon	O	-	-
 8	on	O	-	-
-9	sleek	B-LOC	-	stephen
+9	sleek	O	-	-
 10	,	O	-	-
 11	single	O	-	-
 12	,	O	-	-
@@ -16900,7 +16900,7 @@
 39	told	O	-	-
 40	the	O	-	-
 41	White	B-ORG	-	stephen
-42	House	I-LOC	-	stephen
+42	House	I-ORG	-	stephen
 43	.	O	-	-
 
 # text = Lunar landers and other gear needed for extended visits to the moon will be lofted by gargantuan launchers as big as the Apollo - era Saturn 5 , the most powerful rockets ever flown .
@@ -17208,9 +17208,9 @@
 6	Hidden	O	-	-
 7	Nook	O	-	-
 8	at	O	-	-
-9	8/30/2005	O	-	-
+9	8/30/2005	B-LOC	-	stephen
 10	09:36:00	O	-	-
-11	PM	O	-	-
+11	PM	I-ORG	-	stephen
 
 # text = [ http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=624569&section=news ]
 1	[	O	-	-
@@ -17247,7 +17247,7 @@
 27	key	O	-	-
 28	allies	O	-	-
 29	in	O	-	-
-30	Santiago	O	-	-
+30	Santiago	B-LOC	-	stephen
 31	.	O	-	-
 
 # text = The talk of the day besides a more level playing field with China was North Korea .
@@ -17304,15 +17304,15 @@
 1	REUTERS	O	-	-
 2	/	O	-	-
 3	Jason	B-PER	-	stephen
-4	Reed	O	-	-
+4	Reed	I-PER	-	stephen
 
 # text = U.S. President George W. Bush shakes hands with Chinese President Hu Jintao in a bilateral meeting in Santiago .
-1	U.S.	B-ORG	-	stephen
+1	U.S.	B-LOC	-	stephen
 2	President	O	-	-
 3	George	B-PER	-	stephen
 4	W.	I-PER	-	stephen
 5	Bush	I-PER	-	stephen
-6	shakes	O	-	-
+6	shakes	I-PER	-	stephen
 7	hands	O	-	-
 8	with	O	-	-
 9	Chinese	O	-	-
@@ -17324,22 +17324,22 @@
 15	bilateral	O	-	-
 16	meeting	O	-	-
 17	in	O	-	-
-18	Santiago	O	-	-
+18	Santiago	B-LOC	-	stephen
 19	.	O	-	-
 
 # text = Bush is in Santiago for the annual Asia - Pacific Economic Cooperation ( APEC ) leaders meeting .
 1	Bush	B-PER	-	stephen
 2	is	O	-	-
 3	in	O	-	-
-4	Santiago	O	-	-
+4	Santiago	B-LOC	-	stephen
 5	for	O	-	-
 6	the	O	-	-
 7	annual	O	-	-
-8	Asia	I-LOC	-	stephen
+8	Asia	B-ORG	-	stephen
 9	-	I-ORG	-	stephen
-10	Pacific	B-LOC	-	stephen
-11	Economic	I-ORG	-	stephen
-12	Cooperation	I-ORG	-	stephen
+10	Pacific	I-LOC	-	stephen
+11	Economic	I-LOC	-	stephen
+12	Cooperation	I-LOC	-	stephen
 13	(	O	-	-
 14	APEC	O	-	-
 15	)	O	-	-
@@ -17392,9 +17392,9 @@
 6	Hidden	O	-	-
 7	Nook	O	-	-
 8	at	O	-	-
-9	11/20/2004	O	-	-
+9	11/20/2004	B-LOC	-	stephen
 10	03:10:35	O	-	-
-11	PM	O	-	-
+11	PM	I-ORG	-	stephen
 
 # text = Winston Peters is visiting a school .
 1	Winston	O	-	-
@@ -17703,7 +17703,7 @@
 4	story	O	-	-
 5	on	O	-	-
 6	BBC	B-ORG	-	stephen
-7	News	O	-	-
+7	News	I-ORG	-	stephen
 8	Online	O	-	-
 9	and	O	-	-
 10	thought	O	-	-
@@ -17756,7 +17756,7 @@
 2	BBC	B-ORG	-	stephen
 3	Daily	I-ORG	-	stephen
 4	E-mail	O	-	-
-5	**	I-ORG	-	stephen
+5	**	O	-	-
 
 # text = Choose the news and sport headlines you want - when you want them , all in one daily e-mail
 1	Choose	O	-	-
@@ -17859,7 +17859,7 @@
 18	about	O	-	-
 19	the	O	-	-
 20	BBC	B-ORG	-	stephen
-21	's	O	-	-
+21	's	I-ORG	-	stephen
 22	Email	O	-	-
 23	a	O	-	-
 24	Friend	O	-	-
@@ -18007,7 +18007,7 @@
 6	iphone	O	-	-
 7	upgraded	O	-	-
 8	at	O	-	-
-9	Zion	O	-	-
+9	Zion	B-LOC	-	stephen
 10	...	O	-	-
 
 # text = Sheer contrast to getting it done at karol bagh which is done under the wooden plank
@@ -18691,10 +18691,10 @@
 8	places	O	-	-
 9	opening	O	-	-
 10	in	O	-	-
-11	Summit	O	-	-
+11	Summit	B-LOC	-	stephen
 12	and	O	-	-
 13	New	B-LOC	-	stephen
-14	Providence	O	-	-
+14	Providence	I-ORG	-	stephen
 15	.	O	-	-
 
 # text = Stick to Hop Hing , 20 year + resident .
@@ -19034,7 +19034,7 @@
 4	.	O	-	-
 
 # text = Rest was too oily .
-1	Rest	O	-	-
+1	Rest	B-PER	-	stephen
 2	was	O	-	-
 3	too	O	-	-
 4	oily	O	-	-
@@ -19075,7 +19075,7 @@
 1	the	O	-	-
 2	team	O	-	-
 3	at	O	-	-
-4	barton	O	-	-
+4	barton	B-LOC	-	stephen
 5	car	O	-	-
 6	wash	O	-	-
 7	was	O	-	-
@@ -19142,7 +19142,7 @@
 7	thai	O	-	-
 8	restaurant	O	-	-
 9	in	O	-	-
-10	Geelong	O	-	-
+10	Geelong	B-LOC	-	stephen
 11	...	O	-	-
 12	just	O	-	-
 13	love	O	-	-
@@ -19263,8 +19263,8 @@
 11	our	O	-	-
 12	shop	O	-	-
 13	in	O	-	-
-14	Morningside	O	-	-
-15	Road	O	-	-
+14	Morningside	B-LOC	-	stephen
+15	Road	I-LOC	-	stephen
 16	today	O	-	-
 17	.	O	-	-
 
@@ -19355,7 +19355,7 @@
 # text = Walgreens on University
 1	Walgreens	O	-	-
 2	on	O	-	-
-3	University	B-LOC	-	stephen
+3	University	B-ORG	-	stephen
 
 # text = My pharmacy order is always correct and promptly delivered but the pharmacy staff are always very short with me and do n't seem to like answering questions .
 1	My	O	-	-
@@ -19635,7 +19635,7 @@
 # text = excellence in glasgow
 1	excellence	O	-	-
 2	in	O	-	-
-3	glasgow	O	-	-
+3	glasgow	B-LOC	-	stephen
 
 # text = I v just had my bmw z3 rear window replaced by the guys at kelvin trimmers .
 1	I	O	-	-
@@ -19652,7 +19652,7 @@
 12	the	O	-	-
 13	guys	O	-	-
 14	at	O	-	-
-15	kelvin	O	-	-
+15	kelvin	B-LOC	-	stephen
 16	trimmers	O	-	-
 17	.	O	-	-
 
@@ -19699,7 +19699,7 @@
 
 # text = Strip mall asian it is not !
 1	Strip	B-LOC	-	stephen
-2	mall	O	-	-
+2	mall	I-LOC	-	stephen
 3	asian	O	-	-
 4	it	O	-	-
 5	is	O	-	-
@@ -19717,7 +19717,7 @@
 8	you	O	-	-
 9	are	O	-	-
 10	in	O	-	-
-11	Chesapeake	O	-	-
+11	Chesapeake	B-LOC	-	stephen
 12	.	O	-	-
 
 # text = The setting feels like a Sushi bar in NYC ; small , cozy , but with flair .
@@ -19936,7 +19936,7 @@
 2	like	O	-	-
 3	I	O	-	-
 4	Move	O	-	-
-5	CA	O	-	-
+5	CA	B-LOC	-	stephen
 6	-	O	-	-
 7	Los	B-LOC	-	stephen
 8	Angeles	I-LOC	-	stephen
@@ -20038,7 +20038,7 @@
 10	the	O	-	-
 11	Battery	O	-	-
 12	Park	I-LOC	-	stephen
-13	Pest	O	-	-
+13	Pest	I-ORG	-	stephen
 14	I	O	-	-
 15	'm	O	-	-
 16	enjoying	O	-	-
@@ -20089,7 +20089,7 @@
 # text = We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly , you will be our first call if anything happens again and we will refer you to other people with computer issues .
 1	We	O	-	-
 2	at	O	-	-
-3	R&L	O	-	-
+3	R&L	B-LOC	-	stephen
 4	Plumbing	O	-	-
 5	Services	O	-	-
 6	are	O	-	-
@@ -20227,13 +20227,13 @@
 2	Shree	O	-	-
 3	Ghatkopar	O	-	-
 4	Bhatia	O	-	-
-5	Mitra	O	-	-
-6	Mandal	O	-	-
+5	Mitra	I-ORG	-	stephen
+6	Mandal	I-ORG	-	stephen
 
 # text = spoken english rushi
 1	spoken	O	-	-
 2	english	O	-	-
-3	rushi	B-LOC	-	stephen
+3	rushi	O	-	-
 
 # text = can ever & never forget the training undergone here which made my life step onto the successful job without any hurdles .
 1	can	O	-	-
@@ -20311,7 +20311,7 @@
 2	Service	O	-	-
 3	,	O	-	-
 4	Thanks	O	-	-
-5	Don	B-LOC	-	stephen
+5	Don	B-PER	-	stephen
 6	.	O	-	-
 
 # text = Nice Top Lights .
@@ -20807,10 +20807,10 @@
 3	Recommend	O	-	-
 4	,	O	-	-
 5	The	O	-	-
-6	Law	O	-	-
+6	Law	I-ORG	-	stephen
 7	Offices	I-LOC	-	stephen
 8	Of	O	-	-
-9	Dale	B-PER	-	stephen
+9	Dale	O	-	-
 10	Gribow	O	-	-
 11	!!	O	-	-
 
@@ -21288,7 +21288,7 @@
 
 # text = Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area .
 1	Seth	B-PER	-	stephen
-2	provides	I-PER	-	stephen
+2	provides	O	-	-
 3	deep	O	-	-
 4	tissue	O	-	-
 5	massage	O	-	-
@@ -21321,7 +21321,7 @@
 4	is	O	-	-
 5	excellent	O	-	-
 6	in	O	-	-
-7	diagnosing	O	-	-
+7	diagnosing	B-LOC	-	stephen
 8	,	O	-	-
 9	addressing	O	-	-
 10	and	O	-	-
@@ -21603,7 +21603,7 @@
 6	great	O	-	-
 7	stay	O	-	-
 8	from	O	-	-
-9	begiinning	B-LOC	-	stephen
+9	begiinning	O	-	-
 10	to	O	-	-
 11	end	O	-	-
 12	.	O	-	-
@@ -21850,7 +21850,7 @@
 20	we	O	-	-
 21	get	O	-	-
 22	at	O	-	-
-23	Family	B-LOC	-	stephen
+23	Family	O	-	-
 24	Bagels	O	-	-
 
 # text = You are the only one auto glass repair shop in the area I would count on .
@@ -22196,7 +22196,7 @@
 # text = Love Hop City
 1	Love	O	-	-
 2	Hop	O	-	-
-3	City	O	-	-
+3	City	B-ORG	-	stephen
 
 # text = This place is great !
 1	This	O	-	-
@@ -22495,7 +22495,7 @@
 13	stick	O	-	-
 14	with	O	-	-
 15	Qualitech	O	-	-
-16	Computers	O	-	-
+16	Computers	I-ORG	-	stephen
 17	!!!	O	-	-
 
 # text = teeth
@@ -22508,7 +22508,7 @@
 4	to	O	-	-
 5	pull	O	-	-
 6	the	O	-	-
-7	tooth	B-LOC	-	stephen
+7	tooth	O	-	-
 8	out	O	-	-
 9	always	O	-	-
 10	..	O	-	-
@@ -22844,11 +22844,11 @@
 12	go	O	-	-
 13	-	O	-	-
 14	to	O	-	-
-15	burger	B-LOC	-	stephen
+15	burger	O	-	-
 16	place	O	-	-
 17	on	O	-	-
 18	the	O	-	-
-19	East	B-ORG	-	stephen
+19	East	B-LOC	-	stephen
 20	Bay	I-LOC	-	stephen
 21	.	O	-	-
 
@@ -22949,7 +22949,7 @@
 5	he	O	-	-
 6	DFW	O	-	-
 7	fort	O	-	-
-8	Worth	O	-	-
+8	Worth	I-LOC	-	stephen
 9	Metro	O	-	-
 10	area	O	-	-
 11	.	O	-	-
@@ -23091,7 +23091,7 @@
 
 # text = Dr. White is the best !
 1	Dr.	O	-	-
-2	White	B-PER	-	stephen
+2	White	B-LOC	-	stephen
 3	is	O	-	-
 4	the	O	-	-
 5	best	O	-	-
@@ -23243,7 +23243,7 @@
 4	car	O	-	-
 5	up	O	-	-
 6	in	O	-	-
-7	Yarmouth	O	-	-
+7	Yarmouth	B-LOC	-	stephen
 8	and	O	-	-
 9	towed	O	-	-
 10	to	O	-	-
@@ -23632,7 +23632,7 @@
 7	my	O	-	-
 8	tree	O	-	-
 9	in	O	-	-
-10	Conyers	O	-	-
+10	Conyers	B-LOC	-	stephen
 11	.	O	-	-
 
 # text = Thanks Southland .
@@ -23781,7 +23781,7 @@
 2	people	O	-	-
 3	at	O	-	-
 4	Gulf	B-LOC	-	stephen
-5	Coast	O	-	-
+5	Coast	I-LOC	-	stephen
 6	Siding	O	-	-
 7	were	O	-	-
 8	very	O	-	-
@@ -23907,7 +23907,7 @@
 9	to	O	-	-
 10	eat	O	-	-
 11	at	O	-	-
-12	Sprecher	O	-	-
+12	Sprecher	B-LOC	-	stephen
 13	's	O	-	-
 14	.	O	-	-
 
@@ -23924,7 +23924,7 @@
 
 # text = Pam the Pom
 1	Pam	B-PER	-	stephen
-2	the	O	-	-
+2	the	I-PER	-	stephen
 3	Pom	O	-	-
 
 # text = Fantastic couple of days .
@@ -24051,7 +24051,7 @@
 8	must	O	-	-
 9	go	O	-	-
 10	to	O	-	-
-11	World	B-LOC	-	stephen
+11	World	O	-	-
 12	's	O	-	-
 13	Finest	O	-	-
 14	Donair	O	-	-
@@ -24336,7 +24336,7 @@
 6	ruling	O	-	-
 7	today	O	-	-
 8	in	O	-	-
-9	Hamdan	O	-	-
+9	Hamdan	B-LOC	-	stephen
 10	v.	O	-	-
 11	Rumsfeld	B-PER	-	stephen
 12	divided	O	-	-
@@ -24353,12 +24353,12 @@
 23	involvement	O	-	-
 24	at	O	-	-
 25	the	O	-	-
-26	D.C.	B-ORG	-	stephen
-27	Circuit	O	-	-
+26	D.C.	B-LOC	-	stephen
+27	Circuit	I-LOC	-	stephen
 28	level	O	-	-
 29	and	O	-	-
 30	Anthony	O	-	-
-31	Kennedy	I-LOC	-	stephen
+31	Kennedy	I-PER	-	stephen
 32	joining	O	-	-
 33	the	O	-	-
 34	liberals	O	-	-
@@ -24393,7 +24393,7 @@
 5	:	O	-	-
 6	John	B-PER	-	stephen
 7	Paul	I-PER	-	stephen
-8	STEVENS	O	-	-
+8	STEVENS	I-PER	-	stephen
 9	delivered	O	-	-
 10	the	O	-	-
 11	opinion	O	-	-
@@ -24413,7 +24413,7 @@
 25	VI	O	-	-
 26	-	O	-	-
 27	D	O	-	-
-28	-	O	-	-
+28	-	I-PER	-	stephen
 29	iii	O	-	-
 30	,	O	-	-
 31	VI	O	-	-
@@ -24449,7 +24449,7 @@
 61	VI	O	-	-
 62	-	O	-	-
 63	D	O	-	-
-64	-	O	-	-
+64	-	I-PER	-	stephen
 65	iv	O	-	-
 66	,	O	-	-
 67	in	O	-	-
@@ -24518,7 +24518,7 @@
 8	which	O	-	-
 9	THOMAS	O	-	-
 10	and	O	-	-
-11	ALITO	B-LOC	-	stephen
+11	ALITO	O	-	-
 12	joined	O	-	-
 13	.	O	-	-
 
@@ -24537,7 +24537,7 @@
 12	and	O	-	-
 13	in	O	-	-
 14	which	O	-	-
-15	ALITO	B-LOC	-	stephen
+15	ALITO	O	-	-
 16	joined	O	-	-
 17	as	O	-	-
 18	to	O	-	-
@@ -24578,7 +24578,7 @@
 15	Parts	O	-	-
 16	I	O	-	-
 17	through	O	-	-
-18	III	B-LOC	-	stephen
+18	III	O	-	-
 19	.	O	-	-
 
 # text = It will take me a little while to read the whole thing , but I rarely agree with a John Paul Stevens opinion .
@@ -24646,7 +24646,7 @@
 5	-	O	-	-
 
 # text = U.S. Muslim groups criticized President Bush on Thursday for calling a foiled plot to blow up airplanes part of a " war with Islamic fascists , " saying the term could inflame anti-Muslim tensions .
-1	U.S.	B-ORG	-	stephen
+1	U.S.	B-LOC	-	stephen
 2	Muslim	I-ORG	-	stephen
 3	groups	O	-	-
 4	criticized	O	-	-
@@ -24669,7 +24669,7 @@
 21	"	O	-	-
 22	war	O	-	-
 23	with	O	-	-
-24	Islamic	I-ORG	-	stephen
+24	Islamic	B-ORG	-	stephen
 25	fascists	I-ORG	-	stephen
 26	,	O	-	-
 27	"	O	-	-
@@ -24683,7 +24683,7 @@
 35	.	O	-	-
 
 # text = U.S. officials have said the plot , thwarted by Britain , to blow up several aircraft over the Atlantic bore many of the hallmarks of al Qaeda .
-1	U.S.	B-ORG	-	stephen
+1	U.S.	B-LOC	-	stephen
 2	officials	O	-	-
 3	have	O	-	-
 4	said	O	-	-
@@ -24701,7 +24701,7 @@
 16	aircraft	O	-	-
 17	over	O	-	-
 18	the	O	-	-
-19	Atlantic	O	-	-
+19	Atlantic	B-LOC	-	stephen
 20	bore	O	-	-
 21	many	O	-	-
 22	of	O	-	-
@@ -24747,8 +24747,8 @@
 32	director	O	-	-
 33	of	O	-	-
 34	the	O	-	-
-35	Council	I-ORG	-	stephen
-36	on	I-ORG	-	stephen
+35	Council	B-ORG	-	stephen
+36	on	O	-	-
 37	American	I-ORG	-	stephen
 38	-	I-ORG	-	stephen
 39	Islamic	I-ORG	-	stephen
@@ -24790,7 +24790,7 @@
 3	the	O	-	-
 4	word	O	-	-
 5	"	O	-	-
-6	Islamic	O	-	-
+6	Islamic	B-ORG	-	stephen
 7	"	O	-	-
 8	as	O	-	-
 9	an	O	-	-
@@ -24829,7 +24829,7 @@
 17	a	O	-	-
 18	Tom	B-PER	-	stephen
 19	,	O	-	-
-20	Dick	I-PER	-	stephen
+20	Dick	B-PER	-	stephen
 21	or	O	-	-
 22	Harry	B-PER	-	stephen
 23	among	O	-	-
@@ -24857,7 +24857,7 @@
 
 # text = Waheed Zaman , 22 , London E17
 1	Waheed	O	-	-
-2	Zaman	B-LOC	-	stephen
+2	Zaman	O	-	-
 3	,	O	-	-
 4	22	O	-	-
 5	,	O	-	-
@@ -24880,7 +24880,7 @@
 3	,	O	-	-
 4	28	O	-	-
 5	,	O	-	-
-6	High	O	-	-
+6	High	B-LOC	-	stephen
 7	Wycombe	O	-	-
 
 # text = Waheed Arafat Khan , 24 , London E17
@@ -24895,7 +24895,7 @@
 
 # text = Cossor Ali , 24 , London E17
 1	Cossor	O	-	-
-2	Ali	O	-	-
+2	Ali	B-PER	-	stephen
 3	,	O	-	-
 4	24	O	-	-
 5	,	O	-	-
@@ -24912,7 +24912,7 @@
 
 # text = Ibrahim Savant , 26 , London E17
 1	Ibrahim	B-PER	-	stephen
-2	Savant	I-PER	-	stephen
+2	Savant	O	-	-
 3	,	O	-	-
 4	26	O	-	-
 5	,	O	-	-
@@ -24922,7 +24922,7 @@
 # text = Osman Adam Khatib , 20 , London E17
 1	Osman	O	-	-
 2	Adam	B-PER	-	stephen
-3	Khatib	O	-	-
+3	Khatib	I-PER	-	stephen
 4	,	O	-	-
 5	20	O	-	-
 6	,	O	-	-
@@ -24932,7 +24932,7 @@
 # text = Shamin Mohammed Uddin , 36 , Stoke Newington
 1	Shamin	O	-	-
 2	Mohammed	B-PER	-	stephen
-3	Uddin	O	-	-
+3	Uddin	I-PER	-	stephen
 4	,	O	-	-
 5	36	O	-	-
 6	,	O	-	-
@@ -24952,7 +24952,7 @@
 # text = Shazad Khuram Ali , 27 , High Wycombe
 1	Shazad	O	-	-
 2	Khuram	O	-	-
-3	Ali	O	-	-
+3	Ali	B-PER	-	stephen
 4	,	O	-	-
 5	27	O	-	-
 6	,	O	-	-
@@ -24992,7 +24992,7 @@
 7	Wycombe	O	-	-
 
 # text = Abdullah Ali , 26 , London E17
-1	Abdullah	I-PER	-	stephen
+1	Abdullah	B-PER	-	stephen
 2	Ali	I-PER	-	stephen
 3	,	O	-	-
 4	26	O	-	-
@@ -25017,8 +25017,8 @@
 4	21	O	-	-
 5	,	O	-	-
 6	Waltham	O	-	-
-7	Forest	O	-	-
-8	Lest	O	-	-
+7	Forest	B-PER	-	stephen
+8	Lest	I-ORG	-	stephen
 9	you	O	-	-
 10	be	O	-	-
 11	confused	O	-	-
@@ -25128,8 +25128,8 @@
 1	Steven	B-PER	-	stephen
 2	Vikash	O	-	-
 3	Chand	O	-	-
-4	alias	O	-	-
-5	Abdul	B-PER	-	stephen
+4	alias	B-LOC	-	stephen
+5	Abdul	I-PER	-	stephen
 6	Shakur	I-PER	-	stephen
 7	,	O	-	-
 8	25	O	-	-
@@ -25188,7 +25188,7 @@
 25	Vikash	O	-	-
 26	Chand	O	-	-
 27	Abdul	B-PER	-	stephen
-28	Shakur	O	-	-
+28	Shakur	I-PER	-	stephen
 29	.	O	-	-
 
 # text = Folks , if it 's Islamic , and fascist , it 's an Islamic fascist .
@@ -25197,7 +25197,7 @@
 3	if	O	-	-
 4	it	O	-	-
 5	's	O	-	-
-6	Islamic	O	-	-
+6	Islamic	B-ORG	-	stephen
 7	,	O	-	-
 8	and	O	-	-
 9	fascist	O	-	-
@@ -25274,7 +25274,7 @@
 1	John	B-PER	-	stephen
 2	Donovan	O	-	-
 3	from	O	-	-
-4	Argghhh!	B-LOC	-	stephen
+4	Argghhh!	O	-	-
 5	has	O	-	-
 6	put	O	-	-
 7	out	O	-	-
@@ -25400,7 +25400,7 @@
 2	over	O	-	-
 3	at	O	-	-
 4	The	B-ORG	-	stephen
-5	Fourth	O	-	-
+5	Fourth	I-ORG	-	stephen
 6	Rail	I-LOC	-	stephen
 7	has	O	-	-
 8	an	O	-	-
@@ -25508,7 +25508,7 @@
 11	in	O	-	-
 12	UNSC	B-LOC	-	stephen
 13	Resolution	O	-	-
-14	1559	O	-	-
+14	1559	I-ORG	-	stephen
 15	,	O	-	-
 16	which	O	-	-
 17	has	O	-	-
@@ -25521,7 +25521,7 @@
 2	Secretary	O	-	-
 3	-	O	-	-
 4	General	O	-	-
-5	Kofi	B-LOC	-	stephen
+5	Kofi	I-ORG	-	stephen
 6	Annan	O	-	-
 7	has	O	-	-
 8	indicated	O	-	-
@@ -25531,7 +25531,7 @@
 12	to	O	-	-
 13	"	O	-	-
 14	recognize	O	-	-
-15	Hezbollah	O	-	-
+15	Hezbollah	B-ORG	-	stephen
 16	"	O	-	-
 17	after	O	-	-
 18	easily	O	-	-
@@ -25641,11 +25641,11 @@
 16	article	O	-	-
 17	by	O	-	-
 18	Daniel	B-PER	-	stephen
-19	Okrent	O	-	-
+19	Okrent	I-ORG	-	stephen
 20	of	O	-	-
 21	The	O	-	-
-22	New	O	-	-
-23	York	I-ORG	-	stephen
+22	New	I-ORG	-	stephen
+23	York	I-LOC	-	stephen
 24	Times	I-ORG	-	stephen
 25	demonstrates	I-ORG	-	stephen
 26	.	O	-	-
@@ -25831,7 +25831,7 @@
 2	can	O	-	-
 3	suspect	O	-	-
 4	the	O	-	-
-5	Iranian	O	-	-
+5	Iranian	B-ORG	-	stephen
 6	Government	O	-	-
 7	.	O	-	-
 
@@ -25853,7 +25853,7 @@
 7	magazine	O	-	-
 8	accusing	O	-	-
 9	the	O	-	-
-10	Iranian	O	-	-
+10	Iranian	B-ORG	-	stephen
 11	Government	O	-	-
 12	of	O	-	-
 13	being	O	-	-
@@ -26084,7 +26084,7 @@
 4	fond	O	-	-
 5	of	O	-	-
 6	the	O	-	-
-7	Google	B-ORG	-	stephen
+7	Google	O	-	-
 8	-	O	-	-
 9	hates	O	-	-
 10	-	O	-	-
@@ -26258,7 +26258,7 @@
 31	.	O	-	-
 
 # text = Google is a nice search engine .
-1	Google	B-ORG	-	stephen
+1	Google	O	-	-
 2	is	O	-	-
 3	a	O	-	-
 4	nice	O	-	-
@@ -26429,7 +26429,7 @@
 8	that	O	-	-
 9	Bill	B-PER	-	stephen
 10	or	O	-	-
-11	Melinda	B-LOC	-	stephen
+11	Melinda	O	-	-
 12	are	O	-	-
 13	going	O	-	-
 14	to	O	-	-
@@ -26587,7 +26587,7 @@
 4	people	O	-	-
 5	dying	O	-	-
 6	from	O	-	-
-7	malaria	B-LOC	-	stephen
+7	malaria	O	-	-
 8	will	O	-	-
 9	otherwise	O	-	-
 10	be	O	-	-
@@ -26680,7 +26680,7 @@
 28	idea	O	-	-
 29	,	O	-	-
 30	but	O	-	-
-31	Buffet	B-PER	-	stephen
+31	Buffet	O	-	-
 32	is	O	-	-
 33	still	O	-	-
 34	keeping	O	-	-
@@ -26885,10 +26885,10 @@
 5	UN	B-ORG	-	stephen
 6	Secretary	O	-	-
 7	General	O	-	-
-8	Kofi	B-LOC	-	stephen
+8	Kofi	I-ORG	-	stephen
 9	Annan	O	-	-
-10	demanded	O	-	-
-11	steps	O	-	-
+10	demanded	I-ORG	-	stephen
+11	steps	I-ORG	-	stephen
 12	be	O	-	-
 13	taken	O	-	-
 14	to	O	-	-
@@ -26959,7 +26959,7 @@
 10	relief	O	-	-
 11	aid	O	-	-
 12	that	O	-	-
-13	Darfur	B-PER	-	stephen
+13	Darfur	B-LOC	-	stephen
 14	needs	O	-	-
 15	,	O	-	-
 16	according	O	-	-
@@ -27047,7 +27047,7 @@
 4	Watch	O	-	-
 5	from	O	-	-
 6	Mary	B-PER	-	stephen
-7	Jo	O	-	-
+7	Jo	I-PER	-	stephen
 8	Foley	O	-	-
 9	]	O	-	-
 
@@ -27106,8 +27106,8 @@
 17	of	O	-	-
 18	Fallujah	B-LOC	-	stephen
 19	'	O	-	-
-20	condemning	O	-	-
-21	the	O	-	-
+20	condemning	I-ORG	-	stephen
+21	the	I-ORG	-	stephen
 22	deaths	O	-	-
 23	of	O	-	-
 24	the	O	-	-
@@ -27241,7 +27241,7 @@
 32	.	O	-	-
 
 # text = Cities such as Falluja received special treatment from Saddam and enjoyed a disproportionate share of the country 's wealth and power .
-1	Cities	B-ORG	-	stephen
+1	Cities	B-PER	-	stephen
 2	such	O	-	-
 3	as	O	-	-
 4	Falluja	O	-	-
@@ -27466,7 +27466,7 @@
 2	was	O	-	-
 3	looking	O	-	-
 4	at	O	-	-
-5	maps	O	-	-
+5	maps	B-LOC	-	stephen
 6	of	O	-	-
 7	Iraq	B-LOC	-	stephen
 8	oil	O	-	-
@@ -27537,9 +27537,9 @@
 45	behind	O	-	-
 46	the	O	-	-
 47	1993	O	-	-
-48	World	B-LOC	-	stephen
+48	World	O	-	-
 49	Trade	I-LOC	-	stephen
-50	Towers	O	-	-
+50	Towers	I-LOC	-	stephen
 51	bombing	O	-	-
 52	.	O	-	-
 
@@ -27576,7 +27576,7 @@
 30	,	O	-	-
 31	an	O	-	-
 32	Egyptian	O	-	-
-33	terrorist	O	-	-
+33	terrorist	I-ORG	-	stephen
 34	component	O	-	-
 35	allied	O	-	-
 36	with	O	-	-
@@ -27667,7 +27667,7 @@
 
 # text = Rumsfeld initially rejected an attack on al - Qaeda bases in Afghanistan , saying there were " no good targets " in Afghanistan .
 1	Rumsfeld	B-PER	-	stephen
-2	initially	O	-	-
+2	initially	I-PER	-	stephen
 3	rejected	O	-	-
 4	an	O	-	-
 5	attack	O	-	-
@@ -27745,7 +27745,7 @@
 25	according	O	-	-
 26	to	O	-	-
 27	Bob	B-PER	-	stephen
-28	Woodward	I-ORG	-	stephen
+28	Woodward	I-PER	-	stephen
 29	.	O	-	-
 
 # text = Bush did not have his eye on the ball .
@@ -27834,7 +27834,7 @@
 # text = Bush demoted Dick Clarke , among the most vocal and focused of the al - Qaeda experts , from his cabinet .
 1	Bush	B-PER	-	stephen
 2	demoted	O	-	-
-3	Dick	I-PER	-	stephen
+3	Dick	B-PER	-	stephen
 4	Clarke	O	-	-
 5	,	O	-	-
 6	among	O	-	-
@@ -28025,8 +28025,8 @@
 11	a	O	-	-
 12	coup	O	-	-
 13	against	O	-	-
-14	Nawaz	B-PER	-	stephen
-15	Sharif	I-PER	-	stephen
+14	Nawaz	B-LOC	-	stephen
+15	Sharif	I-ORG	-	stephen
 16	.	O	-	-
 
 # text = The Pakistani army was rife with elements protective of the Taliban , and the new military government reneged on the deal .
@@ -28057,7 +28057,7 @@
 1	Musharraf	B-PER	-	stephen
 2	told	O	-	-
 3	Clinton	B-PER	-	stephen
-4	he	O	-	-
+4	he	I-PER	-	stephen
 5	could	O	-	-
 6	n't	O	-	-
 7	use	O	-	-
@@ -28135,7 +28135,7 @@
 11	please	O	-	-
 12	look	O	-	-
 13	up	O	-	-
-14	Carter	O	-	-
+14	Carter	B-ORG	-	stephen
 15	's	O	-	-
 16	Tabas	O	-	-
 17	operation	O	-	-
@@ -28184,7 +28184,7 @@
 11	al	B-ORG	-	stephen
 12	-	I-ORG	-	stephen
 13	Tawhid	I-ORG	-	stephen
-14	wa	O	-	-
+14	wa	I-ORG	-	stephen
 15	al	B-ORG	-	stephen
 16	-	I-ORG	-	stephen
 17	Jihad	I-ORG	-	stephen
@@ -28203,7 +28203,7 @@
 30	Tawhid	O	-	-
 31	and	O	-	-
 32	Jihad	O	-	-
-33	Group	O	-	-
+33	Group	I-ORG	-	stephen
 34	,	O	-	-
 35	its	O	-	-
 36	prince	O	-	-
@@ -28239,7 +28239,7 @@
 2	Musab	I-PER	-	stephen
 3	al	B-PER	-	stephen
 4	-	I-PER	-	stephen
-5	Zarqawi	O	-	-
+5	Zarqawi	I-ORG	-	stephen
 6	and	O	-	-
 7	his	O	-	-
 8	group	O	-	-
@@ -28366,7 +28366,7 @@
 
 # text = Al - Qaeda in Afghanistan was a group of only a few hundred " Afghan Arabs " who pledged personal loyalty to Usamah Bin Laden .
 1	Al	B-PER	-	stephen
-2	-	I-PER	-	stephen
+2	-	I-ORG	-	stephen
 3	Qaeda	I-ORG	-	stephen
 4	in	O	-	-
 5	Afghanistan	B-LOC	-	stephen
@@ -28406,7 +28406,7 @@
 11	strong	O	-	-
 12	"	O	-	-
 13	55th	O	-	-
-14	Brigade	O	-	-
+14	Brigade	B-PER	-	stephen
 15	"	O	-	-
 16	of	O	-	-
 17	the	O	-	-
@@ -28470,13 +28470,13 @@
 10	al	B-ORG	-	stephen
 11	-	I-ORG	-	stephen
 12	Jihad	I-ORG	-	stephen
-13	al	I-ORG	-	stephen
+13	al	O	-	-
 14	-	I-ORG	-	stephen
 15	Islami	I-ORG	-	stephen
 16	group	O	-	-
 17	of	O	-	-
 18	Ayman	B-PER	-	stephen
-19	al	I-ORG	-	stephen
+19	al	I-PER	-	stephen
 20	-	I-ORG	-	stephen
 21	Zawahiri	I-PER	-	stephen
 22	(	O	-	-
@@ -28485,8 +28485,8 @@
 25	these	O	-	-
 26	were	O	-	-
 27	from	O	-	-
-28	Upper	B-LOC	-	stephen
-29	Egypt	I-LOC	-	stephen
+28	Upper	O	-	-
+29	Egypt	O	-	-
 30	,	O	-	-
 31	especially	O	-	-
 32	Asyut	O	-	-
@@ -28553,7 +28553,7 @@
 23	,	O	-	-
 24	Palestinian	O	-	-
 25	and	O	-	-
-26	Syrian	O	-	-
+26	Syrian	B-ORG	-	stephen
 27	.	O	-	-
 
 # text = They also had a special connection to some extremists in Jordan and Germany .
@@ -28608,7 +28608,7 @@
 33	of	O	-	-
 34	the	O	-	-
 35	Prophet	O	-	-
-36	Muhammad	B-PER	-	stephen
+36	Muhammad	O	-	-
 37	.	O	-	-
 
 # text = ( Most Salafis are not militant or violent , though they tend to be rather narrow - minded in my experience , on the order of Protestant Pietists ) .
@@ -28667,7 +28667,7 @@
 21	so	O	-	-
 22	-	O	-	-
 23	called	O	-	-
-24	German	O	-	-
+24	German	B-LOC	-	stephen
 25	Peasant	O	-	-
 26	Rebellion	O	-	-
 27	among	O	-	-
@@ -28726,7 +28726,7 @@
 12	Baghdad	B-LOC	-	stephen
 13	and	O	-	-
 14	in	O	-	-
-15	Samarra	O	-	-
+15	Samarra	B-LOC	-	stephen
 16	.	O	-	-
 
 # text = So now there are hundreds of al - Qaeda members in Iraq where there had been none before .
@@ -28775,14 +28775,14 @@
 22	Fizazi	O	-	-
 23	group	O	-	-
 24	in	O	-	-
-25	Tangiers	O	-	-
+25	Tangiers	B-LOC	-	stephen
 26	that	O	-	-
 27	morphed	O	-	-
 28	into	O	-	-
 29	the	O	-	-
 30	Moroccan	O	-	-
 31	Islamic	I-ORG	-	stephen
-32	Combatant	O	-	-
+32	Combatant	I-ORG	-	stephen
 33	Group	I-ORG	-	stephen
 34	,	O	-	-
 35	had	O	-	-
@@ -28853,7 +28853,7 @@
 8	of	O	-	-
 9	the	O	-	-
 10	Allawi	B-PER	-	stephen
-11	caretaker	I-ORG	-	stephen
+11	caretaker	O	-	-
 12	government	O	-	-
 13	.	O	-	-
 
@@ -28888,9 +28888,9 @@
 28	by	O	-	-
 29	the	O	-	-
 30	Association	B-LOC	-	stephen
-31	of	I-LOC	-	stephen
+31	of	O	-	-
 32	Muslim	O	-	-
-33	Scholars	I-ORG	-	stephen
+33	Scholars	O	-	-
 34	.	O	-	-
 
 # text = That the Iraqi Islamic Party is now contemplating leaving the Allawi government raises the question of whether a mass Sunni Arab boycott of the elections is in the offing , thus fatally weakening the legitimacy of any new government .
@@ -28943,8 +28943,8 @@
 5	The	O	-	-
 6	Association	B-LOC	-	stephen
 7	of	O	-	-
-8	Muslim	O	-	-
-9	Scholars	I-ORG	-	stephen
+8	Muslim	I-ORG	-	stephen
+9	Scholars	O	-	-
 10	forbade	O	-	-
 11	Iraqis	O	-	-
 12	to	O	-	-
@@ -29108,12 +29108,12 @@
 29	Muslim	O	-	-
 30	,	O	-	-
 31	calling	O	-	-
-32	upon	B-LOC	-	stephen
+32	upon	O	-	-
 33	them	O	-	-
 34	to	O	-	-
 35	refrain	O	-	-
 36	for	O	-	-
-37	commiting	B-LOC	-	stephen
+37	commiting	O	-	-
 38	this	O	-	-
 39	enormous	O	-	-
 40	sin	O	-	-
@@ -29189,8 +29189,8 @@
 17	Shiites	O	-	-
 18	of	O	-	-
 19	the	O	-	-
-20	Sadr	B-PER	-	stephen
-21	movement	O	-	-
+20	Sadr	O	-	-
+21	movement	I-ORG	-	stephen
 22	has	O	-	-
 23	been	O	-	-
 24	seen	O	-	-
@@ -29213,7 +29213,7 @@
 41	on	O	-	-
 42	Mahdi	O	-	-
 43	Army	I-ORG	-	stephen
-44	militiamen	O	-	-
+44	militiamen	I-ORG	-	stephen
 45	in	O	-	-
 46	Najaf	B-LOC	-	stephen
 47	.	O	-	-
