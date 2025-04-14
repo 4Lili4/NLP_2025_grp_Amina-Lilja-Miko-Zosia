@@ -1,37 +1,38 @@
-sep=;
+Column1;Column2
+Column1;Column2
 tokens;labels
 # New sentence = R.H. Saunders ( St. Lawrence River ) ( 968 MW );0
-R.H.;0
-Saunders;0
+R.H.;5
+Saunders;6
 (;0
-St.;0
-Lawrence;0
-River;0
+St.;5
+Lawrence;6
+River;6
 );0
 (;0
 968;0
 MW;0
 );0
-# New sentence = 102.7 MHz Triple J ‚Äì ABC;0
-102.7;0
+# New sentence = 102.7 MHz Triple J  ABC;0
+102.07.00;0
 MHz;0
 Triple;0
 J;0
-‚Äì;0
+;0
 ABC;0
 # New sentence = Civic Freedom Party;0
-Civic;0
-Freedom;0
-Party;0
+Civic;3
+Freedom;4
+Party;4
 # New sentence = Gian Girolamo Albani;0
-Gian;0
-Girolamo;0
-Albani;0
+Gian;1
+Girolamo;2
+Albani;2
 # New sentence = North Fanling New Town ( Extension of Fanling-Sheung Shui New Town );0
-North;0
-Fanling;0
-New;0
-Town;0
+North;5
+Fanling;6
+New;6
+Town;6
 (;0
 Extension;0
 of;0
@@ -55,22 +56,22 @@ radio;0
 series;0
 );0
 episodes;0
-# New sentence = Robert Maxwell , 5th Lord Maxwell ( 1493‚Äì1546 );0
-Robert;0
-Maxwell;0
+# New sentence = Robert Maxwell , 5th Lord Maxwell ( 14931546 );0
+Robert;5
+Maxwell;6
 ,;0
-5th;0
-Lord;0
-Maxwell;0
+5th;6
+Lord;6
+Maxwell;6
 (;0
-1493‚Äì1546;0
+14931546;0
 );0
-# New sentence = '' Invisible Touch '' ‚Äì Genesis;0
+# New sentence = '' Invisible Touch ''  Genesis;0
 '';0
 Invisible;0
 Touch;0
 '';0
-‚Äì;0
+;0
 Genesis;0
 # New sentence = It was created on 28 January 1831 for Standish O'Grady , Attorney-General for Ireland and Lord Chief Baron of the Exchequer for Ireland .;0
 It;0
@@ -81,12 +82,12 @@ on;0
 January;0
 1831;0
 for;0
-Standish;0
-O'Grady;0
+Standish;1
+O'Grady;2
 ,;0
 Attorney-General;0
 for;0
-Ireland;0
+Ireland;5
 and;0
 Lord;0
 Chief;0
@@ -95,7 +96,7 @@ of;0
 the;0
 Exchequer;0
 for;0
-Ireland;0
+Ireland;5
 .;0
 # New sentence = '' Super World of Sports '' ';0
 '';0
@@ -110,14 +111,14 @@ List;0
 of;0
 years;0
 in;0
-Brazil;0
-# New sentence = LƒÉpugiu de Jos;0
-LƒÉpugiu;0
+Brazil;5
+# New sentence = L_pugiu de Jos;0
+L_pugiu;0
 de;0
 Jos;0
 # New sentence = Christmas Island , on 8 November 1957 , 28 April , 22 August , 2 September , 11 September , or 23 September 1958;0
-Christmas;0
-Island;0
+Christmas;5
+Island;6
 ,;0
 on;0
 8;0
@@ -141,21 +142,21 @@ or;0
 September;0
 1958;0
 # New sentence = Poland in the Eurovision Song Contest;0
-Poland;0
+Poland;3
 in;0
 the;0
 Eurovision;0
 Song;0
 Contest;0
 # New sentence = Borg El Arab Stadium , Alexandria , Egypt;0
-Borg;0
-El;0
-Arab;0
-Stadium;0
+Borg;5
+El;6
+Arab;6
+Stadium;6
 ,;0
-Alexandria;0
+Alexandria;6
 ,;0
-Egypt;0
+Egypt;6
 # New sentence = It is on the Campaign for Real Ale 's National Inventory of Historic Pub Interiors .;0
 It;0
 is;0
@@ -163,9 +164,9 @@ on;0
 the;0
 Campaign;0
 for;0
-Real;0
-Ale;0
-'s;0
+Real;3
+Ale;4
+'s;4
 National;0
 Inventory;0
 of;0
@@ -174,54 +175,54 @@ Pub;0
 Interiors;0
 .;0
 # New sentence = Miranda Martino as the Singer;0
-Miranda;0
-Martino;0
+Miranda;1
+Martino;2
 as;0
 the;0
 Singer;0
-# New sentence = '' Tsardom of Russia '' ' ‚Äì Feodor III ( 1676‚Äì1682 );0
+# New sentence = '' Tsardom of Russia '' '  Feodor III ( 16761682 );0
 '';0
-Tsardom;0
-of;0
-Russia;0
+Tsardom;5
+of;6
+Russia;6
 '';0
 ';0
-‚Äì;0
+;0
 Feodor;0
 III;0
 (;0
-1676‚Äì1682;0
+16761682;0
 );0
 # New sentence = Lawrence of Rome;0
-Lawrence;0
+Lawrence;1
 of;0
 Rome;0
 # New sentence = K. S. Rangasamy College of Technology;0
-K.;0
-S.;0
-Rangasamy;0
-College;0
-of;0
-Technology;0
+K.;3
+S.;4
+Rangasamy;4
+College;4
+of;4
+Technology;4
 # New sentence = He was born in Clipston , Northamptonshire and died at Isleworth , Middlesex .;0
 He;0
 was;0
 born;0
 in;0
-Clipston;0
+Clipston;5
 ,;0
-Northamptonshire;0
+Northamptonshire;6
 and;0
 died;0
 at;0
-Isleworth;0
+Isleworth;5
 ,;0
-Middlesex;0
+Middlesex;6
 .;0
 # New sentence = Central , Tennessee ( CDP );0
-Central;0
+Central;5
 ,;0
-Tennessee;0
+Tennessee;6
 (;0
 CDP;0
 );0
@@ -237,7 +238,7 @@ the;0
 '';0
 200;0
 with;0
-320,000;0
+320;0
 copies;0
 the;0
 first;0
@@ -249,39 +250,39 @@ of;0
 national;0
 libraries;0
 # New sentence = William Morrow and Company;0
-William;0
-Morrow;0
-and;0
-Company;0
+William;3
+Morrow;4
+and;4
+Company;4
 # New sentence = Edwin S. Johnson ( D );0
-Edwin;0
-S.;0
-Johnson;0
+Edwin;1
+S.;2
+Johnson;2
 (;0
 D;0
 );0
 # New sentence = Bahawalpur Zoo , Bahawalpur , Punjab;0
-Bahawalpur;0
-Zoo;0
+Bahawalpur;5
+Zoo;6
 ,;0
-Bahawalpur;0
+Bahawalpur;6
 ,;0
-Punjab;0
+Punjab;6
 # New sentence = 1944 Presentation Brothers College;0
 1944;0
-Presentation;0
-Brothers;0
-College;0
+Presentation;5
+Brothers;6
+College;6
 # New sentence = In 1976 he joined his brother at Leicester Lions where he spent two seasons .;0
 In;0
 1976;0
-he;0
+he;1
 joined;0
 his;0
 brother;0
 at;0
-Leicester;0
-Lions;0
+Leicester;3
+Lions;4
 where;0
 he;0
 spent;0
@@ -289,25 +290,25 @@ two;0
 seasons;0
 .;0
 # New sentence = Chip Robinson ( 1986 );0
-Chip;0
-Robinson;0
+Chip;1
+Robinson;2
 (;0
 1986;0
 );0
-# New sentence = Beecher , Michigan ‚Äì $ 13,484;0
-Beecher;0
+# New sentence = Beecher , Michigan  $ 13,484;0
+Beecher;5
 ,;0
-Michigan;0
-‚Äì;0
+Michigan;6
+;0
 $;0
 13,484;0
 # New sentence = Mark Bonham Carter , Baron Bonham-Carter;0
-Mark;0
-Bonham;0
-Carter;0
+Mark;1
+Bonham;2
+Carter;2
 ,;0
-Baron;0
-Bonham-Carter;0
+Baron;2
+Bonham-Carter;2
 # New sentence = `` O Come All Ye Faithful '';0
 ``;0
 O;0
@@ -317,11 +318,11 @@ Ye;0
 Faithful;0
 '';0
 # New sentence = Myrtle Beach , United States;0
-Myrtle;0
-Beach;0
+Myrtle;5
+Beach;6
 ,;0
-United;0
-States;0
+United;6
+States;6
 # New sentence = This Hour Has 22 Minutes '' cast;0
 This;0
 Hour;0
@@ -331,8 +332,8 @@ Minutes;0
 '';0
 cast;0
 # New sentence = Hanningfield Reservoir completed in 1957;0
-Hanningfield;0
-Reservoir;0
+Hanningfield;5
+Reservoir;6
 completed;0
 in;0
 1957;0
@@ -346,34 +347,34 @@ match;0
 were;0
 scored;0
 by;0
-Xherdan;0
-Shaqiri;0
+Xherdan;1
+Shaqiri;2
 .;0
 # New sentence = Head of government : Prime Minister of Andorra;0
 Head;0
 of;0
 government;0
 :;0
-Prime;0
-Minister;0
-of;0
-Andorra;0
+Prime;1
+Minister;2
+of;2
+Andorra;2
 # New sentence = Meigs Township , Muskingum County , Ohio;0
-Meigs;0
-Township;0
+Meigs;5
+Township;6
 ,;0
-Muskingum;0
-County;0
+Muskingum;6
+County;6
 ,;0
-Ohio;0
-# New sentence = Communes of the C√¥te-d'Or department;0
-Communes;0
-of;0
-the;0
-C√¥te-d'Or;0
-department;0
+Ohio;6
+# New sentence = Communes of the Cte-d'Or department;0
+Communes;3
+of;4
+the;4
+Cte-d'Or;4
+department;4
 # New sentence = He is a brother of the noted pianist Chilly Gonzales .;0
-He;0
+He;1
 is;0
 a;0
 brother;0
@@ -381,53 +382,53 @@ of;0
 the;0
 noted;0
 pianist;0
-Chilly;0
-Gonzales;0
+Chilly;1
+Gonzales;2
 .;0
 # New sentence = James H. Morrison ( D );0
-James;0
-H.;0
-Morrison;0
+James;1
+H.;2
+Morrison;2
 (;0
 D;0
 );0
 # New sentence = St Ann 's College;0
-St;0
-Ann;0
-'s;0
-College;0
+St;5
+Ann;6
+'s;6
+College;6
 # New sentence = Beijing No.8 High School;0
-Beijing;0
-No.8;0
-High;0
-School;0
+Beijing;5
+No.8;6
+High;6
+School;6
 # New sentence = Southampton F.C .;0
-Southampton;0
-F.C;0
-.;0
+Southampton;3
+F.C;4
+.;4
 # New sentence = He is from Andhra Pradesh in South India .;0
-He;0
+He;1
 is;0
-from;0
-Andhra;0
-Pradesh;0
+from;5
+Andhra;6
+Pradesh;6
 in;0
-South;0
-India;0
+South;5
+India;6
 .;0
-# New sentence = '' Kingdom of Scotland '' ' ‚Äì William the Lion ( 1165‚Äì1214 );0
+# New sentence = '' Kingdom of Scotland '' '  William the Lion ( 11651214 );0
 '';0
-Kingdom;0
-of;0
-Scotland;0
+Kingdom;5
+of;6
+Scotland;6
 '';0
 ';0
-‚Äì;0
-William;0
-the;0
-Lion;0
+;0
+William;1
+the;2
+Lion;2
 (;0
-1165‚Äì1214;0
+11651214;0
 );0
 # New sentence = Ka-Zar '' vol .;0
 Ka-Zar;0
@@ -442,32 +443,32 @@ plover;0
 squatarola;0
 '';0
 # New sentence = Kalbar , Queensland;0
-Kalbar;0
+Kalbar;5
 ,;0
-Queensland;0
-# New sentence = ** Circle Jerks ‚Äì Oddities , Abnormalities and Curiosities '';0
+Queensland;6
+# New sentence = ** Circle Jerks  Oddities , Abnormalities and Curiosities '';0
 **;0
 Circle;0
 Jerks;0
-‚Äì;0
+;0
 Oddities;0
 ,;0
 Abnormalities;0
 and;0
 Curiosities;0
 '';0
-# New sentence = George Alexander Eugene Douglas Haig , 2nd Earl Haig ( 1918‚Äì2009 );0
-George;0
-Alexander;0
-Eugene;0
-Douglas;0
-Haig;0
-,;0
-2nd;0
-Earl;0
-Haig;0
+# New sentence = George Alexander Eugene Douglas Haig , 2nd Earl Haig ( 19182009 );0
+George;1
+Alexander;2
+Eugene;2
+Douglas;2
+Haig;2
+,;2
+2nd;2
+Earl;2
+Haig;2
 (;0
-1918‚Äì2009;0
+19182009;0
 );0
 # New sentence = *9378 - Apamea burgessi '';0
 *9378;0
@@ -475,43 +476,43 @@ Haig;0
 Apamea;0
 burgessi;0
 '';0
-# New sentence = It has also been introduced to Australia , Madeira , the Gal√°pagos Islands and the Philippines .;0
+# New sentence = It has also been introduced to Australia , Madeira , the Galpagos Islands and the Philippines .;0
 It;0
 has;0
 also;0
 been;0
 introduced;0
 to;0
-Australia;0
+Australia;5
 ,;0
-Madeira;0
+Madeira;5
 ,;0
-the;0
-Gal√°pagos;0
-Islands;0
+the;5
+Galpagos;6
+Islands;6
 and;0
 the;0
-Philippines;0
+Philippines;5
 .;0
 # New sentence = Doug McClure , Keith Barron;0
-Doug;0
-McClure;0
+Doug;1
+McClure;2
 ,;0
-Keith;0
-Barron;0
+Keith;1
+Barron;2
 # New sentence = Festhalle Frankfurt , Frankfurt , Hesse;0
-Festhalle;0
-Frankfurt;0
-,;0
-Frankfurt;0
-,;0
-Hesse;0
+Festhalle;5
+Frankfurt;6
+,;6
+Frankfurt;6
+,;6
+Hesse;6
 # New sentence = He was Mayor of Exeter July 1414 to October 1415 .;0
-He;0
+He;1
 was;0
-Mayor;0
-of;0
-Exeter;0
+Mayor;1
+of;2
+Exeter;2
 July;0
 1414;0
 to;0
@@ -525,77 +526,77 @@ Venue;0
 :;0
 ';0
 '';0
-Daegu;0
-Civic;0
-Stadium;0
-,;0
-Daegu;0
+Daegu;5
+Civic;6
+Stadium;6
+,;6
+Daegu;6
 # New sentence = ''65 Damien Woody G ( IR ) 7px;0
 ''65;0
-Damien;0
-Woody;0
-G;0
+Damien;1
+Woody;2
+G;2
 (;0
 IR;0
 );0
 7px;0
 # New sentence = Mystery Science Theater 3000 '';0
-Mystery;0
-Science;0
-Theater;0
-3000;0
+Mystery;5
+Science;6
+Theater;6
+3000;6
 '';0
 # New sentence = North Woodbridge , California;0
-North;0
-Woodbridge;0
-,;0
-California;0
+North;5
+Woodbridge;6
+,;6
+California;6
 # New sentence = Volcanoes National Park , Rwanda;0
-Volcanoes;0
-National;0
-Park;0
-,;0
-Rwanda;0
+Volcanoes;5
+National;6
+Park;6
+,;6
+Rwanda;6
 # New sentence = Mia Wasikowska as Alice Kingsleigh .;0
-Mia;0
-Wasikowska;0
+Mia;1
+Wasikowska;2
 as;0
-Alice;0
-Kingsleigh;0
+Alice;1
+Kingsleigh;2
 .;0
 # New sentence = Washington Township , Butler County , Iowa;0
-Washington;0
-Township;0
-,;0
-Butler;0
-County;0
-,;0
-Iowa;0
+Washington;5
+Township;6
+,;6
+Butler;6
+County;6
+,;6
+Iowa;6
 # New sentence = ' '' Marcello Trotta ' '';0
 ';0
 '';0
-Marcello;0
-Trotta;0
+Marcello;1
+Trotta;2
 ';0
 '';0
-# New sentence = Wesley Pritchard ( 1996‚Äì ) 36;0
-Wesley;0
-Pritchard;0
+# New sentence = Wesley Pritchard ( 1996 ) 36;0
+Wesley;1
+Pritchard;2
 (;0
-1996‚Äì;0
+1996;0
 );0
 36;0
 # New sentence = Petersburg , Virginia;0
-Petersburg;0
-,;0
-Virginia;0
+Petersburg;5
+,;6
+Virginia;6
 # New sentence = '' Telamoptilia hemistacta '' ( Meyrick , 1918 );0
 '';0
 Telamoptilia;0
 hemistacta;0
 '';0
 (;0
-Meyrick;0
+Meyrick;1
 ,;0
 1918;0
 );0
@@ -605,20 +606,20 @@ delta;0
 '';0
 Craven;0
 # New sentence = Serra da Estrela Subregion;0
-Serra;0
-da;0
-Estrela;0
-Subregion;0
-# New sentence = : Ashleigh Brewer ( 2014‚Äì );0
+Serra;5
+da;6
+Estrela;6
+Subregion;6
+# New sentence = : Ashleigh Brewer ( 2014 );0
 :;0
-Ashleigh;0
-Brewer;0
+Ashleigh;1
+Brewer;2
 (;0
-2014‚Äì;0
+2014;0
 );0
 # New sentence = Albert Pujols [2] ( 2006 , 2010 );0
-Albert;0
-Pujols;0
+Albert;1
+Pujols;2
 [2];0
 (;0
 2006;0
@@ -626,20 +627,20 @@ Pujols;0
 2010;0
 );0
 # New sentence = Brian Dillons GAA;0
-Brian;0
-Dillons;0
-GAA;0
+Brian;1
+Dillons;2
+GAA;2
 # New sentence = '' Samurai 7 '';0
 '';0
-Samurai;0
-7;0
+Samurai;1
+7;2
 '';0
 # New sentence = ' '' 20px 99 Villeray '' ';0
 ';0
 '';0
-20px;0
-99;0
-Villeray;0
+20px;1
+99;2
+Villeray;2
 '';0
 ';0
 # New sentence = Their debut single , `` Overjoyed '' was subsequently released in April 2012 .;0
@@ -657,16 +658,16 @@ in;0
 April;0
 2012;0
 .;0
-# New sentence = 929th Troop Carrier Group : 11 February 1963 ‚Äì 1 January 1964;0
-929th;0
-Troop;0
-Carrier;0
-Group;0
+# New sentence = 929th Troop Carrier Group : 11 February 1963  1 January 1964;0
+929th;3
+Troop;4
+Carrier;4
+Group;4
 :;0
 11;0
 February;0
 1963;0
-‚Äì;0
+;0
 1;0
 January;0
 1964;0
@@ -701,107 +702,107 @@ alexanor;0
 Esper;0
 ,;0
 1800;0
-# New sentence = John Isner 7‚Äì6 ( 4 ) , 5‚Äì7 ( 5 ) , 7‚Äì5 , 6‚Äì4;0
-John;0
-Isner;0
-7‚Äì6;0
+# New sentence = John Isner 76 ( 4 ) , 57 ( 5 ) , 75 , 64;0
+John;1
+Isner;2
+76;0
 (;0
 4;0
 );0
 ,;0
-5‚Äì7;0
+57;0
 (;0
 5;0
 );0
 ,;0
-7‚Äì5;0
+75;0
 ,;0
-6‚Äì4;0
+64;0
 # New sentence = Metadata Object Description Schema;0
 Metadata;0
 Object;0
 Description;0
 Schema;0
 # New sentence = Maria Adams ( disambiguation );0
-Maria;0
-Adams;0
+Maria;1
+Adams;2
 (;0
 disambiguation;0
 );0
 # New sentence = '' Col des Ares '';0
 '';0
-Col;0
-des;0
-Ares;0
+Col;5
+des;6
+Ares;6
 '';0
-# New sentence = Sili»ôtea River ( »öibrin );0
-Sili»ôtea;0
-River;0
+# New sentence = Sili_tea River ( _ibrin );0
+Sili_tea;5
+River;6
 (;0
-»öibrin;0
+_ibrin;0
 );0
 # New sentence = *Written by Val Guest and Leslie Thomas;0
 *Written;0
 by;0
-Val;0
-Guest;0
+Val;1
+Guest;2
 and;0
-Leslie;0
-Thomas;0
+Leslie;1
+Thomas;2
 # New sentence = Billy Vessels ( RB ) :;0
-Billy;0
-Vessels;0
+Billy;1
+Vessels;2
 (;0
 RB;0
 );0
 :;0
-# New sentence = May 10 ‚Äì Shel Silverstein , 68 , children 's poet;0
+# New sentence = May 10  Shel Silverstein , 68 , children 's poet;0
 May;0
 10;0
-‚Äì;0
-Shel;0
-Silverstein;0
+;0
+Shel;1
+Silverstein;2
 ,;0
 68;0
 ,;0
 children;0
 's;0
 poet;0
-# New sentence = `` Stupid Shit '' ‚Äì Girlicious;0
+# New sentence = `` Stupid Shit ''  Girlicious;0
 ``;0
 Stupid;0
 Shit;0
 '';0
-‚Äì;0
+;0
 Girlicious;0
-# New sentence = Ch√¢teau de Ferri√®res - Ferri√®res-en-Brie , Seine-Maritime;0
-Ch√¢teau;0
-de;0
-Ferri√®res;0
--;0
-Ferri√®res-en-Brie;0
-,;0
-Seine-Maritime;0
+# New sentence = Chteau de Ferrires - Ferrires-en-Brie , Seine-Maritime;0
+Chteau;5
+de;6
+Ferrires;6
+-;6
+Ferrires-en-Brie;6
+,;6
+Seine-Maritime;6
 # New sentence = Holy Trinity Church , Blythburgh;0
-Holy;0
-Trinity;0
-Church;0
-,;0
-Blythburgh;0
-# New sentence = Jes√∫s Rubio Mart√≠n;0
-Jes√∫s;0
-Rubio;0
-Mart√≠n;0
+Holy;5
+Trinity;6
+Church;6
+,;6
+Blythburgh;6
+# New sentence = Jess Rubio Martn;0
+Jess;1
+Rubio;2
+Martn;2
 # New sentence = Free Software Foundation Europe;0
-Free;0
-Software;0
-Foundation;0
-Europe;0
+Free;3
+Software;4
+Foundation;4
+Europe;4
 # New sentence = It features Michelle Fairley as the narrator .;0
 It;0
 features;0
-Michelle;0
-Fairley;0
+Michelle;1
+Fairley;2
 as;0
 the;0
 narrator;0
@@ -811,7 +812,7 @@ narrator;0
 '';0
 Women;0
 's;0
-10,000;0
+10;0
 metres;0
 '';0
 ';0
@@ -819,32 +820,32 @@ metres;0
 19;0
 ,;0
 ,;0
-Stockholm;0
-,;0
-Cirkus;0
+Stockholm;5
+,;6
+Cirkus;6
 # New sentence = 632 , Air Force Office of Special Investigations;0
 632;0
 ,;0
-Air;0
-Force;0
-Office;0
-of;0
-Special;0
-Investigations;0
+Air;3
+Force;4
+Office;4
+of;4
+Special;4
+Investigations;4
 # New sentence = K ( Eighth Avenue Local );0
-K;0
-(;0
-Eighth;0
-Avenue;0
-Local;0
-);0
+K;3
+(;4
+Eighth;4
+Avenue;4
+Local;4
+);4
 # New sentence = File : J150W-Ayers.jpg |Sir Henry Ayers;0
 File;0
 :;0
 J150W-Ayers.jpg;0
-|Sir;0
-Henry;0
-Ayers;0
+|Sir;1
+Henry;2
+Ayers;2
 # New sentence = Midnight at Minton 's '' ( 1941 );0
 Midnight;0
 at;0
@@ -874,7 +875,7 @@ Champion;0
 Male;0
 Horse;0
 # New sentence = His debut single , `` Ca n't Say No '' , was released in the United Kingdom on 16 April 2012 .;0
-His;0
+His;1
 debut;0
 single;0
 ,;0
@@ -888,26 +889,26 @@ No;0
 was;0
 released;0
 in;0
-the;0
-United;0
-Kingdom;0
+the;5
+United;6
+Kingdom;6
 on;0
 16;0
 April;0
 2012;0
 .;0
 # New sentence = Pat Garrity , George McCloud ( 15 );0
-Pat;0
-Garrity;0
+Pat;1
+Garrity;2
 ,;0
-George;0
-McCloud;0
+George;1
+McCloud;2
 (;0
 15;0
 );0
 # New sentence = Dwight Howard ( 12 );0
-Dwight;0
-Howard;0
+Dwight;1
+Howard;2
 (;0
 12;0
 );0
@@ -920,9 +921,9 @@ slightly;0
 older;0
 finds;0
 in;0
-the;0
-Savannah;0
-River;0
+the;5
+Savannah;6
+River;6
 area;0
 .;0
 # New sentence = '' 'QB '' ' - AJ McCarron , Alabama ( ' '' AFCA '' ' , ' '' WCFF '' ' );0
@@ -931,10 +932,10 @@ area;0
 '';0
 ';0
 -;0
-AJ;0
-McCarron;0
-,;0
-Alabama;0
+AJ;5
+McCarron;6
+,;6
+Alabama;6
 (;0
 ';0
 '';0
@@ -949,9 +950,9 @@ WCFF;0
 ';0
 );0
 # New sentence = Galway , Ireland ( since 1987 );0
-Galway;0
-,;0
-Ireland;0
+Galway;5
+,;6
+Ireland;6
 (;0
 since;0
 1987;0
@@ -964,28 +965,28 @@ area;0
 was;0
 part;0
 of;0
-Germany;0
+Germany;5
 .;0
-# New sentence = It reached the Marquesas Islands in 1932 , Mauritius in 1936 , and R√©union in 1957 .;0
+# New sentence = It reached the Marquesas Islands in 1932 , Mauritius in 1936 , and Runion in 1957 .;0
 It;0
 reached;0
-the;0
-Marquesas;0
-Islands;0
+the;5
+Marquesas;6
+Islands;6
 in;0
 1932;0
 ,;0
-Mauritius;0
+Mauritius;5
 in;0
 1936;0
 ,;0
 and;0
-R√©union;0
+Runion;0
 in;0
 1957;0
 .;0
 # New sentence = CONCACAF U-17 Championship;0
-CONCACAF;0
+CONCACAF;3
 U-17;0
 Championship;0
 # New sentence = Later in the year , she went on to reach two WTA-level finals in Strasbourg and Vienna .;0
@@ -1000,44 +1001,44 @@ on;0
 to;0
 reach;0
 two;0
-WTA-level;0
+WTA-level;3
 finals;0
 in;0
-Strasbourg;0
+Strasbourg;5
 and;0
-Vienna;0
+Vienna;5
 .;0
 # New sentence = Reichenau , Switzerland;0
-Reichenau;0
-,;0
-Switzerland;0
+Reichenau;4
+,;5
+Switzerland;5
 # New sentence = Hissar ( disambiguation );0
-Hissar;0
+Hissar;5
 (;0
 disambiguation;0
 );0
 # New sentence = Nick Slyney , 12 .;0
-Nick;0
-Slyney;0
+Nick;1
+Slyney;2
 ,;0
 12;0
 .;0
 # New sentence = Premier of Newfoundland - Clyde Wells;0
-Premier;0
-of;0
-Newfoundland;0
+Premier;1
+of;2
+Newfoundland;2
 -;0
-Clyde;0
-Wells;0
-# New sentence = ‚Ä¢ Smoljinac ( 1873 );0
-‚Ä¢;0
+Clyde;1
+Wells;2
+# New sentence =  Smoljinac ( 1873 );0
+;0
 Smoljinac;0
 (;0
 1873;0
 );0
 # New sentence = FedEx Express operates Boeing 767-300F and Airbus A300-600;0
-FedEx;0
-Express;0
+FedEx;3
+Express;4
 operates;0
 Boeing;0
 767-300F;0
@@ -1045,26 +1046,26 @@ and;0
 Airbus;0
 A300-600;0
 # New sentence = Army of the Potomac;0
-Army;0
-of;0
-the;0
-Potomac;0
+Army;3
+of;4
+the;4
+Potomac;4
 # New sentence = Kubrat , Prince of Panagyurishte .;0
-Kubrat;0
-,;0
-Prince;0
-of;0
-Panagyurishte;0
+Kubrat;1
+,;2
+Prince;2
+of;2
+Panagyurishte;2
 .;0
-# New sentence = Kate Sullivan - anchor / reporter ( 2000‚Äì2006 );0
-Kate;0
-Sullivan;0
+# New sentence = Kate Sullivan - anchor / reporter ( 20002006 );0
+Kate;1
+Sullivan;2
 -;0
 anchor;0
 /;0
 reporter;0
 (;0
-2000‚Äì2006;0
+20002006;0
 );0
 # New sentence = ' '' Skindred '' ';0
 ';0
@@ -1073,7 +1074,7 @@ Skindred;0
 '';0
 ';0
 # New sentence = She ran aground on 3 August 1962 near Djibouti and laid up there .;0
-She;0
+She;1
 ran;0
 aground;0
 on;0
@@ -1088,8 +1089,8 @@ up;0
 there;0
 .;0
 # New sentence = Moshe Gafni ( from 23 July 1990 );0
-Moshe;0
-Gafni;0
+Moshe;1
+Gafni;2
 (;0
 from;0
 23;0
@@ -1097,16 +1098,16 @@ July;0
 1990;0
 );0
 # New sentence = Murvaux ( 55365 );0
-Murvaux;0
+Murvaux;5
 (;0
 55365;0
 );0
 # New sentence = *1,826 - Darrell K. Smith ( 1990 );0
 *1,826;0
 -;0
-Darrell;0
-K.;0
-Smith;0
+Darrell;1
+K.;2
+Smith;2
 (;0
 1990;0
 );0
@@ -1117,42 +1118,42 @@ Man;0
 Alone;0
 '';0
 -;0
-Frank;0
-Sinatra;0
+Frank;1
+Sinatra;2
 # New sentence = Rothes F.C .;0
-Rothes;0
-F.C;0
-.;0
+Rothes;3
+F.C;4
+.;4
 # New sentence = N67 road ( Ireland );0
-N67;0
-road;0
-(;0
-Ireland;0
-);0
+N67;5
+road;6
+(;6
+Ireland;6
+);6
 # New sentence = Jodhpur National University;0
-Jodhpur;0
-National;0
-University;0
-# New sentence = *04916 - Herzberg ( Elster ) , Sch√∂newalde;0
+Jodhpur;3
+National;4
+University;4
+# New sentence = *04916 - Herzberg ( Elster ) , Schnewalde;0
 *04916;0
 -;0
-Herzberg;0
-(;0
-Elster;0
-);0
-,;0
-Sch√∂newalde;0
-# New sentence = Charles Emmanuel IV of Sardinia ( 13 July 1807 ‚Äì 6 October 1819 ) , descended from the youngest daughter of Charles I .;0
-Charles;0
-Emmanuel;0
-IV;0
+Herzberg;5
+(;6
+Elster;6
+);6
+,;6
+Schnewalde;6
+# New sentence = Charles Emmanuel IV of Sardinia ( 13 July 1807  6 October 1819 ) , descended from the youngest daughter of Charles I .;0
+Charles;1
+Emmanuel;2
+IV;2
 of;0
-Sardinia;0
+Sardinia;5
 (;0
 13;0
 July;0
 1807;0
-‚Äì;0
+;0
 6;0
 October;0
 1819;0
@@ -1164,7 +1165,7 @@ the;0
 youngest;0
 daughter;0
 of;0
-Charles;0
+Charles;1
 I;0
 .;0
 # New sentence = Ice cream cake;0
@@ -1172,12 +1173,12 @@ Ice;0
 cream;0
 cake;0
 # New sentence = *The Cathedral of Saint Thomas More is the seat of the Roman Catholic Diocese of Arlington , which comprises Northern Virginia .;0
-*The;0
-Cathedral;0
-of;0
-Saint;0
-Thomas;0
-More;0
+*The;3
+Cathedral;4
+of;4
+Saint;4
+Thomas;4
+More;4
 is;0
 the;0
 seat;0
@@ -1191,8 +1192,8 @@ Arlington;0
 ,;0
 which;0
 comprises;0
-Northern;0
-Virginia;0
+Northern;5
+Virginia;6
 .;0
 # New sentence = He was the second son of Richard de Clare , 6th Earl of Gloucester and his wife Maud de Lacy , Countess of Gloucester .;0
 He;0
@@ -1201,32 +1202,32 @@ the;0
 second;0
 son;0
 of;0
-Richard;0
-de;0
-Clare;0
-,;0
-6th;0
-Earl;0
-of;0
-Gloucester;0
+Richard;1
+de;2
+Clare;2
+,;2
+6th;2
+Earl;2
+of;2
+Gloucester;2
 and;0
 his;0
 wife;0
-Maud;0
-de;0
-Lacy;0
-,;0
-Countess;0
-of;0
-Gloucester;0
+Maud;1
+de;2
+Lacy;2
+,;2
+Countess;2
+of;2
+Gloucester;2
 .;0
 # New sentence = Bluefield]] - Beckley , West Virginia;0
-Bluefield]];0
--;0
-Beckley;0
-,;0
-West;0
-Virginia;0
+Bluefield]];5
+-;6
+Beckley;6
+,;6
+West;6
+Virginia;6
 # New sentence = ' '' Geographic coordinates : ' '';0
 ';0
 '';0
@@ -1238,31 +1239,31 @@ coordinates;0
 # New sentence = ' '' Earl of Devonshire '' ';0
 ';0
 '';0
-Earl;0
-of;0
-Devonshire;0
+Earl;1
+of;2
+Devonshire;2
 '';0
 ';0
 # New sentence = 2000 : Croatia , Israel , and Latvia join;0
 2000;0
 :;0
-Croatia;0
+Croatia;3
 ,;0
-Israel;0
+Israel;3
 ,;0
 and;0
-Latvia;0
+Latvia;3
 join;0
 # New sentence = ' '' Herbert Covington Bonner ( D ) 92.5 % ' '' W .;0
 ';0
 '';0
-Herbert;0
-Covington;0
-Bonner;0
+Herbert;1
+Covington;2
+Bonner;2
 (;0
 D;0
 );0
-92.5;0
+92.05.00;0
 %;0
 ';0
 '';0
@@ -1284,30 +1285,30 @@ September;0
 1923;0
 .;0
 # New sentence = Indian Ocean , Rodrigues Island;0
-Indian;0
-Ocean;0
-,;0
-Rodrigues;0
-Island;0
+Indian;5
+Ocean;6
+,;6
+Rodrigues;6
+Island;6
 # New sentence = St Oswald 's Church , Ravenstonedale;0
-St;0
-Oswald;0
-'s;0
-Church;0
-,;0
-Ravenstonedale;0
+St;5
+Oswald;6
+'s;6
+Church;6
+,;6
+Ravenstonedale;6
 # New sentence = Jacob K. Javits;0
-Jacob;0
-K.;0
-Javits;0
+Jacob;1
+K.;2
+Javits;2
 # New sentence = Nick Vernier Band feat. Iain Matthews Woodstock '' ( single ) ( 2009 );0
-Nick;0
-Vernier;0
-Band;0
+Nick;3
+Vernier;4
+Band;4
 feat.;0
-Iain;0
-Matthews;0
-Woodstock;0
+Iain;3
+Matthews;4
+Woodstock;4
 '';0
 (;0
 single;0
@@ -1331,22 +1332,22 @@ Celebrity;0
 Juice;0
 '';0
 .;0
-# New sentence = Mieczys≈Çaw Mickiewicz , 22 February 1922 ‚Äì 1 February 1923;0
-Mieczys≈Çaw;0
-Mickiewicz;0
+# New sentence = Mieczys_aw Mickiewicz , 22 February 1922  1 February 1923;0
+Mieczys_aw;1
+Mickiewicz;2
 ,;0
 22;0
 February;0
 1922;0
-‚Äì;0
+;0
 1;0
 February;0
 1923;0
 # New sentence = Clitheroe Advertiser and Times;0
-Clitheroe;0
-Advertiser;0
-and;0
-Times;0
+Clitheroe;3
+Advertiser;4
+and;4
+Times;4
 # New sentence = '' Having a Party '' ( 1982 );0
 '';0
 Having;0
@@ -1371,73 +1372,73 @@ election;0
 2006;0
 .;0
 # New sentence = Washington State Route 542;0
-Washington;0
-State;0
-Route;0
-542;0
+Washington;5
+State;6
+Route;6
+542;6
 # New sentence = Communes of the Alpes-Maritimes department;0
-Communes;0
-of;0
-the;0
-Alpes-Maritimes;0
-department;0
+Communes;3
+of;4
+the;4
+Alpes-Maritimes;4
+department;4
 # New sentence = ' '' Horatio Seymour , Jr . '' ';0
 ';0
 '';0
-Horatio;0
-Seymour;0
-,;0
-Jr;0
+Horatio;1
+Seymour;2
+,;2
+Jr;2
 .;0
 '';0
 ';0
 # New sentence = Metropolitan Atlanta Rapid Transit Authority;0
-Metropolitan;0
-Atlanta;0
-Rapid;0
-Transit;0
-Authority;0
+Metropolitan;3
+Atlanta;4
+Rapid;4
+Transit;4
+Authority;4
 # New sentence = Howard Baker , Deceased .;0
-Howard;0
-Baker;0
-,;0
-Deceased;0
+Howard;1
+Baker;2
+,;2
+Deceased;2
 .;0
 # New sentence = Chico Buarque , Antonio Carlos Jobim;0
-Chico;0
-Buarque;0
+Chico;1
+Buarque;2
 ,;0
-Antonio;0
-Carlos;0
-Jobim;0
-# New sentence = Thomas Witlam Atkinson ( 1799‚Äì1861 );0
-Thomas;0
-Witlam;0
-Atkinson;0
+Antonio;1
+Carlos;2
+Jobim;2
+# New sentence = Thomas Witlam Atkinson ( 17991861 );0
+Thomas;1
+Witlam;2
+Atkinson;2
 (;0
-1799‚Äì1861;0
+17991861;0
 );0
-# New sentence = ** '' Wolverhampton Wanderers '' ' 4‚Äì3 Leicester City ( 25 October 2003 );0
+# New sentence = ** '' Wolverhampton Wanderers '' ' 43 Leicester City ( 25 October 2003 );0
 **;0
 '';0
-Wolverhampton;0
-Wanderers;0
+Wolverhampton;3
+Wanderers;4
 '';0
 ';0
-4‚Äì3;0
-Leicester;0
-City;0
+43;0
+Leicester;3
+City;4
 (;0
 25;0
 October;0
 2003;0
 );0
-# New sentence = 1979 ‚Äì Steve Hillage ‚Äì ''Open '';0
+# New sentence = 1979  Steve Hillage  ''Open '';0
 1979;0
-‚Äì;0
-Steve;0
-Hillage;0
-‚Äì;0
+;0
+Steve;1
+Hillage;2
+;0
 ''Open;0
 '';0
 # New sentence = ** '' 'Gaihawk '' ' - MiG-29 Fulcrum '';0
@@ -1460,40 +1461,40 @@ Go;0
 to;0
 School;0
 '';0
-# New sentence = Webb Pierce ( 1921‚Äì1991 ) ‚Äì singer;0
-Webb;0
-Pierce;0
+# New sentence = Webb Pierce ( 19211991 )  singer;0
+Webb;1
+Pierce;2
 (;0
-1921‚Äì1991;0
+19211991;0
 );0
-‚Äì;0
+;0
 singer;0
 # New sentence = St. Mary 's , Alaska;0
-St.;0
-Mary;0
-'s;0
+St.;5
+Mary;6
+'s;6
+,;6
+Alaska;6
+# New sentence = Juan Mirabal , Taos Pueblo ( 19031970 );0
+Juan;1
+Mirabal;2
 ,;0
-Alaska;0
-# New sentence = Juan Mirabal , Taos Pueblo ( 1903‚Äì1970 );0
-Juan;0
-Mirabal;0
-,;0
-Taos;0
-Pueblo;0
+Taos;1
+Pueblo;2
 (;0
-1903‚Äì1970;0
+19031970;0
 );0
-# New sentence = It lies south-east of Aleksandr√≥w Kujawski and south-east of Toru≈Ñ .;0
+# New sentence = It lies south-east of Aleksandrw Kujawski and south-east of Toru_ .;0
 It;0
 lies;0
 south-east;0
 of;0
-Aleksandr√≥w;0
-Kujawski;0
+Aleksandrw;5
+Kujawski;6
 and;0
 south-east;0
 of;0
-Toru≈Ñ;0
+Toru_;5
 .;0
 # New sentence = It was held to elect members of the Legislative Assembly of British Columbia .;0
 It;0
@@ -1504,77 +1505,77 @@ elect;0
 members;0
 of;0
 the;0
-Legislative;0
-Assembly;0
-of;0
-British;0
-Columbia;0
+Legislative;3
+Assembly;4
+of;4
+British;4
+Columbia;4
 .;0
-# New sentence = '' Teleiodes flavimaculella '' ( Herrich-Sch√§ffer , 1854 );0
+# New sentence = '' Teleiodes flavimaculella '' ( Herrich-Schffer , 1854 );0
 '';0
 Teleiodes;0
 flavimaculella;0
 '';0
 (;0
-Herrich-Sch√§ffer;0
+Herrich-Schffer;0
 ,;0
 1854;0
 );0
-# New sentence = Greci , Mehedin»õi;0
-Greci;0
-,;0
-Mehedin»õi;0
+# New sentence = Greci , Mehedin_i;0
+Greci;5
+,;6
+Mehedin_i;6
 # New sentence = Bellevue Downtown Park : 2015;0
-Bellevue;0
-Downtown;0
-Park;0
+Bellevue;5
+Downtown;6
+Park;6
 :;0
 2015;0
 # New sentence = City of Ten Thousand Buddhas , in Ukiah , California;0
-City;0
-of;0
-Ten;0
-Thousand;0
-Buddhas;0
-,;0
-in;0
-Ukiah;0
-,;0
-California;0
+City;5
+of;6
+Ten;6
+Thousand;6
+Buddhas;6
+,;6
+in;6
+Ukiah;6
+,;6
+California;6
 # New sentence = White House , Jamaica;0
-White;0
-House;0
-,;0
-Jamaica;0
-# New sentence = Estadio Ol√≠mpico Metropolitano , San Pedro Sula , Honduras;0
-Estadio;0
-Ol√≠mpico;0
-Metropolitano;0
-,;0
-San;0
-Pedro;0
-Sula;0
-,;0
-Honduras;0
+White;5
+House;6
+,;6
+Jamaica;6
+# New sentence = Estadio Olmpico Metropolitano , San Pedro Sula , Honduras;0
+Estadio;5
+Olmpico;6
+Metropolitano;6
+,;6
+San;6
+Pedro;6
+Sula;6
+,;6
+Honduras;6
 # New sentence = Famous among them were Jayatirtha , Sripadaraya , Vyasatirtha .;0
 Famous;0
 among;0
 them;0
 were;0
-Jayatirtha;0
+Jayatirtha;1
 ,;0
-Sripadaraya;0
+Sripadaraya;1
 ,;0
-Vyasatirtha;0
+Vyasatirtha;1
 .;0
 # New sentence = Dubuque County , Iowa;0
-Dubuque;0
-County;0
-,;0
-Iowa;0
+Dubuque;5
+County;6
+,;6
+Iowa;6
 # New sentence = LoLo Jones ' '' ';0
-LoLo;0
-Jones;0
+LoLo;1
+Jones;2
 ';0
 '';0
 ';0
@@ -1590,45 +1591,45 @@ remix;0
 album;0
 );0
 # New sentence = Aginskoye , Zabaykalsky Krai;0
-Aginskoye;0
-,;0
-Zabaykalsky;0
-Krai;0
-# New sentence = Roger Lutz ( 25 Oct 2003 ‚Äì 30 June 2004 );0
-Roger;0
-Lutz;0
+Aginskoye;5
+,;6
+Zabaykalsky;6
+Krai;6
+# New sentence = Roger Lutz ( 25 Oct 2003  30 June 2004 );0
+Roger;1
+Lutz;2
 (;0
 25;0
 Oct;0
 2003;0
-‚Äì;0
+;0
 30;0
 June;0
 2004;0
 );0
 # New sentence = Eugen Burg as Kaiser Franz Josef;0
-Eugen;0
-Burg;0
-as;0
-Kaiser;0
-Franz;0
-Josef;0
+Eugen;1
+Burg;2
+as;2
+Kaiser;1
+Franz;2
+Josef;2
 # New sentence = 100px '' Samuel J. Kirkwood;0
 100px;0
 '';0
-Samuel;0
-J.;0
-Kirkwood;0
+Samuel;1
+J.;2
+Kirkwood;2
 # New sentence = M. H. de Young Memorial Museum;0
-M.;0
-H.;0
-de;0
-Young;0
-Memorial;0
-Museum;0
+M.;5
+H.;6
+de;6
+Young;6
+Memorial;6
+Museum;6
 # New sentence = Seven Network ( 6 );0
-Seven;0
-Network;0
+Seven;3
+Network;4
 (;0
 6;0
 );0
@@ -1646,24 +1647,24 @@ He;0
 previously;0
 represented;0
 the;0
-Socialist;0
-Left;0
-Party;0
+Socialist;3
+Left;4
+Party;4
 .;0
 # New sentence = Pennsylvania Farm Show Complex & Expo Center;0
-Pennsylvania;0
-Farm;0
-Show;0
-Complex;0
-&;0
-Expo;0
-Center;0
+Pennsylvania;5
+Farm;6
+Show;6
+Complex;6
+&;6
+Expo;6
+Center;6
 # New sentence = Iowa John Deere Dealers 250;0
-Iowa;0
-John;0
-Deere;0
-Dealers;0
-250;0
+Iowa;5
+John;6
+Deere;6
+Dealers;6
+250;6
 # New sentence = Avant que l'ombre ... '';0
 Avant;0
 que;0
@@ -1675,18 +1676,18 @@ He;0
 was;0
 born;0
 in;0
-Beaumont;0
-,;0
-Texas;0
+Beaumont;5
+,;6
+Texas;6
 .;0
 # New sentence = Antenor Orrego Private University ( UPAO );0
-Antenor;0
-Orrego;0
-Private;0
-University;0
-(;0
-UPAO;0
-);0
+Antenor;5
+Orrego;6
+Private;6
+University;6
+(;6
+UPAO;6
+);6
 # New sentence = The couple were also the parents of Robert Devereux , 2nd Earl of Essex .;0
 The;0
 couple;0
@@ -1695,18 +1696,18 @@ also;0
 the;0
 parents;0
 of;0
-Robert;0
-Devereux;0
-,;0
-2nd;0
-Earl;0
-of;0
-Essex;0
+Robert;1
+Devereux;2
+,;2
+2nd;2
+Earl;2
+of;2
+Essex;2
 .;0
 # New sentence = Eyton on Severn;0
-Eyton;0
-on;0
-Severn;0
+Eyton;5
+on;6
+Severn;6
 # New sentence = Soon after his appointment , in 1897 , he was knighted .;0
 Soon;0
 after;0
@@ -1723,24 +1724,24 @@ knighted;0
 # New sentence = ' '' Pope Pius IV '' ';0
 ';0
 '';0
-Pope;0
-Pius;0
-IV;0
+Pope;1
+Pius;2
+IV;2
 '';0
 ';0
 # New sentence = West Florida Argonauts;0
-West;0
-Florida;0
-Argonauts;0
+West;5
+Florida;6
+Argonauts;6
 # New sentence = He was drafted by the New England Patriots in the fourth round of the 2013 NFL Draft .;0
 He;0
 was;0
 drafted;0
 by;0
 the;0
-New;0
-England;0
-Patriots;0
+New;5
+England;6
+Patriots;6
 in;0
 the;0
 fourth;0
@@ -1754,31 +1755,31 @@ Draft;0
 # New sentence = The entire Municipality of Destrnik is now included in the Drava Statistical Region .;0
 The;0
 entire;0
-Municipality;0
-of;0
-Destrnik;0
+Municipality;5
+of;6
+Destrnik;6
 is;0
 now;0
 included;0
 in;0
 the;0
-Drava;0
-Statistical;0
-Region;0
+Drava;5
+Statistical;6
+Region;6
 .;0
 # New sentence = King 's Cross St. Pancras tube station;0
-King;0
-'s;0
-Cross;0
-St.;0
-Pancras;0
-tube;0
-station;0
+King;5
+'s;6
+Cross;6
+St.;6
+Pancras;6
+tube;6
+station;6
 # New sentence = She lives in Bokod with her husband and two children .;0
 She;0
 lives;0
 in;0
-Bokod;0
+Bokod;5
 with;0
 her;0
 husband;0
@@ -1787,24 +1788,24 @@ two;0
 children;0
 .;0
 # New sentence = Allaert van Everdingen;0
-Allaert;0
-van;0
-Everdingen;0
+Allaert;1
+van;2
+Everdingen;2
 # New sentence = Providence , Guyana;0
-Providence;0
-,;0
-Guyana;0
+Providence;5
+,;6
+Guyana;6
 # New sentence = David Bruce ( 1855-1931 );0
-David;0
-Bruce;0
+David;1
+Bruce;2
 (;0
 1855-1931;0
 );0
 # New sentence = ' '' Marco Melandri '' ';0
 ';0
 '';0
-Marco;0
-Melandri;0
+Marco;1
+Melandri;2
 '';0
 ';0
 # New sentence = He played important role in the getting Barisal Burners to get them into the finals .;0
@@ -1826,33 +1827,33 @@ finals;0
 .;0
 # New sentence = : Stephen Bunting '' ( First round );0
 :;0
-Stephen;0
-Bunting;0
+Stephen;1
+Bunting;2
 '';0
 (;0
 First;0
 round;0
 );0
 # New sentence = Klauber , L.M . 1936 .;0
-Klauber;0
-,;0
-L.M;0
+Klauber;1
+,;2
+L.M;2
 .;0
 1936;0
 .;0
 # New sentence = Anna Bay , New South Wales;0
-Anna;0
-Bay;0
-,;0
-New;0
-South;0
-Wales;0
+Anna;5
+Bay;6
+,;6
+New;6
+South;6
+Wales;6
 # New sentence = Deputy Prime Minister of Turkey;0
-Deputy;0
-Prime;0
-Minister;0
-of;0
-Turkey;0
+Deputy;1
+Prime;2
+Minister;2
+of;2
+Turkey;2
 # New sentence = ' '' Al Gore '' ';0
 ';0
 '';0
@@ -1860,15 +1861,15 @@ Al;0
 Gore;0
 '';0
 ';0
-# New sentence = Sriranga III ( 1642‚Äì1652 );0
-Sriranga;0
-III;0
+# New sentence = Sriranga III ( 16421652 );0
+Sriranga;1
+III;2
 (;0
-1642‚Äì1652;0
+16421652;0
 );0
-# New sentence = ‚Ä¢ Lajkovac ( 1950 );0
-‚Ä¢;0
-Lajkovac;0
+# New sentence =  Lajkovac ( 1950 );0
+;0
+Lajkovac;5
 (;0
 1950;0
 );0
@@ -1876,8 +1877,8 @@ Lajkovac;0
 Administrative;0
 divisions;0
 of;0
-South;0
-Korea;0
+South;5
+Korea;6
 # New sentence = ' '' The 1982 edition '' ' of the Orange Bowl featured the Nebraska Cornhuskers and Clemson Tigers .;0
 ';0
 '';0
@@ -1888,27 +1889,27 @@ edition;0
 ';0
 of;0
 the;0
-Orange;0
-Bowl;0
+Orange;3
+Bowl;4
 featured;0
 the;0
-Nebraska;0
-Cornhuskers;0
+Nebraska;3
+Cornhuskers;4
 and;0
-Clemson;0
-Tigers;0
+Clemson;3
+Tigers;4
 .;0
 # New sentence = Kirovsk , Leningrad Oblast;0
-Kirovsk;0
-,;0
-Leningrad;0
-Oblast;0
+Kirovsk;5
+,;6
+Leningrad;6
+Oblast;6
 # New sentence = Taunton Vale Sports Club Ground;0
-Taunton;0
-Vale;0
-Sports;0
-Club;0
-Ground;0
+Taunton;5
+Vale;6
+Sports;6
+Club;6
+Ground;6
 # New sentence = '' Adoxophyes chloromydra '' Meyrick , 1926;0
 '';0
 Adoxophyes;0
@@ -1919,24 +1920,24 @@ Meyrick;0
 1926;0
 # New sentence = The Y , West Virginia;0
 The;0
-Y;0
-,;0
-West;0
-Virginia;0
+Y;5
+,;6
+West;6
+Virginia;6
 # New sentence = Stephan Eberharter ( 2 );0
-Stephan;0
-Eberharter;0
+Stephan;1
+Eberharter;2
 (;0
 2;0
 );0
 # New sentence = Lincoln Township , Huron County , Michigan;0
-Lincoln;0
-Township;0
-,;0
-Huron;0
-County;0
-,;0
-Michigan;0
+Lincoln;5
+Township;6
+,;6
+Huron;6
+County;6
+,;6
+Michigan;6
 # New sentence = He published his first poem in 1939 , in an Odessa newspaper Molodaya Gvardiya '' .;0
 He;0
 published;0
@@ -1950,35 +1951,35 @@ in;0
 an;0
 Odessa;0
 newspaper;0
-Molodaya;0
-Gvardiya;0
+Molodaya;3
+Gvardiya;4
 '';0
 .;0
 # New sentence = Kempten , Bayern , Germany;0
-Kempten;0
-,;0
-Bayern;0
-,;0
-Germany;0
+Kempten;5
+,;6
+Bayern;6
+,;6
+Germany;6
 # New sentence = : :1st Round 7 ( Hafjell , Norway );0
 :;0
 :1st;0
 Round;0
 7;0
 (;0
-Hafjell;0
-,;0
-Norway;0
+Hafjell;5
+,;6
+Norway;6
 );0
 # New sentence = Stetson Block , 1911 , Wilfred E. Mansur;0
-Stetson;0
-Block;0
+Stetson;1
+Block;2
 ,;0
 1911;0
 ,;0
-Wilfred;0
-E.;0
-Mansur;0
+Wilfred;1
+E.;2
+Mansur;2
 # New sentence = '' I 'm a Hustla '' ( 2005 );0
 '';0
 I;0
@@ -1994,12 +1995,12 @@ Hustla;0
 Wave;0
 '';0
 (;0
-Antonio;0
-Carlos;0
-Jobim;0
+Antonio;1
+Carlos;2
+Jobim;2
 );0
 -;0
-6:07;0
+06.07;0
 # New sentence = : : : : : B. '';0
 :;0
 :;0
@@ -2017,40 +2018,40 @@ You;0
 Call;0
 '';0
 # New sentence = Jaramogi Oginga Odinga;0
-Jaramogi;0
-Oginga;0
-Odinga;0
+Jaramogi;1
+Oginga;2
+Odinga;2
 # New sentence = Gondeh Jin , Bahar;0
-Gondeh;0
-Jin;0
-,;0
-Bahar;0
+Gondeh;5
+Jin;6
+,;6
+Bahar;6
 # New sentence = ' '' Camlin river '' ' '' : Longford 9,601;0
 ';0
 '';0
-Camlin;0
-river;0
+Camlin;5
+river;6
 '';0
 ';0
 '';0
 :;0
-Longford;0
+Longford;6
 9,601;0
 # New sentence = He died in Longmeadow , Massachusetts , United States .;0
 He;0
 died;0
 in;0
-Longmeadow;0
-,;0
-Massachusetts;0
-,;0
-United;0
-States;0
+Longmeadow;5
+,;6
+Massachusetts;6
+,;6
+United;6
+States;6
 .;0
 # New sentence = Suicides in Japan are also often used to atone for wrongdoing .;0
 Suicides;0
 in;0
-Japan;0
+Japan;5
 are;0
 also;0
 often;0
@@ -2065,11 +2066,11 @@ It;0
 is;0
 found;0
 in;0
-Colombia;0
+Colombia;5
 and;0
-Peru;0
+Peru;5
 .;0
-# New sentence = '' The Law of Ueki '' ( 2005 ) ( M≈´nin );0
+# New sentence = '' The Law of Ueki '' ( 2005 ) ( M_nin );0
 '';0
 The;0
 Law;0
@@ -2080,12 +2081,12 @@ Ueki;0
 2005;0
 );0
 (;0
-M≈´nin;0
+M_nin;0
 );0
 # New sentence = Museo del Prado;0
-Museo;0
-del;0
-Prado;0
+Museo;5
+del;6
+Prado;6
 # New sentence = '' ' '' Cameraria microphylla '' ' '';0
 '';0
 ';0
@@ -2096,15 +2097,15 @@ microphylla;0
 ';0
 '';0
 # New sentence = The Westmeath Examiner '';0
-The;0
-Westmeath;0
-Examiner;0
+The;3
+Westmeath;4
+Examiner;4
 '';0
 # New sentence = Boomerang ( EMEA ) also removes the scene .;0
-Boomerang;0
-(;0
-EMEA;0
-);0
+Boomerang;3
+(;4
+EMEA;4
+);4
 also;0
 removes;0
 the;0
@@ -2114,16 +2115,16 @@ scene;0
 Color;0
 broadcasts;0
 from;0
-Jordan;0
+Jordan;5
 and;0
-Egypt;0
+Egypt;5
 had;0
 been;0
 available;0
 since;0
 1974;0
 and;0
-Lebanon;0
+Lebanon;5
 since;0
 1975;0
 .;0
@@ -2135,27 +2136,27 @@ Gentlemen;0
 The;0
 Best;0
 of;0
-George;0
-Michael;0
+George;1
+Michael;2
 '';0
 # New sentence = Stony Brook Seawolves football;0
-Stony;0
-Brook;0
-Seawolves;0
-football;0
+Stony;3
+Brook;4
+Seawolves;4
+football;4
 # New sentence = Administrative divisions of South Korea;0
-Administrative;0
-divisions;0
-of;0
-South;0
-Korea;0
+Administrative;3
+divisions;4
+of;4
+South;4
+Korea;4
 # New sentence = ' '' Mather Air Force Base '' ';0
 ';0
 '';0
-Mather;0
-Air;0
-Force;0
-Base;0
+Mather;3
+Air;4
+Force;4
+Base;4
 '';0
 ';0
 # New sentence = She died in 1971 , aged 71 , and was interred in the San Fernando Mission Cemetery .;0
@@ -2172,26 +2173,26 @@ was;0
 interred;0
 in;0
 the;0
-San;0
-Fernando;0
-Mission;0
-Cemetery;0
+San;5
+Fernando;6
+Mission;6
+Cemetery;6
 .;0
-# New sentence = Urbano Jos√© Allgayer;0
-Urbano;0
-Jos√©;0
-Allgayer;0
+# New sentence = Urbano Jos Allgayer;0
+Urbano;1
+Jos;2
+Allgayer;2
 # New sentence = St. Luke 's Orthodox Cathedral;0
-St.;0
-Luke;0
-'s;0
-Orthodox;0
-Cathedral;0
-# New sentence = ( No , It‚Äôs Not All One Song ) '' , Los Angeles Times '' , June 10 , 2001;0
+St.;5
+Luke;6
+'s;6
+Orthodox;6
+Cathedral;6
+# New sentence = ( No , Its Not All One Song ) '' , Los Angeles Times '' , June 10 , 2001;0
 (;0
 No;0
 ,;0
-It‚Äôs;0
+Its;0
 Not;0
 All;0
 One;0
@@ -2199,9 +2200,9 @@ Song;0
 );0
 '';0
 ,;0
-Los;0
-Angeles;0
-Times;0
+Los;3
+Angeles;4
+Times;4
 '';0
 ,;0
 June;0
@@ -2213,8 +2214,8 @@ June;0
 Built;0
 by;0
 :;0
-Deptford;0
-Dockyard;0
+Deptford;5
+Dockyard;6
 .;0
 # New sentence = Fresh Sounds From Middle America ( vol 5 );0
 Fresh;0
@@ -2226,115 +2227,115 @@ America;0
 vol;0
 5;0
 );0
-# New sentence = Saint-S√©verin , Mauricie , Quebec;0
-Saint-S√©verin;0
-,;0
-Mauricie;0
-,;0
-Quebec;0
+# New sentence = Saint-Sverin , Mauricie , Quebec;0
+Saint-Sverin;5
+,;6
+Mauricie;6
+,;6
+Quebec;6
 # New sentence = He was educated at Upper Canada College in Toronto .;0
 He;0
 was;0
 educated;0
 at;0
-Upper;0
-Canada;0
-College;0
+Upper;3Saint-Sverin , Mauricie , Quebec
+Canada;4
+College;4
 in;0
-Toronto;0
+Toronto;1
 .;0
 # New sentence = A-7 & A-10 ( Arizona );0
 A-7;0
 &;0
 A-10;0
 (;0
-Arizona;0
+Arizona;1
 );0
 # New sentence = *Produced for release by David Lemieux;0
 *Produced;0
 for;0
 release;0
 by;0
-David;0
-Lemieux;0
-# New sentence = Nicol√°s Barrientos / Eduardo Struvay;0
-Nicol√°s;0
-Barrientos;0
-/;0
-Eduardo;0
-Struvay;0
-# New sentence = Newsletter for Birdwatchers '' 29 ( 7‚Äì8 ) :7 .;0
-Newsletter;0
-for;0
-Birdwatchers;0
+David;1
+Lemieux;2
+# New sentence = Nicols Barrientos / Eduardo Struvay;0
+Nicols;1
+Barrientos;2
+/;2
+Eduardo;1
+Struvay;2
+# New sentence = Newsletter for Birdwatchers '' 29 ( 78 ) :7 .;0
+Newsletter;3
+for;4
+Birdwatchers;4
 '';0
 29;0
 (;0
-7‚Äì8;0
+78;0
 );0
 :7;0
 .;0
 # New sentence = Sir Rowland Gwynne 1689;0
-Sir;0
-Rowland;0
-Gwynne;0
+Sir;1
+Rowland;2
+Gwynne;2
 1689;0
-# New sentence = ' '' EGOQ '' ' ‚Äì RAF Mona ‚Äì Anglesey , Wales;0
+# New sentence = ' '' EGOQ '' '  RAF Mona  Anglesey , Wales;0
 ';0
 '';0
-EGOQ;0
+EGOQ;3
 '';0
 ';0
-‚Äì;0
-RAF;0
-Mona;0
-‚Äì;0
-Anglesey;0
-,;0
-Wales;0
+;4
+RAF;4
+Mona;4
+;0
+Anglesey;5
+,;6
+Wales;6
 # New sentence = Embassy of Tanzania , Beijing;0
-Embassy;0
-of;0
-Tanzania;0
-,;0
-Beijing;0
-# New sentence = Ascensi√≥n Esquivel Ibarra , former president of Costa Rica .;0
-Ascensi√≥n;0
-Esquivel;0
-Ibarra;0
+Embassy;5
+of;6
+Tanzania;6
+,;6
+Beijing;6
+# New sentence = Ascensin Esquivel Ibarra , former president of Costa Rica .;0
+Ascensin;1
+Esquivel;2
+Ibarra;2
 ,;0
 former;0
 president;0
 of;0
-Costa;0
-Rica;0
+Costa;5
+Rica;6
 .;0
 # New sentence = Tattnall County , Georgia;0
-Tattnall;0
-County;0
-,;0
-Georgia;0
+Tattnall;5
+County;6
+,;6
+Georgia;6
 # New sentence = Solvang , California;0
-Solvang;0
-,;0
-California;0
+Solvang;5
+,;6
+California;6
 # New sentence = District ( China );0
 District;0
 (;0
 China;0
 );0
 # New sentence = Maria Henriette de La Tour d'Auvergne;0
-Maria;0
-Henriette;0
-de;0
-La;0
-Tour;0
-d'Auvergne;0
-# New sentence = ' '' Atl√©tico Madrid '' ';0
+Maria;1
+Henriette;2
+de;2
+La;2
+Tour;2
+d'Auvergne;2
+# New sentence = ' '' Atltico Madrid '' ';0
 ';0
 '';0
-Atl√©tico;0
-Madrid;0
+Atltico;3
+Madrid;4
 '';0
 ';0
 # New sentence = 2013 Lahad Datu standoff;0
@@ -2345,21 +2346,21 @@ standoff;0
 # New sentence = ' '' Grinspoon '' ';0
 ';0
 '';0
-Grinspoon;0
+Grinspoon;3
 '';0
 ';0
 # New sentence = Mizuki Fujii / Reika Kakiiwa;0
-Mizuki;0
-Fujii;0
+Mizuki;1
+Fujii;2
 /;0
-Reika;0
-Kakiiwa;0
-# New sentence = 14 May ‚Äì Olly Murs , singer and songwriter;0
+Reika;1
+Kakiiwa;2
+# New sentence = 14 May  Olly Murs , singer and songwriter;0
 14;0
 May;0
-‚Äì;0
-Olly;0
-Murs;0
+;0
+Olly;1
+Murs;2
 ,;0
 singer;0
 and;0
@@ -2371,13 +2372,13 @@ GDP;0
 per;0
 capita;0
 # New sentence = Schuylkill Township , Schuylkill County , Pennsylvania .;0
-Schuylkill;0
-Township;0
-,;0
-Schuylkill;0
-County;0
-,;0
-Pennsylvania;0
+Schuylkill;5
+Township;6
+,;6
+Schuylkill;6
+County;6
+,;6
+Pennsylvania;6
 .;0
 # New sentence = JR2F Albatross - Grumman;0
 JR2F;0
@@ -2385,17 +2386,17 @@ Albatross;0
 -;0
 Grumman;0
 # New sentence = Hugh Ewing and George Crook ) .;0
-Hugh;0
-Ewing;0
+Hugh;1
+Ewing;2
 and;0
-George;0
-Crook;0
+George;1
+Crook;2
 );0
 .;0
 # New sentence = James E. Cobb ( D ) , until April 21 , 1896;0
-James;0
-E.;0
-Cobb;0
+James;1
+E.;2
+Cobb;2
 (;0
 D;0
 );0
@@ -2423,10 +2424,10 @@ February;0
 1993;0
 .;0
 # New sentence = Love Field , Dallas;0
-Love;0
-Field;0
-,;0
-Dallas;0
+Love;5
+Field;6
+,;6
+Dallas;6
 # New sentence = '' Bicyclus milyas '' ( Hewitson , 1864 );0
 '';0
 Bicyclus;0
@@ -2437,16 +2438,16 @@ Hewitson;0
 ,;0
 1864;0
 );0
-# New sentence = Listen]] '' ( Beyonc√© );0
+# New sentence = Listen]] '' ( Beyonc );0
 Listen]];0
 '';0
 (;0
-Beyonc√©;0
+Beyonc;1
 );0
 # New sentence = Caecilius of Elvira;0
-Caecilius;0
-of;0
-Elvira;0
+Caecilius;1
+of;2
+Elvira;2
 # New sentence = ' '' Relatives '' ' : Adine , Dowager Viscountess Melbourne ( ''qv. '' Baron Forester );0
 ';0
 '';0
@@ -2454,7 +2455,7 @@ Relatives;0
 '';0
 ';0
 :;0
-Adine;0
+Adine;1
 ,;0
 Dowager;0
 Viscountess;0
@@ -2468,8 +2469,8 @@ Forester;0
 # New sentence = He joined Port Vale from the Londoners in June 1934 .;0
 He;0
 joined;0
-Port;0
-Vale;0
+Port;3
+Vale;4
 from;0
 the;0
 Londoners;0
@@ -2478,19 +2479,19 @@ June;0
 1934;0
 .;0
 # New sentence = Staunton , Virginia ( orig .;0
-Staunton;0
-,;0
-Virginia;0
+Staunton;5
+,;6
+Virginia;6
 (;0
 orig;0
 .;0
-# New sentence = Viscount of B√©ziers;0
+# New sentence = Viscount of Bziers;0
 Viscount;0
 of;0
-B√©ziers;0
+Bziers;0
 # New sentence = George Hill ( figure skater );0
-George;0
-Hill;0
+George;1
+Hill;2
 (;0
 figure;0
 skater;0
@@ -2503,13 +2504,13 @@ peafowl;0
 '';0
 ';0
 # New sentence = Harrison County , West Virginia;0
-Harrison;0
-County;0
-,;0
-West;0
-Virginia;0
-# New sentence = S√©malens ( 81281 );0
-S√©malens;0
+Harrison;5
+County;6
+,;6
+West;6
+Virginia;6
+# New sentence = Smalens ( 81281 );0
+Smalens;0
 (;0
 81281;0
 );0
@@ -2519,15 +2520,15 @@ was;0
 eventually;0
 wanted;0
 by;0
-Wyoming;0
-Stock;0
-Growers;0
-Association;0
+Wyoming;3
+Stock;4
+Growers;4
+Association;4
 and;0
 the;0
-Union;0
-Pacific;0
-Railroad;0
+Union;3
+Pacific;4
+Railroad;4
 ,;0
 which;0
 offered;0
@@ -2537,14 +2538,14 @@ his;0
 capture;0
 .;0
 # New sentence = Knockhill Racing Circuit , Fife;0
-Knockhill;0
-Racing;0
-Circuit;0
-,;0
-Fife;0
+Knockhill;5
+Racing;6
+Circuit;6
+,;6
+Fife;6
 # New sentence = Michael Marcus ( trader ) ( ''fl .;0
-Michael;0
-Marcus;0
+Michael;1
+Marcus;2
 (;0
 trader;0
 );0
@@ -2553,58 +2554,58 @@ trader;0
 .;0
 "# New sentence = ; Los Angeles Film Critics Association";0
 ";";0
-Los;0
-Angeles;0
-Film;0
-Critics;0
-Association;0
+Los;3
+Angeles;4
+Film;4
+Critics;4
+Association;4
 # New sentence = Writing for the Greek Orthodox Archdiocese of America , Rev .;0
 Writing;0
 for;0
 the;0
-Greek;0
-Orthodox;0
-Archdiocese;0
-of;0
-America;0
+Greek;3
+Orthodox;4
+Archdiocese;4
+of;4
+America;4
 ,;0
 Rev;0
 .;0
 # New sentence = Fernando de Noronha-Atol das Rocas moist forests ( Brazil );0
-Fernando;0
-de;0
-Noronha-Atol;0
-das;0
-Rocas;0
-moist;0
-forests;0
-(;0
-Brazil;0
-);0
+Fernando;5
+de;6
+Noronha-Atol;6
+das;6
+Rocas;6
+moist;6
+forests;6
+(;6
+Brazil;6
+);6
 # New sentence = 1 December - Billy Childish;0
 1;0
 December;0
 -;0
-Billy;0
-Childish;0
+Billy;1
+Childish;2
 # New sentence = He was born in Cleveland , Ohio .;0
 He;0
 was;0
 born;0
 in;0
-Cleveland;0
-,;0
-Ohio;0
+Cleveland;5
+,;6
+Ohio;6
 .;0
 # New sentence = Herman Daves ( 2 );0
-Herman;0
-Daves;0
+Herman;1
+Daves;2
 (;0
 2;0
 );0
 # New sentence = Hamilton Airport ( disambiguation );0
-Hamilton;0
-Airport;0
+Hamilton;5
+Airport;6
 (;0
 disambiguation;0
 );0
@@ -2619,11 +2620,11 @@ Red;0
 Seal;0
 Ships;0
 .;0
-# New sentence = ** –°–º–æ–ª–µ–Ω—Å–∫–∏–π —Ñ–∏–ª–∏–∞–ª –ú–ò–ò–¢ Smolensk;0
+# New sentence = ** __________ ______ ____ Smolensk;0
 **;0
-–°–º–æ–ª–µ–Ω—Å–∫–∏–π;0
-—Ñ–∏–ª–∏–∞–ª;0
-–ú–ò–ò–¢;0
+__________;0
+______;0
+____;0
 Smolensk;0
 # New sentence = It was destroyed in the 1941 German bombing of Belgrade .;0
 It;0
@@ -2637,18 +2638,18 @@ bombing;0
 of;0
 Belgrade;0
 .;0
-# New sentence = *June 24 ‚Äì Wally Yonamine;0
+# New sentence = *June 24  Wally Yonamine;0
 *June;0
 24;0
-‚Äì;0
-Wally;0
-Yonamine;0
+;0
+Wally;1
+Yonamine;2
 # New sentence = Raymond du Puy de Provence;0
-Raymond;0
-du;0
-Puy;0
-de;0
-Provence;0
+Raymond;1
+du;2
+Puy;2
+de;2
+Provence;2
 # New sentence = Baila Conmigo ( disambiguation );0
 Baila;0
 Conmigo;0
@@ -2656,12 +2657,12 @@ Conmigo;0
 disambiguation;0
 );0
 # New sentence = Lower West Pubnico , Nova Scotia;0
-Lower;0
-West;0
-Pubnico;0
-,;0
-Nova;0
-Scotia;0
+Lower;5
+West;6
+Pubnico;6
+,;6
+Nova;6
+Scotia;6
 # New sentence = 1851 first elected in 1909 as Liberal member for Lunenburg , Nova Scotia .;0
 1851;0
 first;0
@@ -2672,10 +2673,10 @@ as;0
 Liberal;0
 member;0
 for;0
-Lunenburg;0
-,;0
-Nova;0
-Scotia;0
+Lunenburg;5
+,;6
+Nova;6
+Scotia;6
 .;0
 # New sentence = The songs are sung by Asha Bhosle , Kishore Kumar , Lata Mangeshkar , Mukesh and Preeti Sagar .;0
 The;0
@@ -2683,28 +2684,28 @@ songs;0
 are;0
 sung;0
 by;0
-Asha;0
-Bhosle;0
+Asha;1
+Bhosle;2
 ,;0
-Kishore;0
-Kumar;0
+Kishore;1
+Kumar;2
 ,;0
-Lata;0
-Mangeshkar;0
+Lata;1
+Mangeshkar;2
 ,;0
-Mukesh;0
+Mukesh;1
 and;0
-Preeti;0
-Sagar;0
+Preeti;1
+Sagar;2
 .;0
 # New sentence = Ferdinand VI of Spain;0
-Ferdinand;0
-VI;0
+Ferdinand;1
+VI;2
 of;0
-Spain;0
+Spain;5
 # New sentence = Nick Swardson ( 5 appearances );0
-Nick;0
-Swardson;0
+Nick;1
+Swardson;2
 (;0
 5;0
 appearances;0
@@ -2714,33 +2715,33 @@ It;0
 was;0
 designed;0
 by;0
-George;0
-Goldie;0
+George;1
+Goldie;2
 .;0
-# New sentence = Park G√ºell , Plaza Mayor , Madrid , Poblet Monastery , Puente del Alamillo;0
-Park;0
-G√ºell;0
-,;0
-Plaza;0
-Mayor;0
-,;0
-Madrid;0
-,;0
-Poblet;0
-Monastery;0
-,;0
-Puente;0
-del;0
-Alamillo;0
-# New sentence = Chichica , Ng√∂be-Bugl√©;0
-Chichica;0
-,;0
-Ng√∂be-Bugl√©;0
+# New sentence = Park Gell , Plaza Mayor , Madrid , Poblet Monastery , Puente del Alamillo;0
+Park;5
+Gell;6
+,;6
+Plaza;6
+Mayor;6
+,;6
+Madrid;6
+,;6
+Poblet;6
+Monastery;6
+,;6
+Puente;6
+del;6
+Alamillo;6
+# New sentence = Chichica , Ngbe-Bugl;0
+Chichica;5
+,;6
+Ngbe-Bugl;6
 # New sentence = 13 groups from Finland;0
 13;0
 groups;0
 from;0
-Finland;0
+Finland;5
 # New sentence = '' 'Counties served : ' '' Athens , Gallia , Hocking , Meigs , Monroe , Morgan , Noble , Vinton , Washington;0
 '';0
 'Counties;0
@@ -2748,23 +2749,23 @@ served;0
 :;0
 ';0
 '';0
-Athens;0
+Athens;5
 ,;0
-Gallia;0
+Gallia;5
 ,;0
-Hocking;0
+Hocking;5
 ,;0
-Meigs;0
+Meigs;5
 ,;0
-Monroe;0
+Monroe;5
 ,;0
-Morgan;0
+Morgan;5
 ,;0
-Noble;0
+Noble;5
 ,;0
-Vinton;0
+Vinton;5
 ,;0
-Washington;0
+Washington;5
 # New sentence = Stripe-throated hermit , ''Phaethornis striigularis '';0
 Stripe-throated;0
 hermit;0
@@ -2780,20 +2781,20 @@ diplozona;0
 Meyrick;0
 ,;0
 1921;0
-# New sentence = Barry Ackerley , owner of the Seattle SuperSonics ( 2000‚Äì2001 );0
-Barry;0
-Ackerley;0
+# New sentence = Barry Ackerley , owner of the Seattle SuperSonics ( 20002001 );0
+Barry;1
+Ackerley;2
 ,;0
 owner;0
 of;0
-the;0
-Seattle;0
-SuperSonics;0
+the;3
+Seattle;4
+SuperSonics;4
 (;0
-2000‚Äì2001;0
+20002001;0
 );0
 # New sentence = Wenennefer ( High Priest of Osiris ) , from the time of Ramesses II .;0
-Wenennefer;0
+Wenennefer;1
 (;0
 High;0
 Priest;0
@@ -2805,21 +2806,21 @@ from;0
 the;0
 time;0
 of;0
-Ramesses;0
-II;0
+Ramesses;1
+II;2
 .;0
 # New sentence = It was directed by Milan Cheylov .;0
 It;0
 was;0
 directed;0
 by;0
-Milan;0
+Milan;12
 Cheylov;0
 .;0
 # New sentence = There are 2,000 troops stationed on site with 600 houses for married personnel between Wattisham , Hadleigh and Ipswich .;0
 There;0
 are;0
-2,000;0
+2;0
 troops;0
 stationed;0
 on;0
@@ -2831,21 +2832,21 @@ for;0
 married;0
 personnel;0
 between;0
-Wattisham;0
+Wattisham;5
 ,;0
-Hadleigh;0
+Hadleigh;5
 and;0
-Ipswich;0
+Ipswich;5
 .;0
 # New sentence = Choctaw County , Alabama;0
-Choctaw;0
-County;0
-,;0
-Alabama;0
+Choctaw;5
+County;6
+,;6
+Alabama;6
 # New sentence = ' '' Bernaville '' ';0
 ';0
 '';0
-Bernaville;0
+Bernaville;5
 '';0
 ';0
 # New sentence = ' '' Color : ' '' Jackie Stewart;0
@@ -2855,8 +2856,8 @@ Color;0
 :;0
 ';0
 '';0
-Jackie;0
-Stewart;0
+Jackie;1
+Stewart;2
 # New sentence = The filming began at Kochi at November 17 , 2013 .;0
 The;0
 filming;0
@@ -2879,20 +2880,20 @@ Hymnal;0
 '';0
 ';0
 '';0
-# New sentence = Janata Dal ( United );0
-Janata;0
-Dal;0
-(;0
-United;0
-);0
+# New sentence = Janata Dal ( United );3
+Janata;4
+Dal;4
+(;4
+United;4
+);4
 # New sentence = He was subsequently replaced by Eddie Mathews .;0
 He;0
 was;0
 subsequently;0
 replaced;0
 by;0
-Eddie;0
-Mathews;0
+Eddie;1
+Mathews;2
 .;0
 # New sentence = After retiring from academic life he returned to Toronto , living near the area of Yorkville .;0
 After;0
@@ -2903,14 +2904,14 @@ life;0
 he;0
 returned;0
 to;0
-Toronto;0
+Toronto;5
 ,;0
 living;0
 near;0
 the;0
 area;0
 of;0
-Yorkville;0
+Yorkville;5
 .;0
 # New sentence = For this week , the contestants spent most of the week on a trip in the Grand Canyon .;0
 For;0
@@ -2929,40 +2930,40 @@ a;0
 trip;0
 in;0
 the;0
-Grand;0
-Canyon;0
+Grand;5
+Canyon;6
 .;0
 # New sentence = Korean Buddhist temples;0
-Korean;0
-Buddhist;0
-temples;0
-# New sentence = Raw '' ( 2008‚Äìpresent );0
+Korean;3
+Buddhist;4
+temples;4
+# New sentence = Raw '' ( 2008present );0
 Raw;0
 '';0
 (;0
-2008‚Äìpresent;0
+2008present;0
 );0
 # New sentence = Generations from Exile Tribe ( 1 );0
-Generations;0
-from;0
-Exile;0
-Tribe;0
+Generations;3
+from;4
+Exile;4
+Tribe;4
 (;0
 1;0
 );0
-# New sentence = Martin O'Connell , Liberal ( 1968‚Äì1972 );0
-Martin;0
-O'Connell;0
+# New sentence = Martin O'Connell , Liberal ( 19681972 );0
+Martin;1
+O'Connell;2
 ,;0
 Liberal;0
 (;0
-1968‚Äì1972;0
+19681972;0
 );0
-# New sentence = Karl Goldmark ( 1830‚Äì1915 ) , composer;0
-Karl;0
-Goldmark;0
+# New sentence = Karl Goldmark ( 18301915 ) , composer;0
+Karl;1
+Goldmark;2
 (;0
-1830‚Äì1915;0
+18301915;0
 );0
 ,;0
 composer;0
@@ -2980,9 +2981,9 @@ It;0
 is;0
 headquartered;0
 in;0
-Philadelphia;0
-,;0
-Pennsylvania;0
+Philadelphia;5
+,;6
+Pennsylvania;6
 with;0
 offices;0
 and;0
@@ -2994,52 +2995,52 @@ other;0
 countries;0
 .;0
 # New sentence = Covington County , Mississippi;0
-Covington;0
-County;0
-,;0
-Mississippi;0
-# New sentence = Mario Aburto Mart√≠nez;0
-Mario;0
-Aburto;0
-Mart√≠nez;0
+Covington;5
+County;6
+,;6
+Mississippi;6
+# New sentence = Mario Aburto Martnez;0
+Mario;1
+Aburto;2
+Martnez;2
 # New sentence = Bartlesville , Oklahoma ( 1994 );0
-Bartlesville;0
-,;0
-Oklahoma;0
+Bartlesville;5
+,;6
+Oklahoma;6
 (;0
 1994;0
 );0
-# New sentence = Zbigniew Herbert ‚Äì ''Napis '';0
-Zbigniew;0
-Herbert;0
-‚Äì;0
+# New sentence = Zbigniew Herbert  ''Napis '';0
+Zbigniew;1
+Herbert;2
+;0
 ''Napis;0
 '';0
 # New sentence = Ted Forrest ( 0 / 5 );0
-Ted;0
-Forrest;0
+Ted;1
+Forrest;2
 (;0
 0;0
 /;0
 5;0
 );0
-# New sentence = Bohusl√§n , seat no .;0
-Bohusl√§n;0
+# New sentence = Bohusln , seat no .;0
+Bohusln;5
 ,;0
 seat;0
 no;0
 .;0
 # New sentence = Dunmurry Recreation F.C .;0
-Dunmurry;0
-Recreation;0
-F.C;0
-.;0
+Dunmurry;3
+Recreation;4
+F.C;4
+.;4
 # New sentence = *1987 : The Icicle Works - If You Want to Defeat Your Enemy , Sing His Song '';0
 *1987;0
 :;0
-The;0
-Icicle;0
-Works;0
+The;3
+Icicle;4
+Works;4
 -;0
 If;0
 You;0
@@ -3060,18 +3061,18 @@ Aprilia;0
 '';0
 ';0
 # New sentence = Henry Shepherd Pearson , Esq .;0
-Henry;0
-Shepherd;0
-Pearson;0
+Henry;1
+Shepherd;2
+Pearson;2
 ,;0
 Esq;0
 .;0
 # New sentence = Jim Lampley and Bob Costas;0
-Jim;0
-Lampley;0
+Jim;1
+Lampley;2
 and;0
-Bob;0
-Costas;0
+Bob;1
+Costas;2
 # New sentence = His notable roles are that of Malcolm Winters on The Young and the Restless '' from 1994 to 2005 , Derek Morgan on CBS 's Criminal Minds '' from 2005 to 2016 , and as the third permanent host of Soul Train '' from 1999 to 2003 .;0
 His;0
 notable;0
@@ -3079,8 +3080,8 @@ roles;0
 are;0
 that;0
 of;0
-Malcolm;0
-Winters;0
+Malcolm;1
+Winters;2
 on;0
 The;0
 Young;0
@@ -3093,10 +3094,10 @@ from;0
 to;0
 2005;0
 ,;0
-Derek;0
-Morgan;0
+Derek;1
+Morgan;2
 on;0
-CBS;0
+CBS;3
 's;0
 Criminal;0
 Minds;0
@@ -3122,9 +3123,9 @@ to;0
 2003;0
 .;0
 # New sentence = LaSalle , Quebec;0
-LaSalle;0
-,;0
-Quebec;0
+LaSalle;5
+,;6
+Quebec;6
 # New sentence = This Is Wonderland '' ( 2005 ) ( 1 Episode );0
 This;0
 Is;0
@@ -3140,37 +3141,37 @@ Episode;0
 # New sentence = ' '' Harry Weetman '' ';0
 ';0
 '';0
-Harry;0
-Weetman;0
+Harry;1
+Weetman;2
 '';0
 ';0
 # New sentence = John Woods ( A );0
-John;0
-Woods;0
+John;1
+Woods;2
 (;0
 A;0
 );0
-# New sentence = Uli Forte ( 13 May 2016 ‚Äì );0
-Uli;0
-Forte;0
+# New sentence = Uli Forte ( 13 May 2016  );0
+Uli;1
+Forte;2
 (;0
 13;0
 May;0
 2016;0
-‚Äì;0
+;0
 );0
 # New sentence = Deerfield Township ( northeast );0
-Deerfield;0
-Township;0
-(;0
-northeast;0
-);0
-# New sentence = Communes of the C√¥te-d'Or department;0
-Communes;0
-of;0
-the;0
-C√¥te-d'Or;0
-department;0
+Deerfield;5
+Township;6
+(;6
+northeast;6
+);6
+# New sentence = Communes of the Cte-d'Or department;0
+Communes;3
+of;4
+the;4
+Cte-d'Or;4
+department;4
 # New sentence = In 1990 , they debuted with War Music '' , which was issued independently by their own label V.R .;0
 In;0
 1990;0
@@ -3193,117 +3194,117 @@ label;0
 V.R;0
 .;0
 # New sentence = Theater Bonn , Bonn;0
-Theater;0
-Bonn;0
-,;0
-Bonn;0
+Theater;5
+Bonn;6
+,;6
+Bonn;6
 # New sentence = Spuyten Duyvil , Bronx;0
-Spuyten;0
-Duyvil;0
-,;0
-Bronx;0
+Spuyten;5
+Duyvil;6
+,;6
+Bronx;6
 # New sentence = He has played with Urban Creep .;0
 He;0
 has;0
 played;0
 with;0
-Urban;0
-Creep;0
+Urban;3
+Creep;4
 .;0
 # New sentence = William Denison , 1st Earl of Londesborough;0
-William;0
-Denison;0
+William;1
+Denison;2
 ,;0
 1st;0
 Earl;0
 of;0
 Londesborough;0
 # New sentence = Ridgeville Township , Lorain County , Ohio ( defunct );0
-Ridgeville;0
-Township;0
-,;0
-Lorain;0
-County;0
-,;0
-Ohio;0
+Ridgeville;5
+Township;6
+,;6
+Lorain;6
+County;6
+,;6
+Ohio;6
 (;0
 defunct;0
 );0
 # New sentence = Le Perreux-sur-Marne , France;0
-Le;0
-Perreux-sur-Marne;0
-,;0
-France;0
-# New sentence = Adam Joseph Cardinal Maida ( 1964 ) ‚Äì Cardinal , Archbishop of Detroit ( 1990‚Äìpresent );0
-Adam;0
-Joseph;0
+Le;5
+Perreux-sur-Marne;6
+,;6
+France;6
+# New sentence = Adam Joseph Cardinal Maida ( 1964 )  Cardinal , Archbishop of Detroit ( 1990present );0
+Adam;1
+Joseph;2
 Cardinal;0
 Maida;0
 (;0
 1964;0
 );0
-‚Äì;0
+;0
 Cardinal;0
 ,;0
 Archbishop;0
 of;0
 Detroit;0
 (;0
-1990‚Äìpresent;0
+1990present;0
 );0
 # New sentence = Bruce Cockburn ( 1992 );0
-Bruce;0
-Cockburn;0
+Bruce;1
+Cockburn;2
 (;0
 1992;0
 );0
-# New sentence = Post‚ÄìWorld War II air-to-air combat losses;0
-Post‚ÄìWorld;0
+# New sentence = PostWorld War II air-to-air combat losses;0
+PostWorld;0
 War;0
 II;0
 air-to-air;0
 combat;0
 losses;0
-# New sentence = 2008‚Äì09 Missouri Tigers men 's basketball team;0
-2008‚Äì09;0
-Missouri;0
-Tigers;0
+# New sentence = 200809 Missouri Tigers men 's basketball team;0
+200809;0
+Missouri;3
+Tigers;4
 men;0
 's;0
 basketball;0
 team;0
-# New sentence = ' '' S√©bastien Lareau Alex O'Brien '' ' 6‚Äì4 , 6‚Äì4;0
+# New sentence = ' '' Sbastien Lareau Alex O'Brien '' ' 64 , 64;0
 ';0
 '';0
-S√©bastien;0
-Lareau;0
-Alex;0
-O'Brien;0
+Sbastien;1
+Lareau;2
+Alex;2
+O'Brien;2
 '';0
 ';0
-6‚Äì4;0
+64;0
 ,;0
-6‚Äì4;0
+64;0
 # New sentence = They were performed by the New York Philharmonic under Zubin Mehta and the Buffalo Philharmonic under Michael Tilson Thomas .;0
 They;0
 were;0
 performed;0
 by;0
-the;0
-New;0
-York;0
-Philharmonic;0
+the;3
+New;4
+York;4
+Philharmonic;4
 under;0
-Zubin;0
-Mehta;0
+Zubin;1
+Mehta;2
 and;0
 the;0
-Buffalo;0
-Philharmonic;0
+Buffalo;3
+Philharmonic;4
 under;0
-Michael;0
-Tilson;0
-Thomas;0
+Michael;1
+Tilson;2
+Thomas;2
 .;0
 # New sentence = *2007 : Perfect Day '';0
 *2007;0
@@ -3311,13 +3312,13 @@ Thomas;0
 Perfect;0
 Day;0
 '';0
-# New sentence = Major General Andrew Stewart ( 2004‚Äì2006 );0
+# New sentence = Major General Andrew Stewart ( 20042006 );0
 Major;0
 General;0
-Andrew;0
-Stewart;0
+Andrew;1
+Stewart;2
 (;0
-2004‚Äì2006;0
+20042006;0
 );0
 # New sentence = The album was newly mixed by producer Glyn Johns for release in 2013 .;0
 The;0
@@ -3327,23 +3328,23 @@ newly;0
 mixed;0
 by;0
 producer;0
-Glyn;0
-Johns;0
+Glyn;1
+Johns;2
 for;0
 release;0
 in;0
 2013;0
 .;0
 # New sentence = Marks , Mississippi;0
-Marks;0
-,;0
-Mississippi;0
+Marks;5
+,;6
+Mississippi;6
 # New sentence = Heads of government of Benin;0
 Heads;0
 of;0
 government;0
 of;0
-Benin;0
+Benin;5
 # New sentence = On July 2014 joined on loan to Prato .;0
 On;0
 July;0
@@ -3352,63 +3353,63 @@ joined;0
 on;0
 loan;0
 to;0
-Prato;0
+Prato;5
 .;0
-# New sentence = Ana√Øs Lameche ‚Äì lead vocalist;0
-Ana√Øs;0
-Lameche;0
-‚Äì;0
+# New sentence = Anas Lameche  lead vocalist;0
+Anas;1
+Lameche;2
+;0
 lead;0
 vocalist;0
-# New sentence = '' Death Valley Days '' , 1962‚Äì1965 , starring Ronald Reagan .;0
+# New sentence = '' Death Valley Days '' , 19621965 , starring Ronald Reagan .;0
 '';0
 Death;0
 Valley;0
 Days;0
 '';0
 ,;0
-1962‚Äì1965;0
+19621965;0
 ,;0
 starring;0
-Ronald;0
-Reagan;0
+Ronald;1
+Reagan;2
 .;0
 # New sentence = MMS receive and send;0
 MMS;0
 receive;0
 and;0
 send;0
-# New sentence = Auburn Arena ‚Ä¢ Auburn , AL;0
-Auburn;0
-Arena;0
-‚Ä¢;0
-Auburn;0
-,;0
-AL;0
+# New sentence = Auburn Arena  Auburn , AL;0
+Auburn;5
+Arena;6
+;6
+Auburn;6
+,;6
+AL;6
 # New sentence = Merrillville]] , Indiana , United States;0
-Merrillville]];0
-,;0
-Indiana;0
-,;0
-United;0
-States;0
-# New sentence = Sieges of Oran and Mers El K√©bir;0
+Merrillville]];5
+,;6
+Indiana;6
+,;6
+United;6
+States;6
+# New sentence = Sieges of Oran and Mers El Kbir;0
 Sieges;0
 of;0
 Oran;0
 and;0
 Mers;0
 El;0
-K√©bir;0
+Kbir;0
 # New sentence = 2003 : A. Richard Newton;0
 2003;0
 :;0
-A.;0
-Richard;0
-Newton;0
+A.;1
+Richard;2
+Newton;2
 # New sentence = Sans Souci '' ( 2003 );0
-Sans;0
-Souci;0
+Sans;5
+Souci;6
 '';0
 (;0
 2003;0
@@ -3426,8 +3427,8 @@ fuligula;0
 :;0
 ';0
 '';0
-Louise;0
-Smit;0
+Louise;1
+Smit;2
 # New sentence = Events in the year ' '' 1841 in India '' ' .;0
 Events;0
 in;0
@@ -3437,78 +3438,78 @@ year;0
 '';0
 1841;0
 in;0
-India;0
+India;5
 '';0
 ';0
 .;0
-# New sentence = Touma√Ø Air Tchad;0
-Touma√Ø;0
-Air;0
-Tchad;0
+# New sentence = Touma Air Tchad;0
+Touma;3
+Air;4
+Tchad;4
 # New sentence = ) and Commerzbank AG .;0
 );0
 and;0
-Commerzbank;0
-AG;0
+Commerzbank;3
+AG;4
 .;0
 # New sentence = In 2002 the Ministry of Foreign Trade merged with the Ministry of Economic Development and became the Ministry of Commerce , Industry , and Tourism .;0
 In;0
 2002;0
 the;0
-Ministry;0
-of;0
-Foreign;0
-Trade;0
+Ministry;3
+of;4
+Foreign;4
+Trade;4
 merged;0
 with;0
 the;0
-Ministry;0
-of;0
-Economic;0
-Development;0
+Ministry;3
+of;4
+Economic;4
+Development;4
 and;0
 became;0
 the;0
-Ministry;0
-of;0
-Commerce;0
-,;0
-Industry;0
-,;0
-and;0
-Tourism;0
+Ministry;3
+of;4
+Commerce;4
+,;4
+Industry;4
+,;4
+and;4
+Tourism;4
 .;0
-# New sentence = Cathedral of √âvora;0
-Cathedral;0
-of;0
-√âvora;0
+# New sentence = Cathedral of vora;0
+Cathedral;5
+of;6
+vora;6
 # New sentence = Shae-Lynn Bourne / Victor Kraatz;0
-Shae-Lynn;0
-Bourne;0
+Shae-Lynn;1
+Bourne;2
 /;0
-Victor;0
-Kraatz;0
-# New sentence = Siege of Luxembourg ( 1794‚Äì95 );0
-Siege;0
-of;0
-Luxembourg;0
+Victor;1
+Kraatz;2
+# New sentence = Siege of Luxembourg ( 179495 );0
+Siege;5
+of;6
+Luxembourg;6
 (;0
-1794‚Äì95;0
+179495;0
 );0
 # New sentence = Newcastle upon Tyne Central ( UK Parliament constituency );0
-Newcastle;0
+Newcastle;5
 upon;0
-Tyne;0
-Central;0
+Tyne;5
+Central;6
 (;0
-UK;0
-Parliament;0
-constituency;0
+UK;3
+Parliament;4
+constituency;4
 );0
 # New sentence = Morgan , Texas;0
-Morgan;0
-,;0
-Texas;0
+Morgan;5
+,;6
+Texas;6
 # New sentence = Loveridge 's tree frog;0
 Loveridge;0
 's;0
@@ -3537,57 +3538,57 @@ September;0
 2008;0
 .;0
 # New sentence = Central Electro Chemical Research Institute;0
-Central;0
-Electro;0
-Chemical;0
-Research;0
-Institute;0
+Central;3
+Electro;4
+Chemical;4
+Research;4
+Institute;4
 # New sentence = Aguri Suzuki / Masahiko Kageyama;0
-Aguri;0
-Suzuki;0
+Aguri;1
+Suzuki;2
 /;0
-Masahiko;0
-Kageyama;0
+Masahiko;1
+Kageyama;2
 # New sentence = Andrew Ilie '' ( Second Round );0
-Andrew;0
-Ilie;0
+Andrew;1
+Ilie;2
 '';0
 (;0
 Second;0
 Round;0
 );0
 # New sentence = Tolombeh-ye Beniyad Mastezafan;0
-Tolombeh-ye;0
-Beniyad;0
-Mastezafan;0
+Tolombeh-ye;5
+Beniyad;6
+Mastezafan;6
 # New sentence = ' '' Rika Fujiwara '' ' ' '' Saori Obata '' ';0
 ';0
 '';0
-Rika;0
-Fujiwara;0
+Rika;1
+Fujiwara;2
 '';0
 ';0
 ';0
 '';0
-Saori;0
-Obata;0
+Saori;1
+Obata;2
 '';0
 ';0
 # New sentence = **Embach in Dorfen , Erding , Upper Bavaria;0
-**Embach;0
-in;0
-Dorfen;0
-,;0
-Erding;0
-,;0
-Upper;0
-Bavaria;0
-# New sentence = 1983‚Äì84 NHL season;0
-1983‚Äì84;0
+**Embach;5
+in;6
+Dorfen;6
+,;6
+Erding;6
+,;6
+Upper;6
+Bavaria;6
+# New sentence = 198384 NHL season;0
+198384;0
 NHL;0
 season;0
-# New sentence = –ë–∞—Ç—É–º [Batum , `` Batumi '' ] .;0
-–ë–∞—Ç—É–º;0
+# New sentence = _____ [Batum , `` Batumi '' ] .;0
+_____;0
 [Batum;0
 ,;0
 ``;0
@@ -3596,26 +3597,26 @@ Batumi;0
 ];0
 .;0
 # New sentence = Cinema Museum of Thessaloniki;0
-Cinema;0
-Museum;0
-of;0
-Thessaloniki;0
+Cinema;5
+Museum;6
+of;6
+Thessaloniki;6
 # New sentence = Round Harbour , Fortune Bay , Newfoundland and Labrador;0
-Round;0
-Harbour;0
+Round;5
+Harbour;6
 ,;0
-Fortune;0
-Bay;0
+Fortune;3
+Bay;4
 ,;0
-Newfoundland;0
+Newfoundland;5
 and;0
 Labrador;0
-# New sentence = :5 strokes ‚Äì Walter Morgan , 1996 Ameritech Senior Open;0
+# New sentence = :5 strokes  Walter Morgan , 1996 Ameritech Senior Open;0
 :5;0
 strokes;0
-‚Äì;0
-Walter;0
-Morgan;0
+;0
+Walter;1
+Morgan;2
 ,;0
 1996;0
 Ameritech;0
@@ -3626,27 +3627,27 @@ It;0
 is;0
 named;0
 after;0
-Loch;0
-Broom;0
+Loch;1
+Broom;2
 (;0
 );0
 in;0
-Scotland;0
+Scotland;5
 .;0
 # New sentence = Toivo Kuula ( 1983 );0
-Toivo;0
-Kuula;0
+Toivo;1
+Kuula;2
 (;0
 1983;0
 );0
-# New sentence = Colegio Maestro √Åvila;0
-Colegio;0
-Maestro;0
-√Åvila;0
+# New sentence = Colegio Maestro vila;0
+Colegio;5
+Maestro;6
+vila;6
 # New sentence = Renan Bardini Bressan;0
-Renan;0
-Bardini;0
-Bressan;0
+Renan;1
+Bardini;2
+Bressan;2
 # New sentence = I 'm Here to Help '';0
 I;0
 'm;0
@@ -3662,10 +3663,10 @@ played;0
 matches;0
 for;0
 the;0
-Norway;0
-national;0
-handball;0
-team;0
+Norway;3
+national;4
+handball;4
+team;4
 between;0
 2005;0
 and;0
@@ -3677,90 +3678,90 @@ was;0
 raised;0
 partially;0
 in;0
-Mantua;0
+Mantua;5
 .;0
 # New sentence = George William Smith ( sportsman );0
-George;0
-William;0
-Smith;0
+George;1
+William;2
+Smith;3
 (;0
 sportsman;0
 );0
 # New sentence = Gaetano de Lai;0
-Gaetano;0
-de;0
-Lai;0
+Gaetano;1
+de;2
+Lai;2
 # New sentence = '' Caribou Kitchen '';0
 '';0
 Caribou;0
 Kitchen;0
 '';0
 # New sentence = William Henry Bartlett;0
-William;0
-Henry;0
-Bartlett;0
+William;1
+Henry;2
+Bartlett;2
 # New sentence = Sadhana Sargam , Kavita Krishnamurthy;0
-Sadhana;0
-Sargam;0
+Sadhana;1
+Sargam;2
 ,;0
-Kavita;0
-Krishnamurthy;0
+Kavita;1
+Krishnamurthy;2
 # New sentence = Jiyin ( Dingtao County , Shandong );0
-Jiyin;0
-(;0
-Dingtao;0
-County;0
-,;0
-Shandong;0
-);0
+Jiyin;5
+(;6
+Dingtao;6
+County;6
+,;6
+Shandong;6
+);6
 # New sentence = Samuel Jordan Kirkwood , Iowa;0
-Samuel;0
-Jordan;0
-Kirkwood;0
+Samuel;1
+Jordan;2
+Kirkwood;2
 ,;0
-Iowa;0
+Iowa;5
 # New sentence = Israel Isidor Elyashev;0
-Israel;0
-Isidor;0
-Elyashev;0
+Israel;1
+Isidor;2
+Elyashev;2
 # New sentence = Gerald Wallace ( 11 );0
-Gerald;0
-Wallace;0
+Gerald;1
+Wallace;2
 (;0
 11;0
 );0
-# New sentence = ‚Ä¢ Kljajiƒáevo ( 6012 );0
-‚Ä¢;0
-Kljajiƒáevo;0
+# New sentence =  Kljaji_evo ( 6012 );0
+;0
+Kljaji_evo;5
 (;0
 6012;0
 );0
 # New sentence = He attended St. Bernard High School ( Los Angeles , California ) , before transferring to Beverly Hills High School in Beverly Hills , California .;0
 He;0
 attended;0
-St.;0
-Bernard;0
-High;0
-School;0
+St.;3
+Bernard;4
+High;4
+School;4
 (;0
-Los;0
-Angeles;0
-,;0
-California;0
+Los;5
+Angeles;6
+,;6
+California;6
 );0
 ,;0
 before;0
 transferring;0
 to;0
-Beverly;0
-Hills;0
-High;0
-School;0
+Beverly;3
+Hills;4
+High;4
+School;4
 in;0
-Beverly;0
-Hills;0
-,;0
-California;0
+Beverly;5
+Hills;6
+,;6
+California;6
 .;0
 # New sentence = The Guardian ( TV series );0
 The;0
@@ -3770,9 +3771,9 @@ TV;0
 series;0
 );0
 # New sentence = Ellesmere Port Dock;0
-Ellesmere;0
-Port;0
-Dock;0
+Ellesmere;5
+Port;6
+Dock;6
 # New sentence = The first protest was one of the largest that Turkey had seen in years until then .;0
 The;0
 first;0
@@ -3783,7 +3784,7 @@ of;0
 the;0
 largest;0
 that;0
-Turkey;0
+Turkey;5
 had;0
 seen;0
 in;0
@@ -3792,23 +3793,23 @@ until;0
 then;0
 .;0
 # New sentence = Sekolah Berasrama Penuh Integrasi Gombak ( InteGomb ) , Selangor;0
-Sekolah;0
-Berasrama;0
-Penuh;0
-Integrasi;0
-Gombak;0
-(;0
-InteGomb;0
-);0
+Sekolah;3
+Berasrama;4
+Penuh;4
+Integrasi;4
+Gombak;4
+(;4
+InteGomb;4
+);4
 ,;0
-Selangor;0
-# New sentence = Ananda Lewis ‚Äì correspondent ( 2004‚Äì2005 );0
-Ananda;0
-Lewis;0
-‚Äì;0
+Selangor;5
+# New sentence = Ananda Lewis  correspondent ( 20042005 );0
+Ananda;1
+Lewis;2
+;0
 correspondent;0
 (;0
-2004‚Äì2005;0
+20042005;0
 );0
 # New sentence = Miss World 2006 - Unplaced;0
 Miss;0
@@ -3818,38 +3819,38 @@ World;0
 Unplaced;0
 # New sentence = ** Pascal-Firmin Ndimira .;0
 **;0
-Pascal-Firmin;0
-Ndimira;0
+Pascal-Firmin;1
+Ndimira;2
 .;0
 # New sentence = He was born in Springfield , Massachusetts .;0
 He;0
 was;0
 born;0
 in;0
-Springfield;0
-,;0
-Massachusetts;0
+Springfield;5
+,;6
+Massachusetts;6
 .;0
 # New sentence = Carole Bouquet , Philippe Noiret , Josiane Balasko , Marie-Anne Chazel , Christian Clavier ...;0
-Carole;0
-Bouquet;0
+Carole;1
+Bouquet;2
 ,;0
-Philippe;0
-Noiret;0
+Philippe;1
+Noiret;2
 ,;0
-Josiane;0
-Balasko;0
+Josiane;1
+Balasko;2
 ,;0
-Marie-Anne;0
-Chazel;0
+Marie-Anne;1
+Chazel;2
 ,;0
-Christian;0
-Clavier;0
+Christian;1
+Clavier;2
 ...;0
 # New sentence = FCF Como 2000;0
-FCF;0
-Como;0
-2000;0
+FCF;3
+Como;4
+2000;4
 # New sentence = ( From bottom left to bottom right ) Michael Fishman as D.J .;0
 (;0
 From;0
@@ -3859,8 +3860,8 @@ to;0
 bottom;0
 right;0
 );0
-Michael;0
-Fishman;0
+Michael;1
+Fishman;2
 as;0
 D.J;0
 .;0
@@ -3869,21 +3870,21 @@ He;0
 was;0
 buried;0
 at;0
-Arlington;0
-National;0
-Cemetery;0
+Arlington;5
+National;6
+Cemetery;6
 .;0
-# New sentence = ' '' Kumiko Iijima Yurika Sema '' ' 6‚Äì4 6‚Äì1;0
+# New sentence = ' '' Kumiko Iijima Yurika Sema '' ' 64 61;0
 ';0
 '';0
-Kumiko;0
-Iijima;0
-Yurika;0
-Sema;0
+Kumiko;1
+Iijima;2
+Yurika;1
+Sema;2
 '';0
 ';0
-6‚Äì4;0
-6‚Äì1;0
+64;0
+61;0
 # New sentence = Speaker of the House of Representatives : Champ Clark ( D );0
 Speaker;0
 of;0
@@ -3892,39 +3893,39 @@ House;0
 of;0
 Representatives;0
 :;0
-Champ;0
-Clark;0
+Champ;1
+Clark;2
 (;0
 D;0
 );0
-# New sentence = ' '' ' '' - Sanja Papiƒá;0
+# New sentence = ' '' ' '' - Sanja Papi_;0
 ';0
 '';0
 ';0
 '';0
 -;0
-Sanja;0
-Papiƒá;0
+Sanja;1
+Papi_;2
 # New sentence = He studied in Bapatla Engineering College .;0
 He;0
 studied;0
 in;0
-Bapatla;0
-Engineering;0
-College;0
+Bapatla;3
+Engineering;4
+College;4
 .;0
 # New sentence = Kosarzyn , Greater Poland Voivodeship;0
-Kosarzyn;0
-,;0
-Greater;0
-Poland;0
+Kosarzyn;5
+,;6
+Greater;6
+Poland;6
 Voivodeship;0
 # New sentence = From 1904 onwards Charlie Chaplin trod the boards as a teenager .;0
 From;0
 1904;0
 onwards;0
-Charlie;0
-Chaplin;0
+Charlie;1
+Chaplin;2
 trod;0
 the;0
 boards;0
@@ -3941,25 +3942,25 @@ Libert;0
 ,;0
 1998;0
 # New sentence = National and Local Government Officers ' Association;0
-National;0
-and;0
-Local;0
-Government;0
-Officers;0
-';0
-Association;0
+National;3
+and;4
+Local;4
+Government;4
+Officers;4
+';4
+Association;4
 # New sentence = Sir Philip Carteret , 2nd Baronet;0
 Sir;0
-Philip;0
-Carteret;0
+Philip;1
+Carteret;2
 ,;0
 2nd;0
 Baronet;0
 # New sentence = Barice , Stari Grad;0
-Barice;0
-,;0
-Stari;0
-Grad;0
+Barice;5
+,;6
+Stari;6
+Grad;6
 # New sentence = '' OVO '' ( 2000 );0
 '';0
 OVO;0
@@ -3968,9 +3969,9 @@ OVO;0
 2000;0
 );0
 # New sentence = Donald W. Reynolds;0
-Donald;0
-W.;0
-Reynolds;0
+Donald;1
+W.;2
+Reynolds;2
 # New sentence = It is found in Europe .;0
 It;0
 is;0
@@ -3982,23 +3983,23 @@ Europe;0
 *Assistant;0
 Manager;0
 :;0
-Lee;0
-Nogan;0
-# New sentence = ' '' John McEnroe '' ' defeated Sandy Mayer 6‚Äì7 , 6‚Äì3 , 6‚Äì3;0
+Lee;1
+Nogan;2
+# New sentence = ' '' John McEnroe '' ' defeated Sandy Mayer 67 , 63 , 63;0
 ';0
 '';0
-John;0
-McEnroe;0
+John;1
+McEnroe;2
 '';0
 ';0
 defeated;0
-Sandy;0
-Mayer;0
-6‚Äì7;0
+Sandy;1
+Mayer;2
+67;0
 ,;0
-6‚Äì3;0
+63;0
 ,;0
-6‚Äì3;0
+63;0
 # New sentence = Years later , this approach would be labeled as `` Hot adult contemporary .;0
 Years;0
 later;0
@@ -4015,20 +4016,20 @@ adult;0
 contemporary;0
 .;0
 # New sentence = Siemionki , Kuyavian-Pomeranian Voivodeship;0
-Siemionki;0
-,;0
-Kuyavian-Pomeranian;0
-Voivodeship;0
+Siemionki;5
+,;6
+Kuyavian-Pomeranian;6
+Voivodeship;6
 # New sentence = One exists at Jiangyin , Jiangsu Province , China .;0
 One;0
 exists;0
 at;0
-Jiangyin;0
-,;0
-Jiangsu;0
-Province;0
-,;0
-China;0
+Jiangyin;5
+,;6
+Jiangsu;6
+Province;6
+,;6
+China;6
 .;0
 # New sentence = '' Tinik Sa Dibdib '' ( 1985 );0
 '';0
@@ -4039,85 +4040,85 @@ Dibdib;0
 (;0
 1985;0
 );0
-# New sentence = It was written by Miracles lead singer Smokey Robinson , who also was the song‚Äôs producer , and the group‚Äôs main guitarist , Cornelius Grant .;0
+# New sentence = It was written by Miracles lead singer Smokey Robinson , who also was the songs producer , and the groups main guitarist , Cornelius Grant .;0
 It;0
 was;0
 written;0
 by;0
-Miracles;0
+Miracles;3
 lead;0
 singer;0
-Smokey;0
-Robinson;0
+Smokey;1
+Robinson;2
 ,;0
 who;0
 also;0
 was;0
 the;0
-song‚Äôs;0
+songs;0
 producer;0
 ,;0
 and;0
 the;0
-group‚Äôs;0
+groups;0
 main;0
 guitarist;0
 ,;0
-Cornelius;0
-Grant;0
+Cornelius;1
+Grant;2
 .;0
 # New sentence = It is known from Laos .;0
 It;0
 is;0
 known;0
 from;0
-Laos;0
+Laos;5
 .;0
-# New sentence = William Hay ( Australian politician ) ( 1816‚Äì1908 );0
-William;0
-Hay;0
+# New sentence = William Hay ( Australian politician ) ( 18161908 );0
+William;1
+Hay;2
 (;0
 Australian;0
 politician;0
 );0
 (;0
-1816‚Äì1908;0
+18161908;0
 );0
 # New sentence = Premier of Ontario - Bill Davis then Frank Miller then David Peterson;0
 Premier;0
 of;0
 Ontario;0
 -;0
-Bill;0
-Davis;0
+Bill;1
+Davis;2
 then;0
-Frank;0
-Miller;0
+Frank;1
+Miller;2
 then;0
-David;0
-Peterson;0
+David;1
+Peterson;2
 # New sentence = Harrison Township , Miami County ( northeast );0
-Harrison;0
-Township;0
-,;0
-Miami;0
-County;0
-(;0
-northeast;0
-);0
+Harrison;5
+Township;6
+,;6
+Miami;6
+County;6
+(;6
+northeast;6
+);6
 # New sentence = Horacio Rivero , Jr .;0
-Horacio;0
-Rivero;0
-,;0
-Jr;0
+Horacio;1
+Rivero;2
+,;2
+Jr;2
 .;0
 # New sentence = National Highway 24B ( India );0
-National;0
-Highway;0
-24B;0
-(;0
-India;0
-);0
+National;5
+Highway;6
+24B;6
+(;6
+India;6
+);6
 # New sentence = Les Aventures du roi Pausole '' ( 1933 );0
 Les;0
 Aventures;0
@@ -4133,7 +4134,7 @@ He;0
 was;0
 born;0
 at;0
-Glasgow;0
+Glasgow;5
 on;0
 8;0
 March;0
@@ -4144,22 +4145,22 @@ A;0
 Man;0
 Called;0
 ``;0
-Bee;0
+Bee;1
 '';0
 :;0
 Studying;0
 the;0
-Yanomamo;0
+Yanomamo;3
 ,;0
 1975;0
 # New sentence = Bankhaus Reuschel & Co . , Munich;0
-Bankhaus;0
-Reuschel;0
-&;0
-Co;0
+Bankhaus;3
+Reuschel;4
+&;4
+Co;4
 .;0
 ,;0
-Munich;0
+Munich;5
 # New sentence = In 2010 he was appointed to replace Sen. Fred Jarrett .;0
 In;0
 2010;0
@@ -4168,38 +4169,38 @@ was;0
 appointed;0
 to;0
 replace;0
-Sen.;0
-Fred;0
-Jarrett;0
+Sen.;1
+Fred;2
+Jarrett;2
 .;0
 # New sentence = Carychium tridentatum '' ( Risso , 1826 );0
 Carychium;0
 tridentatum;0
 '';0
-(;0
+(;1
 Risso;0
 ,;0
 1826;0
 );0
 # New sentence = Poalei Agudat Yisrael : 2;0
-Poalei;0
-Agudat;0
-Yisrael;0
+Poalei;3
+Agudat;4
+Yisrael;4
 :;0
 2;0
 # New sentence = Vera Coking , a real-estate holdout in Atlantic City , New Jersey;0
-Vera;0
-Coking;0
+Vera;3
+Coking;4
 ,;0
 a;0
 real-estate;0
 holdout;0
 in;0
-Atlantic;0
-City;0
-,;0
-New;0
-Jersey;0
+Atlantic;5
+City;6
+,;6
+New;6
+Jersey;6
 # New sentence = ''Begonias '' ( with Caitlin Cary );0
 ''Begonias;0
 '';0
@@ -4213,91 +4214,91 @@ Cary;0
 Galveston;0
 '';0
 (;0
-Jimmy;0
-Webb;0
+Jimmy;1
+Webb;2
 );0
 -;0
-2:40;0
+02.40;0
 # New sentence = Exene Cervenka ( 1996 );0
-Exene;0
-Cervenka;0
+Exene;1
+Cervenka;2
 (;0
 1996;0
 );0
 # New sentence = ' '' Wicres '' ';0
 ';0
 '';0
-Wicres;0
+Wicres;5
 '';0
 ';0
 # New sentence = List of Google easter eggs;0
 List;0
 of;0
-Google;0
+Google;3
 easter;0
 eggs;0
 # New sentence = Chalk Farm Salvation Army Band;0
-Chalk;0
-Farm;0
-Salvation;0
-Army;0
-Band;0
+Chalk;3
+Farm;4
+Salvation;4
+Army;4
+Band;4
 # New sentence = Mitt Romney 52 % - Barack Obama 48 %;0
-Mitt;0
-Romney;0
+Mitt;1
+Romney;2
 52;0
 %;0
 -;0
-Barack;0
-Obama;0
+Barack;1
+Obama;2
 48;0
 %;0
 # New sentence = Murder of Nubia Barahona;0
 Murder;0
 of;0
-Nubia;0
-Barahona;0
+Nubia;1
+Barahona;2
 # New sentence = The remixes were made by Shep Pettibone .;0
 The;0
 remixes;0
 were;0
 made;0
 by;0
-Shep;0
-Pettibone;0
+Shep;1
+Pettibone;2
 .;0
-# New sentence = Abe Hartley ‚Äì 1897;0
-Abe;0
-Hartley;0
-‚Äì;0
+# New sentence = Abe Hartley  1897;0
+Abe;1
+Hartley;2
+;0
 1897;0
-# New sentence = ' '' Piet Norval '' ' ' '' Kevin Ullyett '' '7‚Äì5 , 6‚Äì3;0
+# New sentence = ' '' Piet Norval '' ' ' '' Kevin Ullyett '' '75 , 63;0
 ';0
 '';0
-Piet;0
-Norval;0
+Piet;1
+Norval;2
 '';0
 ';0
 ';0
 '';0
-Kevin;0
-Ullyett;0
+Kevin;1
+Ullyett;2
 '';0
-'7‚Äì5;0
+'75;0
 ,;0
-6‚Äì3;0
+63;0
 # New sentence = Summer Jam ( song );0
 Summer;0
 Jam;0
 (;0
 song;0
 );0
-# New sentence = Kubra , Najmeddin ( 1145‚Äì1220 );0
-Kubra;0
-,;0
-Najmeddin;0
+# New sentence = Kubra , Najmeddin ( 11451220 );0
+Kubra;5
+,;6
+Najmeddin;6
 (;0
-1145‚Äì1220;0
+11451220;0
 );0
 # New sentence = '' Have a Good Time for Me '' - Jonathan Edwards;0
 '';0
@@ -4309,8 +4310,8 @@ for;0
 Me;0
 '';0
 -;0
-Jonathan;0
-Edwards;0
+Jonathan;1
+Edwards;2
 # New sentence = ''Claytonia caroliniana '' var. ''caroliniana '' ( N );0
 ''Claytonia;0
 caroliniana;0
@@ -4327,27 +4328,27 @@ Shine;0
 The;0
 Best;0
 of;0
-Annie;0
-Crummer;0
+Annie;1
+Crummer;2
 # New sentence = ' '' With Carmen McRae '' ';0
 ';0
 '';0
 With;0
-Carmen;0
-McRae;0
+Carmen;1
+McRae;2
 '';0
 ';0
-# New sentence = 1906‚Äì07 Primera Fuerza season;0
-1906‚Äì07;0
-Primera;0
-Fuerza;0
+# New sentence = 190607 Primera Fuerza season;0
+190607;0
+Primera;3
+Fuerza;4
 season;0
-# New sentence = Family Fortunes '' ( 2012‚Äìpresent );0
+# New sentence = Family Fortunes '' ( 2012present );0
 Family;0
-Fortunes;0
+Fortunes;1
 '';0
 (;0
-2012‚Äìpresent;0
+2012present;0
 );0
 # New sentence = Covenant of the Goddess;0
 Covenant;0
@@ -4355,30 +4356,30 @@ of;0
 the;0
 Goddess;0
 # New sentence = Noel Howlett - Lawyer;0
-Noel;0
-Howlett;0
+Noel;1
+Howlett;2
 -;0
 Lawyer;0
-# New sentence = *Doubles : Wayne Ferreira / Yevgeny Kafelnikov defeated Paul Haarhuis / Sandon Stolle , 6‚Äì3 , 2‚Äì6 , 6‚Äì1;0
+# New sentence = *Doubles : Wayne Ferreira / Yevgeny Kafelnikov defeated Paul Haarhuis / Sandon Stolle , 63 , 26 , 61;0
 *Doubles;0
 :;0
-Wayne;0
-Ferreira;0
+Wayne;1
+Ferreira;2
 /;0
-Yevgeny;0
-Kafelnikov;0
+Yevgeny;1
+Kafelnikov;2
 defeated;0
-Paul;0
-Haarhuis;0
+Paul;1
+Haarhuis;2
 /;0
-Sandon;0
-Stolle;0
+Sandon;1
+Stolle;2
 ,;0
-6‚Äì3;0
+63;0
 ,;0
-2‚Äì6;0
+26;0
 ,;0
-6‚Äì1;0
+61;0
 # New sentence = ''Legacy '' ( The Temptations album ) , 2004;0
 ''Legacy;0
 '';0
@@ -4389,12 +4390,12 @@ album;0
 );0
 ,;0
 2004;0
-# New sentence = Schram City , Illinois ‚Äì $ 16,994;0
-Schram;0
-City;0
-,;0
-Illinois;0
-‚Äì;0
+# New sentence = Schram City , Illinois  $ 16,994;0
+Schram;5
+City;6
+,;6
+Illinois;6
+;0
 $;0
 16,994;0
 # New sentence = who is usually associated with Caernarvonshire .;0
@@ -4403,7 +4404,7 @@ is;0
 usually;0
 associated;0
 with;0
-Caernarvonshire;0
+Caernarvonshire;5
 .;0
 # New sentence = '' These Days '' ( 1995 );0
 '';0
@@ -4414,9 +4415,9 @@ Days;0
 1995;0
 );0
 # New sentence = Turtle Rock Studios;0
-Turtle;0
-Rock;0
-Studios;0
+Turtle;3
+Rock;4
+Studios;4
 # New sentence = Step Into the Dark '';0
 Step;0
 Into;0
@@ -4424,113 +4425,113 @@ the;0
 Dark;0
 '';0
 # New sentence = Mossel Bay Local Municipality;0
-Mossel;0
-Bay;0
-Local;0
-Municipality;0
+Mossel;5
+Bay;6
+Local;6
+Municipality;6
 # New sentence = DHS Management Directorate;0
-DHS;0
-Management;0
-Directorate;0
+DHS;3
+Management;4
+Directorate;4
 # New sentence = Heidkopf ( Wiehen Hills );0
-Heidkopf;0
-(;0
-Wiehen;0
-Hills;0
-);0
-# New sentence = ' '' Nikola Mektiƒá '' ' ' '' Antonio Veiƒá '' ';0
+Heidkopf;5
+(;6
+Wiehen;6
+Hills;6
+);6
+# New sentence = ' '' Nikola Mekti_ '' ' ' '' Antonio Vei_ '' ';0
 ';0
 '';0
-Nikola;0
-Mektiƒá;0
+Nikola;1
+Mekti_;2
 '';0
 ';0
 ';0
 '';0
-Antonio;0
-Veiƒá;0
+Antonio;1
+Vei_;2
 '';0
 ';0
 # New sentence = Amit Kumar , Kavita Krishnamurthy;0
-Amit;0
-Kumar;0
+Amit;1
+Kumar;2
 ,;0
-Kavita;0
-Krishnamurthy;0
+Kavita;1
+Krishnamurthy;2
 # New sentence = He was born in Keiyo , Kenya , but now represents Qatar .;0
 He;0
 was;0
 born;0
 in;0
-Keiyo;0
-,;0
-Kenya;0
+Keiyo;5
+,;6
+Kenya;6
 ,;0
 but;0
 now;0
 represents;0
-Qatar;0
+Qatar;5
 .;0
-# New sentence = Alejandro Falla / Eduardo Struvay , 7‚Äì6 ( 5 ) , 6‚Äì4;0
-Alejandro;0
-Falla;0
+# New sentence = Alejandro Falla / Eduardo Struvay , 76 ( 5 ) , 64;0
+Alejandro;1
+Falla;2
 /;0
-Eduardo;0
-Struvay;0
+Eduardo;1
+Struvay;2
 ,;0
-7‚Äì6;0
+76;0
 (;0
 5;0
 );0
 ,;0
-6‚Äì4;0
-# New sentence = Pact of San Jos√© de Flores;0
+64;0
+# New sentence = Pact of San Jos de Flores;0
 Pact;0
 of;0
 San;0
-Jos√©;0
+Jos;0
 de;0
 Flores;0
 # New sentence = '' Uruguay '' ';0
 '';0
-Uruguay;0
+Uruguay;5
 '';0
 ';0
-# New sentence = 1921‚Äì1924 : Gustav Henriksen;0
-1921‚Äì1924;0
+# New sentence = 19211924 : Gustav Henriksen;0
+19211924;0
 :;0
-Gustav;0
-Henriksen;0
+Gustav;1
+Henriksen;2
 # New sentence = IF Sturla , Norway , Drammen;0
-IF;0
-Sturla;0
+IF;3
+Sturla;4
 ,;0
-Norway;0
-,;0
-Drammen;0
+Norway;5
+,;6
+Drammen;6
 # New sentence = Then they surfaced in Brockville in Ontario , Canada .;0
 Then;0
 they;0
 surfaced;0
 in;0
-Brockville;0
+Brockville;5
 in;0
-Ontario;0
-,;0
-Canada;0
+Ontario;6
+,;6
+Canada;6
 .;0
 # New sentence = Battle Creek Revolution;0
-Battle;0
-Creek;0
-Revolution;0
-# New sentence = '' Saturday Night Live '' ( 1975‚Äîpresent );0
+Battle;3
+Creek;4
+Revolution;4
+# New sentence = '' Saturday Night Live '' ( 1975present );0
 '';0
 Saturday;0
 Night;0
 Live;0
 '';0
 (;0
-1975‚Äîpresent;0
+1975present;0
 );0
 # New sentence = '' The Catherine Tate Show '';0
 '';0
@@ -4540,8 +4541,8 @@ Tate;0
 Show;0
 '';0
 # New sentence = Carl Hooper ( WIN ) , 233;0
-Carl;0
-Hooper;0
+Carl;1
+Hooper;2
 (;0
 WIN;0
 );0
@@ -4554,28 +4555,28 @@ Rated;0
 Exemplary;0
 '';0
 by;0
-TEA;0
+TEA;3
 in;0
 2009;0
 .;0
 # New sentence = Francesco Aldi / Daniele Giorgini;0
-Francesco;0
-Aldi;0
+Francesco;1
+Aldi;2
 /;0
-Daniele;0
-Giorgini;0
+Daniele;1
+Giorgini;2
 # New sentence = FC St. Gallen ( 2001-2002 );0
-FC;0
-St.;0
-Gallen;0
+FC;3
+St.;4
+Gallen;4
 (;0
 2001-2002;0
 );0
 # New sentence = Carmichaels , Pennsylvania;0
-Carmichaels;0
-,;0
-Pennsylvania;0
-# New sentence = ** '' Duchy of Spoleto '' ' - Alberic I ( 897‚Äì922 );0
+Carmichaels;5
+,;6
+Pennsylvania;6
+# New sentence = ** '' Duchy of Spoleto '' ' - Alberic I ( 897922 );0
 **;0
 '';0
 Duchy;0
@@ -4584,16 +4585,16 @@ Spoleto;0
 '';0
 ';0
 -;0
-Alberic;0
+Alberic;1
 I;0
 (;0
-897‚Äì922;0
+897922;0
 );0
 # New sentence = Communes of the Meurthe-et-Moselle department;0
-Communes;0
-of;0
-the;0
-Meurthe-et-Moselle;0
+Communes;5
+of;6
+the;6
+Meurthe-et-Moselle;6
 department;0
 # New sentence = Bibliography of atmospheric dispersion modeling;0
 Bibliography;0
@@ -4607,25 +4608,25 @@ Wormerveer;0
 Wm;0
 );0
 # New sentence = Iecava ( river );0
-Iecava;0
+Iecava;5
 (;0
 river;0
 );0
-# New sentence = B√¢rzava , Arad;0
-B√¢rzava;0
-,;0
-Arad;0
+# New sentence = Brzava , Arad;0
+Brzava;5
+,;6
+Arad;6
 # New sentence = Uprising in Banat;0
 Uprising;0
 in;0
-Banat;0
+Banat;5
 # New sentence = He died in Hallowell , Maine , October 17 , 1856 .;0
 He;0
 died;0
 in;0
-Hallowell;0
-,;0
-Maine;0
+Hallowell;5
+,;6
+Maine;6
 ,;0
 October;0
 17;0
@@ -4633,83 +4634,83 @@ October;0
 1856;0
 .;0
 # New sentence = Hanover Township , Butler County , Ohio;0
-Hanover;0
-Township;0
-,;0
-Butler;0
-County;0
-,;0
-Ohio;0
+Hanover;5
+Township;6
+,;6
+Butler;6
+County;6
+,;6
+Ohio;6
 # New sentence = Punjab , India;0
-Punjab;0
-,;0
-India;0
-# New sentence = Gmina Ma≈Çomice ( urban-rural , ≈ªaga≈Ñ County , Lubusz Voivodeship , 79.5 km2 , 5,443 );0
-Gmina;0
-Ma≈Çomice;0
+Punjab;5
+,;6
+India;6
+# New sentence = Gmina Ma_omice ( urban-rural , _aga_ County , Lubusz Voivodeship , 79.5 km2 , 5,443 );0
+Gmina;5
+Ma_omice;0
 (;0
 urban-rural;0
 ,;0
-≈ªaga≈Ñ;0
+_aga_;0
 County;0
 ,;0
-Lubusz;0
-Voivodeship;0
+Lubusz;5
+Voivodeship;6
 ,;0
-79.5;0
+79.05.00;0
 km2;0
 ,;0
 5,443;0
 );0
-# New sentence = Grohoti»ôul River ( B√¢ngƒÉleasa );0
-Grohoti»ôul;0
-River;0
-(;0
-B√¢ngƒÉleasa;0
-);0
-# New sentence = ' '' Caio Zampieri '' ' 7‚Äì6 ( 7‚Äì3 ) , 5‚Äì7 , 7‚Äì6 ( 7‚Äì4 );0
+# New sentence = Grohoti_ul River ( Bng_leasa );0
+Grohoti_ul;5
+River;6
+(;6
+Bng_leasa;6
+);6
+# New sentence = ' '' Caio Zampieri '' ' 76 ( 73 ) , 57 , 76 ( 74 );0
 ';0
 '';0
-Caio;0
-Zampieri;0
+Caio;1
+Zampieri;2
 '';0
 ';0
-7‚Äì6;0
+76;0
 (;0
-7‚Äì3;0
+73;0
 );0
 ,;0
-5‚Äì7;0
+57;0
 ,;0
-7‚Äì6;0
+76;0
 (;0
-7‚Äì4;0
+74;0
 );0
 # New sentence = ' '' Adrian Mannarino '' ';0
 ';0
 '';0
-Adrian;0
-Mannarino;0
+Adrian;1
+Mannarino;2
 '';0
 ';0
 # New sentence = Karl Shapiro , ''Poems '';0
-Karl;0
-Shapiro;0
+Karl;1
+Shapiro;2
 ,;0
 ''Poems;0
 '';0
 # New sentence = Ullevaal Stadion , Oslo ( H );0
-Ullevaal;0
-Stadion;0
-,;0
-Oslo;0
-(;0
-H;0
-);0
-# New sentence = Ti·ªÅn Giang Province;0
-Ti·ªÅn;0
-Giang;0
-Province;0
+Ullevaal;5
+Stadion;6
+,;6
+Oslo;6
+(;6
+H;6
+);6
+# New sentence = Ti_n Giang Province;0
+Ti_n;5
+Giang;6
+Province;6
 # New sentence = : : : Bradyrhizobium '';0
 :;0
 :;0
@@ -4718,24 +4719,24 @@ Bradyrhizobium;0
 '';0
 # New sentence = Jewish : 10,645 ( 2.9 % );0
 Jewish;0
-:;0
+:;:
 10,645;0
 (;0
-2.9;0
+02.09;0
 %;0
 );0
-# New sentence = *Promoted in 3. liga : LP Domino‚Üë;0
+# New sentence = *Promoted in 3. liga : LP Domino_;0
 *Promoted;0
 in;0
-3.;0
+03.00;0
 liga;0
 :;0
-LP;0
-Domino‚Üë;0
+LP;3
+Domino_;4
 # New sentence = Wallace Walter Atwood;0
-Wallace;0
-Walter;0
-Atwood;0
+Wallace;1
+Walter;2
+Atwood;2
 # New sentence = Guardians of the Galaxy ( 2008 team );0
 Guardians;0
 of;0
@@ -4752,24 +4753,24 @@ rat;0
 # New sentence = 1628 : Pieter Soutman , Jan Matham ( son of Jacob Matham ) , Jan Wils;0
 1628;0
 :;0
-Pieter;0
-Soutman;0
+Pieter;1
+Soutman;2
 ,;0
-Jan;0
-Matham;0
+Jan;1
+Matham;2
 (;0
 son;0
 of;0
-Jacob;0
-Matham;0
+Jacob;1
+Matham;2
 );0
 ,;0
-Jan;0
-Wils;0
-# New sentence = Vladimir Arsenyev ‚Äì Dersu Uzala '';0
-Vladimir;0
-Arsenyev;0
-‚Äì;0
+Jan;1
+Wils;2
+# New sentence = Vladimir Arsenyev  Dersu Uzala '';0
+Vladimir;1
+Arsenyev;2
+;0
 Dersu;0
 Uzala;0
 '';0
@@ -4779,14 +4780,14 @@ Beautiful;0
 Night;0
 '';0
 # New sentence = Anton Walbrook , Diana Wynyard , Frank Pettingell;0
-Anton;0
-Walbrook;0
+Anton;1
+Walbrook;2
 ,;0
-Diana;0
-Wynyard;0
+Diana;1
+Wynyard;2
 ,;0
-Frank;0
-Pettingell;0
+Frank;1
+Pettingell;2
 # New sentence = The degree allowed him to take a teaching position in 1954 at the University of Queensland in Brisbane .;0
 The;0
 degree;0
@@ -4800,30 +4801,30 @@ position;0
 in;0
 1954;0
 at;0
-the;0
-University;0
-of;0
-Queensland;0
+the;3
+University;4
+of;4
+Queensland;4
 in;0
-Brisbane;0
+Brisbane;5
 .;0
 # New sentence = 80px '' David Dinkins '' ';0
 80px;0
 '';0
-David;0
-Dinkins;0
+David;1
+Dinkins;2
 '';0
 ';0
-# New sentence = BUS US 27 '' ‚Äì Mount Pleasant , Michigan;0
+# New sentence = BUS US 27 ''  Mount Pleasant , Michigan;0
 BUS;0
 US;0
 27;0
 '';0
-‚Äì;0
-Mount;0
-Pleasant;0
-,;0
-Michigan;0
+;0
+Mount;5
+Pleasant;6
+,;6
+Michigan;6
 # New sentence = Portuguese legislative election , 2015;0
 Portuguese;0
 legislative;0
@@ -4837,32 +4838,32 @@ written;0
 and;0
 composed;0
 by;0
-George;0
-Harrison;0
+George;1
+Harrison;2
 ,;0
 except;0
 where;0
 noted;0
 .;0
 # New sentence = Yip Pui Yin '' ( Third Round );0
-Yip;0
-Pui;0
-Yin;0
+Yip;1
+Pui;2
+Yin;2
 '';0
 (;0
 Third;0
 Round;0
 );0
 # New sentence = ''Alice '' at Showcase;0
-''Alice;0
+''Alice;1
 '';0
 at;0
 Showcase;0
 # New sentence = Shur Daraq , Marand;0
-Shur;0
-Daraq;0
-,;0
-Marand;0
+Shur;5
+Daraq;6
+,;6
+Marand;6
 # New sentence = ' '' Mazhabi ' '';0
 ';0
 '';0
@@ -4878,22 +4879,22 @@ Tales;0
 '';0
 :;0
 # New sentence = Flamingo , Monroe County , Florida;0
-Flamingo;0
-,;0
-Monroe;0
-County;0
-,;0
-Florida;0
+Flamingo;5
+,;6
+Monroe;6
+County;6
+,;6
+Florida;6
 # New sentence = Henry Drummond ( disambiguation );0
-Henry;0
-Drummond;0
+Henry;1
+Drummond;2
 (;0
 disambiguation;0
 );0
 # New sentence = Buin , Zanjan;0
-Buin;0
-,;0
-Zanjan;0
+Buin;5
+,;6
+Zanjan;6
 # New sentence = One Shot Deal '' ( June 2008 );0
 One;0
 Shot;0
@@ -4904,34 +4905,34 @@ June;0
 2008;0
 );0
 # New sentence = Ron & Tammy : Part Two;0
-Ron;0
+Ron;1
 &;0
-Tammy;0
+Tammy;1
 :;0
 Part;0
 Two;0
-# New sentence = Karl Ove Knausg√•rd , Robbie Williams , Dawn French , Jon Bon Jovi , Martin Kellerman;0
-Karl;0
-Ove;0
-Knausg√•rd;0
+# New sentence = Karl Ove Knausgrd , Robbie Williams , Dawn French , Jon Bon Jovi , Martin Kellerman;0
+Karl;1
+Ove;2
+Knausgrd;2
 ,;0
-Robbie;0
-Williams;0
+Robbie;1
+Williams;2
 ,;0
-Dawn;0
-French;0
+Dawn;1
+French;2
 ,;0
-Jon;0
-Bon;0
-Jovi;0
+Jon;1
+Bon;1
+Jovi;2
 ,;0
-Martin;0
-Kellerman;0
+Martin;1
+Kellerman;2
 # New sentence = ' '' West Germany ( Federal Republic of Germany ) '' ';0
 ';0
 '';0
-West;0
-Germany;0
+West;5
+Germany;6
 (;0
 Federal;0
 Republic;0
@@ -4941,10 +4942,10 @@ Germany;0
 '';0
 ';0
 # New sentence = Glen Osborne , Pennsylvania;0
-Glen;0
-Osborne;0
-,;0
-Pennsylvania;0
+Glen;5
+Osborne;6
+,;6
+Pennsylvania;6
 # New sentence = Bradyrrhoa confiniella '' Zeller , 1848;0
 Bradyrrhoa;0
 confiniella;0
@@ -4957,12 +4958,12 @@ Zeller;0
 :;0
 ';0
 '';0
-Juventa;0
+Juventa;3
 '';0
 ';0
 and;0
-La;0
-Gauloise;0
+La;5
+Gauloise;6
 (;0
 abandoned;0
 at;0
@@ -4973,21 +4974,21 @@ It;0
 is;0
 found;0
 in;0
-Brazil;0
+Brazil;5
 .;0
 # New sentence = *Jackling , West Valley City;0
-*Jackling;0
-,;0
-West;0
-Valley;0
-City;0
+*Jackling;5
+,;6
+West;6
+Valley;6
+City;6
 # New sentence = Santa Fe County , New Mexico;0
-Santa;0
-Fe;0
-County;0
-,;0
-New;0
-Mexico;0
+Santa;5
+Fe;6
+County;6
+,;6
+New;6
+Mexico;6
 # New sentence = However , he got no further than Neuruppin in Brandenburg .;0
 However;0
 ,;0
@@ -4996,9 +4997,9 @@ got;0
 no;0
 further;0
 than;0
-Neuruppin;0
+Neuruppin;5
 in;0
-Brandenburg;0
+Brandenburg;5
 .;0
 # New sentence = Armillaria tabescens '' = Clitocybe tabescens '';0
 Armillaria;0
@@ -5015,11 +5016,11 @@ trichilioides;0
 L;0
 .;0
 # New sentence = ''Denver '' sailed from Philadelphia on 23 January 1943 , and arrived at Efate , New Hebrides on 14 February .;0
-''Denver;0
+''Denver;1
 '';0
 sailed;0
 from;0
-Philadelphia;0
+Philadelphia;5
 on;0
 23;0
 January;0
@@ -5028,10 +5029,10 @@ January;0
 and;0
 arrived;0
 at;0
-Efate;0
-,;0
-New;0
-Hebrides;0
+Efate;5
+,;6
+New;6
+Hebrides;6
 on;0
 14;0
 February;0
@@ -5043,7 +5044,7 @@ In;0
 he;0
 moved;0
 to;0
-Bombay;0
+Bombay;5
 with;0
 the;0
 help;0
@@ -5054,19 +5055,19 @@ from;0
 an;0
 aunt;0
 .;0
-# New sentence = Communes of the Corr√®ze department;0
-Communes;0
-of;0
-the;0
-Corr√®ze;0
-department;0
+# New sentence = Communes of the Corrze department;0
+Communes;5
+of;6
+the;6
+Corrze;6
+department;6
 # New sentence = St Oswald 's Church , Dean;0
-St;0
-Oswald;0
-'s;0
-Church;0
-,;0
-Dean;0
+St;5
+Oswald;6
+'s;6
+Church;6
+,;6
+Dean;6
 # New sentence = A number of other cars crashed at the same corner as well , including Wilson Fittipaldi , Jochen Mass , and John Watson .;0
 A;0
 number;0
@@ -5082,36 +5083,36 @@ as;0
 well;0
 ,;0
 including;0
-Wilson;0
-Fittipaldi;0
+Wilson;1
+Fittipaldi;2
 ,;0
-Jochen;0
-Mass;0
+Jochen;1
+Mass;2
 ,;0
 and;0
-John;0
-Watson;0
+John;1
+Watson;2
 .;0
-# New sentence = ' '' Gast√≥n Gaudio '' ' 6‚Äì4 , 6‚Äì0 , 6‚Äì2;0
+# New sentence = ' '' Gastn Gaudio '' ' 64 , 60 , 62;0
 ';0
 '';0
-Gast√≥n;0
-Gaudio;0
+Gastn;1
+Gaudio;2
 '';0
 ';0
-6‚Äì4;0
+64;0
 ,;0
-6‚Äì0;0
+60;0
 ,;0
-6‚Äì2;0
-# New sentence = Ine Marie Eriksen S√∏reide;0
-Ine;0
-Marie;0
-Eriksen;0
-S√∏reide;0
+62;0
+# New sentence = Ine Marie Eriksen Sreide;0
+Ine;1
+Marie;2
+Eriksen;2
+Sreide;0
 # New sentence = Queen Victoria ( 1879 );0
 Queen;0
-Victoria;0
+Victoria;1
 (;0
 1879;0
 );0
@@ -5120,11 +5121,11 @@ It;0
 is;0
 known;0
 from;0
-Australia;0
+Australia;5
 .;0
 # New sentence = Gyula Farkas ( linguist );0
-Gyula;0
-Farkas;0
+Gyula;1
+Farkas;2
 (;0
 linguist;0
 );0
@@ -5137,49 +5138,49 @@ Blues;0
 (;0
 1996;0
 );0
-Namie;0
-Amuro;0
+Namie;1
+Amuro;2
 # New sentence = Louisville]] and Lexington , Kentucky;0
-Louisville]];0
+Louisville]];5
 and;0
-Lexington;0
-,;0
-Kentucky;0
+Lexington;5
+,;6
+Kentucky;6
 # New sentence = Sam Sung District;0
-Sam;0
-Sung;0
-District;0
+Sam;5
+Sung;6
+District;6
 # New sentence = ' '' Esteve Rabat '' ';0
 ';0
 '';0
-Esteve;0
-Rabat;0
+Esteve;1
+Rabat;2
 '';0
 ';0
 # New sentence = Denise Scott Brown , partner in Venturi , Scott Brown and Associates;0
-Denise;0
-Scott;0
-Brown;0
+Denise;1
+Scott;2
+Brown;2
 ,;0
 partner;0
 in;0
-Venturi;0
-,;0
-Scott;0
-Brown;0
-and;0
-Associates;0
+Venturi;3
+,;4
+Scott;4
+Brown;4
+and;4
+Associates;4
 # New sentence = Fluvanna County , Virginia;0
-Fluvanna;0
-County;0
-,;0
-Virginia;0
+Fluvanna;5
+County;6
+,;6
+Virginia;6
 # New sentence = Communes of the Lot-et-Garonne department;0
-Communes;0
-of;0
-the;0
-Lot-et-Garonne;0
-department;0
+Communes;5
+of;6
+the;6
+Lot-et-Garonne;6
+department;6
 # New sentence = His obituary in the Daily Telegraph described him as `` always physically tough and tactically astute .;0
 His;0
 obituary;0
@@ -5200,25 +5201,25 @@ astute;0
 .;0
 # New sentence = '' Taylor Swift '' ';0
 '';0
-Taylor;0
-Swift;0
+Taylor;1
+Swift;2
 '';0
 ';0
 # New sentence = Diocese of Meaux = Seine-et-Marne;0
-Diocese;0
-of;0
-Meaux;0
+Diocese;5
+of;6
+Meaux;6
 =;0
-Seine-et-Marne;0
+Seine-et-Marne;5
 # New sentence = Manuel I of Portugal;0
-Manuel;0
-I;0
+Manuel;1
+I;2
 of;0
-Portugal;0
-# New sentence = *01302 ‚Äî Doncaster ( DO2 );0
+Portugal;5
+# New sentence = *01302  Doncaster ( DO2 );0
 *01302;0
-‚Äî;0
-Doncaster;0
+;0
+Doncaster;5
 (;0
 DO2;0
 );0
@@ -5229,44 +5230,44 @@ made;0
 one;0
 appearance;0
 for;0
-England;0
+England;5
 .;0
 # New sentence = '' Aethiophysa dualis '';0
 '';0
 Aethiophysa;0
 dualis;0
 '';0
-# New sentence = Chauv√© ( 44038 );0
-Chauv√©;0
+# New sentence = Chauv ( 44038 );0
+Chauv;5
 (;0
 44038;0
 );0
 # New sentence = Keni Thomas ( with Emmylou Harris );0
-Keni;0
-Thomas;0
+Keni;1
+Thomas;2
 (;0
 with;0
-Emmylou;0
-Harris;0
+Emmylou;1
+Harris;2
 );0
 # New sentence = '' Salt Lake City Weekly '' , Salt Lake City ,;0
 '';0
-Salt;0
-Lake;0
-City;0
-Weekly;0
+Salt;3
+Lake;4
+City;4
+Weekly;4
 '';0
 ,;0
-Salt;0
-Lake;0
+Salt;5
+Lake;6
 City;0
 ,;0
 # New sentence = Wolfram von Eschenbach '';0
-Wolfram;0
-von;0
-Eschenbach;0
+Wolfram;1
+von;2
+Eschenbach;2
 '';0
-# New sentence = : : : *April 6 , 2011 ‚Äî June 7 , 2011 San Fernando massacre;0
+# New sentence = : : : *April 6 , 2011  June 7 , 2011 San Fernando massacre;0
 :;0
 :;0
 :;0
@@ -5274,7 +5275,7 @@ Eschenbach;0
 6;0
 ,;0
 2011;0
-‚Äî;0
+;0
 June;0
 7;0
 ,;0
@@ -5282,22 +5283,22 @@ June;0
 San;0
 Fernando;0
 massacre;0
-# New sentence = '' So Alone '' ‚Äì ( 1978 );0
+# New sentence = '' So Alone ''  ( 1978 );0
 '';0
 So;0
 Alone;0
 '';0
-‚Äì;0
+;0
 (;0
 1978;0
 );0
 # New sentence = The Sessions ( band );0
-The;0
-Sessions;0
+The;3
+Sessions;4
 (;0
 band;0
 );0
-# New sentence = It was adapted from the story entitled ''Sheba '' , which was written by Vi√±a Delmar .;0
+# New sentence = It was adapted from the story entitled ''Sheba '' , which was written by Via Delmar .;0
 It;0
 was;0
 adapted;0
@@ -5312,17 +5313,17 @@ which;0
 was;0
 written;0
 by;0
-Vi√±a;0
-Delmar;0
+Via;1
+Delmar;2
 .;0
-# New sentence = It is also the birthplace of Benjam√≠n `` El Maestro '' Galindo .;0
+# New sentence = It is also the birthplace of Benjamn `` El Maestro '' Galindo .;0
 It;0
 is;0
 also;0
 the;0
 birthplace;0
 of;0
-Benjam√≠n;0
+Benjamn;1
 ``;0
 El;0
 Maestro;0
@@ -5332,7 +5333,7 @@ Galindo;0
 # New sentence = Sons of Thunder;0
 Sons;0
 of;0
-Thunder;0
+Thunder;1
 # New sentence = Rufus Does Judy at Carnegie Hall '';0
 Rufus;0
 Does;0
@@ -5342,23 +5343,23 @@ Carnegie;0
 Hall;0
 '';0
 # New sentence = Diocese of San Fernando de La Union;0
-Diocese;0
-of;0
-San;0
-Fernando;0
-de;0
-La;0
-Union;0
+Diocese;3
+of;4
+San;4
+Fernando;4
+de;4
+La;4
+Union;4
 # New sentence = Ribera Baja / Erribera Beitia;0
-Ribera;0
-Baja;0
+Ribera;1
+Baja;2
 /;0
-Erribera;0
-Beitia;0
+Erribera;1
+Beitia;2
 # New sentence = Air Transport Command , 1 January 1944;0
-Air;0
-Transport;0
-Command;0
+Air;3
+Transport;4
+Command;4
 ,;0
 1;0
 January;0
@@ -5367,11 +5368,11 @@ January;0
 Wandering;0
 whistling;0
 duck;0
-# New sentence = He died in Kri≈æevci on 9 August 1946 .;0
+# New sentence = He died in Kri_evci on 9 August 1946 .;0
 He;0
 died;0
 in;0
-Kri≈æevci;0
+Kri_evci;5
 on;0
 9;0
 August;0
@@ -5379,28 +5380,28 @@ August;0
 .;0
 # New sentence = 2012 Seattle cafe shooting spree;0
 2012;0
-Seattle;0
+Seattle;5
 cafe;0
 shooting;0
 spree;0
 # New sentence = Jo O'Meara as Herself;0
-Jo;0
-O'Meara;0
+Jo;1
+O'Meara;2
 as;0
 Herself;0
 # New sentence = Abbey Village Reservoir;0
-Abbey;0
-Village;0
-Reservoir;0
+Abbey;5
+Village;6
+Reservoir;6
 # New sentence = Constantine the Great;0
 Constantine;0
 the;0
 Great;0
 # New sentence = Kentucky Space Grant Consortium;0
-Kentucky;0
-Space;0
-Grant;0
-Consortium;0
+Kentucky;3
+Space;4
+Grant;4
+Consortium;4
 # New sentence = Heaven Is a Place on Earth '';0
 Heaven;0
 Is;0
@@ -5416,33 +5417,33 @@ vs.;0
 Dragon;0
 Ninja;0
 '';0
-# New sentence = Mar√≠a Bel√©n P√©rez Maurice;0
-Mar√≠a;0
-Bel√©n;0
-P√©rez;0
-Maurice;0
-# New sentence = '' Pseudopostega auritella '' ( H√ºbner , 1813 );0
+# New sentence = Mara Beln Prez Maurice;0
+Mara;1
+Beln;2
+Prez;2
+Maurice;2
+# New sentence = '' Pseudopostega auritella '' ( Hbner , 1813 );0
 '';0
 Pseudopostega;0
 auritella;0
 '';0
 (;0
-H√ºbner;0
+Hbner;0
 ,;0
 1813;0
 );0
 # New sentence = Profile at Badminton Association of Malaysia;0
 Profile;0
 at;0
-Badminton;0
-Association;0
-of;0
-Malaysia;0
+Badminton;3
+Association;4
+of;4
+Malaysia;4
 # New sentence = New Hampshire and Vermont seceded shortly thereafter and were soon followed by the rest of New England , New York , New Jersey and Pennsylvania .;0
-New;0
-Hampshire;0
+New;5
+Hampshire;6
 and;0
-Vermont;0
+Vermont;5
 seceded;0
 shortly;0
 thereafter;0
@@ -5454,34 +5455,34 @@ by;0
 the;0
 rest;0
 of;0
-New;0
-England;0
+New;5
+England;6
+,;6
+New;5
+York;6
 ,;0
-New;0
-York;0
-,;0
-New;0
-Jersey;0
+New;5
+Jersey;6
 and;0
-Pennsylvania;0
+Pennsylvania;5
 .;0
-# New sentence = Chelsea ( 2009‚Äì10 and 2011‚Äì12 );0
-Chelsea;0
+# New sentence = Chelsea ( 200910 and 201112 );0
+Chelsea;3
 (;0
-2009‚Äì10;0
+200910;0
 and;0
-2011‚Äì12;0
+201112;0
 );0
-# New sentence = Markoviƒáevo ( Toront√°l√∫jfalu );0
-Markoviƒáevo;0
+# New sentence = Markovi_evo ( Torontljfalu );0
+Markovi_evo;0
 (;0
-Toront√°l√∫jfalu;0
+Torontljfalu;0
 );0
 # New sentence = Finsch 's parakeet;0
 Finsch;0
 's;0
 parakeet;0
-# New sentence = Subsequent generations of artists appreciated the unfinished passages : Joshua Reynolds commented on its `` very unfinished manner '' , but found it `` admirable for its colour and effect , '' and Jean-Honor√© Fragonard made a painted copy of it .;0
+# New sentence = Subsequent generations of artists appreciated the unfinished passages : Joshua Reynolds commented on its `` very unfinished manner '' , but found it `` admirable for its colour and effect , '' and Jean-Honor Fragonard made a painted copy of it .;0
 Subsequent;0
 generations;0
 of;0
@@ -5491,8 +5492,8 @@ the;0
 unfinished;0
 passages;0
 :;0
-Joshua;0
-Reynolds;0
+Joshua;1
+Reynolds;2
 commented;0
 on;0
 its;0
@@ -5515,8 +5516,8 @@ effect;0
 ,;0
 '';0
 and;0
-Jean-Honor√©;0
-Fragonard;0
+Jean-Honor;1
+Fragonard;2
 made;0
 a;0
 painted;0
@@ -5524,11 +5525,11 @@ copy;0
 of;0
 it;0
 .;0
-# New sentence = Lisa I'Anson ( 1995‚Äì1996 );0
-Lisa;0
-I'Anson;0
+# New sentence = Lisa I'Anson ( 19951996 );0
+Lisa;1
+I'Anson;2
 (;0
-1995‚Äì1996;0
+19951996;0
 );0
 # New sentence = The firm was established by Peter Suhrkamp , who had led the equally renowned S. Fischer Verlag since 1936 .;0
 The;0
@@ -5536,8 +5537,8 @@ firm;0
 was;0
 established;0
 by;0
-Peter;0
-Suhrkamp;0
+Peter;1
+Suhrkamp;2
 ,;0
 who;0
 had;0
@@ -5545,9 +5546,9 @@ led;0
 the;0
 equally;0
 renowned;0
-S.;0
-Fischer;0
-Verlag;0
+S.;3
+Fischer;4
+Verlag;4
 since;0
 1936;0
 .;0
@@ -5555,31 +5556,31 @@ since;0
 ";";0
 Teams;0
 losing;0
-Copa;0
-del;0
-Rey;0
+Copa;3
+del;4
+Rey;4
 first;0
 round;0
 # New sentence = : Twelfth Air Force , 20 April 1953;0
 :;0
-Twelfth;0
-Air;0
-Force;0
+Twelfth;3
+Air;4
+Force;4
 ,;0
 20;0
 April;0
 1953;0
-# New sentence = Nowina , Pi≈Ça County;0
-Nowina;0
-,;0
-Pi≈Ça;0
-County;0
-# New sentence = Verne Lundquist : ( 1974‚Äì1981 );0
-Verne;0
-Lundquist;0
+# New sentence = Nowina , Pi_a County;5
+Nowina;6
+,;6
+Pi_a;6
+County;6
+# New sentence = Verne Lundquist : ( 19741981 );0
+Verne;1
+Lundquist;2
 :;0
 (;0
-1974‚Äì1981;0
+19741981;0
 );0
 # New sentence = After the Colorado Labor Wars , the WFM was instrumental in launching the Industrial Workers of the World ( IWW ) in 1905 .;0
 After;0
@@ -5614,12 +5615,12 @@ pauxillaria;0
 Boisduval;0
 ,;0
 1840;0
-# New sentence = '' Phtheochroa pulvillana '' Herrich-Sch√§ffer , 1851;0
+# New sentence = '' Phtheochroa pulvillana '' Herrich-Schffer , 1851;0
 '';0
 Phtheochroa;0
 pulvillana;0
 '';0
-Herrich-Sch√§ffer;0
+Herrich-Schffer;0
 ,;0
 1851;0
 # New sentence = Kootenay Ice ( 1 );0
@@ -5628,37 +5629,37 @@ Ice;0
 (;0
 1;0
 );0
-# New sentence = ' '' Banganapalle State '' ' ‚Äì Faiz Ali Khan , Nawab of Banganapalle ( 1689‚Äì1759 );0
+# New sentence = ' '' Banganapalle State '' '  Faiz Ali Khan , Nawab of Banganapalle ( 16891759 );0
 ';0
 '';0
-Banganapalle;0
-State;0
+Banganapalle;5
+State;6
 '';0
 ';0
-‚Äì;0
-Faiz;0
-Ali;0
-Khan;0
+;0
+Faiz;1
+Ali;2
+Khan;3
 ,;0
-Nawab;0
+Nawab;1
 of;0
-Banganapalle;0
+Banganapalle;5
 (;0
-1689‚Äì1759;0
+16891759;0
 );0
 # New sentence = Sinope]] , Amisus , Euchaita , Comana Pontica;0
-Sinope]];0
+Sinope]];5
 ,;0
 Amisus;0
 ,;0
-Euchaita;0
+Euchaita;5
 ,;0
-Comana;0
-Pontica;0
+Comana;5
+Pontica;6
 # New sentence = Eureka , Missouri;0
-Eureka;0
-,;0
-Missouri;0
+Eureka;5
+,;6
+Missouri;6
 # New sentence = Operation Good Guys '' ( 1997-2000 , BBC Two );0
 Operation;0
 Good;0
@@ -5670,11 +5671,11 @@ Guys;0
 BBC;0
 Two;0
 );0
-# New sentence = Silakhor-e Sharqi Rural District;0
-Silakhor-e;0
-Sharqi;0
-Rural;0
-District;0
+# New sentence = Silakhor-e Sharqi Rural District;5
+Silakhor-e;6
+Sharqi;6
+Rural;6
+District;6
 # New sentence = There has been some confusion between this species and Missulena insignis '' .;0
 There;0
 has;0
@@ -5699,45 +5700,45 @@ a;0
 Multi-Millionaire;0
 ?;0
 # New sentence = ESPN Radio ''Game of the Week;0
-ESPN;0
-Radio;0
+ESPN;3
+Radio;4
 ''Game;0
 of;0
 the;0
 Week;0
-# New sentence = Henri de Boulainvilliers ( 1658‚Äì1722 );0
-Henri;0
-de;0
-Boulainvilliers;0
+# New sentence = Henri de Boulainvilliers ( 16581722 );0
+Henri;1
+de;2
+Boulainvilliers;2
 (;0
-1658‚Äì1722;0
+16581722;0
 );0
 # New sentence = Diju Valiyaveetil / Jwala Gutta;0
-Diju;0
-Valiyaveetil;0
+Diju;1
+Valiyaveetil;2
 /;0
-Jwala;0
-Gutta;0
+Jwala;1
+Gutta;2
 # New sentence = '' Tylopilus louisii '';0
 '';0
 Tylopilus;0
 louisii;0
 '';0
-# New sentence = He was born in Plze≈à , Austria-Hungary and emigrated to Sioux City , Iowa with his widowed mother at the age of five .;0
+# New sentence = He was born in Plze_ , Austria-Hungary and emigrated to Sioux City , Iowa with his widowed mother at the age of five .;0
 He;0
 was;0
 born;0
 in;0
-Plze≈à;0
-,;0
-Austria-Hungary;0
+Plze_;5
+,;6
+Austria-Hungary;6
 and;0
 emigrated;0
 to;0
-Sioux;0
-City;0
-,;0
-Iowa;0
+Sioux;5
+City;6
+,;6
+Iowa;6
 with;0
 his;0
 widowed;0
@@ -5749,19 +5750,19 @@ of;0
 five;0
 .;0
 # New sentence = Chur , Stavropol Krai;0
-Chur;0
-,;0
-Stavropol;0
-Krai;0
+Chur;5
+,;6
+Stavropol;6
+Krai;6
 # New sentence = USANA Amphitheatre , West Valley City , Utah;0
-USANA;0
-Amphitheatre;0
-,;0
-West;0
-Valley;0
-City;0
-,;0
-Utah;0
+USANA;5
+Amphitheatre;6
+,;6
+West;6
+Valley;6
+City;6
+,;6
+Utah;6
 # New sentence = '' Crataegus flabellata '' ( N );0
 '';0
 Crataegus;0
@@ -5770,70 +5771,70 @@ flabellata;0
 (;0
 N;0
 );0
-# New sentence = Katalin Szili ( 1956‚Äì );0
-Katalin;0
-Szili;0
+# New sentence = Katalin Szili ( 1956 );0
+Katalin;1
+Szili;2
 (;0
-1956‚Äì;0
+1956;0
 );0
-# New sentence = 2007‚Äì08 Norwich City F.C. season;0
-2007‚Äì08;0
-Norwich;0
-City;0
-F.C.;0
-season;0
-# New sentence = Moustava Belialov ‚Äì ( Perak FA );0
-Moustava;0
-Belialov;0
-‚Äì;0
+# New sentence = 200708 Norwich City F.C. season;0
+200708;0
+Norwich;3
+City;4
+F.C.;4
+season;4
+# New sentence = Moustava Belialov  ( Perak FA );0
+Moustava;1
+Belialov;2
+;0
 (;0
 Perak;0
 FA;0
 );0
-# New sentence = Cadaqu√©s , Cap de Creus;0
-Cadaqu√©s;0
-,;0
-Cap;0
-de;0
-Creus;0
+# New sentence = Cadaqus , Cap de Creus;0
+Cadaqus;5
+,;6
+Cap;6
+de;6
+Creus;6
 # New sentence = Civil and Environmental Engineering;0
 Civil;0
 and;0
 Environmental;0
 Engineering;0
-# New sentence = QA08 : Madƒ´nat ash ShamƒÅl Municipality , Qatar;0
+# New sentence = QA08 : Mad_nat ash Sham_l Municipality , Qatar;0
 QA08;0
 :;0
-Madƒ´nat;0
-ash;0
-ShamƒÅl;0
-Municipality;0
-,;0
-Qatar;0
+Mad_nat;5
+ash;6
+Sham_l;6
+Municipality;6
+,;6
+Qatar;6
 # New sentence = '' Gymnoscelis tenera '';0
 '';0
 Gymnoscelis;0
 tenera;0
 '';0
 # New sentence = East Lawrencetown , Nova Scotia;0
-East;0
-Lawrencetown;0
-,;0
-Nova;0
-Scotia;0
+East;5
+Lawrencetown;6
+,;6
+Nova;6
+Scotia;6
 # New sentence = He alternates between Cape Cod , Massachusetts and Charleston , South Carolina .;0
 He;0
 alternates;0
 between;0
-Cape;0
-Cod;0
-,;0
-Massachusetts;0
+Cape;5
+Cod;6
+,;6
+Massachusetts;6
 and;0
-Charleston;0
-,;0
-South;0
-Carolina;0
+Charleston;5
+,;6
+South;6
+Carolina;6
 .;0
 # New sentence = `` Language in Society '' , Vol .;0
 ``;0
@@ -5845,14 +5846,14 @@ Society;0
 Vol;0
 .;0
 # New sentence = Madrasa Al-Baqiyat As-Salihat , Vellur;0
-Madrasa;0
-Al-Baqiyat;0
-As-Salihat;0
-,;0
+Madrasa;5
+Al-Baqiyat;6
+As-Salihat;6
+,;6
 Vellur;0
 # New sentence = Victoria Azarenka ( 4 );0
-Victoria;0
-Azarenka;0
+Victoria;1
+Azarenka;2
 (;0
 4;0
 );0
@@ -5867,7 +5868,7 @@ He;0
 eventually;0
 moved;0
 to;0
-Cambodia;0
+Cambodia;5
 with;0
 his;0
 family;0
@@ -5876,35 +5877,35 @@ had;0
 to;0
 escape;0
 the;0
-Khmer;0
-rouge;0
+Khmer;3
+rouge;4
 and;0
 move;0
 to;0
-Udon;0
-Thani;0
-,;0
-Thailand;0
+Udon;5
+Thani;6
+,;6
+Thailand;6
 in;0
 1975;0
 .;0
 # New sentence = Frederick Walker Baldwin;0
-Frederick;0
-Walker;0
-Baldwin;0
+Frederick;1
+Walker;2
+Baldwin;2
 # New sentence = Girish Kumar , Navneet Kaur Dhillon;0
-Girish;0
-Kumar;0
+Girish;1
+Kumar;2
 ,;0
-Navneet;0
-Kaur;0
-Dhillon;0
+Navneet;1
+Kaur;2
+Dhillon;2
 # New sentence = Los Angeles To Washington D.C .;0
-Los;0
-Angeles;0
+Los;5
+Angeles;6
 To;0
-Washington;0
-D.C;0
+Washington;5
+D.C;6
 .;0
 # New sentence = `` In the Chapel in the Moonlight '' ( Billy Hill ) - 6:41;0
 ``;0
@@ -5916,28 +5917,28 @@ the;0
 Moonlight;0
 '';0
 (;0
-Billy;0
-Hill;0
+Billy;5
+Hill;6
 );0
 -;0
-6:41;0
+06.41;0
 # New sentence = Headscarf controversy in Turkey;0
 Headscarf;0
 controversy;0
 in;0
-Turkey;0
-# New sentence = Dietrich Bonhoeffer ( 1906‚Äì1945 ) , Confessing Church;0
-Dietrich;0
-Bonhoeffer;0
+Turkey;5
+# New sentence = Dietrich Bonhoeffer ( 19061945 ) , Confessing Church;0
+Dietrich;1
+Bonhoeffer;2
 (;0
-1906‚Äì1945;0
+19061945;0
 );0
 ,;0
 Confessing;0
 Church;0
 # New sentence = Georges Hausemer ( born 1957 ) , writer;0
-Georges;0
-Hausemer;0
+Georges;1
+Hausemer;2
 (;0
 born;0
 1957;0
@@ -5956,13 +5957,13 @@ were;0
 arrested;0
 by;0
 the;0
-Gestapo;0
+Gestapo;1
 .;0
 # New sentence = Adlai E. Stevenson III ( D );0
-Adlai;0
-E.;0
-Stevenson;0
-III;0
+Adlai;1
+E.;2
+Stevenson;2
+III;2
 (;0
 D;0
 );0
@@ -5974,43 +5975,43 @@ Album;0
 Vengaboys;0
 album;0
 );0
-# New sentence = Dame Barbara Mills , DBE , QC ( 1992‚Äì98 );0
-Dame;0
-Barbara;0
-Mills;0
+# New sentence = Dame Barbara Mills , DBE , QC ( 199298 );0
+Dame;1
+Barbara;2
+Mills;2
 ,;0
 DBE;0
 ,;0
 QC;0
 (;0
-1992‚Äì98;0
+199298;0
 );0
 # New sentence = Florida softshell turtle;0
 Florida;0
 softshell;0
 turtle;0
-# New sentence = Niccol√≤ Ridolfi ( Dominican );0
-Niccol√≤;0
-Ridolfi;0
+# New sentence = Niccol Ridolfi ( Dominican );0
+Niccol;1
+Ridolfi;2
 (;0
 Dominican;0
 );0
 # New sentence = National Route 13 ( Yamagata );0
-National;0
-Route;0
-13;0
-(;0
-Yamagata;0
-);0
+National;5
+Route;6
+13;6
+(;6
+Yamagata;6
+);6
 # New sentence = *224 ) Lehighton ''pop .;0
 *224;0
 );0
-Lehighton;0
+Lehighton;5
 ''pop;0
 .;0
 # New sentence = Richard Johnson ... Insp .;0
-Richard;0
-Johnson;0
+Richard;1
+Johnson;2
 ...;0
 Insp;0
 .;0
@@ -6019,11 +6020,11 @@ In;0
 2006;0
 he;0
 joined;0
-Championnat;0
-National;0
+Championnat;3
+National;4
 side;0
-Villemomble;0
-Sports;0
+Villemomble;3
+Sports;4
 ,;0
 scoring;0
 eight;0
@@ -6040,20 +6041,20 @@ to;0
 Ligue;0
 2;0
 side;0
-Clermont;0
-Foot;0
+Clermont;3
+Foot;4
 in;0
 2008;0
 .;0
 # New sentence = 2004 : AFC Youth Championship with South Korea U-20;0
 2004;0
 :;0
-AFC;0
-Youth;0
-Championship;0
+AFC;3
+Youth;4
+Championship;4
 with;0
-South;0
-Korea;0
+South;5
+Korea;6
 U-20;0
 # New sentence = Popular opposition to the 2003 Iraq war;0
 Popular;0
@@ -6061,29 +6062,29 @@ opposition;0
 to;0
 the;0
 2003;0
-Iraq;0
+Iraq;5
 war;0
 # New sentence = Liverpool , Pennsylvania;0
-Liverpool;0
-,;0
-Pennsylvania;0
+Liverpool;5
+,;6
+Pennsylvania;6
 # New sentence = It is found in Bolivia and Peru .;0
 It;0
 is;0
 found;0
 in;0
-Bolivia;0
+Bolivia;5
 and;0
-Peru;0
+Peru;6
 .;0
 # New sentence = This episode aired at 22:00 ( Beijing Time ) on February 28 , 2014 .;0
 This;0
 episode;0
 aired;0
 at;0
-22:00;0
+22.00;0
 (;0
-Beijing;0
+Beijing;5
 Time;0
 );0
 on;0
@@ -6103,30 +6104,30 @@ Dewitz;0
 1879;0
 );0
 # New sentence = Mt Erebus , Ross Dependency , Antarctica;0
-Mt;0
-Erebus;0
-,;0
-Ross;0
-Dependency;0
-,;0
-Antarctica;0
+Mt;5
+Erebus;6
+,;6
+Ross;6
+Dependency;6
+,;6
+Antarctica;6
 # New sentence = Hayden Epstein , ex-NFL kicker for the Denver Broncos ( 1998 );0
-Hayden;0
-Epstein;0
+Hayden;1
+Epstein;2
 ,;0
 ex-NFL;0
 kicker;0
 for;0
 the;0
-Denver;0
-Broncos;0
+Denver;3
+Broncos;4
 (;0
 1998;0
 );0
-# New sentence = Sir Edward Carson , and then ( from 1917 ) Sir Eric Geddes ‚Äì First Lord of the Admiralty;0
+# New sentence = Sir Edward Carson , and then ( from 1917 ) Sir Eric Geddes  First Lord of the Admiralty;0
 Sir;0
-Edward;0
-Carson;0
+Edward;1
+Carson;2
 ,;0
 and;0
 then;0
@@ -6135,25 +6136,25 @@ from;0
 1917;0
 );0
 Sir;0
-Eric;0
-Geddes;0
-‚Äì;0
+Eric;1
+Geddes;2
+;0
 First;0
 Lord;0
 of;0
 the;0
-Admiralty;0
+Admiralty;5
 # New sentence = '' Bucculatrix longispiralis '';0
 '';0
 Bucculatrix;0
 longispiralis;0
 '';0
 # New sentence = Velika Plana - 16,210;0
-Velika;0
-Plana;0
+Velika;5
+Plana;6
 -;0
-16,210;0
-# New sentence = Sonatas and Partitas for Solo Violin , BWV 1001‚Äì1006;0
+16,21;0
+# New sentence = Sonatas and Partitas for Solo Violin , BWV 10011006;0
 Sonatas;0
 and;0
 Partitas;0
@@ -6162,7 +6163,7 @@ Solo;0
 Violin;0
 ,;0
 BWV;0
-1001‚Äì1006;0
+10011006;0
 # New sentence = ** '' Megacraspedus '' Zeller , 1839;0
 **;0
 '';0
@@ -6182,25 +6183,25 @@ in;0
 according;0
 to;0
 the;0
-United;0
-States;0
-Census;0
-Bureau;0
+United;3
+States;4
+Census;4
+Bureau;4
 was;0
 2,626;0
 .;0
 # New sentence = Coconut Creek , Florida , United States;0
-Coconut;0
-Creek;0
-,;0
-Florida;0
-,;0
-United;0
-States;0
+Coconut;5
+Creek;6
+,;6
+Florida;6
+,;6
+United;6
+States;6
 # New sentence = Jeremiah P. Ostriker;0
-Jeremiah;0
-P.;0
-Ostriker;0
+Jeremiah;1
+P.;2
+Ostriker;2
 # New sentence = '' Epiblema cirsiana '' ( Zeller , 1843 );0
 '';0
 Epiblema;0
@@ -6215,7 +6216,7 @@ Zeller;0
 She;0
 died;0
 in;0
-Jerusalem;0
+Jerusalem;5
 at;0
 May;0
 10;0
@@ -6226,18 +6227,18 @@ May;0
 Diplomatic;0
 missions;0
 of;0
-Papua;0
-New;0
-Guinea;0
-"# New sentence = 3 ‚Äì 3 ( Suwon , Korea Republic ; 11 June 2002 )";0
+Papua;5
+New;6
+Guinea;6
+"# New sentence = 3  3 ( Suwon , Korea Republic ; 11 June 2002 )";0
 3;0
-‚Äì;0
+;0
 3;0
 (;0
-Suwon;0
-,;0
-Korea;0
-Republic;0
+Suwon;5
+,;6
+Korea;6
+Republic;6
 ";";0
 11;0
 June;0
@@ -6255,31 +6256,31 @@ on;0
 Me;0
 '';0
 (;0
-Smokey;0
-Robinson;0
+Smokey;1
+Robinson;2
 );0
-# New sentence = Isma√Øl Omar Guelleh;0
-Isma√Øl;0
-Omar;0
-Guelleh;0
-# New sentence = Mediterranean horseshoe bat ( ''Rhinolophus –µuryale '' );0
+# New sentence = Ismal Omar Guelleh;0
+Ismal;1
+Omar;2
+Guelleh;2
+# New sentence = Mediterranean horseshoe bat ( ''Rhinolophus _uryale '' );0
 Mediterranean;0
 horseshoe;0
 bat;0
 (;0
 ''Rhinolophus;0
-–µuryale;0
+_uryale;0
 '';0
 );0
 # New sentence = Bernardino de Campos;0
-Bernardino;0
-de;0
-Campos;0
-# New sentence = Southern Zhili ( ÂçóÁõ¥Èö∏ÁúÅ );0
-Southern;0
-Zhili;0
+Bernardino;5
+de;6
+Campos;6
+# New sentence = Southern Zhili ( ____ );0
+Southern;5
+Zhili;6
 (;0
-ÂçóÁõ¥Èö∏ÁúÅ;0
+____;0
 );0
 # New sentence = '' When I Was 17 '';0
 '';0
@@ -6288,85 +6289,85 @@ I;0
 Was;0
 17;0
 '';0
-# New sentence = Radka Zrub√°kov√° Ginger Helgeson Julie Halard Anke Huber;0
-Radka;0
-Zrub√°kov√°;0
-Ginger;0
-Helgeson;0
-Julie;0
-Halard;0
-Anke;0
-Huber;0
+# New sentence = Radka Zrubkov Ginger Helgeson Julie Halard Anke Huber;0
+Radka;1
+Zrubkov;2
+Ginger;1
+Helgeson;2
+Julie;1
+Halard;2
+Anke;1
+Huber;2
 # New sentence = U.S. Route 1 in Virginia;0
-U.S.;0
-Route;0
-1;0
-in;0
-Virginia;0
-# New sentence = Rawly Eastwick ( 8‚Äì4 );0
-Rawly;0
-Eastwick;0
+U.S.;5
+Route;6
+1;6
+in;6
+Virginia;6
+# New sentence = Rawly Eastwick ( 84 );0
+Rawly;1
+Eastwick;2
 (;0
-8‚Äì4;0
+84;0
 );0
-# New sentence = ( 1 ) Louise of Mecklenburg-G√ºstrow5 December Copenhagenfive children ( 2 ) Elisabeth Helene von Vieregg6 September 1703one son ( 3 ) Anne Sophie Reventlow4 April Copenhagenthree children;0
+# New sentence = ( 1 ) Louise of Mecklenburg-Gstrow5 December Copenhagenfive children ( 2 ) Elisabeth Helene von Vieregg6 September 1703one son ( 3 ) Anne Sophie Reventlow4 April Copenhagenthree children;0
 (;0
 1;0
 );0
-Louise;0
+Louise;1
 of;0
-Mecklenburg-G√ºstrow5;0
+Mecklenburg-Gstrow5;5
 December;0
-Copenhagenfive;0
+Copenhagenfive;3
 children;0
 (;0
 2;0
 );0
-Elisabeth;0
-Helene;0
-von;0
-Vieregg6;0
+Elisabeth;1
+Helene;2
+von;2
+Vieregg6;2
 September;0
 1703one;0
 son;0
 (;0
 3;0
 );0
-Anne;0
-Sophie;0
+Anne;1
+Sophie;2
 Reventlow4;0
 April;0
-Copenhagenthree;0
+Copenhagenthree;3
 children;0
-# New sentence = : Timothy II Aelurus ( restored in opposition ) ( 475‚Äì477 );0
+# New sentence = : Timothy II Aelurus ( restored in opposition ) ( 475477 );0
 :;0
-Timothy;0
-II;0
-Aelurus;0
+Timothy;1
+II;2
+Aelurus;2
 (;0
 restored;0
 in;0
 opposition;0
 );0
 (;0
-475‚Äì477;0
+475477;0
 );0
 # New sentence = Sheila Copps ( L ) 9734;0
-Sheila;0
-Copps;0
+Sheila;1
+Copps;2
 (;0
 L;0
 );0
 9734;0
 # New sentence = Al-Hajjaj ibn Yusuf;0
-Al-Hajjaj;0
-ibn;0
-Yusuf;0
-# New sentence = Guillaume Dufay ( 1397‚Äì1474 );0
-Guillaume;0
-Dufay;0
+Al-Hajjaj;1
+ibn;2
+Yusuf;2
+# New sentence = Guillaume Dufay ( 13971474 );0
+Guillaume;1
+Dufay;2
 (;0
-1397‚Äì1474;0
+13971474;0
 );0
 # New sentence = SIMS Co. , Ltd .;0
 SIMS;0
@@ -6379,28 +6380,28 @@ List;0
 of;0
 mayors;0
 of;0
-Philadelphia;0
+Philadelphia;5
 # New sentence = Making use of Fano 's inequality gives :;0
 Making;0
 use;0
 of;0
-Fano;0
+Fano;1
 's;0
 inequality;0
 gives;0
 :;0
 # New sentence = Galveston , Texas , United States;0
-Galveston;0
-,;0
-Texas;0
-,;0
-United;0
-States;0
+Galveston;5
+,;6
+Texas;6
+,;6
+United;6
+States;6
 # New sentence = ' '' Terri Sewell '' ' ( born 1965 );0
 ';0
 '';0
-Terri;0
-Sewell;0
+Terri;1
+Sewell;2
 '';0
 ';0
 (;0
@@ -6410,19 +6411,19 @@ born;0
 # New sentence = ' '' KK Sonik-Puntamika '' ';0
 ';0
 '';0
-KK;0
-Sonik-Puntamika;0
+KK;3
+Sonik-Puntamika;4
 '';0
 ';0
-# New sentence = ** Benk Korthals ( 22 May 2011 ‚Äì 14 June 2014 );0
+# New sentence = ** Benk Korthals ( 22 May 2011  14 June 2014 );0
 **;0
-Benk;0
-Korthals;0
+Benk;1
+Korthals;2
 (;0
 22;0
 May;0
 2011;0
-‚Äì;0
+;0
 14;0
 June;0
 2014;0
@@ -6433,30 +6434,30 @@ recording;0
 was;0
 released;0
 by;0
-Decca;0
-Records;0
+Decca;3
+Records;4
 as;0
 catalog;0
 number;0
 24423;0
 .;0
 "# New sentence = Victor Amadeus I , Duke of Savoy ; Louis XIII of France";0
-Victor;0
-Amadeus;0
+Victor;1
+Amadeus;2
 I;0
 ,;0
-Duke;0
+Duke;1
 of;0
-Savoy;0
+Savoy;5
 ";";0
-Louis;0
-XIII;0
+Louis;1
+XIII;2
 of;0
-France;0
+France;5
 # New sentence = *2008 - Everlast - Love , War and the Ghost of Whitey Ford '';0
 *2008;0
 -;0
-Everlast;0
+Everlast;3
 -;0
 Love;0
 ,;0
@@ -6466,15 +6467,15 @@ the;0
 Ghost;0
 of;0
 Whitey;0
-Ford;0
+Ford;3
 '';0
 # New sentence = Sony Ericsson K750;0
-Sony;0
+Sony;3
 Ericsson;0
 K750;0
-# New sentence = Patrick Helmes then completed the comeback as he made it 2‚Äì1 .;0
-Patrick;0
-Helmes;0
+# New sentence = Patrick Helmes then completed the comeback as he made it 21 .;0
+Patrick;1
+Helmes;2
 then;0
 completed;0
 the;0
@@ -6483,28 +6484,28 @@ as;0
 he;0
 made;0
 it;0
-2‚Äì1;0
+21;0
 .;0
 # New sentence = Cytotoxic T cell;0
 Cytotoxic;0
 T;0
 cell;0
 # New sentence = Ekaterina Bobrova / Dmitri Soloviev;0
-Ekaterina;0
-Bobrova;0
+Ekaterina;1
+Bobrova;2
 /;0
-Dmitri;0
-Soloviev;0
-# New sentence = ' '' Ban√≠k Ostrava '' ';0
+Dmitri;1
+Soloviev;2
+# New sentence = ' '' Bank Ostrava '' ';0
 ';0
 '';0
-Ban√≠k;0
-Ostrava;0
+Bank;3
+Ostrava;4
 '';0
 ';0
 # New sentence = Greg Monroe ( 32 );0
-Greg;0
-Monroe;0
+Greg;1
+Monroe;2
 (;0
 32;0
 );0
@@ -6513,52 +6514,52 @@ He;0
 was;0
 born;0
 in;0
-Brooklyn;0
-,;0
-New;0
-York;0
+Brooklyn;5
+,;6
+New;6
+York;6
 and;0
 graduated;0
 from;0
 the;0
-United;0
-States;0
-Coast;0
-Guard;0
-Academy;0
+United;3
+States;4
+Coast;4
+Guard;4
+Academy;4
 in;0
 1950;0
 .;0
 # New sentence = Dan Quinn ( American football );0
-Dan;0
-Quinn;0
+Dan;1
+Quinn;2
 (;0
 American;0
 football;0
 );0
 # New sentence = Gabriela Zapolska , writer;0
-Gabriela;0
-Zapolska;0
+Gabriela;1
+Zapolska;2
 ,;0
 writer;0
-# New sentence = Clarence D. Dillon ‚Äì Secretary of the Treasury .;0
-Clarence;0
-D.;0
-Dillon;0
-‚Äì;0
+# New sentence = Clarence D. Dillon  Secretary of the Treasury .;0
+Clarence;1
+D.;2
+Dillon;2
+;0
 Secretary;0
 of;0
 the;0
 Treasury;0
 .;0
-# New sentence = 1999‚Äì2003 : All Saints;0
-1999‚Äì2003;0
+# New sentence = 19992003 : All Saints;0
+19992003;0
 :;0
 All;0
 Saints;0
 # New sentence = '' Catarina , or La Fille du Bandit '' .;0
 '';0
-Catarina;0
+Catarina;1
 ,;0
 or;0
 La;0
@@ -6568,8 +6569,8 @@ Bandit;0
 '';0
 .;0
 # New sentence = Madlyn Rhue ( deceased );0
-Madlyn;0
-Rhue;0
+Madlyn;1
+Rhue;2
 (;0
 deceased;0
 );0
@@ -6578,7 +6579,7 @@ List;0
 of;0
 flags;0
 of;0
-Ukraine;0
+Ukraine;5
 # New sentence = The AC-Delco 200 was held October 21 at North Carolina Motor Speedway .;0
 The;0
 AC-Delco;0
@@ -6588,20 +6589,20 @@ held;0
 October;0
 21;0
 at;0
-North;0
-Carolina;0
-Motor;0
-Speedway;0
+North;5
+Carolina;6
+Motor;6
+Speedway;6
 .;0
 # New sentence = Melsons Corner , California;0
-Melsons;0
-Corner;0
-,;0
-California;0
+Melsons;5
+Corner;6
+,;6
+California;6
 # New sentence = Gian Marco Centinaio;0
-Gian;0
-Marco;0
-Centinaio;0
+Gian;5
+Marco;6
+Centinaio;6
 # New sentence = The New Avengers '' 38-39;0
 The;0
 New;0
@@ -6622,21 +6623,21 @@ and;0
 1918;0
 .;0
 # New sentence = Missouri Route 164;0
-Missouri;0
-Route;0
-164;0
+Missouri;5
+Route;6
+164;6
 # New sentence = Andrew Marth ( Melbourne Knights );0
-Andrew;0
-Marth;0
+Andrew;1
+Marth;2
 (;0
 Melbourne;0
 Knights;0
 );0
 # New sentence = Villanueva de la Vera;0
-Villanueva;0
-de;0
-la;0
-Vera;0
+Villanueva;5
+de;6
+la;6
+Vera;6
 # New sentence = Wood warbler , ''Phylloscopus sibilatrix '';0
 Wood;0
 warbler;0
@@ -6646,9 +6647,9 @@ sibilatrix;0
 '';0
 # New sentence = == United Arab Emirates ==;0
 ==;0
-United;0
-Arab;0
-Emirates;0
+United;5
+Arab;6
+Emirates;6
 ==;0
 # New sentence = Alligator Reef Light;0
 Alligator;0
@@ -6669,21 +6670,21 @@ potential;0
 duplicate;0
 votes;0
 .;0
-# New sentence = '' Teleiopsis terebinthinella '' ( Herrich-Sch√§ffer , 1856 );0
+# New sentence = '' Teleiopsis terebinthinella '' ( Herrich-Schffer , 1856 );0
 '';0
 Teleiopsis;0
 terebinthinella;0
 '';0
 (;0
-Herrich-Sch√§ffer;0
+Herrich-Schffer;1
 ,;0
 1856;0
 );0
 # New sentence = 24 Ernie Kellermann S;0
 24;0
-Ernie;0
-Kellermann;0
-S;0
+Ernie;1
+Kellermann;2
+S;2
 # New sentence = ' '' 1991 : ' '' A Midwife 's Tale '' by Laurel Thatcher Ulrich;0
 ';0
 '';0
@@ -6697,20 +6698,20 @@ Midwife;0
 Tale;0
 '';0
 by;0
-Laurel;0
-Thatcher;0
-Ulrich;0
+Laurel;1
+Thatcher;2
+Ulrich;2
 # New sentence = 12th place : Courchevel;0
 12th;0
 place;0
 :;0
-Courchevel;0
+Courchevel;5
 # New sentence = Yemeni detainees at Guantanamo Bay;0
 Yemeni;0
 detainees;0
 at;0
-Guantanamo;0
-Bay;0
+Guantanamo;5
+Bay;6
 # New sentence = His first exhibition in this area was demonstrated at Philomene Magers in 1990 .;0
 His;0
 first;0
@@ -6721,15 +6722,15 @@ area;0
 was;0
 demonstrated;0
 at;0
-Philomene;0
-Magers;0
+Philomene;1
+Magers;2
 in;0
 1990;0
 .;0
 # New sentence = Orlando-Deltona-Daytona Beach , FL Combined Statistical Area;0
-Orlando-Deltona-Daytona;0
-Beach;0
-,;0
+Orlando-Deltona-Daytona;5
+Beach;6
+,;6
 FL;0
 Combined;0
 Statistical;0
@@ -6739,57 +6740,57 @@ Area;0
 ''Legends;0
 '';0
 -;0
-Dave;0
-Valentin;0
+Dave;1
+Valentin;2
 # New sentence = Hirata-shi]] , Shimane Prefecture , Japan;0
-Hirata-shi]];0
-,;0
-Shimane;0
-Prefecture;0
-,;0
-Japan;0
-# New sentence = √ëawinpukyu ( Jun√≠n );0
-√ëawinpukyu;0
+Hirata-shi]];5
+,;6
+Shimane;6
+Prefecture;6
+,;6
+Japan;6
+# New sentence = awinpukyu ( Junn );0
+awinpukyu;0
 (;0
-Jun√≠n;0
+Junn;0
 );0
-# New sentence = ** Benthophilus stellatus '' ‚Äî Stellate tadpole-goby;0
+# New sentence = ** Benthophilus stellatus ''  Stellate tadpole-goby;0
 **;0
 Benthophilus;0
 stellatus;0
 '';0
-‚Äî;0
+;0
 Stellate;0
 tadpole-goby;0
-# New sentence = ' '' Terceira Divis√£o '' ';0
+# New sentence = ' '' Terceira Diviso '' ';0
 ';0
 '';0
-Terceira;0
-Divis√£o;0
+Terceira;3
+Diviso;4
 '';0
 ';0
-# New sentence = Arroyomolinos , C√°ceres;0
+# New sentence = Arroyomolinos , Cceres;0
 Arroyomolinos;0
 ,;0
-C√°ceres;0
+Cceres;0
 # New sentence = ' '' Ranti Martins '' ';0
 ';0
 '';0
-Ranti;0
-Martins;0
+Ranti;1
+Martins;2
 '';0
 ';0
 # New sentence = Teemu Pulkkinen ( LW );0
-Teemu;0
-Pulkkinen;0
+Teemu;1
+Pulkkinen;2
 (;0
 LW;0
 );0
-# New sentence = Louise Imogen Guiney ‚Äî a Study '' ( 1921 ) biography;0
-Louise;0
-Imogen;0
-Guiney;0
-‚Äî;0
+# New sentence = Louise Imogen Guiney  a Study '' ( 1921 ) biography;0
+Louise;1
+Imogen;2
+Guiney;2
+;0
 a;0
 Study;0
 '';0
@@ -6804,8 +6805,8 @@ at;0
 29;0
 in;0
 the;0
-Oricon;0
-Charts;0
+Oricon;3
+Charts;4
 .;0
 # New sentence = These two met again in Sandpoint on September 10 .;0
 These;0
@@ -6813,7 +6814,7 @@ two;0
 met;0
 again;0
 in;0
-Sandpoint;0
+Sandpoint;5
 on;0
 September;0
 10;0
@@ -6825,26 +6826,26 @@ the;0
 son;0
 of;0
 Sir;0
-George;0
-Bevan;0
-Bowen;0
+George;1
+Bevan;2
+Bowen;2
 .;0
 # New sentence = John Jay ( F );0
-John;0
-Jay;0
+John;1
+Jay;2
 (;0
 F;0
 );0
 # New sentence = Ingraham ( disambiguation );0
-Ingraham;0
+Ingraham;1
 (;0
 disambiguation;0
 );0
 # New sentence = Joint Task Force 2;0
-Joint;0
-Task;0
-Force;0
-2;0
+Joint;3
+Task;4
+Force;4
+2;4
 # New sentence = `` Na Na Hey Hey Kiss Him Goodbye '';0
 ``;0
 Na;0
@@ -6866,11 +6867,11 @@ evening-primrose;0
 # New sentence = Duty in Pleasant Valley , Md . , until October 27 .;0
 Duty;0
 in;0
-Pleasant;0
-Valley;0
-,;0
-Md;0
-.;0
+Pleasant;3
+Valley;4
+,;4
+Md;4
+.;4
 ,;0
 until;0
 October;0
@@ -6879,15 +6880,15 @@ October;0
 "# New sentence = *1975 : New Jersey State Museum , Trenton , New Jersey ;";0
 *1975;0
 :;0
-New;0
-Jersey;0
-State;0
-Museum;0
-,;0
-Trenton;0
-,;0
-New;0
-Jersey;0
+New;5
+Jersey;6
+State;6
+Museum;6
+,;6
+Trenton;6
+,;6
+New;6
+Jersey;6
 ";";0
 # New sentence = At the age of 11 , she decided that she wished to join the Religious Hospitallers of Ville-Marie in Montreal .;0
 At;0
@@ -6904,15 +6905,15 @@ wished;0
 to;0
 join;0
 the;0
-Religious;0
-Hospitallers;0
-of;0
-Ville-Marie;0
+Religious;3
+Hospitallers;4
+of;4
+Ville-Marie;4
 in;0
-Montreal;0
+Montreal;5
 .;0
 # New sentence = Grimjack '' 11 ( 1985 );0
-Grimjack;0
+Grimjack;1
 '';0
 11;0
 (;0
@@ -6923,15 +6924,15 @@ It;0
 is;0
 found;0
 in;0
-Rwanda;0
+Rwanda;5
 and;0
 possibly;0
-Kenya;0
+Kenya;5
 .;0
-# New sentence = Enrique Lihn ‚Äì poet , playwright , and novelist;0
-Enrique;0
-Lihn;0
-‚Äì;0
+# New sentence = Enrique Lihn  poet , playwright , and novelist;0
+Enrique;1
+Lihn;2
+;0
 poet;0
 ,;0
 playwright;0
@@ -6939,16 +6940,16 @@ playwright;0
 and;0
 novelist;0
 # New sentence = Peter Thomas Hay;0
-Peter;0
-Thomas;0
-Hay;0
+Peter;1
+Thomas;2
+Hay;2
 # New sentence = Valeria Sorokina / Nina Vislova;0
-Valeria;0
-Sorokina;0
+Valeria;1
+Sorokina;2
 /;0
-Nina;0
-Vislova;0
-# New sentence = As of May 24 2016 , he makes over $ 7200 ( ~¬£4900 ) a month from his Patreon page .;0
+Nina;1
+Vislova;2
+# New sentence = As of May 24 2016 , he makes over $ 7200 ( ~4900 ) a month from his Patreon page .;0
 As;0
 of;0
 May;0
@@ -6961,22 +6962,22 @@ over;0
 $;0
 7200;0
 (;0
-~¬£4900;0
+~4900;0
 );0
 a;0
 month;0
 from;0
 his;0
-Patreon;0
+Patreon;3
 page;0
 .;0
 # New sentence = He died in Auckland City Hospital on 27 May 1987 .;0
 He;0
 died;0
 in;0
-Auckland;0
-City;0
-Hospital;0
+Auckland;5
+City;6
+Hospital;6
 on;0
 27;0
 May;0
@@ -7003,55 +7004,55 @@ Commission;0
 # New sentence = Air Chief Marshal Chris Moran 1997-9;0
 Air;0
 Chief;0
-Marshal;0
-Chris;0
-Moran;0
+Marshal;1
+Chris;2
+Moran;2
 1997-9;0
 # New sentence = Clearwater River ( Quebec );0
-Clearwater;0
-River;0
-(;0
-Quebec;0
-);0
+Clearwater;5
+River;6
+(;6
+Quebec;6
+);6
 # New sentence = Alexandra Eames ( Kathryn Erbe ) .;0
-Alexandra;0
-Eames;0
-(;0
-Kathryn;0
-Erbe;0
-);0
+Alexandra;1
+Eames;2
+(;2
+Kathryn;2
+Erbe;2
+);2
 .;0
 # New sentence = : Lithuanian Armed Forces .;0
 :;0
-Lithuanian;0
-Armed;0
-Forces;0
+Lithuanian;3
+Armed;4
+Forces;4
 .;0
 # New sentence = Three days later the Dutch East Indies capitulated .;0
 Three;0
 days;0
 later;0
 the;0
-Dutch;0
-East;0
-Indies;0
+Dutch;5
+East;6
+Indies;6
 capitulated;0
 .;0
-# New sentence = √âtienne L√©opold Trouvelot;0
-√âtienne;0
-L√©opold;0
-Trouvelot;0
-# New sentence = Ruganzu II Ndoli ( 1510‚Äì1543 );0
-Ruganzu;0
-II;0
-Ndoli;0
+# New sentence = tienne Lopold Trouvelot;0
+tienne;1
+Lopold;2
+Trouvelot;2
+# New sentence = Ruganzu II Ndoli ( 15101543 );0
+Ruganzu;1
+II;2
+Ndoli;2
 (;0
-1510‚Äì1543;0
+15101543;0
 );0
 # New sentence = The United States dominated the competition , winning 52 of 87 medals .;0
-The;0
-United;0
-States;0
+The;5
+United;6
+States;6
 dominated;0
 the;0
 competition;0
@@ -7065,7 +7066,7 @@ medals;0
 # New sentence = ' '' Courmes '' ';0
 ';0
 '';0
-Courmes;0
+Courmes;5
 '';0
 ';0
 # New sentence = '' Missing You '';0
@@ -7073,30 +7074,30 @@ Courmes;0
 Missing;0
 You;0
 '';0
-# New sentence = George Caleb Bingham ( 1811‚Äì1879 ) , painter;0
-George;0
-Caleb;0
-Bingham;0
+# New sentence = George Caleb Bingham ( 18111879 ) , painter;0
+George;1
+Caleb;2
+Bingham;2
 (;0
-1811‚Äì1879;0
+18111879;0
 );0
 ,;0
 painter;0
-# New sentence = Francis Gerald Agar-Robartes , 7th Viscount Clifden ( 1883‚Äì1966 );0
-Francis;0
-Gerald;0
-Agar-Robartes;0
+# New sentence = Francis Gerald Agar-Robartes , 7th Viscount Clifden ( 18831966 );0
+Francis;1
+Gerald;2
+Agar-Robartes;2
 ,;0
 7th;0
-Viscount;0
-Clifden;0
+Viscount;5
+Clifden;6
 (;0
-1883‚Äì1966;0
+18831966;0
 );0
 # New sentence = SV Zulte Waregem ( women );0
-SV;0
-Zulte;0
-Waregem;0
+SV;3
+Zulte;4
+Waregem;4
 (;0
 women;0
 );0
@@ -7105,7 +7106,7 @@ Roman;0
 Catholic;0
 Diocese;0
 of;0
-Mandeville;0
+Mandeville;5
 # New sentence = Lists of wind farms by country;0
 Lists;0
 of;0
@@ -7128,8 +7129,8 @@ position;0
 in;0
 the;0
 2013;0
-NFL;0
-Draft;0
+NFL;3
+Draft;4
 .;0
 # New sentence = She currently lives and works in Berlin .;0
 She;0
@@ -7138,7 +7139,7 @@ lives;0
 and;0
 works;0
 in;0
-Berlin;0
+Berlin;5
 .;0
 # New sentence = '' A47 '' ' - Great Yarmouth to Birmingham ( partially reclassified as the B4114 );0
 '';0
@@ -7149,7 +7150,7 @@ A47;0
 Great;0
 Yarmouth;0
 to;0
-Birmingham;0
+Birmingham;5
 (;0
 partially;0
 reclassified;0
@@ -7174,12 +7175,12 @@ of;0
 the;0
 State;0
 of;0
-Tabasco;0
+Tabasco;5
 .;0
 # New sentence = Roy Edward Dodds;0
-Roy;0
-Edward;0
-Dodds;0
+Roy;1
+Edward;2
+Dodds;2
 # New sentence = '' Space Gamer '' 72 ( Jan. 1985 );0
 '';0
 Space;0
@@ -7198,13 +7199,13 @@ written;0
 and;0
 directed;0
 by;0
-Tim;0
-Minear;0
+Tim;1
+Minear;2
 .;0
 # New sentence = Lviv Bus Factory;0
-Lviv;0
-Bus;0
-Factory;0
+Lviv;3
+Bus;4
+Factory;4
 # New sentence = Prionus lecontei '' Lameere , 1912;0
 Prionus;0
 lecontei;0
@@ -7217,19 +7218,19 @@ Lameere;0
 ''Fade;0
 '';0
 -;0
-Yo;0
-La;0
-Tengo;0
-# New sentence = 11 consecutive titles ‚Äî Raymond Ceulemans;0
+Yo;3
+La;4
+Tengo;4
+# New sentence = 11 consecutive titles  Raymond Ceulemans;0
 11;0
 consecutive;0
 titles;0
-‚Äî;0
-Raymond;0
-Ceulemans;0
-# New sentence = La Ni√±a de los Peines is also an important reference for all these styles .;0
+;0
+Raymond;1
+Ceulemans;2
+# New sentence = La Nia de los Peines is also an important reference for all these styles .;0
 La;0
-Ni√±a;0
+Nia;0
 de;0
 los;0
 Peines;0
@@ -7243,43 +7244,43 @@ all;0
 these;0
 styles;0
 .;0
-# New sentence = The Singles 81‚Üí85;0
+# New sentence = The Singles 81_85;0
 The;0
 Singles;0
-81‚Üí85;0
+81_85;0
 # New sentence = 1952 , Gertrude Melville ( ALP );0
 1952;0
 ,;0
-Gertrude;0
-Melville;0
+Gertrude;1
+Melville;2
 (;0
 ALP;0
 );0
 # New sentence = Kodandera Subayya Thimayya;0
-Kodandera;0
-Subayya;0
-Thimayya;0
+Kodandera;1
+Subayya;2
+Thimayya;2
 # New sentence = Billdal ( part of );0
-Billdal;0
+Billdal;5
 (;0
 part;0
 of;0
 );0
 # New sentence = George Benson Johnston;0
-George;0
-Benson;0
-Johnston;0
-# New sentence = Przemy≈õl ( 68,900 );0
-Przemy≈õl;0
+George;1
+Benson;2
+Johnston;2
+# New sentence = Przemy_l ( 68,900 );0
+Przemy_l;5
 (;0
-68,900;0
+68,9;0
 );0
 # New sentence = Nikita Andreev '' ( Tambov ) '';0
-Nikita;0
-Andreev;0
+Nikita;1
+Andreev;2
 '';0
 (;0
-Tambov;0
+Tambov;5
 );0
 '';0
 # New sentence = Tear from the Red;0
@@ -7287,14 +7288,14 @@ Tear;0
 from;0
 the;0
 Red;0
-# New sentence = Topole , Menge≈°;0
-Topole;0
-,;0
-Menge≈°;0
+# New sentence = Topole , Menge_;0
+Topole;5
+,;6
+Menge_;6
 # New sentence = ' '' Faridabad '' ';0
 ';0
 '';0
-Faridabad;0
+Faridabad;5
 '';0
 ';0
 # New sentence = ' '' Most matches in a career : ' '' 131 ( Bismarck du Plessis );0
@@ -7310,129 +7311,129 @@ career;0
 '';0
 131;0
 (;0
-Bismarck;0
-du;0
-Plessis;0
+Bismarck;1
+du;2
+Plessis;2
 );0
 # New sentence = Nellie Campobello , ''Tres poemas '' , Mexico;0
-Nellie;0
-Campobello;0
+Nellie;1
+Campobello;2
 ,;0
 ''Tres;0
 poemas;0
 '';0
 ,;0
-Mexico;0
+Mexico;5
 # New sentence = Leithtown , Virginia;0
-Leithtown;0
-,;0
-Virginia;0
+Leithtown;5
+,;6
+Virginia;6
 # New sentence = Gmelin 's white-toothed shrew;0
-Gmelin;0
+Gmelin;1
 's;0
 white-toothed;0
 shrew;0
 # New sentence = Discovery World ( TV channel );0
-Discovery;0
-World;0
+Discovery;3
+World;4
 (;0
 TV;0
 channel;0
 );0
 # New sentence = Redhill School , Sandton;0
-Redhill;0
-School;0
-,;0
-Sandton;0
+Redhill;5
+School;6
+,;6
+Sandton;6
 # New sentence = Louth ( from 4 to 5 );0
-Louth;0
+Louth;5
 (;0
 from;0
 4;0
 to;0
 5;0
 );0
-# New sentence = Now lives in √Örhus , Denmark .;0
+# New sentence = Now lives in rhus , Denmark .;0
 Now;0
 lives;0
 in;0
-√Örhus;0
-,;0
-Denmark;0
+rhus;5
+,;6
+Denmark;6
 .;0
-# New sentence = Family Guy ( 2006‚Äì16 );0
+# New sentence = Family Guy ( 200616 );0
 Family;0
 Guy;0
 (;0
-2006‚Äì16;0
+200616;0
 );0
-# New sentence = W≈Çodzimierz Smolarek , Euzebiusz Smolarek ( son );0
-W≈Çodzimierz;0
-Smolarek;0
+# New sentence = W_odzimierz Smolarek , Euzebiusz Smolarek ( son );0
+W_odzimierz;1
+Smolarek;2
 ,;0
-Euzebiusz;0
-Smolarek;0
+Euzebiusz;1
+Smolarek;2
 (;0
 son;0
 );0
-# New sentence = **Slalom : Tina Maze 1:29.33 ( 44.08 / 45.25 ) Marlies Schild 1:29.38 ( 43.38 / 46.00 ) Veronika Zuzulov√° 1:29.97 ( 44.92 / 45.05 );0
+# New sentence = **Slalom : Tina Maze 1:29.33 ( 44.08 / 45.25 ) Marlies Schild 1:29.38 ( 43.38 / 46.00 ) Veronika Zuzulov 1:29.97 ( 44.92 / 45.05 );0
 **Slalom;0
 :;0
-Tina;0
-Maze;0
-1:29.33;0
+Tina;1
+Maze;2
+01.29.33;0
 (;0
-44.08;0
+44.08.00;0
 /;0
-45.25;0
+45.25.00;0
 );0
-Marlies;0
-Schild;0
-1:29.38;0
+Marlies;1
+Schild;2
+01.29.38;0
 (;0
-43.38;0
+43.38.00;0
 /;0
-46.00;0
+46.00.00;0
 );0
-Veronika;0
-Zuzulov√°;0
-1:29.97;0
+Veronika;1
+Zuzulov;2
+0,062928241;0
 (;0
 44.92;0
 /;0
-45.05;0
+45.05.00;0
 );0
 # New sentence = The coach for the Eastern Conference was New York Liberty coach Richie Adubato .;0
 The;0
 coach;0
 for;0
 the;0
-Eastern;0
-Conference;0
+Eastern;3
+Conference;4
 was;0
-New;0
-York;0
-Liberty;0
+New;3
+York;4
+Liberty;4
 coach;0
-Richie;0
-Adubato;0
+Richie;1
+Adubato;2
 .;0
 # New sentence = Believe ( Justin Bieber album );0
 Believe;0
 (;0
-Justin;0
-Bieber;0
+Justin;1
+Bieber;2
 album;0
 );0
 # New sentence = '' APPG '' ';0
 '';0
-APPG;0
+APPG;3
 '';0
 ';0
 # New sentence = Born in Bangkok , she is the eldest daughter of a large multi-cultural family .;0
 Born;0
 in;0
-Bangkok;0
+Bangkok;5
 ,;0
 she;0
 is;0
@@ -7446,35 +7447,35 @@ multi-cultural;0
 family;0
 .;0
 # New sentence = SpVgg Selbitz ( 5 );0
-SpVgg;0
-Selbitz;0
+SpVgg;3
+Selbitz;4
 (;0
 5;0
 );0
 # New sentence = ' '' Gale H. Stalker '' ' '' : 59,498;0
 ';0
 '';0
-Gale;0
-H.;0
-Stalker;0
+Gale;1
+H.;2
+Stalker;2
 '';0
 ';0
 '';0
 :;0
 59,498;0
-# New sentence = He was a Professor in L√ºttich and at the University of Li√®ge .;0
+# New sentence = He was a Professor in Lttich and at the University of Lige .;0
 He;0
 was;0
 a;0
 Professor;0
 in;0
-L√ºttich;0
+Lttich;0
 and;0
 at;0
 the;0
-University;0
-of;0
-Li√®ge;0
+University;3
+of;4
+Lige;4
 .;0
 # New sentence = The program expanded in 2006 to Calgary .;0
 The;0
@@ -7483,7 +7484,7 @@ expanded;0
 in;0
 2006;0
 to;0
-Calgary;0
+Calgary;5
 .;0
 # New sentence = ' '' Movie Mania '' ';0
 ';0
@@ -7499,8 +7500,8 @@ formerly;0
 confused;0
 with;0
 the;0
-North;0
-Atlantic;0
+North;5
+Atlantic;6
 species;0
 Dendronotus;0
 frondosus;0
@@ -7512,15 +7513,15 @@ of;0
 the;0
 Capitol;0
 :;0
-Thomas;0
-U.;0
-Walter;0
+Thomas;1
+U.;2
+Walter;2
 # New sentence = Pedro de Quevedo y Quintano;0
-Pedro;0
-de;0
-Quevedo;0
-y;0
-Quintano;0
+Pedro;1
+de;2
+Quevedo;2
+y;2
+Quintano;2
 # New sentence = In early 2010 , she toured South Korea with wrestlers including Raven , Scotty 2 Hotty , Eugene , and Billy Gunn .;0
 In;0
 early;0
@@ -7528,32 +7529,32 @@ early;0
 ,;0
 she;0
 toured;0
-South;0
-Korea;0
+South;5
+Korea;6
 with;0
 wrestlers;0
 including;0
-Raven;0
+Raven;1
 ,;0
-Scotty;0
-2;0
-Hotty;0
+Scotty;1
+2;2
+Hotty;2
 ,;0
-Eugene;0
+Eugene;1
 ,;0
 and;0
-Billy;0
-Gunn;0
+Billy;1
+Gunn;2
 .;0
-# New sentence = He went on to defeat David Gilbert 6‚Äì2 in the last 32 , but lost 3‚Äì6 to Stephen Maguire in the last 16 .;0
+# New sentence = He went on to defeat David Gilbert 62 in the last 32 , but lost 36 to Stephen Maguire in the last 16 .;0
 He;0
 went;0
 on;0
 to;0
 defeat;0
-David;0
-Gilbert;0
-6‚Äì2;0
+David;1
+Gilbert;2
+62;0
 in;0
 the;0
 last;0
@@ -7561,10 +7562,10 @@ last;0
 ,;0
 but;0
 lost;0
-3‚Äì6;0
+36;0
 to;0
-Stephen;0
-Maguire;0
+Stephen;1
+Maguire;2
 in;0
 the;0
 last;0
@@ -7575,87 +7576,87 @@ last;0
 Farscape;0
 '';0
 -;0
-Claudia;0
-Black;0
+Claudia;1
+Black;2
 # New sentence = The Karaite tradition originated in Abbasid Baghdad .;0
 The;0
 Karaite;0
 tradition;0
 originated;0
 in;0
-Abbasid;0
-Baghdad;0
+Abbasid;5
+Baghdad;6
 .;0
 # New sentence = Kevin van der Perren Jorik Hendrickx;0
-Kevin;0
-van;0
-der;0
-Perren;0
-Jorik;0
-Hendrickx;0
+Kevin;1
+van;2
+der;2
+Perren;2
+Jorik;2
+Hendrickx;2
 # New sentence = Jack Johnson ( 2008 );0
-Jack;0
-Johnson;0
+Jack;1
+Johnson;2
 (;0
 2008;0
 );0
 # New sentence = 92 Speedway , Indiana $ 21,467;0
-92;0
-Speedway;0
-,;0
-Indiana;0
+92;5
+Speedway;6
+,;6
+Indiana;6
 $;0
 21,467;0
-# New sentence = William Paul ‚Äì CD Aves ‚Äì 2005‚Äì2007;0
-William;0
-Paul;0
-‚Äì;0
+# New sentence = William Paul  CD Aves  20052007;0
+William;1
+Paul;2
+;0
 CD;0
 Aves;0
-‚Äì;0
-2005‚Äì2007;0
+;0
+20052007;0
 # New sentence = Ngo Dinh Diem;0
-Ngo;0
-Dinh;0
-Diem;0
+Ngo;1
+Dinh;2
+Diem;2
 # New sentence = Joanne Woodward ( 2-14-76 );0
-Joanne;0
-Woodward;0
+Joanne;1
+Woodward;2
 (;0
 2-14-76;0
 );0
-# New sentence = 2000‚Äì01 Cymru Alliance;0
-2000‚Äì01;0
-Cymru;0
-Alliance;0
+# New sentence = 200001 Cymru Alliance;0
+200001;0
+Cymru;3
+Alliance;4
 # New sentence = Earl of Shannon;0
 Earl;0
 of;0
 Shannon;0
 # New sentence = Kilmuir , Easter Ross;0
-Kilmuir;0
-,;0
-Easter;0
-Ross;0
+Kilmuir;5
+,;6
+Easter;6
+Ross;6
 # New sentence = Rizzo the Rat as Wilhem Grimm;0
-Rizzo;0
-the;0
-Rat;0
+Rizzo;1
+the;2
+Rat;2
 as;0
-Wilhem;0
-Grimm;0
+Wilhem;1
+Grimm;2
 # New sentence = Frans Banninck Cocq;0
-Frans;0
-Banninck;0
-Cocq;0
+Frans;1
+Banninck;2
+Cocq;2
 # New sentence = Clontarf Township , Swift County , Minnesota;0
-Clontarf;0
-Township;0
-,;0
-Swift;0
-County;0
-,;0
-Minnesota;0
+Clontarf;5
+Township;6
+,;6
+Swift;6
+County;6
+,;6
+Minnesota;6
 # New sentence = Prior to 1945 it was in Germany .;0
 Prior;0
 to;0
@@ -7663,29 +7664,29 @@ to;0
 it;0
 was;0
 in;0
-Germany;0
+Germany;5
 .;0
 # New sentence = Haza , Province of Burgos;0
-Haza;0
-,;0
-Province;0
-of;0
-Burgos;0
+Haza;5
+,;6
+Province;6
+of;6
+Burgos;6
 # New sentence = Westward Islet , in the Pitcairn Islands;0
-Westward;0
-Islet;0
-,;0
-in;0
-the;0
-Pitcairn;0
-Islands;0
+Westward;5
+Islet;6
+,;6
+in;6
+the;6
+Pitcairn;6
+Islands;6
 # New sentence = He was the Director of Peter the Great Museum of Anthropology and Ethnography in St. Petersburg , Russia from 1997 to 2001 .;0
 He;0
 was;0
 the;0
 Director;0
 of;0
-Peter;0
+Peter;1
 the;0
 Great;0
 Museum;0
@@ -7694,30 +7695,30 @@ Anthropology;0
 and;0
 Ethnography;0
 in;0
-St.;0
-Petersburg;0
-,;0
-Russia;0
+St.;5
+Petersburg;6
+,;6
+Russia;6
 from;0
 1997;0
 to;0
 2001;0
 .;0
-# New sentence = Mario Soldati ( 1906‚Äì1999 ) , writer , director;0
-Mario;0
-Soldati;0
+# New sentence = Mario Soldati ( 19061999 ) , writer , director;0
+Mario;1
+Soldati;2
 (;0
-1906‚Äì1999;0
+19061999;0
 );0
 ,;0
 writer;0
 ,;0
 director;0
 # New sentence = Ozyorskoye , Leningrad Oblast;0
-Ozyorskoye;0
-,;0
-Leningrad;0
-Oblast;0
+Ozyorskoye;5
+,;6
+Leningrad;6
+Oblast;6
 # New sentence = '' Legal Affairs '' ( 1998 );0
 '';0
 Legal;0
@@ -7727,27 +7728,27 @@ Affairs;0
 1998;0
 );0
 # New sentence = Warminster Township , Bucks County , Pennsylvania;0
-Warminster;0
-Township;0
-,;0
-Bucks;0
-County;0
-,;0
-Pennsylvania;0
+Warminster;5
+Township;6
+,;6
+Bucks;6
+County;6
+,;6
+Pennsylvania;6
 # New sentence = ' '' Liga Indonesia Premier Division '' ';0
 ';0
 '';0
-Liga;0
-Indonesia;0
-Premier;0
-Division;0
+Liga;3
+Indonesia;4
+Premier;4
+Division;4
 '';0
 ';0
-# New sentence = Swan Lake 7A ‚Äî Swan Lake First Nation;0
-Swan;0
-Lake;0
-7A;0
-‚Äî;0
+# New sentence = Swan Lake 7A  Swan Lake First Nation;0
+Swan;4
+Lake;5
+7A;5
+;0
 Swan;0
 Lake;0
 First;0
@@ -7761,47 +7762,47 @@ producer;0
 writer;0
 );0
 # New sentence = John Smith 's Stadium;0
-John;0
-Smith;0
-'s;0
-Stadium;0
+John;5
+Smith;6
+'s;6
+Stadium;6
 # New sentence = W. H. Gaskell;0
-W.;0
-H.;0
-Gaskell;0
+W.;1
+H.;2
+Gaskell;2
 # New sentence = Her brother was poet Chittadhar Hridaya .;0
 Her;0
 brother;0
 was;0
 poet;0
-Chittadhar;0
-Hridaya;0
+Chittadhar;1
+Hridaya;2
 .;0
 # New sentence = Pierre Arditi , Jane Birkin;0
-Pierre;0
-Arditi;0
+Pierre;1
+Arditi;2
 ,;0
-Jane;0
-Birkin;0
+Jane;1
+Birkin;2
 # New sentence = '' As told by Walter Wright .;0
 '';0
 As;0
 told;0
 by;0
-Walter;0
-Wright;0
+Walter;1
+Wright;2
 .;0
 # New sentence = 100px '' Thomas E. Martin;0
 100px;0
 '';0
-Thomas;0
-E.;0
-Martin;0
+Thomas;1
+E.;2
+Martin;2
 # New sentence = ' '' Nona Gaprindashvili '' ';0
 ';0
 '';0
-Nona;0
-Gaprindashvili;0
+Nona;1
+Gaprindashvili;2
 '';0
 ';0
 # New sentence = Pickering is some 17 miles to the south-east and Helmsley 17 miles to the south-west .;0
@@ -7814,7 +7815,7 @@ to;0
 the;0
 south-east;0
 and;0
-Helmsley;0
+Helmsley;5
 17;0
 miles;0
 to;0
@@ -7831,7 +7832,7 @@ the;0
 final;0
 ,;0
 and;0
-Pitbull;0
+Pitbull;1
 also;0
 performed;0
 .;0
@@ -7840,18 +7841,18 @@ It;0
 is;0
 found;0
 in;0
-Guinea;0
-,;0
-Ivory;0
-Coast;0
-,;0
-Ghana;0
+Guinea;5
+,;6
+Ivory;6
+Coast;6
+,;6
+Ghana;6
 and;0
-Cameroon;0
+Cameroon;5
 .;0
-# New sentence = 2012 ‚Äì ''8th place '';0
+# New sentence = 2012  ''8th place '';0
 2012;0
-‚Äì;0
+;0
 ''8th;0
 place;0
 '';0
@@ -7877,8 +7878,8 @@ Yuke;0
 Her;0
 performance;0
 in;0
-Lena;0
-Horne;0
+Lena;1
+Horne;2
 :;0
 The;0
 Lady;0
@@ -7895,85 +7896,85 @@ $;0
 million;0
 stayed;0
 in;0
-Cuba;0
+Cuba;5
 .;0
 # New sentence = Bridgeforth Stadium and Zane Showker Field;0
-Bridgeforth;0
-Stadium;0
+Bridgeforth;5
+Stadium;6
 and;0
-Zane;0
-Showker;0
-Field;0
+Zane;5
+Showker;6
+Field;6
 # New sentence = Hawkshead Grammar School;0
-Hawkshead;0
-Grammar;0
-School;0
+Hawkshead;3
+Grammar;4
+School;4
 # New sentence = United Nations Transitional Authority in Cambodia;0
-United;0
-Nations;0
-Transitional;0
-Authority;0
+United;3
+Nations;4
+Transitional;4
+Authority;4
 in;0
-Cambodia;0
+Cambodia;5
 # New sentence = F. Gwynplaine MacIntyre;0
-F.;0
-Gwynplaine;0
-MacIntyre;0
+F.;1
+Gwynplaine;2
+MacIntyre;2
 # New sentence = Ding Yang / Ren Zhongfei;0
-Ding;0
-Yang;0
+Ding;1
+Yang;2
 /;0
-Ren;0
-Zhongfei;0
+Ren;1
+Zhongfei;2
 # New sentence = He then worked at the Harvard-Smithsonian Center for Astrophysics in Cambridge , Massachusetts .;0
 He;0
 then;0
 worked;0
 at;0
 the;0
-Harvard-Smithsonian;0
-Center;0
+Harvard-Smithsonian;3
+Center;4
 for;0
 Astrophysics;0
 in;0
-Cambridge;0
-,;0
-Massachusetts;0
+Cambridge;5
+,;6
+Massachusetts;6
 .;0
 # New sentence = He attended Western Washington University and the University of Colorado .;0
 He;0
 attended;0
-Western;0
-Washington;0
-University;0
+Western;3
+Washington;4
+University;4
 and;0
-the;0
-University;0
-of;0
-Colorado;0
+the;3
+University;4
+of;4
+Colorado;4
 .;0
-# New sentence = :1st Stage 2 Vuelta a Espa√±a , Nacer Bouhanni;0
+# New sentence = :1st Stage 2 Vuelta a Espaa , Nacer Bouhanni;0
 :1st;0
 Stage;0
 2;0
-Vuelta;0
-a;0
-Espa√±a;0
+Vuelta;3
+a;4
+Espaa;4
 ,;0
-Nacer;0
-Bouhanni;0
-# New sentence = '' Principality of Taranto '' ' ‚Äì Bohemond II ( 1111‚Äì1128 );0
+Nacer;1
+Bouhanni;2
+# New sentence = '' Principality of Taranto '' '  Bohemond II ( 11111128 );0
 '';0
 Principality;0
 of;0
-Taranto;0
+Taranto;5
 '';0
 ';0
-‚Äì;0
-Bohemond;0
-II;0
+;0
+Bohemond;1
+II;2
 (;0
-1111‚Äì1128;0
+11111128;0
 );0
 # New sentence = However , gameplay aspects such as AI earned a mixed response .;0
 However;0
@@ -7992,34 +7993,34 @@ response;0
 Historic;0
 Core;0
 ,;0
-Los;0
-Angeles;0
+Los;5
+Angeles;6
 # New sentence = Lyon County , Nevada;0
-Lyon;0
-County;0
-,;0
-Nevada;0
+Lyon;5
+County;6
+,;6
+Nevada;6
 # New sentence = She attended Menlo-Atherton High School .;0
 She;0
 attended;0
-Menlo-Atherton;0
-High;0
-School;0
+Menlo-Atherton;3
+High;4
+School;4
 .;0
 # New sentence = Saint Anthony Cathedral Basilica;0
-Saint;0
-Anthony;0
-Cathedral;0
-Basilica;0
+Saint;3
+Anthony;4
+Cathedral;4
+Basilica;4
 # New sentence = Watervliet , New York;0
-Watervliet;0
-,;0
-New;0
-York;0
+Watervliet;5
+,;6
+New;6
+York;6
 # New sentence = Tanga , Tanzania;0
-Tanga;0
-,;0
-Tanzania;0
+Tanga;5
+,;6
+Tanzania;6
 # New sentence = He left on 3 April 2008 , announced as by 'mutual consent ' , following the departure of manager Andy Ritchie two days earlier .;0
 He;0
 left;0
@@ -8040,44 +8041,44 @@ the;0
 departure;0
 of;0
 manager;0
-Andy;0
-Ritchie;0
+Andy;1
+Ritchie;2
 two;0
 days;0
 earlier;0
 .;0
 # New sentence = Springhill Township , Fayette County , Pennsylvania;0
-Springhill;0
-Township;0
-,;0
-Fayette;0
-County;0
-,;0
-Pennsylvania;0
+Springhill;5
+Township;6
+,;6
+Fayette;6
+County;6
+,;6
+Pennsylvania;6
 # New sentence = Communes of the Bas-Rhin department;0
-Communes;0
-of;0
-the;0
-Bas-Rhin;0
-department;0
+Communes;5
+of;6
+the;6
+Bas-Rhin;6
+department;6
 # New sentence = Petr Korda '' ( Quarterfinals );0
-Petr;0
-Korda;0
+Petr;1
+Korda;2
 '';0
 (;0
 Quarterfinals;0
 );0
 # New sentence = Grand View , Idaho;0
-Grand;0
-View;0
-,;0
-Idaho;0
+Grand;5
+View;6
+,;6
+Idaho;6
 # New sentence = Industrial Bank of Korea FC;0
-Industrial;0
-Bank;0
-of;0
-Korea;0
-FC;0
+Industrial;3
+Bank;4
+of;4
+Korea;4
+FC;4
 # New sentence = It is located in the former province of Soule .;0
 It;0
 is;0
@@ -8087,7 +8088,7 @@ the;0
 former;0
 province;0
 of;0
-Soule;0
+Soule;5
 .;0
 # New sentence = Marabou stork , ''Leptoptilos crumeniferus '';0
 Marabou;0
@@ -8105,12 +8106,12 @@ till;0
 1850;0
 text;0
 :;0
-Russian;0
-Empire;0
-# New sentence = Serra de Dar√≥;0
-Serra;0
-de;0
-Dar√≥;0
+Russian;5
+Empire;6
+# New sentence = Serra de Dar;0
+Serra;5
+de;6
+Dar;6
 # New sentence = He is a Democrat .;0
 He;0
 is;0
@@ -8118,46 +8119,46 @@ a;0
 Democrat;0
 .;0
 # New sentence = Sarah Jessica Parker - ''Amy-Beth '';0
-Sarah;0
-Jessica;0
-Parker;0
+Sarah;1
+Jessica;2
+Parker;2
 -;0
-''Amy-Beth;0
+''Amy-Beth;1
 '';0
 # New sentence = McCormick County , South Carolina - northeast;0
-McCormick;0
-County;0
-,;0
-South;0
-Carolina;0
--;0
-northeast;0
+McCormick;5
+County;6
+,;6
+South;6
+Carolina;6
+-;6
+northeast;6
 # New sentence = Buckley 's forest falcon;0
 Buckley;0
 's;0
 forest;0
 falcon;0
 # New sentence = Old Patent Office Building;0
-Old;0
-Patent;0
-Office;0
-Building;0
+Old;5
+Patent;6
+Office;6
+Building;6
 # New sentence = Apse Heath , Arreton ) .;0
-Apse;0
-Heath;0
-,;0
-Arreton;0
+Apse;5
+Heath;6
+,;6
+Arreton;6
 );0
 .;0
 # New sentence = Buffalo Lake Metis Settlement;0
-Buffalo;0
-Lake;0
-Metis;0
-Settlement;0
-# New sentence = Jos√© Quique Mel√©ndez;0
-Jos√©;0
-Quique;0
-Mel√©ndez;0
+Buffalo;3
+Lake;4
+Metis;4
+Settlement;4
+# New sentence = Jos Quique Melndez;0
+Jos;1
+Quique;2
+Melndez;2
 # New sentence = He also holds Spanish citizenship , which makes him eligible as an EU player .;0
 He;0
 also;0
@@ -8177,24 +8178,24 @@ player;0
 # New sentence = 2012 : Mark Sherrod , Memphis;0
 2012;0
 :;0
-Mark;0
-Sherrod;0
+Mark;1
+Sherrod;2
 ,;0
-Memphis;0
+Memphis;5
 # New sentence = 23 November 2009 , Hamburg;0
 23;0
 November;0
 2009;0
 ,;0
-Hamburg;0
+Hamburg;5
 # New sentence = Budweiser Budvar Brewery;0
-Budweiser;0
-Budvar;0
-Brewery;0
+Budweiser;3
+Budvar;4
+Brewery;4
 # New sentence = Published : Warsaw , 1851;0
 Published;0
 :;0
-Warsaw;0
+Warsaw;5
 ,;0
 1851;0
 # New sentence = `` I Can See Clearly Now '';0
@@ -8206,16 +8207,16 @@ Clearly;0
 Now;0
 '';0
 # New sentence = Alla Beknazarova / Vladimir Zuev;0
-Alla;0
-Beknazarova;0
+Alla;1
+Beknazarova;2
 /;0
-Vladimir;0
-Zuev;0
+Vladimir;1
+Zuev;2
 # New sentence = Charley 's War;0
-Charley;0
+Charley;1
 's;0
 War;0
-# New sentence = `` What 's My Name ? '' ‚Äì Rihanna featuring Drake ( 1-week );0
+# New sentence = `` What 's My Name ? ''  Rihanna featuring Drake ( 1-week );0
 ``;0
 What;0
 's;0
@@ -8223,73 +8224,73 @@ My;0
 Name;0
 ?;0
 '';0
-‚Äì;0
-Rihanna;0
+;0
+Rihanna;1
 featuring;0
-Drake;0
+Drake;1
 (;0
 1-week;0
 );0
 # New sentence = Squires , Missouri;0
-Squires;0
-,;0
-Missouri;0
+Squires;5
+,;6
+Missouri;6
 # New sentence = Turkish Radio and Television Corporation;0
-Turkish;0
-Radio;0
-and;0
-Television;0
-Corporation;0
+Turkish;3
+Radio;4
+and;4
+Television;4
+Corporation;4
 # New sentence = Cuthbert Ormond Simpkins;0
-Cuthbert;0
-Ormond;0
-Simpkins;0
+Cuthbert;1
+Ormond;2
+Simpkins;2
 # New sentence = National Curriculum ( Australia );0
-National;0
-Curriculum;0
-(;0
-Australia;0
-);0
+National;3
+Curriculum;4
+(;4
+Australia;4
+);4
 # New sentence = Military of South Korea;0
-Military;0
-of;0
-South;0
-Korea;0
+Military;3
+of;4
+South;4
+Korea;4
 # New sentence = : A single by The 5 Torquays , an early incarnation of the Monks;0
 :;0
 A;0
 single;0
 by;0
-The;0
-5;0
-Torquays;0
+The;3
+5;4
+Torquays;4
 ,;0
 an;0
 early;0
 incarnation;0
 of;0
-the;0
-Monks;0
+the;3
+Monks;4
 # New sentence = `` Run It ! '';0
 ``;0
 Run;0
 It;0
 !;0
 '';0
-# New sentence = Hangman 's Hymn '' ( Èü≥Ê•Ω„Å´„Çà„ÇãËë¨Âºè ) ( 2007 );0
-Hangman;0
-'s;0
-Hymn;0
+# New sentence = Hangman 's Hymn '' ( _______ ) ( 2007 );0
+Hangman;1
+'s;2
+Hymn;2
 '';0
 (;0
-Èü≥Ê•Ω„Å´„Çà„ÇãËë¨Âºè;0
+_______;0
 );0
 (;0
 2007;0
 );0
 # New sentence = Ascanio II Piccolomini ( 1629 - 14 September 1671 deceased );0
-Ascanio;0
-II;0
+Ascanio;1
+II;2
 Piccolomini;0
 (;0
 1629;0
@@ -8303,45 +8304,45 @@ deceased;0
 Religion;0
 in;0
 the;0
-United;0
-Kingdom;0
+United;5
+Kingdom;6
 # New sentence = Matty Mullins , Lead Singer / Vocalist for Memphis May Fire .;0
-Matty;0
-Mullins;0
+Matty;1
+Mullins;2
 ,;0
 Lead;0
 Singer;0
 /;0
 Vocalist;0
 for;0
-Memphis;0
-May;0
-Fire;0
+Memphis;3
+May;4
+Fire;4
 .;0
-# New sentence = Potijze Ch√¢teau Wood Commonwealth War Graves Commission Cemetery;0
-Potijze;0
-Ch√¢teau;0
-Wood;0
-Commonwealth;0
-War;0
-Graves;0
-Commission;0
-Cemetery;0
+# New sentence = Potijze Chteau Wood Commonwealth War Graves Commission Cemetery;0
+Potijze;5
+Chteau;6
+Wood;6
+Commonwealth;6
+War;6
+Graves;6
+Commission;6
+Cemetery;6
 # New sentence = It spans the Des Moines River for .;0
 It;0
 spans;0
 the;0
-Des;0
-Moines;0
-River;0
+Des;5
+Moines;6
+River;6
 for;0
 .;0
 # New sentence = Taluk / Tehsil : Taliparamba;0
-Taluk;0
-/;0
-Tehsil;0
-:;0
-Taliparamba;0
+Taluk;5
+/;6
+Tehsil;6
+:;6
+Taliparamba;6
 # New sentence = Dave ( TV channel );0
 Dave;0
 (;0
@@ -8361,70 +8362,70 @@ along;0
 with;0
 his;0
 father;0
-Sunan;0
-Ampel;0
+Sunan;1
+Ampel;2
 and;0
 his;0
 brother;0
-Sunan;0
-Bonang;0
+Sunan;1
+Bonang;2
 .;0
 # New sentence = Ofir ( Esposende ) , Portugal .;0
-Ofir;0
-(;0
-Esposende;0
-);0
-,;0
-Portugal;0
+Ofir;5
+(;6
+Esposende;6
+);6
+,;6
+Portugal;6
 .;0
-# New sentence = Santa Helena de Goi√°s;0
-Santa;0
-Helena;0
-de;0
-Goi√°s;0
-# New sentence = Manfred Schwartz ( 1909‚Äì1970 ) , painter;0
-Manfred;0
-Schwartz;0
+# New sentence = Santa Helena de Gois;0
+Santa;1
+Helena;2
+de;2
+Gois;2
+# New sentence = Manfred Schwartz ( 19091970 ) , painter;0
+Manfred;1
+Schwartz;2
 (;0
-1909‚Äì1970;0
+19091970;0
 );0
 ,;0
 painter;0
 # New sentence = Ebbw Vale F.C .;0
-Ebbw;0
-Vale;0
-F.C;0
+Ebbw;3
+Vale;4
+F.C;4
 .;0
 # New sentence = Henry FitzRoy ( d. 1158 );0
-Henry;0
-FitzRoy;0
+Henry;1
+FitzRoy;2
 (;0
 d.;0
 1158;0
 );0
 # New sentence = Tupac A. Hunter;0
-Tupac;0
-A.;0
-Hunter;0
-# New sentence = La Trinit√© , Savoie;0
-La;0
-Trinit√©;0
-,;0
-Savoie;0
+Tupac;1
+A.;2
+Hunter;2
+# New sentence = La Trinit , Savoie;0
+La;5
+Trinit;6
+,;6
+Savoie;6
 # New sentence = William S. Duffey Jr .;0
-William;0
-S.;0
-Duffey;0
-Jr;0
+William;1
+S.;2
+Duffey;2
+Jr;2
 .;0
 # New sentence = De La Salle Catholic University , Manado;0
-De;0
-La;0
-Salle;0
-Catholic;0
-University;0
+De;3
+La;4
+Salle;4
+Catholic;4
+University;4
 ,;0
-Manado;0
+Manado;6
 # New sentence = Fire Emblem : Awakening '';0
 Fire;0
 Emblem;0
@@ -8432,31 +8433,31 @@ Emblem;0
 Awakening;0
 '';0
 # New sentence = Al Jefferson ( 10 );0
-Al;0
-Jefferson;0
+Al;1
+Jefferson;2
 (;0
 10;0
 );0
 # New sentence = ' '' Alex Barros '' ';0
 ';0
 '';0
-Alex;0
-Barros;0
+Alex;1
+Barros;2
 '';0
 ';0
 # New sentence = Service data unit;0
-Service;0
-data;0
-unit;0
-# New sentence = Massimo Maccarone ‚Äì Middlesbrough ‚Äì 2002‚Äì04 , 2005‚Äì07;0
-Massimo;0
-Maccarone;0
-‚Äì;0
-Middlesbrough;0
-‚Äì;0
-2002‚Äì04;0
+Service;3
+data;4
+unit;4
+# New sentence = Massimo Maccarone  Middlesbrough  200204 , 200507;0
+Massimo;1
+Maccarone;2
+;0
+Middlesbrough;3
+;0
+200204;0
 ,;0
-2005‚Äì07;0
+200507;0
 # New sentence = The two of them went to Venice and lived together .;0
 The;0
 two;0
@@ -8464,38 +8465,38 @@ of;0
 them;0
 went;0
 to;0
-Venice;0
+Venice;5
 and;0
 lived;0
 together;0
 .;0
 # New sentence = Micah P. Hinson and the Opera Circuit '';0
-Micah;0
-P.;0
-Hinson;0
+Micah;1
+P.;2
+Hinson;2
 and;0
 the;0
-Opera;0
-Circuit;0
+Opera;3
+Circuit;4
 '';0
 # New sentence = Sands Atlantic City , Atlantic City , New Jersey , United States;0
-Sands;0
-Atlantic;0
-City;0
-,;0
-Atlantic;0
-City;0
-,;0
-New;0
-Jersey;0
-,;0
-United;0
-States;0
+Sands;5
+Atlantic;6
+City;6
+,;6
+Atlantic;6
+City;6
+,;6
+New;6
+Jersey;6
+,;6
+United;6
+States;6
 # New sentence = Merced County ( 54.4 % );0
-Merced;0
-County;0
+Merced;5
+County;6
 (;0
-54.4;0
+54.04.00;0
 %;0
 );0
 # New sentence = Administratively it is designated a commune within the department of Loire .;0
@@ -8507,22 +8508,22 @@ a;0
 commune;0
 within;0
 the;0
-department;0
-of;0
-Loire;0
+department;5
+of;6
+Loire;6
 .;0
 # New sentence = Endgame '' ( Diane Carey ) , 2001;0
 Endgame;0
 '';0
 (;0
-Diane;0
-Carey;0
+Diane;1
+Carey;2
 );0
 ,;0
 2001;0
 # New sentence = Across Sonora , many homes were wrecked due to flooding .;0
-Across;0
-Sonora;0
+Across;1
+Sonora;2
 ,;0
 many;0
 homes;0
@@ -8533,10 +8534,10 @@ to;0
 flooding;0
 .;0
 # New sentence = Mr. R. S. Lugani , after a few years , took over as its first principal .;0
-Mr.;0
-R.;0
-S.;0
-Lugani;0
+Mr.;1
+R.;2
+S.;2
+Lugani;2
 ,;0
 after;0
 a;0
@@ -8563,64 +8564,64 @@ Buck;0
 -;0
 Straight;0
 Outta;0
-Cashville;0
+Cashville;5
 '';0
 ==;0
 # New sentence = J.J. Hickson ( 21 );0
-J.J.;0
-Hickson;0
+J.J.;1
+Hickson;2
 (;0
 21;0
 );0
 # New sentence = *2004 - Saskia Olde Wolbers;0
 *2004;0
 -;0
-Saskia;0
-Olde;0
-Wolbers;0
+Saskia;1
+Olde;2
+Wolbers;2
 # New sentence = He was buried in Druid Ridge Cemetery in Pikesville , Maryland .;0
 He;0
 was;0
 buried;0
 in;0
-Druid;0
-Ridge;0
-Cemetery;0
-in;0
-Pikesville;0
-,;0
-Maryland;0
+Druid;5
+Ridge;6
+Cemetery;6
+in;6
+Pikesville;6
+,;6
+Maryland;6
 .;0
-# New sentence = *1984 : Stella Club d'Adjam√© ( 3 );0
+# New sentence = *1984 : Stella Club d'Adjam ( 3 );0
 *1984;0
 :;0
-Stella;0
-Club;0
-d'Adjam√©;0
+Stella;3
+Club;4
+d'Adjam;4
 (;0
 3;0
 );0
 # New sentence = Les Binkley ( G );0
 Les;0
-Binkley;0
-(;0
+Binkley;1
+(;2
 G;0
 );0
 # New sentence = Jodi Albert ( Debbie Dean );0
-Jodi;0
-Albert;0
+Jodi;1
+Albert;2
 (;0
-Debbie;0
-Dean;0
+Debbie;1
+Dean;2
 );0
 # New sentence = Montclar ( disambiguation );0
-Montclar;0
+Montclar;3
 (;0
 disambiguation;0
 );0
-# New sentence = *Beyonc√© ‚Äî `` Single Ladies ( Put a Ring on It ) ‚Äù ( 2008 );0
-*Beyonc√©;0
-‚Äî;0
+# New sentence = *Beyonc  `` Single Ladies ( Put a Ring on It )  ( 2008 );0
+*Beyonc;1
+;0
 ``;0
 Single;0
 Ladies;0
@@ -8631,30 +8632,30 @@ Ring;0
 on;0
 It;0
 );0
-‚Äù;0
+;0
 (;0
 2008;0
 );0
 # New sentence = 22px Rio de Oro;0
 22px;0
-Rio;0
-de;0
-Oro;0
+Rio;5
+de;6
+Oro;6
 # New sentence = Vik Sahay as Male Assistant;0
-Vik;0
-Sahay;0
+Vik;1
+Sahay;2
 as;0
 Male;0
 Assistant;0
-# New sentence = ‚Ä¢ Vlkovija ( 17 );0
-‚Ä¢;0
-Vlkovija;0
+# New sentence =  Vlkovija ( 17 );0
+;0
+Vlkovija;5
 (;0
 17;0
 );0
 # New sentence = Cristian Petre , 4 .;0
-Cristian;0
-Petre;0
+Cristian;1
+Petre;2
 ,;0
 4;0
 .;0
@@ -8677,9 +8678,9 @@ same;0
 place;0
 .;0
 # New sentence = Hussain Al Jasmi ( singer ) helped in the composition of the album 's title song Mashaklni .;0
-Hussain;0
-Al;0
-Jasmi;0
+Hussain;1
+Al;2
+Jasmi;2
 (;0
 singer;0
 );0
@@ -8707,31 +8708,31 @@ and;0
 was;0
 educated;0
 in;0
-Berlin;0
+Berlin;5
 .;0
 # New sentence = ' '' Andy Rouse '' ';0
 ';0
 '';0
-Andy;0
-Rouse;0
+Andy;1
+Rouse;2
 '';0
 ';0
 # New sentence = Urbenville , New South Wales;0
-Urbenville;0
-,;0
-New;0
-South;0
-Wales;0
+Urbenville;5
+,;6
+New;6
+South;6
+Wales;6
 # New sentence = ' '' Ahmed Maiteeq '' ';0
 ';0
 '';0
-Ahmed;0
-Maiteeq;0
+Ahmed;1
+Maiteeq;2
 '';0
 ';0
 # New sentence = Laurindo Almeida ( composer and artist ) for ''Discantus '';0
-Laurindo;0
-Almeida;0
+Laurindo;1
+Almeida;2
 (;0
 composer;0
 and;0
@@ -8740,23 +8741,23 @@ artist;0
 for;0
 ''Discantus;0
 '';0
-# New sentence = Voine»ôti River ( Tutova );0
-Voine»ôti;0
-River;0
+# New sentence = Voine_ti River ( Tutova );0
+Voine_ti;5
+River;6
 (;0
 Tutova;0
 );0
 # New sentence = River Valley High School ( Yuba City , California );0
-River;0
-Valley;0
-High;0
-School;0
-(;0
-Yuba;0
-City;0
-,;0
-California;0
-);0
+River;5
+Valley;6
+High;6
+School;6
+(;6
+Yuba;6
+City;6
+,;6
+California;6
+);6
 # New sentence = He continued his career in Serie C2 with Pro Vercelli and Alexandria , ending his career at age 30 .;0
 He;0
 continued;0
@@ -8766,10 +8767,10 @@ in;0
 Serie;0
 C2;0
 with;0
-Pro;0
-Vercelli;0
+Pro;3
+Vercelli;4
 and;0
-Alexandria;0
+Alexandria;3
 ,;0
 ending;0
 his;0
@@ -8786,39 +8787,39 @@ douglasella;0
 Stainton;0
 ,;0
 1849;0
-# New sentence = Leonardo Grosso della Rovere ( 15 September 1508 ‚Äì 9 March 1517 );0
-Leonardo;0
-Grosso;0
-della;0
-Rovere;0
+# New sentence = Leonardo Grosso della Rovere ( 15 September 1508  9 March 1517 );0
+Leonardo;1
+Grosso;2
+della;2
+Rovere;2
 (;0
 15;0
 September;0
 1508;0
-‚Äì;0
+;0
 9;0
 March;0
 1517;0
 );0
 # New sentence = Joan , Heiress of Navarre;0
-Joan;0
-,;0
+Joan;1
+,;2
 Heiress;0
 of;0
-Navarre;0
+Navarre;5
 # New sentence = Hamilton , Ontario ( township );0
-Hamilton;0
-,;0
-Ontario;0
+Hamilton;5
+,;6
+Ontario;6
 (;0
 township;0
 );0
-# New sentence = 28 May ‚Äî Clough Williams-Ellis , architect ( died 1978 );0
+# New sentence = 28 May  Clough Williams-Ellis , architect ( died 1978 );0
 28;0
 May;0
-‚Äî;0
-Clough;0
-Williams-Ellis;0
+;0
+Clough;1
+Williams-Ellis;2
 ,;0
 architect;0
 (;0
@@ -8826,18 +8827,18 @@ died;0
 1978;0
 );0
 # New sentence = College of DuPage ( Glen Ellyn );0
-College;0
-of;0
-DuPage;0
-(;0
-Glen;0
-Ellyn;0
-);0
+College;5
+of;6
+DuPage;6
+(;6
+Glen;6
+Ellyn;6
+);6
 # New sentence = Beltzville State Park ( Carbon County );0
-Beltzville;0
-State;0
-Park;0
-(;0
-Carbon;0
-County;0
-);0
+Beltzville;5
+State;6
+Park;6
+(;6
+Carbon;6
+County;6
+);6
