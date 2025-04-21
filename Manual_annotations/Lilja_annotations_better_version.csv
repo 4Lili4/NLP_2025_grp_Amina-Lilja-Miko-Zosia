@@ -12,7 +12,7 @@ River;6;
 MW;0;
 );0;
 # New sentence = 102.7 MHz Triple J' ABC;;
-102.07.00;0;
+4,254861111;0;
 MHz;0;
 Triple;3;
 J;4;
@@ -70,7 +70,7 @@ Invisible;0;
 Touch;0;
 '';0;
 -;0;
-Genesis;0;
+Genesis;3;
 # New sentence = It was created on 28 January 1831 for Standish O'Grady , Attorney-General for Ireland and Lord Chief Baron of the Exchequer for Ireland .;;
 It;0;
 was;0;
@@ -257,7 +257,7 @@ Edwin;1;
 S.;2;
 Johnson;2;
 (;0;
-D;0;
+D;3;
 );0;
 # New sentence = Bahawalpur Zoo , Bahawalpur , Punjab;;
 Bahawalpur;3;
@@ -369,8 +369,8 @@ Ohio;5;
 Communes;0;
 of;0;
 the;0;
-Cote-d'Or;0;
-department;0;
+Cote-d'Or;3;
+department;4;
 # New sentence = He is a brother of the noted pianist Chilly Gonzales .;;
 He;0;
 is;0;
@@ -388,7 +388,7 @@ James;1;
 H.;2;
 Morrison;2;
 (;0;
-D;0;
+D;3;
 );0;
 # New sentence = St Ann 's College;;
 St;3;
@@ -1261,7 +1261,7 @@ Bonner;2;
 (;0;
 D;0;
 );0;
-92.05.00;0;
+3,836805556;0;
 %;0;
 ';0;
 '';0;
@@ -1998,7 +1998,7 @@ Carlos;2;
 Jobim;2;
 );0;
 -;0;
-06.07;0;
+0,254861111;0;
 # New sentence = : : : : : B. '';;
 :;0;
 :;0;
@@ -4216,7 +4216,7 @@ Jimmy;1;
 Webb;2;
 );0;
 -;0;
-02.40;0;
+0,111111111;0;
 # New sentence = Exene Cervenka ( 1996 );;
 Exene;1;
 Cervenka;2;
@@ -4480,8 +4480,8 @@ Harris;6;4
 Nuclear;6;4
 Power;6;4
 Plant;6;4
-in;6;0
-New;6;5
+in;0;0
+New;5;5
 Hill;6;6
 # New sentence = ' '' Tim Worrell '' ' ( 2–2 );;0
 ';0;0
@@ -5643,7 +5643,7 @@ Richmond;5;5
 ,;6;0
 Kentucky;6;5
 # New sentence = 1941-06-26 near Minsk , Belarus;;0
-26/06/1941;0;0
+15153;0;0
 near;0;0
 Minsk;5;5
 ,;6;0
@@ -6551,7 +6551,7 @@ plc;4;6
 # New sentence = Brunswick ( 55.0 % );;0
 Brunswick;5;0
 (;0;0
-55.00.00;0;0
+2,291666667;0;0
 %;0;0
 );0;0
 # New sentence = Shenyang Olympic Sports Center Stadium;;0
@@ -6669,7 +6669,7 @@ Sliusareva;2;2
 # New sentence = Leicester City F.C.–Nottingham Forest F.C. rivalry;;0
 Leicester;3;3
 City;4;4
-F.C.–Nottingham;04/Mar;4
+F.C.–Nottingham;45720;4
 Forest;4;4
 F.C.;4;4
 rivalry;0;0
@@ -7769,15 +7769,15 @@ Dukla;4;4
 Jihlava;4;4
 ';0;0
 '';0;0
-04.02;0;0
+0,168055556;0;0
 '';0;0
 ';0;0
 (;0;0
-02.00;0;0
+0,083333333;0;0
 ,;0;0
-01.01;0;0
+0,042361111;0;0
 ,;0;0
-01.01;0;0
+0,042361111;0;0
 );0;0
 # New sentence = Causantín mac Cináeda;;0
 Causantín;1;1
@@ -7883,7 +7883,7 @@ Peahens;4;4
 # New sentence = Areva ( 3.32 % );;0
 Areva;3;3
 (;0;0
-03.32;0;0
+0,147222222;0;0
 %;0;0
 );0;0
 # New sentence = Haoud El Hamra to Arzew;;0
@@ -8373,7 +8373,7 @@ April;0;0
 # New sentence = Castries , 79.5 km²;;0
 Castries;5;5
 ,;0;0
-79.05.00;0;0
+3,295138889;0;0
 km²;0;0
 # New sentence = : Portrayed by Patricia Belcher;;0
 :;0;0
@@ -8708,7 +8708,7 @@ River;6;6
 ,;6;0
 New;6;5
 Jersey;6;6
-02.10;0;0
+0,090277778;0;0
 %;0;0
 # New sentence = ' '' Pasadena City College '' ';;0
 ';0;0
