@@ -180,9 +180,9 @@ the;0;0
 Singer;0;0
 # New sentence = '' Tsardom of Russia '' ' – Feodor III ( 1676–1682 );0;
 '';0;0
-Tsardom;5;0
-of;6;0
-Russia;6;0
+Tsardom;5;5
+of;6;6
+Russia;6;6
 '';0;0
 ';0;0
 –;0;0
@@ -1007,9 +1007,9 @@ and;0;0
 Vienna;5;5
 .;0;0
 # New sentence = Reichenau , Switzerland;0;
-Reichenau;4;5
-,;5;0
-Switzerland;5;5
+Reichenau;5;5
+,;6;0
+Switzerland;6;5
 # New sentence = Hissar ( disambiguation );0;
 Hissar;5;5
 (;0;0
@@ -2812,7 +2812,7 @@ It;0;0
 was;0;0
 directed;0;0
 by;0;0
-Milan;12;1
+Milan;1;1
 Cheylov;0;2
 .;0;0
 # New sentence = There are 2,000 troops stationed on site with 600 houses for married personnel between Wattisham , Hadleigh and Ipswich .;0;
@@ -4864,11 +4864,11 @@ Johnston;2;2
 Baron;0;0
 Luke;0;0
 # New sentence = Mrągowo - Kałęczyn - Szczytno;0;
-Mrągowo;0;5
+Mrągowo;5;5
 -;0;0
-Kałęczyn;0;5
+Kałęczyn;5;5
 -;0;0
-Szczytno;3;5
+Szczytno;5;5
 # New sentence = Jake Goldsbie as Toby Isaacs ( 12 episodes );0;
 Jake;1;1
 Goldsbie;2;2
