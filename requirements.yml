@@ -6,6 +6,7 @@ channels:
 
 dependencies:
  - python
+ - scikit-learn
  - numpy
  - pandas
  - jupyter
