@@ -5,13 +5,14 @@ channels:
  - conda-forge
 
 dependencies:
- - python
+ - python=3.13.2
  - scikit-learn
- - numpy
- - pandas
+ - numpy=2.2.4
+ - pandas=2.2.3
  - jupyter
  - notebook
  - regex
  - nltk
+ - dill=0.3.8
  - pytorch
  - transformers
