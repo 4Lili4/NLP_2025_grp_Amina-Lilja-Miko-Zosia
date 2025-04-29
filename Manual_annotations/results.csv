@@ -12,7 +12,7 @@ River;6;6
 MW;0;0
 );0;0
 # New sentence = 102.7 MHz Triple J – ABC;0;
-102.07.00;0;0
+4,254861111;0;0
 MHz;0;0
 Triple;0;3
 J;0;4
@@ -70,7 +70,7 @@ Invisible;0;0
 Touch;0;0
 '';0;0
 –;0;0
-Genesis;0;3
+Genesis;3;3
 # New sentence = It was created on 28 January 1831 for Standish O'Grady , Attorney-General for Ireland and Lord Chief Baron of the Exchequer for Ireland .;0;
 It;0;0
 was;0;0
@@ -274,7 +274,7 @@ College;6;4
 # New sentence = In 1976 he joined his brother at Leicester Lions where he spent two seasons .;0;
 In;0;0
 1976;0;0
-he;1;0
+he;0;0
 joined;0;0
 his;0;0
 brother;0;0
@@ -353,10 +353,10 @@ Head;0;0
 of;0;0
 government;0;0
 :;0;0
-Prime;1;0
-Minister;2;0
-of;2;0
-Andorra;2;3
+Prime;0;0
+Minister;0;0
+of;0;0
+Andorra;3;3
 # New sentence = Meigs Township , Muskingum County , Ohio;0;
 Meigs;5;5
 Township;6;6
@@ -366,13 +366,13 @@ County;6;6
 ,;0;0
 Ohio;6;5
 # New sentence = Communes of the Côte-d'Or department;0;
-Communes;3;0
-of;4;0
-the;4;0
-Côte-d'Or;4;5
+Communes;0;0
+of;0;0
+the;0;0
+Côte-d'Or;3;5
 department;4;6
 # New sentence = He is a brother of the noted pianist Chilly Gonzales .;0;
-He;1;0
+He;0;0
 is;0;0
 a;0;0
 brother;0;0
@@ -506,11 +506,11 @@ Frankfurt;6;5
 ,;6;0
 Hesse;6;5
 # New sentence = He was Mayor of Exeter July 1414 to October 1415 .;0;
-He;1;0
+He;0;0
 was;0;0
-Mayor;1;0
-of;2;0
-Exeter;2;5
+Mayor;0;0
+of;0;0
+Exeter;3;3
 July;0;0
 1414;0;0
 to;0;0
@@ -533,16 +533,16 @@ Daegu;6;5
 ''65;0;0
 Damien;1;1
 Woody;2;2
-G;2;0
+G;0;0
 (;0;0
 IR;0;0
 );0;0
 7px;0;0
 # New sentence = Mystery Science Theater 3000 '';0;
-Mystery;5;0
-Science;6;0
-Theater;6;0
-3000;6;0
+Mystery;0;0
+Science;0;0
+Theater;0;0
+3000;0;0
 '';0;0
 # New sentence = North Woodbridge , California;0;
 North;5;5
@@ -636,9 +636,9 @@ Samurai;1;0
 # New sentence = ' '' 20px 99 Villeray '' ';0;
 ';0;0
 '';0;0
-20px;1;0
-99;2;0
-Villeray;2;0
+20px;0;0
+99;0;0
+Villeray;0;0
 '';0;0
 ';0;0
 # New sentence = Their debut single , `` Overjoyed '' was subsequently released in April 2012 .;0;
@@ -683,7 +683,7 @@ in;0;0
 Love;0;0
 '';0;0
 by;0;0
-10cc;0;3
+10cc;3;3
 (;0;0
 The;0;0
 Original;0;0
@@ -859,7 +859,7 @@ Scoparia;0;0
 niphospora;0;0
 '';0;0
 (;0;0
-Meyrick;0;1
+Meyrick;1;1
 ,;0;0
 1884;0;0
 );0;0
@@ -873,7 +873,7 @@ Champion;0;0
 Male;0;0
 Horse;0;0
 # New sentence = His debut single , `` Ca n't Say No '' , was released in the United Kingdom on 16 April 2012 .;0;
-His;1;0
+His;0;0
 debut;0;0
 single;0;0
 ,;0;0
@@ -1022,9 +1022,9 @@ Slyney;2;2
 12;0;0
 .;0;0
 # New sentence = Premier of Newfoundland - Clyde Wells;0;
-Premier;1;0
-of;2;0
-Newfoundland;2;3
+Premier;0;0
+of;0;0
+Newfoundland;3;3
 -;0;0
 Clyde;1;1
 Wells;2;2
@@ -1146,7 +1146,7 @@ Charles;1;1
 Emmanuel;2;2
 IV;2;2
 of;0;2
-Sardinia;5;2
+Sardinia;3;2
 (;0;0
 13;0;0
 July;0;0
@@ -1164,7 +1164,7 @@ youngest;0;0
 daughter;0;0
 of;0;0
 Charles;1;1
-I;0;2
+I;2;2
 .;0;0
 # New sentence = Ice cream cake;0;
 Ice;0;0
@@ -1182,11 +1182,11 @@ the;0;0
 seat;0;0
 of;0;0
 the;0;0
-Roman;0;3
-Catholic;0;4
-Diocese;0;4
-of;0;4
-Arlington;0;4
+Roman;3;3
+Catholic;4;4
+Diocese;4;4
+of;4;4
+Arlington;4;4
 ,;0;0
 which;0;0
 comprises;0;0
@@ -1237,9 +1237,9 @@ coordinates;0;0
 # New sentence = ' '' Earl of Devonshire '' ';0;
 ';0;0
 '';0;0
-Earl;1;0
-of;2;0
-Devonshire;2;0
+Earl;0;0
+of;0;0
+Devonshire;0;0
 '';0;0
 ';0;0
 # New sentence = 2000 : Croatia , Israel , and Latvia join;0;
@@ -1261,7 +1261,7 @@ Bonner;2;2
 (;0;0
 D;0;3
 );0;0
-92.05.00;0;0
+3,836805556;0;0
 %;0;0
 ';0;0
 '';0;0
@@ -1375,10 +1375,10 @@ State;6;6
 Route;6;6
 542;6;6
 # New sentence = Communes of the Alpes-Maritimes department;0;
-Communes;3;0
-of;4;0
-the;4;0
-Alpes-Maritimes;4;5
+Communes;0;0
+of;0;0
+the;0;0
+Alpes-Maritimes;3;5
 department;4;6
 # New sentence = ' '' Horatio Seymour , Jr . '' ';0;
 ';0;0
@@ -1515,7 +1515,7 @@ Teleiodes;0;0
 flavimaculella;0;0
 '';0;0
 (;0;0
-Herrich-Schäffer;0;1
+Herrich-Schäffer;1;1
 ,;0;0
 1854;0;0
 );0;0
@@ -1608,7 +1608,7 @@ June;0;0
 # New sentence = Eugen Burg as Kaiser Franz Josef;0;
 Eugen;1;1
 Burg;2;2
-as;2;0
+as;0;0
 Kaiser;1;1
 Franz;2;2
 Josef;2;2
@@ -1747,7 +1747,7 @@ round;0;0
 of;0;0
 the;0;0
 2013;0;0
-NFL;0;3
+NFL;3;3
 Draft;0;0
 .;0;0
 # New sentence = The entire Municipality of Destrnik is now included in the Drava Statistical Region .;0;
@@ -1814,8 +1814,8 @@ role;0;0
 in;0;0
 the;0;0
 getting;0;0
-Barisal;0;3
-Burners;0;4
+Barisal;3;3
+Burners;4;4
 to;0;0
 get;0;0
 them;0;0
@@ -1855,8 +1855,8 @@ Turkey;2;3
 # New sentence = ' '' Al Gore '' ';0;
 ';0;0
 '';0;0
-Al;0;1
-Gore;0;2
+Al;1;1
+Gore;2;2
 '';0;0
 ';0;0
 # New sentence = Sriranga III ( 1642–1652 );0;
@@ -1913,7 +1913,7 @@ Ground;6;4
 Adoxophyes;0;0
 chloromydra;0;0
 '';0;0
-Meyrick;0;1
+Meyrick;1;1
 ,;0;0
 1926;0;0
 # New sentence = The Y , West Virginia;0;
@@ -1998,7 +1998,7 @@ Carlos;2;2
 Jobim;2;2
 );0;0
 -;0;0
-06.07;0;0
+0,254861111;0;0
 # New sentence = : : : : : B. '';0;
 :;0;0
 :;0;0
@@ -2259,7 +2259,7 @@ Lemieux;2;2
 # New sentence = Nicolás Barrientos / Eduardo Struvay;0;
 Nicolás;1;1
 Barrientos;2;2
-/;2;0
+/;0;0
 Eduardo;1;1
 Struvay;2;2
 # New sentence = Newsletter for Birdwatchers '' 29 ( 7–8 ) :7 .;0;
@@ -2281,12 +2281,12 @@ Gwynne;2;2
 # New sentence = ' '' EGOQ '' ' – RAF Mona – Anglesey , Wales;0;
 ';0;0
 '';0;0
-EGOQ;3;0
+EGOQ;5;5
 '';0;0
 ';0;0
-–;4;0
-RAF;4;5
-Mona;4;6
+–;0;0
+RAF;5;5
+Mona;6;6
 –;0;0
 Anglesey;5;5
 ,;6;0
@@ -2776,7 +2776,7 @@ striigularis;0;0
 Cosmopterix;0;0
 diplozona;0;0
 '';0;0
-Meyrick;0;1
+Meyrick;1;1
 ,;0;0
 1921;0;0
 # New sentence = Barry Ackerley , owner of the Seattle SuperSonics ( 2000–2001 );0;
@@ -2797,7 +2797,7 @@ Wenennefer;1;1
 High;0;0
 Priest;0;0
 of;0;0
-Osiris;0;1
+Osiris;1;1
 );0;0
 ,;0;0
 from;0;0
@@ -2813,7 +2813,7 @@ was;0;0
 directed;0;0
 by;0;0
 Milan;1;1
-Cheylov;0;2
+Cheylov;2;2
 .;0;0
 # New sentence = There are 2,000 troops stationed on site with 600 houses for married personnel between Wattisham , Hadleigh and Ipswich .;0;
 There;0;0
@@ -2942,10 +2942,10 @@ Raw;0;0
 2008–present;0;0
 );0;0
 # New sentence = Generations from Exile Tribe ( 1 );0;
-Generations;3;0
-from;4;0
-Exile;4;0
-Tribe;4;0
+Generations;3;3
+from;4;4
+Exile;4;4
+Tribe;4;4
 (;0;0
 1;0;0
 );0;0
@@ -3165,10 +3165,10 @@ Township;6;6
 northeast;6;0
 );6;0
 # New sentence = Communes of the Côte-d'Or department;0;
-Communes;3;0
-of;4;0
-the;4;0
-Côte-d'Or;4;5
+Communes;0;0
+of;0;0
+the;0;0
+Côte-d'Or;3;5
 department;4;6
 # New sentence = In 1990 , they debuted with War Music '' , which was issued independently by their own label V.R .;0;
 In;0;0
@@ -3311,9 +3311,9 @@ Perfect;0;0
 Day;0;0
 '';0;0
 # New sentence = Major General Andrew Stewart ( 2004–2006 );0;
-Major;0;1
-General;0;2
-Andrew;1;2
+Major;0;0
+General;0;0
+Andrew;1;1
 Stewart;2;2
 (;0;0
 2004–2006;0;0
@@ -3495,14 +3495,14 @@ Luxembourg;6;5
 1794–95;0;0
 );0;0
 # New sentence = Newcastle upon Tyne Central ( UK Parliament constituency );0;
-Newcastle;5;3
-upon;0;4
-Tyne;5;4
-Central;6;4
+Newcastle;3;3
+upon;4;4
+Tyne;4;4
+Central;4;4
 (;0;0
 UK;3;3
 Parliament;4;4
-constituency;4;0
+constituency;0;0
 );0;0
 # New sentence = Morgan , Texas;0;
 Morgan;5;5
@@ -3887,9 +3887,9 @@ Sema;2;2
 Speaker;0;0
 of;0;0
 the;0;0
-House;0;3
-of;0;4
-Representatives;0;4
+House;3;3
+of;4;4
+Representatives;4;4
 :;0;0
 Champ;1;1
 Clark;2;2
@@ -4143,12 +4143,12 @@ A;0;0
 Man;0;0
 Called;0;0
 ``;0;0
-Bee;1;0
+Bee;1;1
 '';0;0
 :;0;0
 Studying;0;0
 the;0;0
-Yanomamo;3;0
+Yanomamo;3;3
 ,;0;0
 1975;0;0
 # New sentence = Bankhaus Reuschel & Co . , Munich;0;
@@ -4175,8 +4175,8 @@ Jarrett;2;2
 Carychium;0;0
 tridentatum;0;0
 '';0;0
-(;1;0
-Risso;0;1
+(;0;0
+Risso;1;1
 ,;0;0
 1826;0;0
 );0;0
@@ -4216,7 +4216,7 @@ Jimmy;1;1
 Webb;2;2
 );0;0
 -;0;0
-02.40;0;0
+0,111111111;0;0
 # New sentence = Exene Cervenka ( 1996 );0;
 Exene;1;1
 Cervenka;2;2
@@ -4349,10 +4349,10 @@ Fortunes;1;0
 2012–present;0;0
 );0;0
 # New sentence = Covenant of the Goddess;0;
-Covenant;0;3
-of;0;4
-the;0;4
-Goddess;0;4
+Covenant;3;3
+of;4;4
+the;4;4
+Goddess;4;4
 # New sentence = Noel Howlett - Lawyer;0;
 Noel;1;1
 Howlett;2;2
@@ -4382,8 +4382,8 @@ Stolle;2;2
 ''Legacy;0;0
 '';0;0
 (;0;0
-The;0;3
-Temptations;0;4
+The;3;3
+Temptations;4;4
 album;0;0
 );0;0
 ,;0;0
@@ -4494,11 +4494,11 @@ Worrell;2;2
 2–2;0;0
 );0;0
 # New sentence = National Register of Historic Places listings in Southampton County , Virginia;0;
-National;3;0
-Register;4;0
-of;4;0
-Historic;4;0
-Places;4;0
+National;0;0
+Register;0;0
+of;0;0
+Historic;0;0
+Places;0;0
 listings;0;0
 in;0;0
 Southampton;5;5
@@ -4570,9 +4570,9 @@ assignment;0;0
 was;0;0
 with;0;0
 the;0;0
-1st;3;0
-Missile;4;0
-Division;4;0
+1st;3;3
+Missile;4;4
+Division;4;4
 ,;0;0
 based;0;0
 at;0;0
@@ -4605,11 +4605,11 @@ Scherpenzeel;5;6
 # New sentence = Thady Wyndham-Quin , 7th Earl of Dunraven and Mount-Earl;0;
 Thady;1;1
 Wyndham-Quin;2;2
-,;0;0
-7th;2;0
-Earl;2;0
-of;2;0
-Dunraven;2;0
+,;2;2
+7th;2;2
+Earl;2;2
+of;2;2
+Dunraven;2;2
 and;2;0
 Mount-Earl;2;0
 # New sentence = It was ultimately acquired by ConAgra Foods .;0;
@@ -4668,11 +4668,11 @@ Lunenburg;1;5
 Vermont;1;6
 # New sentence = Christina of Norway;0;
 Christina;1;1
-of;0;2
-Norway;0;2
+of;2;2
+Norway;2;2
 # New sentence = American Association : Lincoln Saltdogs;0;
-American;3;0
-Association;4;0
+American;0;0
+Association;0;0
 :;0;0
 Lincoln;3;3
 Saltdogs;4;4
@@ -4793,8 +4793,8 @@ in;0;0
 Kalamazoo;5;5
 );0;0
 # New sentence = Oomph ! - Wunschkind '';0;
-Oomph;0;3
-!;0;0
+Oomph;3;3
+!;4;4
 -;0;0
 Wunschkind;0;0
 '';0;0
@@ -4831,10 +4831,10 @@ Roitman;2;2
 Sacred;3;5
 Grove;4;6
 (;0;0
-Latter;0;3
-Day;0;4
-Saint;0;4
-movement;0;4
+Latter;3;3
+Day;4;4
+Saint;4;4
+movement;4;4
 );0;0
 # New sentence = A recording of part of one episode is known to exist at the Paley Center for Media .;0;
 A;0;0
@@ -4923,8 +4923,8 @@ Drake;1;1
 song;0;0
 );0;0
 # New sentence = Rachael Ray ( TV series );0;
-Rachael;0;1
-Ray;0;2
+Rachael;1;1
+Ray;2;2
 (;0;0
 TV;0;0
 series;0;0
@@ -4976,9 +4976,9 @@ Angola;5;5
 ''Drama;0;0
 '';0;0
 (;0;0
-Bitter;0;3
-:;0;4
-Sweet;0;4
+Bitter;3;3
+:;4;4
+Sweet;4;4
 album;0;0
 );0;0
 ,;0;0
@@ -5302,8 +5302,8 @@ he;0;0
 added;0;0
 .;0;0
 # New sentence = London Wasps ' '' ( 4 ) ' '';0;
-London;3;0
-Wasps;4;0
+London;3;3
+Wasps;4;4
 ';0;0
 '';0;0
 (;0;0
@@ -5545,8 +5545,8 @@ one;0;0
 half;0;0
 of;0;0
 the;0;0
-Tornado;0;1
-Twins;0;2
+Tornado;1;1
+Twins;2;2
 # New sentence = ' '' Siluriformes '' ';0;
 ';0;0
 '';0;0
@@ -5643,7 +5643,7 @@ Richmond;5;5
 ,;0;6
 Kentucky;5;6
 # New sentence = 1941-06-26 near Minsk , Belarus;0;
-26/06/1941;0;0
+15153;0;0
 near;0;0
 Minsk;5;5
 ,;0;0
@@ -5662,20 +5662,20 @@ Brearley;2;2
 );0;0
 # New sentence = '' Bam 's Unholy Union '' ( 2007 );0;
 '';0;0
-Bam;3;1
-'s;4;0
-Unholy;4;0
-Union;4;0
+Bam;1;1
+'s;0;0
+Unholy;0;0
+Union;0;0
 '';0;0
 (;0;0
 2007;0;0
 );0;0
 # New sentence = *The General Post Office building in St Martins-le-Grand in the City of London , designed by Robert Smirke , is completed ( replaced c.1912 ) .;0;
-*The;5;0
-General;6;3
-Post;6;4
-Office;6;4
-building;6;0
+*The;5;5
+General;6;6
+Post;6;6
+Office;6;6
+building;6;6
 in;0;0
 St;5;5
 Martins-le-Grand;6;6
@@ -5722,13 +5722,13 @@ and;0;0
 Aliona;1;1
 Vilani;2;2
 # New sentence = Roman Catholic Archdiocese of Antequera , Oaxaca;0;
-Roman;3;0
-Catholic;4;0
-Archdiocese;4;0
-of;4;0
-Antequera;4;5
-,;0;6
-Oaxaca;5;6
+Roman;3;3
+Catholic;4;4
+Archdiocese;4;4
+of;4;4
+Antequera;4;4
+,;0;0
+Oaxaca;5;5
 # New sentence = '' San Francisco del Chañar '' ';0;
 '';0;0
 San;5;5
@@ -6037,8 +6037,8 @@ performed;0;0
 at;0;0
 the;0;0
 2010;0;0
-Winter;3;0
-Olympics;4;0
+Winter;0;0
+Olympics;0;0
 closing;0;0
 ceremony;0;0
 ,;0;0
@@ -6077,8 +6077,8 @@ Ohio;5;5
 Communes;0;0
 of;0;0
 the;0;0
-Haute-Savoie;0;3
-department;0;4
+Haute-Savoie;3;3
+department;4;4
 # New sentence = His daughter Caroline was a composer .;0;
 His;0;0
 daughter;0;0
@@ -6096,23 +6096,23 @@ D-MO;0;0
 # New sentence = ** '' Kingdom of Mide '' ' – Conchobar mac Donnchada ( 803–833 );0;
 **;0;0
 '';0;0
-Kingdom;5;0
-of;6;0
-Mide;6;0
+Kingdom;5;5
+of;6;6
+Mide;6;6
 '';0;0
 ';0;0
 –;0;0
-Conchobar;0;1
-mac;0;2
-Donnchada;0;2
+Conchobar;1;1
+mac;2;2
+Donnchada;2;2
 (;0;0
 803–833;0;0
 );0;0
 # New sentence = From the Dutch East Indies;0;
 From;0;0
 the;0;0
-Dutch;0;5
-East;5;6
+Dutch;5;5
+East;6;6
 Indies;6;6
 # New sentence = The Congregation – Softly Whispering I Love You;0;
 The;0;0
@@ -6226,11 +6226,11 @@ Warley;5;5
 ,;0;6
 Essex;5;6
 # New sentence = Cirrus des Aigles ( FR );0;
-Cirrus;1;0
-des;2;0
-Aigles;2;0
+Cirrus;0;0
+des;0;0
+Aigles;0;0
 (;0;0
-FR;0;5
+FR;5;5
 );0;0
 # New sentence = ** : Queen Elizabeth II Great Court , London;0;
 **;0;0
@@ -6551,7 +6551,7 @@ plc;6;4
 # New sentence = Brunswick ( 55.0 % );0;
 Brunswick;0;5
 (;0;0
-55.00.00;0;0
+2,291666667;0;0
 %;0;0
 );0;0
 # New sentence = Shenyang Olympic Sports Center Stadium;0;
@@ -6654,11 +6654,11 @@ Connick;2;2
 Jr;2;2
 .;2;0
 # New sentence = Communes of the Calvados department;0;
-Communes;3;0
-of;4;0
-the;4;0
-Calvados;4;5
-department;4;6
+Communes;0;0
+of;0;0
+the;0;0
+Calvados;3;3
+department;4;4
 # New sentence = ' '' Olga Sliusareva '' ';0;
 ';0;0
 '';0;0
@@ -7055,11 +7055,11 @@ Yancey;2;2
 6;0;0
 );0;0
 # New sentence = Communes of the Creuse department;0;
-Communes;3;0
-of;4;0
-the;4;0
-Creuse;4;5
-department;4;6
+Communes;0;0
+of;0;0
+the;0;0
+Creuse;3;3
+department;4;4
 # New sentence = Katulu Ravi Kumar;0;
 Katulu;1;1
 Ravi;2;2
@@ -7225,8 +7225,8 @@ Cooke;2;2
 Anti-J;0;3
 );0;0
 # New sentence = Red Hot + Riot : The Music and Spirit of Fela Kuti '';0;
-Red;0;3
-Hot;0;4
+Red;3;3
+Hot;4;4
 +;0;0
 Riot;0;0
 :;0;0
@@ -7425,8 +7425,8 @@ and;0;0
 Croatia;5;5
 .;0;0
 # New sentence = Tekesuta Kōsen ( Kurayami o Terasu Hikari wa Hōseki no Yō ni );0;
-Tekesuta;3;0
-Kōsen;4;0
+Tekesuta;0;0
+Kōsen;0;0
 (;0;0
 Kurayami;0;0
 o;0;0
@@ -7443,10 +7443,10 @@ It;0;0
 was;0;0
 filmed;0;0
 in;0;0
-New;0;5
-Zealand;5;6
+New;5;5
+Zealand;6;6
 's;6;6
-North;5;6
+North;6;6
 Island;6;6
 .;0;0
 # New sentence = The song also reached number one in Belgium .;0;
@@ -7769,15 +7769,15 @@ Dukla;4;4
 Jihlava;4;4
 ';0;0
 '';0;0
-04.02;0;0
+0,168055556;0;0
 '';0;0
 ';0;0
 (;0;0
-02.00;0;0
+0,083333333;0;0
 ,;0;0
-01.01;0;0
+0,042361111;0;0
 ,;0;0
-01.01;0;0
+0,042361111;0;0
 );0;0
 # New sentence = Causantín mac Cináeda;0;
 Causantín;1;1
@@ -7883,7 +7883,7 @@ Peahens;4;4
 # New sentence = Areva ( 3.32 % );0;
 Areva;3;3
 (;0;0
-03.32;0;0
+0,147222222;0;0
 %;0;0
 );0;0
 # New sentence = Haoud El Hamra to Arzew;0;
@@ -8001,7 +8001,7 @@ Kentucky;5;5
 Frederick;1;1
 I;2;2
 ,;0;0
-Margrave;1;0
+Margrave;0;0
 of;0;0
 Meissen;0;0
 ,;0;0
@@ -8010,13 +8010,13 @@ of;0;0
 Albert;1;1
 II;2;2
 ,;0;0
-Margrave;1;0
+Margrave;0;0
 of;0;0
 Meissen;0;0
 and;0;0
 Margaret;1;1
-of;0;2
-Sicily;0;2
+of;2;2
+Sicily;2;2
 ,;0;0
 daughter;0;0
 of;0;0
@@ -8298,10 +8298,10 @@ and;0;0
 Sankar;1;1
 Datta;2;2
 # New sentence = National Assembly for Wales;0;
-National;3;0
-Assembly;4;0
-for;4;0
-Wales;4;3
+National;3;3
+Assembly;4;4
+for;4;4
+Wales;4;4
 # New sentence = '' Colotis evagore antigone '' ( Boisduval , 1836 );0;
 '';0;0
 Colotis;0;0
@@ -8373,7 +8373,7 @@ April;0;0
 # New sentence = Castries , 79.5 km²;0;
 Castries;5;5
 ,;0;0
-79.05.00;0;0
+3,295138889;0;0
 km²;0;0
 # New sentence = : Portrayed by Patricia Belcher;0;
 :;0;0
@@ -8504,7 +8504,7 @@ assembled;0;0
 his;0;0
 band;0;0
 ,;0;0
-Goshen;0;3
+Goshen;3;3
 .;0;0
 # New sentence = Names for United States citizens;0;
 Names;0;0
@@ -8543,8 +8543,8 @@ Robles;2;2
 '';0;0
 John;1;1
 III;2;2
-of;0;2
-Portugal;0;2
+of;2;2
+Portugal;2;2
 '';0;0
 '1502–1557;0;0
 # New sentence = 20px ' '' Gabrovo '' ' , Bulgaria;0;
@@ -8688,11 +8688,11 @@ Governorate;6;6
 ,;0;0
 Muttrah;5;5
 # New sentence = National Register of Historic Places listings in Newton , Massachusetts;0;
-National;3;0
-Register;4;0
-of;4;0
-Historic;4;0
-Places;4;0
+National;0;0
+Register;0;0
+of;0;0
+Historic;0;0
+Places;0;0
 listings;0;0
 in;0;0
 Newton;5;5
@@ -8708,7 +8708,7 @@ River;6;6
 ,;0;0
 New;5;5
 Jersey;6;6
-02.10;0;0
+0,090277778;0;0
 %;0;0
 # New sentence = ' '' Pasadena City College '' ';0;
 ';0;0
@@ -8753,8 +8753,8 @@ chess;0;0
 player;0;0
 );0;0
 # New sentence = *The Rawadid ( 955–1221 ) ruled Azerbaijan .;0;
-*The;0;3
-Rawadid;0;4
+*The;3;3
+Rawadid;4;4
 (;0;0
 955–1221;0;0
 );0;0
@@ -8763,8 +8763,8 @@ Azerbaijan;5;3
 .;0;0
 # New sentence = The Martin Short Show '';0;
 The;0;0
-Martin;0;1
-Short;0;2
+Martin;1;1
+Short;2;2
 Show;0;0
 '';0;0
 # New sentence = Dwyane Wade ( 32 );0;
@@ -9125,7 +9125,7 @@ Duke;0;0
 Michael;1;1
 Alexandrovich;2;2
 of;0;0
-Russia;0;5
+Russia;5;5
 # New sentence = '' Apotomis sauciana '' ( Frolich , 1828 );0;0
 '';0;0
 Apotomis;0;0
@@ -9234,9 +9234,9 @@ Republic;6;6
 .;0;0
 # New sentence = '' House of Style '';0;0
 '';0;0
-House;3;0
-of;4;0
-Style;4;0
+House;0;0
+of;0;0
+Style;0;0
 '';0;0
 # New sentence = ' '' Maverick Viñales '' ';0;0
 ';0;0
@@ -9576,11 +9576,11 @@ Superman;0;0
 );0;0
 '';0;0
 # New sentence = ISO 3166-2 codes for Japan;0;0
-ISO;3;0
-3166-2;4;0
-codes;4;0
-for;4;0
-Japan;4;5
+ISO;0;0
+3166-2;0;0
+codes;0;0
+for;0;0
+Japan;3;5
 # New sentence = Three of those executed were captured in Slovakia .;0;0
 Three;0;0
 of;0;0
@@ -9713,8 +9713,8 @@ and;0;0
 George;1;1
 Somers;2;2
 (;0;0
-American;3;0
-football;4;0
+American;0;0
+football;0;0
 );0;0
 # New sentence = Robert T. Hill Middle School 6-8;0;0
 Robert;3;3
@@ -9722,7 +9722,7 @@ T.;4;4
 Hill;4;4
 Middle;4;4
 School;4;4
-06/Aug;0;0
+45875;0;0
 # New sentence = Tufts University , University of Oregon , University of Notre Dame;0;0
 Tufts;3;3
 University;4;4
@@ -9749,8 +9749,8 @@ by;0;0
 millions;0;0
 on;0;0
 the;0;0
-Headlines;3;0
-Today;4;0
+Headlines;0;0
+Today;0;0
 programme;0;0
 anchored;0;0
 by;0;0
@@ -9815,7 +9815,7 @@ Mbit;0;0
 /;0;0
 s;0;0
 ,;0;0
-07.02;0;0
+0,293055556;0;0
 Mbit;0;0
 /;0;0
 s;0;0
@@ -9973,12 +9973,12 @@ Grow;0;0
 '';0;0
 (;0;0
 with;0;0
-Nick;0;3
-Cave;0;4
-and;0;4
-the;0;4
-Bad;0;4
-Seeds;0;4
+Nick;3;3
+Cave;4;4
+and;4;4
+the;4;4
+Bad;4;4
+Seeds;4;4
 );0;0
 in;0;0
 1996;0;0
@@ -10013,11 +10013,11 @@ Arundel;0;0
 # New sentence = List of World Heritage Sites in Europe;0;0
 List;0;0
 of;0;0
-World;3;0
-Heritage;4;0
-Sites;4;0
-in;4;0
-Europe;4;5
+World;0;0
+Heritage;0;0
+Sites;0;0
+in;0;0
+Europe;5;5
 # New sentence = Grand Haven Charter Township , Michigan;0;0
 Grand;5;5
 Haven;6;6
@@ -10072,7 +10072,7 @@ Sally;1;1
 Greengross;2;2
 ,;0;0
 Baroness;1;0
-Greengross;2;0
+Greengross;2;1
 # New sentence = Empress Dowager Longyu;0;0
 Empress;0;0
 Dowager;1;1
@@ -10335,8 +10335,8 @@ future;0;0
 considerations;0;0
 .;0;0
 # New sentence = Swindon Council election , 2006;0;0
-Swindon;3;0
-Council;4;0
+Swindon;3;3
+Council;4;4
 election;0;0
 ,;0;0
 2006;0;0
@@ -10350,7 +10350,7 @@ Alzamora;2;2
 # New sentence = Regionalist Party of the Leonese Country ( PREPAL );0;0
 Regionalist;3;3
 Party;4;4
-of;4;0
+of;4;4
 the;4;4
 Leonese;4;4
 Country;4;4
@@ -10453,11 +10453,11 @@ men;0;0
 basketball;0;0
 team;0;0
 # New sentence = Pope Timothy I of Alexandria;0;0
-Pope;1;0
-Timothy;2;1
+Pope;0;0
+Timothy;1;1
 I;2;2
-of;2;0
-Alexandria;2;5
+of;2;2
+Alexandria;2;2
 # New sentence = W. S. Merwin;0;0
 W.;1;1
 S.;2;2
@@ -10715,9 +10715,9 @@ September;0;0
 .;0;0
 # New sentence = 1961–65 C A Ralegh Radford;0;0
 1961–65;0;0
-C;1;0
-A;2;0
-Ralegh;2;1
+C;1;1
+A;2;2
+Ralegh;2;2
 Radford;2;2
 # New sentence = The two vessels were originally built in Norway for the post-war German Navy , being purchased in the 1960s for evaluation purposes .;0;0
 The;0;0
@@ -10798,9 +10798,9 @@ Okafor;2;2
 D;0;0
 );0;0
 # New sentence = Serbian nationality law;0;0
-Serbian;3;0
-nationality;4;0
-law;4;0
+Serbian;0;0
+nationality;0;0
+law;0;0
 # New sentence = He scored goals against New Zealand and Sweden .;0;0
 He;0;0
 scored;0;0
@@ -10959,8 +10959,8 @@ Welch;2;2
 .;0;0
 # New sentence = Alexandra Boyd as Head of the Delegation;0;0
 Alexandra;1;1
-Boyd;2;0
-as;0;2
+Boyd;2;2
+as;0;0
 Head;0;0
 of;0;0
 the;0;0
@@ -11019,10 +11019,10 @@ District;6;6
 Jacques;1;1
 Antoine;2;2
 Hippolyte;2;2
-,;0;0
-Comte;1;0
-de;2;0
-Guibert;2;0
+,;2;2
+Comte;2;2
+de;2;2
+Guibert;2;2
 # New sentence = : '' Neomordellistena lestradei '' Ermisch , 1952;0;0
 :;0;0
 '';0;0
@@ -11045,7 +11045,7 @@ Muruli;2;2
 UGA;3;0
 );0;0
 ,;0;0
-05.00;0;0
+0,208333333;0;0
 # New sentence = Jared Sullinger ( 7 );0;0
 Jared;1;1
 Sullinger;2;2
@@ -11084,11 +11084,11 @@ on;0;0
 Malta;5;5
 .;0;0
 # New sentence = Communes of the Ariège department;0;0
-Communes;5;5
-of;6;6
-the;6;6
-Ariège;6;6
-department;6;6
+Communes;0;5
+of;0;6
+the;0;6
+Ariège;3;6
+department;4;6
 # New sentence = New Mexico ( 2014 );0;0
 New;5;5
 Mexico;6;6
@@ -11130,11 +11130,11 @@ Tengstrom;1;1
 1848;0;0
 );0;0
 # New sentence = Communes of the Manche department;0;0
-Communes;5;5
-of;6;6
-the;6;6
-Manche;6;6
-department;6;6
+Communes;0;5
+of;0;6
+the;0;6
+Manche;3;6
+department;4;6
 # New sentence = President - Patrice de Mac-Mahon , Duke of Magenta ( 1873–1879 );0;0
 President;0;0
 -;0;0
@@ -11544,8 +11544,8 @@ dem;6;6
 Eigen;6;6
 # New sentence = Shapiro , J. Salwyn ( 1920 ) .;0;0
 Shapiro;1;1
-,;2;0
-J.;2;1
+,;2;2
+J.;2;2
 Salwyn;2;2
 (;0;0
 1920;0;0
@@ -11563,10 +11563,10 @@ the;0;0
 backbone;0;0
 of;0;0
 the;0;0
-Irish;0;3
-InterCity;0;4
-rolling;0;4
-stock;0;4
+Irish;3;3
+InterCity;4;4
+rolling;4;4
+stock;4;4
 .;0;0
 # New sentence = 12 June 2005 : FC Vaduz - FC Schaffhausen 0-1;0;0
 12;0;0
@@ -11617,8 +11617,8 @@ role;0;0
 and;0;0
 sent;0;0
 to;0;0
-the;3;0
-Tower;4;5
+the;3;5
+Tower;4;6
 on;0;0
 9;0;0
 February;0;0
@@ -11785,7 +11785,7 @@ Federation;4;4
 Arrival;0;0
 '';0;0
 –;0;0
-02.47;0;0
+0,115972222;0;0
 # New sentence = He was buried at the Bukit Kiara Muslim Cemetery , Kuala Lumpur .;0;0
 He;0;0
 was;0;0
@@ -12065,10 +12065,10 @@ Dutch;4;4
 Shell;4;4
 # New sentence = '' San Francisco Bay Guardian '';0;0
 '';0;0
-San;0;3
-Francisco;0;4
-Bay;0;4
-Guardian;0;4
+San;0;0
+Francisco;0;0
+Bay;0;0
+Guardian;0;0
 '';0;0
 # New sentence = Helios Airways ( 1998–2006 ) Rebranded as αjet;0;0
 Helios;3;3
@@ -12078,7 +12078,7 @@ Airways;4;4
 );0;0
 Rebranded;0;0
 as;0;0
-αjet;0;3
+αjet;3;3
 # New sentence = Aïn Fakroun District;0;0
 Aïn;5;5
 Fakroun;6;6
@@ -12191,9 +12191,9 @@ language;0;0
 facilities;0;0
 # New sentence = 2010–11 Lebanese Premier League runners-up;0;0
 2010–11;0;0
-Lebanese;0;3
-Premier;0;4
-League;0;4
+Lebanese;3;3
+Premier;4;4
+League;4;4
 runners-up;0;0
 # New sentence = Jean , Grand Duke of Luxembourg ( ''in retreat '' ) :;0;0
 Jean;1;1
@@ -12214,8 +12214,8 @@ was;0;0
 later;0;0
 incorporated;0;0
 into;0;0
-USA;0;3
-Weekend;0;4
+USA;0;0
+Weekend;0;0
 '';0;0
 ,;0;0
 which;0;0
@@ -12263,8 +12263,8 @@ D;0;0
 Brian;1;1
 Lee;2;2
 (;0;0
-Binghamton;0;3
-Senators;0;4
+Binghamton;3;3
+Senators;4;4
 );0;0
 # New sentence = List of Bishops of the United Methodist Church;0;0
 List;0;0
@@ -12272,9 +12272,9 @@ of;0;0
 Bishops;0;0
 of;0;0
 the;0;0
-United;0;3
-Methodist;0;4
-Church;0;4
+United;3;3
+Methodist;4;4
+Church;4;4
 # New sentence = It began on 30 August 2010 at Northampton 's Royal Theatre and continued until autumn 2011 .;0;0
 It;0;0
 began;0;0
@@ -12410,7 +12410,7 @@ he;0;0
 can;0;0
 attend;0;0
 a;0;0
-Mudvayne;0;3
+Mudvayne;3;3
 concert;0;0
 in;0;0
 New;5;5
@@ -12458,9 +12458,9 @@ Gozmány;0;1
 1978;0;0
 # New sentence = WDCX ( AM );0;0
 WDCX;3;3
-(;0;4
-AM;0;4
-);0;4
+(;0;0
+AM;0;0
+);0;0
 # New sentence = *JM3 Sarsuna College - Ultadanga;0;0
 *JM3;3;0
 Sarsuna;4;5
@@ -12538,9 +12538,9 @@ Branson;2;2
 .;0;0
 # New sentence = `` Sight and Sound '' .;0;0
 ``;0;0
-Sight;0;3
-and;0;4
-Sound;0;4
+Sight;0;0
+and;0;0
+Sound;0;0
 '';0;0
 .;0;0
 # New sentence = Can-avid , Eastern Samar;0;0
@@ -12571,12 +12571,12 @@ Contest;0;0
 # New sentence = Louis X of France;0;0
 Louis;1;1
 X;2;2
-of;0;2
-France;0;2
+of;2;2
+France;2;2
 # New sentence = ' '' Labrinth '' ';0;0
 ';0;0
 '';0;0
-Labrinth;0;1
+Labrinth;1;1
 '';0;0
 ';0;0
 # New sentence = Deputy First Minister – Martin McGuinness;0;0
@@ -12676,8 +12676,8 @@ are;0;0
 members;0;0
 of;0;0
 the;0;0
-DeKalb;0;3
-County;0;4
+DeKalb;3;3
+County;4;4
 School;0;4
 System;0;4
 .;0;0
@@ -12746,8 +12746,8 @@ till:30;0;0
 text;0;0
 :;0;0
 '';0;0
-Bradford;0;3
-City;0;4
+Bradford;3;3
+City;4;4
 '';0;0
 # New sentence = ''Children 's Songs '' ( Chick Corea album ) , 1984;0;0
 ''Children;0;0
@@ -12755,8 +12755,8 @@ City;0;4
 Songs;0;0
 '';0;0
 (;0;0
-Chick;0;1
-Corea;0;2
+Chick;1;1
+Corea;2;2
 album;0;0
 );0;0
 ,;0;0
@@ -12842,8 +12842,8 @@ He;0;0
 played;0;0
 for;0;0
 the;0;0
-Philadelphia;0;3
-Eagles;0;4
+Philadelphia;3;3
+Eagles;4;4
 in;0;0
 1967;0;0
 .;0;0
@@ -12886,7 +12886,7 @@ Society;4;4
 of;4;4
 Washington;4;4
 # New sentence = Marshalls ( opened 2003 );0;0
-Marshalls;0;3
+Marshalls;3;3
 (;0;0
 opened;0;0
 2003;0;0
@@ -12927,7 +12927,7 @@ East;0;6
 specialist;0;0
 .;0;0
 # New sentence = 2-3 Diego Milito ( 89 );0;0
-02/Mar;0;0
+45718;0;0
 Diego;1;1
 Milito;2;2
 (;0;0
@@ -12970,10 +12970,10 @@ Channel;6;6
 Willamette;5;5
 River;6;6
 # New sentence = The Grace-Dana & Sunday ( Inactive );0;0
-The;0;3
-Grace-Dana;0;4
-&;0;4
-Sunday;0;4
+The;3;3
+Grace-Dana;4;4
+&;4;4
+Sunday;4;4
 (;0;0
 Inactive;0;0
 );0;0
@@ -12981,7 +12981,7 @@ Inactive;0;0
 Michelle;1;1
 Reis;2;2
 as;0;0
-Ah-or;0;1
+Ah-or;1;1
 # New sentence = ' '' Romain Arneodo '' ' ' '' Benjamin Balleret '' ' 7–5 , 7–6 ( 7–3 );0;0
 ';0;0
 '';0;0
@@ -13069,14 +13069,14 @@ lowest;0;0
 in;0;0
 Vanuatu;5;5
 (;0;0
-11.04;0;0
+0,461111111;0;0
 %;0;0
 );0;0
 and;0;0
 in;0;0
 Iran;5;5
 (;0;0
-15.03;0;0
+0,627083333;0;0
 %;0;0
 );0;0
 .;0;0
@@ -13152,14 +13152,14 @@ climate;0;0
 '';0;0
 );0;0
 # New sentence = 58th ( 2 / 1st London ) Division;0;0
-58th;0;3
-(;0;4
-2;0;4
-/;0;4
-1st;0;4
-London;0;4
-);0;4
-Division;0;4
+58th;3;3
+(;4;4
+2;4;4
+/;4;4
+1st;4;4
+London;4;4
+);4;4
+Division;4;4
 # New sentence = *143 , 111 , 110 Dave Harold;0;0
 *143;0;0
 ,;0;0
@@ -13256,19 +13256,19 @@ File;0;0
 :;0;0
 Percy_French_Grave.jpg|Grave;0;0
 of;0;0
-Percy;0;1
-French;0;2
+Percy;1;1
+French;2;2
 # New sentence = Lansing Stout ( D );0;0
-Lansing;2;1
-Stout;3;2
+Lansing;1;1
+Stout;2;2
 (;0;0
 D;0;0
 );0;0
 # New sentence = ' '' Saskatchewan Roughriders '' ';0;0
 ';0;0
 '';0;0
-Saskatchewan;0;3
-Roughriders;0;4
+Saskatchewan;3;3
+Roughriders;4;4
 '';0;0
 ';0;0
 # New sentence = Clément-Charles Sabrevois de Bleury;0;0
@@ -13420,15 +13420,15 @@ Live;0;0
 # New sentence = '' The Catherine Tate Show '';0;0
 '';0;0
 The;0;0
-Catherine;0;1
-Tate;0;2
+Catherine;1;1
+Tate;2;2
 Show;0;0
 '';0;0
 # New sentence = Carl Hooper ( WIN ) , 233;0;0
 Carl;1;1
 Hooper;2;2
 (;0;0
-WIN;0;3
+WIN;3;3
 );0;0
 ,;0;0
 233;0;0
@@ -13463,23 +13463,23 @@ Pennsylvania;6;5
 # New sentence = ** '' Duchy of Spoleto '' ' - Alberic I ( 897–922 );0;0
 **;0;0
 '';0;0
-Duchy;0;5
-of;0;6
-Spoleto;0;6
+Duchy;5;5
+of;6;6
+Spoleto;6;6
 '';0;0
 ';0;0
 -;0;0
 Alberic;1;1
-I;0;2
+I;2;2
 (;0;0
 897–922;0;0
 );0;0
 # New sentence = Communes of the Meurthe-et-Moselle department;0;0
-Communes;5;0
-of;6;0
-the;6;0
-Meurthe-et-Moselle;6;5
-department;0;0
+Communes;0;0
+of;0;0
+the;0;0
+Meurthe-et-Moselle;3;5
+department;4;0
 # New sentence = Bibliography of atmospheric dispersion modeling;0;0
 Bibliography;0;0
 of;0;0
@@ -13498,9 +13498,9 @@ river;0;0
 );0;0
 # New sentence = Bârzava , Arad;0;0
 Bârzava;5;5
-,;6;0
-Arad;6;0
-# New sentence = Uprising in Banat;0;5
+,;0;0
+Arad;5;5
+# New sentence = Uprising in Banat;0;0
 Uprising;0;0
 in;0;0
 Banat;5;5
@@ -13541,7 +13541,7 @@ County;0;6
 Lubusz;5;5
 Voivodeship;6;6
 ,;0;0
-79.05.00;0;0
+3,295138889;0;0
 km2;0;0
 ,;0;0
 5,443;0;0
@@ -13606,13 +13606,13 @@ Jewish;0;0
 :;0;0
 10,645;0;0
 (;0;0
-02.09;0;0
+0,089583333;0;0
 %;0;0
 );0;0
 # New sentence = *Promoted in 3. liga : LP Domino↑;0;0
 *Promoted;0;0
 in;0;0
-03.00;0;3
+0,125;0;3
 liga;0;4
 :;0;0
 LP;3;3
@@ -13840,14 +13840,14 @@ Zeller;0;1
 # New sentence = *1969 : ' '' Juventa '' ' and La Gauloise ( abandoned at 1-0 );0;0
 *1969;0;0
 :;0;0
-';0;3
-'';0;4
-Juventa;3;4
-'';0;4
-';0;4
-and;0;4
-La;5;4
-Gauloise;6;4
+';0;0
+'';0;0
+Juventa;3;3
+'';0;0
+';0;0
+and;0;0
+La;3;3
+Gauloise;4;4
 (;0;0
 abandoned;0;0
 at;0;0
@@ -13940,11 +13940,11 @@ an;0;0
 aunt;0;0
 .;0;0
 # New sentence = Communes of the Corrèze department;0;0
-Communes;5;0
-of;6;0
-the;6;0
-Corrèze;6;5
-department;6;6
+Communes;0;0
+of;0;0
+the;0;0
+Corrèze;3;5
+department;4;6
 # New sentence = St Oswald 's Church , Dean;0;0
 St;5;5
 Oswald;6;6
@@ -14060,11 +14060,11 @@ County;6;6
 ,;6;0
 Virginia;6;5
 # New sentence = Communes of the Lot-et-Garonne department;0;0
-Communes;5;0
-of;6;0
-the;6;0
-Lot-et-Garonne;6;5
-department;6;6
+Communes;0;0
+of;0;0
+the;0;0
+Lot-et-Garonne;3;5
+department;4;6
 # New sentence = His obituary in the Daily Telegraph described him as `` always physically tough and tactically astute .;0;0
 His;0;0
 obituary;0;0
@@ -14504,7 +14504,7 @@ Boisduval;0;1
 Phtheochroa;0;0
 pulvillana;0;0
 '';0;0
-Herrich-Schäffer;0;1
+Herrich-Schäffer;1;1
 ,;0;0
 1851;0;0
 # New sentence = Kootenay Ice ( 1 );0;0
@@ -14552,8 +14552,8 @@ Guys;0;0
 (;0;0
 1997-2000;0;0
 ,;0;0
-BBC;0;3
-Two;0;4
+BBC;3;3
+Two;4;4
 );0;0
 # New sentence = Silakhor-e Sharqi Rural District;5;0
 Silakhor-e;6;5
@@ -14672,8 +14672,8 @@ Moustava;1;1
 Belialov;2;2
 –;0;0
 (;0;0
-Perak;0;3
-FA;0;4
+Perak;3;3
+FA;4;4
 );0;0
 # New sentence = Cadaqués , Cap de Creus;0;0
 Cadaqués;5;5
@@ -14760,9 +14760,9 @@ but;0;0
 had;0;0
 to;0;0
 escape;0;0
-the;0;50
-Khmer;3;0
-rouge;4;0
+the;0;0
+Khmer;3;3
+rouge;4;4
 and;0;0
 move;0;0
 to;0;0
@@ -14805,7 +14805,7 @@ Billy;5;1
 Hill;6;2
 );0;0
 -;0;0
-06.41;0;0
+0,278472222;0;0
 # New sentence = Headscarf controversy in Turkey;0;0
 Headscarf;0;0
 controversy;0;0
@@ -14856,7 +14856,7 @@ The;0;0
 Party;0;0
 Album;0;0
 (;0;0
-Vengaboys;0;3
+Vengaboys;3;3
 album;0;0
 );0;0
 # New sentence = Dame Barbara Mills , DBE , QC ( 1992–98 );0;0
@@ -14904,8 +14904,8 @@ In;0;0
 2006;0;0
 he;0;0
 joined;0;0
-Championnat;3;0
-National;4;0
+Championnat;3;3
+National;4;4
 side;0;0
 Villemomble;3;3
 Sports;4;4
@@ -14922,8 +14922,8 @@ earning;0;0
 a;0;0
 move;0;0
 to;0;0
-Ligue;0;3
-2;0;4
+Ligue;3;3
+2;4;4
 side;0;0
 Clermont;3;3
 Foot;4;4
@@ -14933,13 +14933,13 @@ in;0;0
 # New sentence = 2004 : AFC Youth Championship with South Korea U-20;0;0
 2004;0;0
 :;0;0
-AFC;3;0
-Youth;4;0
-Championship;4;0
+AFC;3;3
+Youth;0;0
+Championship;0;0
 with;0;0
-South;5;0
-Korea;6;0
-U-20;0;0
+South;5;3
+Korea;6;4
+U-20;0;4
 # New sentence = Popular opposition to the 2003 Iraq war;0;0
 Popular;0;0
 opposition;0;0
@@ -14966,7 +14966,7 @@ This;0;0
 episode;0;0
 aired;0;0
 at;0;0
-22.00;0;0
+0,916666667;0;0
 (;0;0
 Beijing;5;5
 Time;0;0
@@ -15328,20 +15328,20 @@ number;0;0
 "# New sentence = Victor Amadeus I , Duke of Savoy ; Louis XIII of France";0;0
 Victor;1;1
 Amadeus;2;2
-I;0;2
+I;2;2
 ,;0;0
-Duke;1;0
+Duke;0;0
 of;0;0
 Savoy;5;5
 ";";0;0
 Louis;1;1
 XIII;2;2
-of;0;2
-France;5;2
+of;2;2
+France;2;2
 # New sentence = *2008 - Everlast - Love , War and the Ghost of Whitey Ford '';0;0
 *2008;0;0
 -;0;0
-Everlast;3;0
+Everlast;3;3
 -;0;0
 Love;0;0
 ,;0;0
@@ -15350,11 +15350,11 @@ and;0;0
 the;0;0
 Ghost;0;0
 of;0;0
-Whitey;0;1
-Ford;3;2
+Whitey;1;1
+Ford;2;2
 '';0;0
 # New sentence = Sony Ericsson K750;0;0
-Sony;3;0
+Sony;0;0
 Ericsson;0;0
 K750;0;0
 # New sentence = Patrick Helmes then completed the comeback as he made it 2–1 .;0;0
@@ -15514,8 +15514,8 @@ Route;6;6
 Andrew;1;1
 Marth;2;2
 (;0;0
-Melbourne;0;3
-Knights;0;4
+Melbourne;3;3
+Knights;4;4
 );0;0
 # New sentence = Villanueva de la Vera;0;0
 Villanueva;5;5
@@ -15568,7 +15568,7 @@ Herrich-Schäffer;1;1
 24;0;0
 Ernie;1;1
 Kellermann;2;2
-S;2;0
+S;0;0
 # New sentence = ' '' 1991 : ' '' A Midwife 's Tale '' by Laurel Thatcher Ulrich;0;0
 ';0;0
 '';0;0
@@ -15750,12 +15750,12 @@ long-leaf;0;0
 evening-primrose;0;0
 # New sentence = Duty in Pleasant Valley , Md . , until October 27 .;0;0
 Duty;0;0
-in;0;5
-Pleasant;3;6
-Valley;4;0
-,;4;0
-Md;4;0
-.;4;0
+in;0;0
+Pleasant;5;5
+Valley;6;6
+,;6;0
+Md;6;0
+.;6;0
 ,;0;0
 until;0;0
 October;0;0
@@ -15882,8 +15882,8 @@ implemented;0;0
 recommendations;0;0
 of;0;0
 the;0;0
-Law;0;3
-Commission;0;4
+Law;3;3
+Commission;4;4
 .;0;0
 # New sentence = Air Chief Marshal Chris Moran 1997-9;0;0
 Air;0;0
@@ -15901,10 +15901,10 @@ Quebec;6;0
 # New sentence = Alexandra Eames ( Kathryn Erbe ) .;0;0
 Alexandra;1;1
 Eames;2;2
-(;2;0
-Kathryn;2;1
+(;0;0
+Kathryn;1;1
 Erbe;2;2
-);2;0
+);0;0
 .;0;0
 # New sentence = : Lithuanian Armed Forces .;0;0
 :;0;0
@@ -16013,8 +16013,8 @@ position;0;0
 in;0;0
 the;0;0
 2013;0;0
-NFL;3;0
-Draft;4;0
+NFL;3;3
+Draft;0;0
 .;0;0
 # New sentence = She currently lives and works in Berlin .;0;0
 She;0;0
@@ -16113,11 +16113,11 @@ titles;0;0
 Raymond;1;1
 Ceulemans;2;2
 # New sentence = La Niña de los Peines is also an important reference for all these styles .;0;0
-La;0;3
-Niña;0;4
-de;0;4
-los;0;4
-Peines;0;4
+La;1;3
+Niña;2;4
+de;2;4
+los;2;4
+Peines;2;4
 is;0;0
 also;0;0
 an;0;0
@@ -16218,8 +16218,8 @@ Gmelin;1;0
 white-toothed;0;0
 shrew;0;0
 # New sentence = Discovery World ( TV channel );0;0
-Discovery;3;0
-World;4;0
+Discovery;0;0
+World;0;0
 (;0;0
 TV;0;0
 channel;0;0
@@ -16265,19 +16265,19 @@ son;0;0
 :;0;0
 Tina;1;1
 Maze;2;2
-01.29.33;0;0
+0,0621875;0;0
 (;0;0
-44.08.00;0;0
+1,838888889;0;0
 /;0;0
-45.25.00;0;0
+1,892361111;0;0
 );0;0
 Marlies;1;1
 Schild;2;2
-01.29.38;0;0
+0,06224537;0;0
 (;0;0
-43.38.00;0;0
+1,818055556;0;0
 /;0;0
-46.00.00;0;0
+1,916666667;0;0
 );0;0
 Veronika;1;1
 Zuzulová;2;2
@@ -16285,15 +16285,15 @@ Zuzulová;2;2
 (;0;0
 44.92;0;0
 /;0;0
-45.05.00;0;0
+1,878472222;0;0
 );0;0
 # New sentence = The coach for the Eastern Conference was New York Liberty coach Richie Adubato .;0;0
 The;0;0
 coach;0;0
 for;0;0
 the;0;0
-Eastern;3;0
-Conference;4;0
+Eastern;3;3
+Conference;4;4
 was;0;0
 New;3;3
 York;4;4
@@ -16495,8 +16495,8 @@ $;0;0
 William;1;1
 Paul;2;2
 –;0;0
-CD;0;3
-Aves;0;4
+CD;3;3
+Aves;4;4
 –;0;0
 2005–2007;0;0
 # New sentence = Ngo Dinh Diem;0;0
@@ -16633,10 +16633,10 @@ Swan;4;5
 Lake;5;6
 7A;5;6
 —;0;0
-Swan;0;3
-Lake;0;4
-First;0;4
-Nation;0;4
+Swan;3;3
+Lake;4;4
+First;4;4
+Nation;4;4
 # New sentence = Scud ( film producer / writer );0;0
 Scud;0;1
 (;0;0
@@ -16707,8 +16707,8 @@ the;0;0
 south-west;0;0
 .;0;0
 # New sentence = One Direction performed again in the final , and Pitbull also performed .;0;0
-One;0;3
-Direction;0;4
+One;3;3
+Direction;4;4
 performed;0;0
 again;0;0
 in;0;0
@@ -16756,14 +16756,14 @@ WWE;0;0
 2K16;0;0
 '';0;0
 -;0;0
-Yuke;0;3
-'s;0;4
+Yuke;3;3
+'s;4;4
 # New sentence = Her performance in Lena Horne : The Lady and Her Music '';0;0
 Her;0;0
 performance;0;0
 in;0;0
-Lena;1;0
-Horne;2;0
+Lena;1;1
+Horne;2;2
 :;0;0
 The;0;0
 Lady;0;0
@@ -16832,8 +16832,8 @@ Western;3;5
 Washington;4;6
 University;4;6
 and;0;0
-the;3;0
-University;4;5
+the;0;0
+University;3;5
 of;4;6
 Colorado;4;6
 .;0;0
@@ -16841,9 +16841,9 @@ Colorado;4;6
 :1st;0;0
 Stage;0;0
 2;0;0
-Vuelta;3;0
-a;4;0
-España;4;0
+Vuelta;3;3
+a;4;4
+España;4;4
 ,;0;0
 Nacer;1;1
 Bouhanni;2;2
@@ -16940,11 +16940,11 @@ County;6;6
 ,;6;0
 Pennsylvania;6;5
 # New sentence = Communes of the Bas-Rhin department;0;0
-Communes;5;0
-of;6;0
-the;6;0
-Bas-Rhin;6;5
-department;6;6
+Communes;0;0
+of;0;0
+the;0;0
+Bas-Rhin;3;5
+department;4;6
 # New sentence = Petr Korda '' ( Quarterfinals );0;0
 Petr;1;1
 Korda;2;2
@@ -17130,11 +17130,11 @@ Cuthbert;1;1
 Ormond;2;2
 Simpkins;2;2
 # New sentence = National Curriculum ( Australia );0;0
-National;3;0
-Curriculum;4;0
-(;4;0
-Australia;4;5
-);4;0
+National;0;0
+Curriculum;0;0
+(;0;0
+Australia;5;5
+);0;0
 # New sentence = Military of South Korea;0;0
 Military;3;3
 of;4;4
@@ -17162,9 +17162,9 @@ It;0;0
 !;0;0
 '';0;0
 # New sentence = Hangman 's Hymn '' ( 音楽による葬式 ) ( 2007 );0;0
-Hangman;1;0
-'s;2;0
-Hymn;2;0
+Hangman;0;0
+'s;0;0
+Hymn;0;0
 '';0;0
 (;0;0
 音楽による葬式;0;0
@@ -17175,7 +17175,7 @@ Hymn;2;0
 # New sentence = Ascanio II Piccolomini ( 1629 - 14 September 1671 deceased );0;0
 Ascanio;1;1
 II;2;2
-Piccolomini;0;2
+Piccolomini;2;2
 (;0;0
 1629;0;0
 -;0;0
@@ -17380,7 +17380,7 @@ States;6;0
 Merced;5;5
 County;6;6
 (;0;0
-54.04.00;0;0
+2,252777778;0;0
 %;0;0
 );0;0
 # New sentence = Administratively it is designated a commune within the department of Loire .;0;0
@@ -17406,8 +17406,8 @@ Carey;2;2
 ,;0;0
 2001;0;0
 # New sentence = Across Sonora , many homes were wrecked due to flooding .;0;0
-Across;1;0
-Sonora;2;5
+Across;0;0
+Sonora;5;5
 ,;0;0
 many;0;0
 homes;0;0
@@ -17418,8 +17418,8 @@ to;0;0
 flooding;0;0
 .;0;0
 # New sentence = Mr. R. S. Lugani , after a few years , took over as its first principal .;0;0
-Mr.;1;0
-R.;2;1
+Mr.;0;0
+R.;1;1
 S.;2;2
 Lugani;2;2
 ,;0;0
@@ -17443,8 +17443,8 @@ amazon;0;0
 auropalliata;0;0
 '';0;0
 # New sentence = Young Buck - Straight Outta Cashville '' ==;0;0
-Young;0;1
-Buck;0;2
+Young;1;1
+Buck;2;2
 -;0;0
 Straight;0;0
 Outta;0;0
@@ -17486,9 +17486,9 @@ d'Adjamé;4;4
 3;0;0
 );0;0
 # New sentence = Les Binkley ( G );0;0
-Les;0;1
-Binkley;1;2
-(;2;0
+Les;1;1
+Binkley;2;2
+(;0;0
 G;0;0
 );0;0
 # New sentence = Jodi Albert ( Debbie Dean );0;0
