@@ -18,3 +18,7 @@ dependencies:
  - spacy
  - pytorch
  - transformers
+ - matplotlib
+ - pip
+ - pip:
+  - spark-nlp
