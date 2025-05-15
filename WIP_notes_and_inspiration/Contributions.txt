@@ -1,0 +1,13 @@
+Research: all
+splitting the dataset: Lilja
+Manually annotating: All
+Combining results and initial analysis: Lilja
+Deeper analysis: Miko, Zosia
+Secondary angle research: Amina, Lilja
+Data processing and secondary angle: Lilja
+Report analysis and discussion: Miko, Zosia
+Report methodology: Amina, Lilja
+Report introduction, conclusion: Amina, Miko
+Report references: Amina
+Report appendix, abstract: Miko
+Proofreading: all
