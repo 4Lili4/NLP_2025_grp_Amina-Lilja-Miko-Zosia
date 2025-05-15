@@ -20,5 +20,3 @@ dependencies:
  - transformers
  - matplotlib
  - pip
- - pip:
-  - spark-nlp

@@ -3,7 +3,8 @@ import pandas as pd
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 import numpy as np
 
-def plotting_wikiann(results, silver, gold_a, gold_b):
+def plotting_wikiann(results, silver, gold_a, gold_b, colours):
+    c1, c2 = colours
     # Count occurrences of each class in gold and silver
     gold_counts = results['labels1'].value_counts().sort_index()
     silver_counts = results['labels2'].value_counts().sort_index()
@@ -34,7 +35,7 @@ def plotting_wikiann(results, silver, gold_a, gold_b):
 
     comparison_df.plot(kind='bar', figsize=(6,6), width=0.8,
                       title="Class distribution of gold vs silver data",
-                      xlabel="Class label", ylabel="Count", grid=True, cmap="Blues")
+                      xlabel="Class label", ylabel="Count", grid=True, cmap=c1)
     
 
     #ax.xticks(rotation=45)
@@ -48,5 +49,5 @@ def plotting_wikiann(results, silver, gold_a, gold_b):
     # Now safely compute and display the confusion matrix
     cm = confusion_matrix(y_true, y_pred, labels=labels)
     disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=labels)
-    disp.plot(xticks_rotation=45, cmap='Blues')
+    disp.plot(xticks_rotation=45, cmap=c2)
              #title="Confusion Matrix: Silver vs Gold")

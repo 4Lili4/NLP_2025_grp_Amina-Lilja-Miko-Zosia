@@ -39,25 +39,25 @@ def divide_and_conquer(pkl_link, grp_mmbrs):
     Amina=Am.explode('tokens')
     Amina['labels']=0
     Amina=Amina[['tokens', 'labels']]
-    Amina.to_csv('data-files_and_results/Amina_annotations.csv', index=False, encoding='UTF-8', sep=';')
+    Amina.to_csv('data-files_and_results/annotations_Amina.csv', index=False, encoding='UTF-8', sep=';')
 
     Li=pd.concat([A,B])
     Lilja=Li.explode('tokens')
     Lilja['labels']=0
     Lilja=Lilja[['tokens', 'labels']]
-    Lilja.to_csv('data-files_and_results/Lilja_annotations.csv', index=False, encoding='UTF-8', sep=';')
+    Lilja.to_csv('data-files_and_results/annotations_Lilja.csv', index=False, encoding='UTF-8', sep=';')
 
     Mi=pd.concat([B,C])
     Miko=Mi.explode('tokens')
     Miko['labels']=0
     Miko=Miko[['tokens', 'labels']]
-    Miko.to_csv('data-files_and_results/Miko_annotations.csv', index=False, encoding='UTF-8', sep=';')
+    Miko.to_csv('data-files_and_results/annotations_Miko.csv', index=False, encoding='UTF-8', sep=';')
     
     Zo=pd.concat([C,D])
     Zosia=Zo.explode('tokens')
     Zosia['labels']=0
     Zosia=Zosia[['tokens', 'labels']]
-    Miko.to_csv('data-files_and_results/Miko_annotations.csv', index=False, encoding='UTF-8', sep=';')
+    Miko.to_csv('data-files_and_results/annotations_Zosia.csv', index=False, encoding='UTF-8', sep=';')
 
     silver=[]
     for index, row in silver_data.iterrows():
