@@ -21,3 +21,8 @@ The repository contains 3 front-page files and 5 folders:
  - data-files_and_results contains all our csv- and text-files with the data from both WikiAnn and fewnerd. Any files created during the process also land in that folder
  - python_files contains all our final code that we use to get our results. The code is formatted into python-functions, that are run from the Main.IPYNB notebook.
  - Lastly, WIP_notebooks and WIP_notes_and_inspiration contain are work-in-progress files and considerations. That means all working notebooks, dataset articles etc., are in those folders.
+
+## References:
+ - dill. 2025. dill package documentation. https://dill.readthedocs.io/en/latest/index.html
+ - Explosion. 2024. Training pipelines & models. https://spacy.io/usage/training".key
+ - pandas. 2024. pandas documentation (version:2.2.3). https://pandas.pydata.org/docs/index.html
