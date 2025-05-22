@@ -1,0 +1,15 @@
+python == 3.12.3
+pyspark == 3.5.4
+scikit-learn == 1.6.1
+sentencepiece == 0.2.0
+numpy == 1.26.4
+pandas == 2.2.3
+jupyter == 1.1.1
+regex == 2024.11.6
+nltk == 3.9.1
+dill == 0.3.8
+spacy == 3.7.2
+pytorch == 2.5.1
+transformers == 4.24.0
+matplotlib == 3.10.0
+spark-nlp == 6.0.1

@@ -8,7 +8,23 @@ To install the required libraries in a new environment, open your Anaconda promp
 ```
 conda env create -f requirements.yml
 ```
-When you have the required dependencies installed, all final code and results can be run through the Main.IPYNB file in the root of the repository. Each step of the process has been converted to a python-file, with functions called from Main. This is done to centralize the results of all the code in one easily accessible place.
+Or - for pip - use:
+```
+py -m venv .nlp_grp1
+pip install -r requirements.txt
+```
+
+When you have the required dependencies installed, activate the environment with
+```
+conda activate nlp_grp1
+```
+or 
+```
+source nlp_grp1/bin/activate
+```
+
+Now, all final code and results can be run through the Main.IPYNB file in the root of the repository. Each step of the process has been converted to a python-file, with functions called from Main. This is done to centralize the results of all the code in one easily accessible place.
+
 
 ## Contents of files and folders
 The repository contains 3 front-page files and 5 folders: 

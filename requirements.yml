@@ -8,6 +8,7 @@ dependencies:
  - python
  - pyspark
  - scikit-learn
+ - sentencepiece
  - numpy
  - pandas
  - jupyter
