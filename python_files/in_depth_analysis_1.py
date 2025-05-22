@@ -30,13 +30,16 @@ def plotting_wikiann(results, silver, gold_a, gold_b, colours):
     # Extract gold and silver labels
     y_true = df_clean['labels1']
     y_pred = df_clean['labels2']
-    
-    labels=["No ent (O)", "Per (1)", "Per (2)", "Org (3)", "Org (4)", "Loc (5)", "Loc (6)"]
 
-    comparison_df.plot(kind='bar', figsize=(6,6), width=0.8,
-                      title="Class distribution of gold vs silver data",
-                      xlabel="Class label", ylabel="Count", grid=True, cmap=c1)
+    ticks=[0,1,2,3,4,5,6]
     
+    labels=["No ent (O)", "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC"]
+
+    comparison_df.plot(kind='bar', figsize=(6,4), width=0.8,
+                      title="Class distribution of gold vs silver data",
+                      xlabel="Class label", xticks=ticks, ylabel="Count", grid=True, cmap=c1)
+    plt.xticks(ticks=[0,1,2,3,4,5,6], labels=["No ent (O)", "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC"])
+    plt.savefig("data-files_and_results/class_distribution.png", bbox_inches = "tight")
 
     #ax.xticks(rotation=45)
     #ax.grid(axis='y', linestyle='--', alpha=0.7)

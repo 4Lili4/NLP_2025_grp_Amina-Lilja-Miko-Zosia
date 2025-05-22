@@ -1,3 +1,4 @@
+-DOCSTART- -X- -X- O
 
 R.H. _ _ B-LOC
 Saunders _ _ I-LOC
@@ -11,7 +12,7 @@ River _ _ I-LOC
 MW _ _ O
 ) _ _ O
 
-4,254861111 _ _ O
+102.7 _ _ O
 MHz _ _ O
 Triple _ _ B-ORG
 J _ _ I-ORG
@@ -2550,7 +2551,7 @@ trader _ _ O
 ''fl _ _ O
 . _ _ O
 
-";" _ _ O
+; _ _ O
 Los _ _ B-ORG
 Angeles _ _ I-ORG
 Film _ _ I-ORG
@@ -6512,7 +6513,7 @@ located _ _ O
 on _ _ O
 Cache _ _ B-LOC
 Creek _ _ I-LOC
-";" _ _ O
+; _ _ O
 its _ _ O
 precise _ _ O
 location _ _ O
@@ -7138,7 +7139,7 @@ May _ _ O
 2012 _ _ O
 . _ _ O
 
-";" _ _ O
+; _ _ O
 Felicia _ _ B-PER
 Forrester _ _ I-PER
 : _ _ O
@@ -7151,7 +7152,7 @@ Dion-Scotti _ _ I-PER
 , _ _ O
 1997–2004 _ _ O
 ) _ _ O
-";" _ _ O
+; _ _ O
 Lesli _ _ B-PER
 Kay _ _ I-PER
 ( _ _ O
@@ -7723,7 +7724,7 @@ Springview _ _ B-LOC
 , _ _ O
 Nebraska _ _ B-LOC
 
-";" _ _ O
+; _ _ O
 2006 _ _ O
 – _ _ O
 Scott-Marcondes _ _ B-ORG
@@ -9092,8 +9093,8 @@ Maleeva _ _ I-PER
 6–2 _ _ O
 , _ _ O
 6–3 _ _ O
-"# New sentence = ; ''Matches were played in Stara Zagora and Nova Zagora ''" _ _ O
-";" _ _ O
+
+; _ _ O
 ''Matches _ _ O
 were _ _ O
 played _ _ O
@@ -10056,14 +10057,14 @@ International _ _ B-ORG
 Military _ _ I-ORG
 Sports _ _ I-ORG
 Council _ _ I-ORG
-"# New sentence = Glass Castle '' ( ??? ? ; 2008–2009 )" _ _ O
+
 Glass _ _ O
 Castle _ _ O
 '' _ _ O
 ( _ _ O
 ??? _ _ O
 ? _ _ O
-";" _ _ O
+; _ _ O
 2008–2009 _ _ O
 ) _ _ O
 
@@ -11806,8 +11807,8 @@ Brown _ _ I-PER
 ( _ _ O
 D-R _ _ O
 ) _ _ O
-"# New sentence = ; 17 July 2014 — Bourg-en-Bresse to Saint-Étienne ," _ _ O
-";" _ _ O
+
+; _ _ O
 17 _ _ O
 July _ _ O
 2014 _ _ O
@@ -11954,7 +11955,7 @@ May _ _ O
 16 _ _ O
 , _ _ O
 1990 _ _ O
-"# New sentence = Guillaume Apollinaire ( 1880–1918 ) : ''Alcools '' ( 1913 ) ;" _ _ O
+
 Guillaume _ _ B-PER
 Apollinaire _ _ I-PER
 ( _ _ O
@@ -11966,7 +11967,7 @@ Apollinaire _ _ I-PER
 ( _ _ O
 1913 _ _ O
 ) _ _ O
-";" _ _ O
+; _ _ O
 
 Interstate _ _ B-LOC
 110 _ _ I-LOC
@@ -12245,14 +12246,14 @@ Route _ _ I-LOC
 221 _ _ I-LOC
 in _ _ O
 Virginia _ _ B-LOC
-"# New sentence = | style= '' text-align : left ; '' George Connelly" _ _ O
+
 | _ _ O
 style= _ _ O
 '' _ _ O
 text-align _ _ O
 : _ _ O
 left _ _ O
-";" _ _ O
+; _ _ O
 '' _ _ O
 George _ _ B-PER
 Connelly _ _ I-PER
@@ -14435,8 +14436,8 @@ Verlag _ _ I-ORG
 since _ _ O
 1936 _ _ O
 . _ _ O
-"# New sentence = ; Teams losing Copa del Rey first round" _ _ O
-";" _ _ O
+
+; _ _ O
 Teams _ _ O
 losing _ _ O
 Copa _ _ O
@@ -15113,7 +15114,7 @@ of _ _ O
 Papua _ _ B-LOC
 New _ _ I-LOC
 Guinea _ _ I-LOC
-"# New sentence = 3 – 3 ( Suwon , Korea Republic ; 11 June 2002 )" _ _ O
+
 3 _ _ O
 – _ _ O
 3 _ _ O
@@ -15122,7 +15123,7 @@ Suwon _ _ B-LOC
 , _ _ O
 Korea _ _ B-LOC
 Republic _ _ I-LOC
-";" _ _ O
+; _ _ O
 11 _ _ O
 June _ _ O
 2002 _ _ O
@@ -15324,7 +15325,7 @@ catalog _ _ O
 number _ _ O
 24423 _ _ O
 . _ _ O
-"# New sentence = Victor Amadeus I , Duke of Savoy ; Louis XIII of France" _ _ O
+
 Victor _ _ B-PER
 Amadeus _ _ I-PER
 I _ _ I-PER
@@ -15332,7 +15333,7 @@ I _ _ I-PER
 Duke _ _ O
 of _ _ O
 Savoy _ _ B-LOC
-";" _ _ O
+; _ _ O
 Louis _ _ B-PER
 XIII _ _ I-PER
 of _ _ I-PER
@@ -15760,7 +15761,7 @@ until _ _ O
 October _ _ O
 27 _ _ O
 . _ _ O
-"# New sentence = *1975 : New Jersey State Museum , Trenton , New Jersey ;" _ _ O
+
 *1975 _ _ O
 : _ _ O
 New _ _ B-LOC
@@ -15772,7 +15773,7 @@ Trenton _ _ B-LOC
 , _ _ O
 New _ _ B-LOC
 Jersey _ _ I-LOC
-";" _ _ O
+; _ _ O
 
 At _ _ O
 the _ _ O
@@ -17725,3 +17726,4 @@ Park _ _ I-LOC
 Carbon _ _ B-LOC
 County _ _ I-LOC
 ) _ _ O
+. . O O

@@ -1,4 +1,3 @@
-
 R.H. _ _ B-LOC
 Saunders _ _ I-LOC
 ( _ _ O
@@ -11,7 +10,7 @@ River _ _ I-LOC
 MW _ _ O
 ) _ _ O
 
-4,254861111 _ _ O
+102.7 _ _ O
 MHz _ _ O
 Triple _ _ O
 J _ _ O
@@ -2550,7 +2549,7 @@ trader _ _ O
 ''fl _ _ O
 . _ _ O
 
-";" _ _ O
+; _ _ O
 Los _ _ B-ORG
 Angeles _ _ I-ORG
 Film _ _ I-ORG
@@ -6512,7 +6511,7 @@ located _ _ O
 on _ _ O
 Cache _ _ B-LOC
 Creek _ _ I-LOC
-";" _ _ O
+; _ _ O
 its _ _ O
 precise _ _ O
 location _ _ O
@@ -7138,7 +7137,7 @@ May _ _ O
 2012 _ _ O
 . _ _ O
 
-";" _ _ O
+; _ _ O
 Felicia _ _ B-PER
 Forrester _ _ I-PER
 : _ _ O
@@ -7151,7 +7150,7 @@ Dion-Scotti _ _ I-PER
 , _ _ O
 1997–2004 _ _ O
 ) _ _ O
-";" _ _ O
+; _ _ O
 Lesli _ _ B-PER
 Kay _ _ I-PER
 ( _ _ O
@@ -7723,7 +7722,7 @@ Springview _ _ B-LOC
 , _ _ O
 Nebraska _ _ B-LOC
 
-";" _ _ O
+; _ _ O
 2006 _ _ O
 – _ _ O
 Scott-Marcondes _ _ B-PER
@@ -9092,8 +9091,8 @@ Maleeva _ _ I-PER
 6–2 _ _ O
 , _ _ O
 6–3 _ _ O
-"# New sentence = ; ''Matches were played in Stara Zagora and Nova Zagora ''" _ _ O
-";" _ _ O
+
+; _ _ O
 ''Matches _ _ O
 were _ _ O
 played _ _ O
@@ -10056,14 +10055,14 @@ International _ _ B-ORG
 Military _ _ I-ORG
 Sports _ _ I-ORG
 Council _ _ I-ORG
-"# New sentence = Glass Castle '' ( ??? ? ; 2008–2009 )" _ _ O
+
 Glass _ _ O
 Castle _ _ O
 '' _ _ O
 ( _ _ O
 ??? _ _ O
 ? _ _ O
-";" _ _ O
+; _ _ O
 2008–2009 _ _ O
 ) _ _ O
 
@@ -11806,8 +11805,8 @@ Brown _ _ I-PER
 ( _ _ O
 D-R _ _ O
 ) _ _ O
-"# New sentence = ; 17 July 2014 — Bourg-en-Bresse to Saint-Étienne ," _ _ O
-";" _ _ O
+
+; _ _ O
 17 _ _ O
 July _ _ O
 2014 _ _ O
@@ -11954,7 +11953,7 @@ May _ _ O
 16 _ _ O
 , _ _ O
 1990 _ _ O
-"# New sentence = Guillaume Apollinaire ( 1880–1918 ) : ''Alcools '' ( 1913 ) ;" _ _ O
+
 Guillaume _ _ B-PER
 Apollinaire _ _ I-PER
 ( _ _ O
@@ -11966,7 +11965,7 @@ Apollinaire _ _ I-PER
 ( _ _ O
 1913 _ _ O
 ) _ _ O
-";" _ _ O
+; _ _ O
 
 Interstate _ _ B-LOC
 110 _ _ I-LOC
@@ -12245,14 +12244,14 @@ Route _ _ O
 221 _ _ O
 in _ _ O
 Virginia _ _ B-LOC
-"# New sentence = | style= '' text-align : left ; '' George Connelly" _ _ O
+
 | _ _ O
 style= _ _ O
 '' _ _ O
 text-align _ _ O
 : _ _ O
 left _ _ O
-";" _ _ O
+; _ _ O
 '' _ _ O
 George _ _ B-PER
 Connelly _ _ I-PER
@@ -13889,3 +13888,3839 @@ Armillaria _ _ O
 tabescens _ _ O
 '' _ _ O
 = _ _ O
+Clitocybe _ _ O
+tabescens _ _ O
+'' _ _ O
+
+Guarea _ _ O
+trichilioides _ _ O
+'' _ _ O
+L _ _ O
+. _ _ O
+
+''Denver _ _ B-PER
+'' _ _ O
+sailed _ _ O
+from _ _ O
+Philadelphia _ _ B-LOC
+on _ _ O
+23 _ _ O
+January _ _ O
+1943 _ _ O
+, _ _ O
+and _ _ O
+arrived _ _ O
+at _ _ O
+Efate _ _ B-LOC
+, _ _ I-LOC
+New _ _ I-LOC
+Hebrides _ _ I-LOC
+on _ _ O
+14 _ _ O
+February _ _ O
+. _ _ O
+
+In _ _ O
+1928 _ _ O
+, _ _ O
+he _ _ O
+moved _ _ O
+to _ _ O
+Bombay _ _ B-LOC
+with _ _ O
+the _ _ O
+help _ _ O
+of _ _ O
+a _ _ O
+loan _ _ O
+from _ _ O
+an _ _ O
+aunt _ _ O
+. _ _ O
+
+Communes _ _ O
+of _ _ O
+the _ _ O
+Corrèze _ _ B-ORG
+department _ _ I-ORG
+
+St _ _ B-LOC
+Oswald _ _ I-LOC
+'s _ _ I-LOC
+Church _ _ I-LOC
+, _ _ I-LOC
+Dean _ _ I-LOC
+
+A _ _ O
+number _ _ O
+of _ _ O
+other _ _ O
+cars _ _ O
+crashed _ _ O
+at _ _ O
+the _ _ O
+same _ _ O
+corner _ _ O
+as _ _ O
+well _ _ O
+, _ _ O
+including _ _ O
+Wilson _ _ B-PER
+Fittipaldi _ _ I-PER
+, _ _ O
+Jochen _ _ B-PER
+Mass _ _ I-PER
+, _ _ O
+and _ _ O
+John _ _ B-PER
+Watson _ _ I-PER
+. _ _ O
+
+' _ _ O
+'' _ _ O
+Gastón _ _ B-PER
+Gaudio _ _ I-PER
+'' _ _ O
+' _ _ O
+6–4 _ _ O
+, _ _ O
+6–0 _ _ O
+, _ _ O
+6–2 _ _ O
+
+Ine _ _ B-PER
+Marie _ _ I-PER
+Eriksen _ _ I-PER
+Søreide _ _ O
+
+Queen _ _ O
+Victoria _ _ B-PER
+( _ _ O
+1879 _ _ O
+) _ _ O
+
+It _ _ O
+is _ _ O
+known _ _ O
+from _ _ O
+Australia _ _ B-LOC
+. _ _ O
+
+Gyula _ _ B-PER
+Farkas _ _ I-PER
+( _ _ O
+linguist _ _ O
+) _ _ O
+
+'' _ _ O
+Sweet _ _ O
+19 _ _ O
+Blues _ _ O
+'' _ _ O
+( _ _ O
+1996 _ _ O
+) _ _ O
+Namie _ _ B-PER
+Amuro _ _ I-PER
+
+Louisville]] _ _ B-LOC
+and _ _ O
+Lexington _ _ B-LOC
+, _ _ I-LOC
+Kentucky _ _ I-LOC
+
+Sam _ _ B-LOC
+Sung _ _ I-LOC
+District _ _ I-LOC
+
+' _ _ O
+'' _ _ O
+Esteve _ _ B-PER
+Rabat _ _ I-PER
+'' _ _ O
+' _ _ O
+
+Denise _ _ B-PER
+Scott _ _ I-PER
+Brown _ _ I-PER
+, _ _ O
+partner _ _ O
+in _ _ O
+Venturi _ _ B-ORG
+, _ _ I-ORG
+Scott _ _ I-ORG
+Brown _ _ I-ORG
+and _ _ I-ORG
+Associates _ _ I-ORG
+
+Fluvanna _ _ B-LOC
+County _ _ I-LOC
+, _ _ I-LOC
+Virginia _ _ I-LOC
+
+Communes _ _ O
+of _ _ O
+the _ _ O
+Lot-et-Garonne _ _ B-ORG
+department _ _ I-ORG
+
+His _ _ O
+obituary _ _ O
+in _ _ O
+the _ _ O
+Daily _ _ O
+Telegraph _ _ O
+described _ _ O
+him _ _ O
+as _ _ O
+`` _ _ O
+always _ _ O
+physically _ _ O
+tough _ _ O
+and _ _ O
+tactically _ _ O
+astute _ _ O
+. _ _ O
+
+'' _ _ O
+Taylor _ _ B-PER
+Swift _ _ I-PER
+'' _ _ O
+' _ _ O
+
+Diocese _ _ B-LOC
+of _ _ I-LOC
+Meaux _ _ I-LOC
+= _ _ O
+Seine-et-Marne _ _ B-LOC
+
+Manuel _ _ B-PER
+I _ _ I-PER
+of _ _ O
+Portugal _ _ B-LOC
+
+*01302 _ _ O
+— _ _ O
+Doncaster _ _ B-LOC
+( _ _ O
+DO2 _ _ O
+) _ _ O
+
+He _ _ O
+also _ _ O
+made _ _ O
+one _ _ O
+appearance _ _ O
+for _ _ O
+England _ _ B-LOC
+. _ _ O
+
+'' _ _ O
+Aethiophysa _ _ O
+dualis _ _ O
+'' _ _ O
+
+Chauvé _ _ B-LOC
+( _ _ O
+44038 _ _ O
+) _ _ O
+
+Keni _ _ B-PER
+Thomas _ _ I-PER
+( _ _ O
+with _ _ O
+Emmylou _ _ B-PER
+Harris _ _ I-PER
+) _ _ O
+
+'' _ _ O
+Salt _ _ B-ORG
+Lake _ _ I-ORG
+City _ _ I-ORG
+Weekly _ _ I-ORG
+'' _ _ O
+, _ _ O
+Salt _ _ B-LOC
+Lake _ _ I-LOC
+City _ _ O
+, _ _ O
+
+Wolfram _ _ B-PER
+von _ _ I-PER
+Eschenbach _ _ I-PER
+'' _ _ O
+
+: _ _ O
+: _ _ O
+: _ _ O
+*April _ _ O
+6 _ _ O
+, _ _ O
+2011 _ _ O
+— _ _ O
+June _ _ O
+7 _ _ O
+, _ _ O
+2011 _ _ O
+San _ _ O
+Fernando _ _ O
+massacre _ _ O
+
+'' _ _ O
+So _ _ O
+Alone _ _ O
+'' _ _ O
+– _ _ O
+( _ _ O
+1978 _ _ O
+) _ _ O
+
+The _ _ B-ORG
+Sessions _ _ I-ORG
+( _ _ O
+band _ _ O
+) _ _ O
+
+It _ _ O
+was _ _ O
+adapted _ _ O
+from _ _ O
+the _ _ O
+story _ _ O
+entitled _ _ O
+''Sheba _ _ O
+'' _ _ O
+, _ _ O
+which _ _ O
+was _ _ O
+written _ _ O
+by _ _ O
+Viña _ _ B-PER
+Delmar _ _ I-PER
+. _ _ O
+
+It _ _ O
+is _ _ O
+also _ _ O
+the _ _ O
+birthplace _ _ O
+of _ _ O
+Benjamín _ _ B-PER
+`` _ _ O
+El _ _ O
+Maestro _ _ O
+'' _ _ O
+Galindo _ _ O
+. _ _ O
+
+Sons _ _ O
+of _ _ O
+Thunder _ _ B-PER
+
+Rufus _ _ O
+Does _ _ O
+Judy _ _ O
+at _ _ O
+Carnegie _ _ O
+Hall _ _ O
+'' _ _ O
+
+Diocese _ _ B-ORG
+of _ _ I-ORG
+San _ _ I-ORG
+Fernando _ _ I-ORG
+de _ _ I-ORG
+La _ _ I-ORG
+Union _ _ I-ORG
+
+Ribera _ _ B-PER
+Baja _ _ I-PER
+/ _ _ O
+Erribera _ _ B-PER
+Beitia _ _ I-PER
+
+Air _ _ B-ORG
+Transport _ _ I-ORG
+Command _ _ I-ORG
+, _ _ O
+1 _ _ O
+January _ _ O
+1944 _ _ O
+
+Wandering _ _ O
+whistling _ _ O
+duck _ _ O
+
+He _ _ O
+died _ _ O
+in _ _ O
+Križevci _ _ B-LOC
+on _ _ O
+9 _ _ O
+August _ _ O
+1946 _ _ O
+. _ _ O
+
+2012 _ _ O
+Seattle _ _ B-LOC
+cafe _ _ O
+shooting _ _ O
+spree _ _ O
+
+Jo _ _ B-PER
+O'Meara _ _ I-PER
+as _ _ O
+Herself _ _ O
+
+Abbey _ _ B-LOC
+Village _ _ I-LOC
+Reservoir _ _ I-LOC
+
+Constantine _ _ O
+the _ _ O
+Great _ _ O
+
+Kentucky _ _ B-ORG
+Space _ _ I-ORG
+Grant _ _ I-ORG
+Consortium _ _ I-ORG
+
+Heaven _ _ O
+Is _ _ O
+a _ _ O
+Place _ _ O
+on _ _ O
+Earth _ _ O
+'' _ _ O
+
+`` _ _ O
+Shinobi _ _ O
+vs. _ _ O
+Dragon _ _ O
+Ninja _ _ O
+'' _ _ O
+
+María _ _ B-PER
+Belén _ _ I-PER
+Pérez _ _ I-PER
+Maurice _ _ I-PER
+
+'' _ _ O
+Pseudopostega _ _ O
+auritella _ _ O
+'' _ _ O
+( _ _ O
+Hübner _ _ O
+, _ _ O
+1813 _ _ O
+) _ _ O
+
+Profile _ _ O
+at _ _ O
+Badminton _ _ B-ORG
+Association _ _ I-ORG
+of _ _ I-ORG
+Malaysia _ _ I-ORG
+
+New _ _ B-LOC
+Hampshire _ _ I-LOC
+and _ _ O
+Vermont _ _ B-LOC
+seceded _ _ O
+shortly _ _ O
+thereafter _ _ O
+and _ _ O
+were _ _ O
+soon _ _ O
+followed _ _ O
+by _ _ O
+the _ _ O
+rest _ _ O
+of _ _ O
+New _ _ B-LOC
+England _ _ I-LOC
+, _ _ I-LOC
+New _ _ B-LOC
+York _ _ I-LOC
+, _ _ O
+New _ _ B-LOC
+Jersey _ _ I-LOC
+and _ _ O
+Pennsylvania _ _ B-LOC
+. _ _ O
+
+Chelsea _ _ B-ORG
+( _ _ O
+2009–10 _ _ O
+and _ _ O
+2011–12 _ _ O
+) _ _ O
+
+Markovi?evo _ _ O
+( _ _ O
+Torontálújfalu _ _ O
+) _ _ O
+
+Finsch _ _ O
+'s _ _ O
+parakeet _ _ O
+
+Subsequent _ _ O
+generations _ _ O
+of _ _ O
+artists _ _ O
+appreciated _ _ O
+the _ _ O
+unfinished _ _ O
+passages _ _ O
+: _ _ O
+Joshua _ _ B-PER
+Reynolds _ _ I-PER
+commented _ _ O
+on _ _ O
+its _ _ O
+`` _ _ O
+very _ _ O
+unfinished _ _ O
+manner _ _ O
+'' _ _ O
+, _ _ O
+but _ _ O
+found _ _ O
+it _ _ O
+`` _ _ O
+admirable _ _ O
+for _ _ O
+its _ _ O
+colour _ _ O
+and _ _ O
+effect _ _ O
+, _ _ O
+'' _ _ O
+and _ _ O
+Jean-Honoré _ _ B-PER
+Fragonard _ _ I-PER
+made _ _ O
+a _ _ O
+painted _ _ O
+copy _ _ O
+of _ _ O
+it _ _ O
+. _ _ O
+
+Lisa _ _ B-PER
+I'Anson _ _ I-PER
+( _ _ O
+1995–1996 _ _ O
+) _ _ O
+
+The _ _ O
+firm _ _ O
+was _ _ O
+established _ _ O
+by _ _ O
+Peter _ _ B-PER
+Suhrkamp _ _ I-PER
+, _ _ O
+who _ _ O
+had _ _ O
+led _ _ O
+the _ _ O
+equally _ _ O
+renowned _ _ O
+S. _ _ B-ORG
+Fischer _ _ I-ORG
+Verlag _ _ I-ORG
+since _ _ O
+1936 _ _ O
+. _ _ O
+
+; _ _ O
+Teams _ _ O
+losing _ _ O
+Copa _ _ B-ORG
+del _ _ I-ORG
+Rey _ _ I-ORG
+first _ _ O
+round _ _ O
+
+: _ _ O
+Twelfth _ _ B-ORG
+Air _ _ I-ORG
+Force _ _ I-ORG
+, _ _ O
+20 _ _ O
+April _ _ O
+1953 _ _ O
+
+Nowina _ _ I-LOC
+, _ _ I-LOC
+Pi?a _ _ I-LOC
+County _ _ I-LOC
+
+Verne _ _ B-PER
+Lundquist _ _ I-PER
+: _ _ O
+( _ _ O
+1974–1981 _ _ O
+) _ _ O
+
+After _ _ O
+the _ _ O
+Colorado _ _ O
+Labor _ _ O
+Wars _ _ O
+, _ _ O
+the _ _ O
+WFM _ _ O
+was _ _ O
+instrumental _ _ O
+in _ _ O
+launching _ _ O
+the _ _ O
+Industrial _ _ O
+Workers _ _ O
+of _ _ O
+the _ _ O
+World _ _ O
+( _ _ O
+IWW _ _ O
+) _ _ O
+in _ _ O
+1905 _ _ O
+. _ _ O
+
+'' _ _ O
+Eupithecia _ _ O
+pauxillaria _ _ O
+'' _ _ O
+Boisduval _ _ O
+, _ _ O
+1840 _ _ O
+
+'' _ _ O
+Phtheochroa _ _ O
+pulvillana _ _ O
+'' _ _ O
+Herrich-Schäffer _ _ B-PER
+, _ _ O
+1851 _ _ O
+
+Kootenay _ _ O
+Ice _ _ O
+( _ _ O
+1 _ _ O
+) _ _ O
+
+' _ _ O
+'' _ _ O
+Banganapalle _ _ B-LOC
+State _ _ I-LOC
+'' _ _ O
+' _ _ O
+– _ _ O
+Faiz _ _ B-PER
+Ali _ _ I-PER
+Khan _ _ B-ORG
+, _ _ O
+Nawab _ _ B-PER
+of _ _ O
+Banganapalle _ _ B-LOC
+( _ _ O
+1689–1759 _ _ O
+) _ _ O
+
+Sinope]] _ _ B-LOC
+, _ _ O
+Amisus _ _ O
+, _ _ O
+Euchaita _ _ B-LOC
+, _ _ O
+Comana _ _ B-LOC
+Pontica _ _ I-LOC
+
+Eureka _ _ B-LOC
+, _ _ I-LOC
+Missouri _ _ I-LOC
+
+Operation _ _ O
+Good _ _ O
+Guys _ _ O
+'' _ _ O
+( _ _ O
+1997-2000 _ _ O
+, _ _ O
+BBC _ _ B-ORG
+Two _ _ I-ORG
+) _ _ O
+
+Silakhor-e _ _ I-LOC
+Sharqi _ _ I-LOC
+Rural _ _ I-LOC
+District _ _ I-LOC
+
+There _ _ O
+has _ _ O
+been _ _ O
+some _ _ O
+confusion _ _ O
+between _ _ O
+this _ _ O
+species _ _ O
+and _ _ O
+Missulena _ _ O
+insignis _ _ O
+'' _ _ O
+. _ _ O
+
+'' _ _ O
+Who _ _ O
+Wants _ _ O
+to _ _ O
+Marry _ _ O
+a _ _ O
+Multi-Millionaire _ _ O
+? _ _ O
+
+ESPN _ _ B-ORG
+Radio _ _ I-ORG
+''Game _ _ O
+of _ _ O
+the _ _ O
+Week _ _ O
+
+Henri _ _ B-PER
+de _ _ I-PER
+Boulainvilliers _ _ I-PER
+( _ _ O
+1658–1722 _ _ O
+) _ _ O
+
+Diju _ _ B-PER
+Valiyaveetil _ _ I-PER
+/ _ _ O
+Jwala _ _ B-PER
+Gutta _ _ I-PER
+
+'' _ _ O
+Tylopilus _ _ O
+louisii _ _ O
+'' _ _ O
+
+He _ _ O
+was _ _ O
+born _ _ O
+in _ _ O
+Plze? _ _ B-LOC
+, _ _ I-LOC
+Austria-Hungary _ _ I-LOC
+and _ _ O
+emigrated _ _ O
+to _ _ O
+Sioux _ _ B-LOC
+City _ _ I-LOC
+, _ _ I-LOC
+Iowa _ _ I-LOC
+with _ _ O
+his _ _ O
+widowed _ _ O
+mother _ _ O
+at _ _ O
+the _ _ O
+age _ _ O
+of _ _ O
+five _ _ O
+. _ _ O
+
+Chur _ _ B-LOC
+, _ _ I-LOC
+Stavropol _ _ I-LOC
+Krai _ _ I-LOC
+
+USANA _ _ B-LOC
+Amphitheatre _ _ I-LOC
+, _ _ I-LOC
+West _ _ I-LOC
+Valley _ _ I-LOC
+City _ _ I-LOC
+, _ _ I-LOC
+Utah _ _ I-LOC
+
+'' _ _ O
+Crataegus _ _ O
+flabellata _ _ O
+'' _ _ O
+( _ _ O
+N _ _ O
+) _ _ O
+
+Katalin _ _ B-PER
+Szili _ _ I-PER
+( _ _ O
+1956– _ _ O
+) _ _ O
+
+2007–08 _ _ O
+Norwich _ _ B-ORG
+City _ _ I-ORG
+F.C. _ _ I-ORG
+season _ _ I-ORG
+
+Moustava _ _ B-PER
+Belialov _ _ I-PER
+– _ _ O
+( _ _ O
+Perak _ _ B-ORG
+FA _ _ I-ORG
+) _ _ O
+
+Cadaqués _ _ B-LOC
+, _ _ I-LOC
+Cap _ _ I-LOC
+de _ _ I-LOC
+Creus _ _ I-LOC
+
+Civil _ _ O
+and _ _ O
+Environmental _ _ O
+Engineering _ _ O
+
+QA08 _ _ O
+: _ _ O
+Mad?nat _ _ B-LOC
+ash _ _ I-LOC
+Sham?l _ _ I-LOC
+Municipality _ _ I-LOC
+, _ _ I-LOC
+Qatar _ _ I-LOC
+
+'' _ _ O
+Gymnoscelis _ _ O
+tenera _ _ O
+'' _ _ O
+
+East _ _ B-LOC
+Lawrencetown _ _ I-LOC
+, _ _ I-LOC
+Nova _ _ I-LOC
+Scotia _ _ I-LOC
+
+He _ _ O
+alternates _ _ O
+between _ _ O
+Cape _ _ B-LOC
+Cod _ _ I-LOC
+, _ _ I-LOC
+Massachusetts _ _ I-LOC
+and _ _ O
+Charleston _ _ B-LOC
+, _ _ I-LOC
+South _ _ I-LOC
+Carolina _ _ I-LOC
+. _ _ O
+
+`` _ _ O
+Language _ _ O
+in _ _ O
+Society _ _ O
+'' _ _ O
+, _ _ O
+Vol _ _ O
+. _ _ O
+
+Madrasa _ _ B-LOC
+Al-Baqiyat _ _ I-LOC
+As-Salihat _ _ I-LOC
+, _ _ I-LOC
+Vellur _ _ O
+
+Victoria _ _ B-PER
+Azarenka _ _ I-PER
+( _ _ O
+4 _ _ O
+) _ _ O
+
+'' _ _ O
+Small _ _ O
+Fry _ _ O
+Club _ _ O
+'' _ _ O
+
+He _ _ O
+eventually _ _ O
+moved _ _ O
+to _ _ O
+Cambodia _ _ B-LOC
+with _ _ O
+his _ _ O
+family _ _ O
+but _ _ O
+had _ _ O
+to _ _ O
+escape _ _ O
+the _ _ O
+Khmer _ _ B-ORG
+rouge _ _ I-ORG
+and _ _ O
+move _ _ O
+to _ _ O
+Udon _ _ B-LOC
+Thani _ _ I-LOC
+, _ _ I-LOC
+Thailand _ _ I-LOC
+in _ _ O
+1975 _ _ O
+. _ _ O
+
+Frederick _ _ B-PER
+Walker _ _ I-PER
+Baldwin _ _ I-PER
+
+Girish _ _ B-PER
+Kumar _ _ I-PER
+, _ _ O
+Navneet _ _ B-PER
+Kaur _ _ I-PER
+Dhillon _ _ I-PER
+
+Los _ _ B-LOC
+Angeles _ _ I-LOC
+To _ _ O
+Washington _ _ B-LOC
+D.C _ _ I-LOC
+. _ _ O
+
+`` _ _ O
+In _ _ O
+the _ _ O
+Chapel _ _ O
+in _ _ O
+the _ _ O
+Moonlight _ _ O
+'' _ _ O
+( _ _ O
+Billy _ _ B-LOC
+Hill _ _ I-LOC
+) _ _ O
+- _ _ O
+0,278472222 _ _ O
+
+Headscarf _ _ O
+controversy _ _ O
+in _ _ O
+Turkey _ _ B-LOC
+
+Dietrich _ _ B-PER
+Bonhoeffer _ _ I-PER
+( _ _ O
+1906–1945 _ _ O
+) _ _ O
+, _ _ O
+Confessing _ _ O
+Church _ _ O
+
+Georges _ _ B-PER
+Hausemer _ _ I-PER
+( _ _ O
+born _ _ O
+1957 _ _ O
+) _ _ O
+, _ _ O
+writer _ _ O
+
+In _ _ O
+April _ _ O
+1944 _ _ O
+majority _ _ O
+of _ _ O
+the _ _ O
+members _ _ O
+were _ _ O
+arrested _ _ O
+by _ _ O
+the _ _ O
+Gestapo _ _ B-PER
+. _ _ O
+
+Adlai _ _ B-PER
+E. _ _ I-PER
+Stevenson _ _ I-PER
+III _ _ I-PER
+( _ _ O
+D _ _ O
+) _ _ O
+
+The _ _ O
+Party _ _ O
+Album _ _ O
+( _ _ O
+Vengaboys _ _ B-ORG
+album _ _ O
+) _ _ O
+
+Dame _ _ B-PER
+Barbara _ _ I-PER
+Mills _ _ I-PER
+, _ _ O
+DBE _ _ O
+, _ _ O
+QC _ _ O
+( _ _ O
+1992–98 _ _ O
+) _ _ O
+
+Florida _ _ O
+softshell _ _ O
+turtle _ _ O
+
+Niccolò _ _ B-PER
+Ridolfi _ _ I-PER
+( _ _ O
+Dominican _ _ O
+) _ _ O
+
+National _ _ B-LOC
+Route _ _ I-LOC
+13 _ _ I-LOC
+( _ _ I-LOC
+Yamagata _ _ I-LOC
+) _ _ I-LOC
+
+*224 _ _ O
+) _ _ O
+Lehighton _ _ B-LOC
+''pop _ _ O
+. _ _ O
+
+Richard _ _ B-PER
+Johnson _ _ I-PER
+... _ _ O
+Insp _ _ O
+. _ _ O
+
+In _ _ O
+2006 _ _ O
+he _ _ O
+joined _ _ O
+Championnat _ _ B-ORG
+National _ _ I-ORG
+side _ _ O
+Villemomble _ _ B-ORG
+Sports _ _ I-ORG
+, _ _ O
+scoring _ _ O
+eight _ _ O
+goals _ _ O
+in _ _ O
+25 _ _ O
+appearances _ _ O
+, _ _ O
+before _ _ O
+earning _ _ O
+a _ _ O
+move _ _ O
+to _ _ O
+Ligue _ _ B-ORG
+2 _ _ I-ORG
+side _ _ O
+Clermont _ _ B-ORG
+Foot _ _ I-ORG
+in _ _ O
+2008 _ _ O
+. _ _ O
+
+2004 _ _ O
+: _ _ O
+AFC _ _ B-ORG
+Youth _ _ O
+Championship _ _ O
+with _ _ O
+South _ _ B-LOC
+Korea _ _ I-LOC
+U-20 _ _ O
+
+Popular _ _ O
+opposition _ _ O
+to _ _ O
+the _ _ O
+2003 _ _ O
+Iraq _ _ B-LOC
+war _ _ O
+
+Liverpool _ _ B-LOC
+, _ _ I-LOC
+Pennsylvania _ _ I-LOC
+
+It _ _ O
+is _ _ O
+found _ _ O
+in _ _ O
+Bolivia _ _ B-LOC
+and _ _ O
+Peru _ _ I-LOC
+. _ _ O
+
+This _ _ O
+episode _ _ O
+aired _ _ O
+at _ _ O
+0,916666667 _ _ O
+( _ _ O
+Beijing _ _ B-LOC
+Time _ _ O
+) _ _ O
+on _ _ O
+February _ _ O
+28 _ _ O
+, _ _ O
+2014 _ _ O
+. _ _ O
+
+'' _ _ O
+Uranothauma _ _ O
+falkensteini _ _ O
+'' _ _ O
+( _ _ O
+Dewitz _ _ O
+, _ _ O
+1879 _ _ O
+) _ _ O
+
+Mt _ _ B-LOC
+Erebus _ _ I-LOC
+, _ _ I-LOC
+Ross _ _ I-LOC
+Dependency _ _ I-LOC
+, _ _ I-LOC
+Antarctica _ _ I-LOC
+
+Hayden _ _ B-PER
+Epstein _ _ I-PER
+, _ _ O
+ex-NFL _ _ O
+kicker _ _ O
+for _ _ O
+the _ _ O
+Denver _ _ B-ORG
+Broncos _ _ I-ORG
+( _ _ O
+1998 _ _ O
+) _ _ O
+
+Sir _ _ O
+Edward _ _ B-PER
+Carson _ _ I-PER
+, _ _ O
+and _ _ O
+then _ _ O
+( _ _ O
+from _ _ O
+1917 _ _ O
+) _ _ O
+Sir _ _ O
+Eric _ _ B-PER
+Geddes _ _ I-PER
+– _ _ O
+First _ _ O
+Lord _ _ O
+of _ _ O
+the _ _ O
+Admiralty _ _ B-LOC
+
+'' _ _ O
+Bucculatrix _ _ O
+longispiralis _ _ O
+'' _ _ O
+
+Velika _ _ B-LOC
+Plana _ _ I-LOC
+- _ _ O
+16,21 _ _ O
+
+Sonatas _ _ O
+and _ _ O
+Partitas _ _ O
+for _ _ O
+Solo _ _ O
+Violin _ _ O
+, _ _ O
+BWV _ _ O
+1001–1006 _ _ O
+
+** _ _ O
+'' _ _ O
+Megacraspedus _ _ O
+'' _ _ O
+Zeller _ _ O
+, _ _ O
+1839 _ _ O
+
+The _ _ O
+population _ _ O
+of _ _ O
+the _ _ O
+neighborhood _ _ O
+in _ _ O
+2000 _ _ O
+according _ _ O
+to _ _ O
+the _ _ O
+United _ _ B-ORG
+States _ _ I-ORG
+Census _ _ I-ORG
+Bureau _ _ I-ORG
+was _ _ O
+2,626 _ _ O
+. _ _ O
+
+Coconut _ _ B-LOC
+Creek _ _ I-LOC
+, _ _ I-LOC
+Florida _ _ I-LOC
+, _ _ I-LOC
+United _ _ I-LOC
+States _ _ I-LOC
+
+Jeremiah _ _ B-PER
+P. _ _ I-PER
+Ostriker _ _ I-PER
+
+'' _ _ O
+Epiblema _ _ O
+cirsiana _ _ O
+'' _ _ O
+( _ _ O
+Zeller _ _ O
+, _ _ O
+1843 _ _ O
+) _ _ O
+
+She _ _ O
+died _ _ O
+in _ _ O
+Jerusalem _ _ B-LOC
+at _ _ O
+May _ _ O
+10 _ _ O
+, _ _ O
+2006 _ _ O
+. _ _ O
+
+Diplomatic _ _ O
+missions _ _ O
+of _ _ O
+Papua _ _ B-LOC
+New _ _ I-LOC
+Guinea _ _ I-LOC
+
+3 _ _ O
+– _ _ O
+3 _ _ O
+( _ _ O
+Suwon _ _ B-LOC
+, _ _ I-LOC
+Korea _ _ I-LOC
+Republic _ _ I-LOC
+; _ _ O
+11 _ _ O
+June _ _ O
+2002 _ _ O
+) _ _ O
+
+'' _ _ O
+You _ _ O
+'ve _ _ O
+Really _ _ O
+Got _ _ O
+a _ _ O
+Hold _ _ O
+on _ _ O
+Me _ _ O
+'' _ _ O
+( _ _ O
+Smokey _ _ B-PER
+Robinson _ _ I-PER
+) _ _ O
+
+Ismaïl _ _ B-PER
+Omar _ _ I-PER
+Guelleh _ _ I-PER
+
+Mediterranean _ _ O
+horseshoe _ _ O
+bat _ _ O
+( _ _ O
+''Rhinolophus _ _ O
+?uryale _ _ O
+'' _ _ O
+) _ _ O
+
+Bernardino _ _ B-LOC
+de _ _ I-LOC
+Campos _ _ I-LOC
+
+Southern _ _ B-LOC
+Zhili _ _ I-LOC
+( _ _ O
+???? _ _ O
+) _ _ O
+
+'' _ _ O
+When _ _ O
+I _ _ O
+Was _ _ O
+17 _ _ O
+'' _ _ O
+
+Radka _ _ B-PER
+Zrubáková _ _ I-PER
+Ginger _ _ B-PER
+Helgeson _ _ I-PER
+Julie _ _ B-PER
+Halard _ _ I-PER
+Anke _ _ B-PER
+Huber _ _ I-PER
+
+U.S. _ _ B-LOC
+Route _ _ I-LOC
+1 _ _ I-LOC
+in _ _ I-LOC
+Virginia _ _ I-LOC
+
+Rawly _ _ B-PER
+Eastwick _ _ I-PER
+( _ _ O
+8–4 _ _ O
+) _ _ O
+
+( _ _ O
+1 _ _ O
+) _ _ O
+Louise _ _ B-PER
+of _ _ O
+Mecklenburg-Güstrow5 _ _ B-LOC
+December _ _ O
+Copenhagenfive _ _ B-ORG
+children _ _ O
+( _ _ O
+2 _ _ O
+) _ _ O
+Elisabeth _ _ B-PER
+Helene _ _ I-PER
+von _ _ I-PER
+Vieregg6 _ _ I-PER
+September _ _ O
+1703one _ _ O
+son _ _ O
+( _ _ O
+3 _ _ O
+) _ _ O
+Anne _ _ B-PER
+Sophie _ _ I-PER
+Reventlow4 _ _ O
+April _ _ O
+Copenhagenthree _ _ B-ORG
+children _ _ O
+
+: _ _ O
+Timothy _ _ B-PER
+II _ _ I-PER
+Aelurus _ _ I-PER
+( _ _ O
+restored _ _ O
+in _ _ O
+opposition _ _ O
+) _ _ O
+( _ _ O
+475–477 _ _ O
+) _ _ O
+
+Sheila _ _ B-PER
+Copps _ _ I-PER
+( _ _ O
+L _ _ O
+) _ _ O
+9734 _ _ O
+
+Al-Hajjaj _ _ B-PER
+ibn _ _ I-PER
+Yusuf _ _ I-PER
+
+Guillaume _ _ B-PER
+Dufay _ _ I-PER
+( _ _ O
+1397–1474 _ _ O
+) _ _ O
+
+SIMS _ _ O
+Co. _ _ O
+, _ _ O
+Ltd _ _ O
+. _ _ O
+
+List _ _ O
+of _ _ O
+mayors _ _ O
+of _ _ O
+Philadelphia _ _ B-LOC
+
+Making _ _ O
+use _ _ O
+of _ _ O
+Fano _ _ B-PER
+'s _ _ O
+inequality _ _ O
+gives _ _ O
+: _ _ O
+
+Galveston _ _ B-LOC
+, _ _ I-LOC
+Texas _ _ I-LOC
+, _ _ I-LOC
+United _ _ I-LOC
+States _ _ I-LOC
+
+' _ _ O
+'' _ _ O
+Terri _ _ B-PER
+Sewell _ _ I-PER
+'' _ _ O
+' _ _ O
+( _ _ O
+born _ _ O
+1965 _ _ O
+) _ _ O
+
+' _ _ O
+'' _ _ O
+KK _ _ B-ORG
+Sonik-Puntamika _ _ I-ORG
+'' _ _ O
+' _ _ O
+
+** _ _ O
+Benk _ _ B-PER
+Korthals _ _ I-PER
+( _ _ O
+22 _ _ O
+May _ _ O
+2011 _ _ O
+– _ _ O
+14 _ _ O
+June _ _ O
+2014 _ _ O
+) _ _ O
+
+The _ _ O
+recording _ _ O
+was _ _ O
+released _ _ O
+by _ _ O
+Decca _ _ B-ORG
+Records _ _ I-ORG
+as _ _ O
+catalog _ _ O
+number _ _ O
+24423 _ _ O
+. _ _ O
+
+Victor _ _ B-PER
+Amadeus _ _ I-PER
+I _ _ I-PER
+, _ _ O
+Duke _ _ O
+of _ _ O
+Savoy _ _ B-LOC
+; _ _ O
+Louis _ _ B-PER
+XIII _ _ I-PER
+of _ _ I-PER
+France _ _ I-PER
+
+*2008 _ _ O
+- _ _ O
+Everlast _ _ B-ORG
+- _ _ O
+Love _ _ O
+, _ _ O
+War _ _ O
+and _ _ O
+the _ _ O
+Ghost _ _ O
+of _ _ O
+Whitey _ _ B-PER
+Ford _ _ I-PER
+'' _ _ O
+
+Sony _ _ O
+Ericsson _ _ O
+K750 _ _ O
+
+Patrick _ _ B-PER
+Helmes _ _ I-PER
+then _ _ O
+completed _ _ O
+the _ _ O
+comeback _ _ O
+as _ _ O
+he _ _ O
+made _ _ O
+it _ _ O
+2–1 _ _ O
+. _ _ O
+
+Cytotoxic _ _ O
+T _ _ O
+cell _ _ O
+
+Ekaterina _ _ B-PER
+Bobrova _ _ I-PER
+/ _ _ O
+Dmitri _ _ B-PER
+Soloviev _ _ I-PER
+
+' _ _ O
+'' _ _ O
+Baník _ _ B-ORG
+Ostrava _ _ I-ORG
+'' _ _ O
+' _ _ O
+
+Greg _ _ B-PER
+Monroe _ _ I-PER
+( _ _ O
+32 _ _ O
+) _ _ O
+
+He _ _ O
+was _ _ O
+born _ _ O
+in _ _ O
+Brooklyn _ _ B-LOC
+, _ _ I-LOC
+New _ _ I-LOC
+York _ _ I-LOC
+and _ _ O
+graduated _ _ O
+from _ _ O
+the _ _ O
+United _ _ B-ORG
+States _ _ I-ORG
+Coast _ _ I-ORG
+Guard _ _ I-ORG
+Academy _ _ I-ORG
+in _ _ O
+1950 _ _ O
+. _ _ O
+
+Dan _ _ B-PER
+Quinn _ _ I-PER
+( _ _ O
+American _ _ O
+football _ _ O
+) _ _ O
+
+Gabriela _ _ B-PER
+Zapolska _ _ I-PER
+, _ _ O
+writer _ _ O
+
+Clarence _ _ B-PER
+D. _ _ I-PER
+Dillon _ _ I-PER
+– _ _ O
+Secretary _ _ O
+of _ _ O
+the _ _ O
+Treasury _ _ O
+. _ _ O
+
+1999–2003 _ _ O
+: _ _ O
+All _ _ O
+Saints _ _ O
+
+'' _ _ O
+Catarina _ _ B-PER
+, _ _ O
+or _ _ O
+La _ _ O
+Fille _ _ O
+du _ _ O
+Bandit _ _ O
+'' _ _ O
+. _ _ O
+
+Madlyn _ _ B-PER
+Rhue _ _ I-PER
+( _ _ O
+deceased _ _ O
+) _ _ O
+
+List _ _ O
+of _ _ O
+flags _ _ O
+of _ _ O
+Ukraine _ _ B-LOC
+
+The _ _ O
+AC-Delco _ _ O
+200 _ _ O
+was _ _ O
+held _ _ O
+October _ _ O
+21 _ _ O
+at _ _ O
+North _ _ B-LOC
+Carolina _ _ I-LOC
+Motor _ _ I-LOC
+Speedway _ _ I-LOC
+. _ _ O
+
+Melsons _ _ B-LOC
+Corner _ _ I-LOC
+, _ _ I-LOC
+California _ _ I-LOC
+
+Gian _ _ B-LOC
+Marco _ _ I-LOC
+Centinaio _ _ I-LOC
+
+The _ _ O
+New _ _ O
+Avengers _ _ O
+'' _ _ O
+38-39 _ _ O
+
+He _ _ O
+fought _ _ O
+in _ _ O
+the _ _ O
+First _ _ O
+World _ _ O
+War _ _ O
+between _ _ O
+1914 _ _ O
+and _ _ O
+1918 _ _ O
+. _ _ O
+
+Missouri _ _ B-LOC
+Route _ _ I-LOC
+164 _ _ I-LOC
+
+Andrew _ _ B-PER
+Marth _ _ I-PER
+( _ _ O
+Melbourne _ _ B-ORG
+Knights _ _ I-ORG
+) _ _ O
+
+Villanueva _ _ B-LOC
+de _ _ I-LOC
+la _ _ I-LOC
+Vera _ _ I-LOC
+
+Wood _ _ O
+warbler _ _ O
+, _ _ O
+''Phylloscopus _ _ O
+sibilatrix _ _ O
+'' _ _ O
+
+== _ _ O
+United _ _ B-LOC
+Arab _ _ I-LOC
+Emirates _ _ I-LOC
+== _ _ O
+
+Alligator _ _ O
+Reef _ _ O
+Light _ _ O
+
+No _ _ O
+Voter _ _ O
+lists _ _ O
+were _ _ O
+used _ _ O
+, _ _ O
+leading _ _ O
+to _ _ O
+fears _ _ O
+of _ _ O
+potential _ _ O
+duplicate _ _ O
+votes _ _ O
+. _ _ O
+
+'' _ _ O
+Teleiopsis _ _ O
+terebinthinella _ _ O
+'' _ _ O
+( _ _ O
+Herrich-Schäffer _ _ B-PER
+, _ _ O
+1856 _ _ O
+) _ _ O
+
+24 _ _ O
+Ernie _ _ B-PER
+Kellermann _ _ I-PER
+S _ _ O
+
+' _ _ O
+'' _ _ O
+1991 _ _ O
+: _ _ O
+' _ _ O
+'' _ _ O
+A _ _ O
+Midwife _ _ O
+'s _ _ O
+Tale _ _ O
+'' _ _ O
+by _ _ O
+Laurel _ _ B-PER
+Thatcher _ _ I-PER
+Ulrich _ _ I-PER
+
+12th _ _ O
+place _ _ O
+: _ _ O
+Courchevel _ _ B-LOC
+
+Yemeni _ _ O
+detainees _ _ O
+at _ _ O
+Guantanamo _ _ B-LOC
+Bay _ _ I-LOC
+
+His _ _ O
+first _ _ O
+exhibition _ _ O
+in _ _ O
+this _ _ O
+area _ _ O
+was _ _ O
+demonstrated _ _ O
+at _ _ O
+Philomene _ _ B-PER
+Magers _ _ I-PER
+in _ _ O
+1990 _ _ O
+. _ _ O
+
+Orlando-Deltona-Daytona _ _ B-LOC
+Beach _ _ I-LOC
+, _ _ I-LOC
+FL _ _ O
+Combined _ _ O
+Statistical _ _ O
+Area _ _ O
+
+*1978 _ _ O
+''Legends _ _ O
+'' _ _ O
+- _ _ O
+Dave _ _ B-PER
+Valentin _ _ I-PER
+
+Hirata-shi]] _ _ B-LOC
+, _ _ I-LOC
+Shimane _ _ I-LOC
+Prefecture _ _ I-LOC
+, _ _ I-LOC
+Japan _ _ I-LOC
+
+Ñawinpukyu _ _ O
+( _ _ O
+Junín _ _ O
+) _ _ O
+
+** _ _ O
+Benthophilus _ _ O
+stellatus _ _ O
+'' _ _ O
+— _ _ O
+Stellate _ _ O
+tadpole-goby _ _ O
+
+' _ _ O
+'' _ _ O
+Terceira _ _ B-ORG
+Divisão _ _ I-ORG
+'' _ _ O
+' _ _ O
+
+Arroyomolinos _ _ O
+, _ _ O
+Cáceres _ _ O
+
+' _ _ O
+'' _ _ O
+Ranti _ _ B-PER
+Martins _ _ I-PER
+'' _ _ O
+' _ _ O
+
+Teemu _ _ B-PER
+Pulkkinen _ _ I-PER
+( _ _ O
+LW _ _ O
+) _ _ O
+
+Louise _ _ B-PER
+Imogen _ _ I-PER
+Guiney _ _ I-PER
+— _ _ O
+a _ _ O
+Study _ _ O
+'' _ _ O
+( _ _ O
+1921 _ _ O
+) _ _ O
+biography _ _ O
+
+It _ _ O
+peaked _ _ O
+at _ _ O
+29 _ _ O
+in _ _ O
+the _ _ O
+Oricon _ _ B-ORG
+Charts _ _ I-ORG
+. _ _ O
+
+These _ _ O
+two _ _ O
+met _ _ O
+again _ _ O
+in _ _ O
+Sandpoint _ _ B-LOC
+on _ _ O
+September _ _ O
+10 _ _ O
+. _ _ O
+
+He _ _ O
+was _ _ O
+the _ _ O
+son _ _ O
+of _ _ O
+Sir _ _ O
+George _ _ B-PER
+Bevan _ _ I-PER
+Bowen _ _ I-PER
+. _ _ O
+
+John _ _ B-PER
+Jay _ _ I-PER
+( _ _ O
+F _ _ O
+) _ _ O
+
+Ingraham _ _ B-PER
+( _ _ O
+disambiguation _ _ O
+) _ _ O
+
+Joint _ _ B-ORG
+Task _ _ I-ORG
+Force _ _ I-ORG
+2 _ _ I-ORG
+
+`` _ _ O
+Na _ _ O
+Na _ _ O
+Hey _ _ O
+Hey _ _ O
+Kiss _ _ O
+Him _ _ O
+Goodbye _ _ O
+'' _ _ O
+
+'' _ _ O
+Camissonia _ _ O
+subacaulis _ _ O
+'' _ _ O
+, _ _ O
+long-leaf _ _ O
+evening-primrose _ _ O
+
+Duty _ _ O
+in _ _ O
+Pleasant _ _ B-LOC
+Valley _ _ I-LOC
+, _ _ I-LOC
+Md _ _ I-LOC
+. _ _ I-LOC
+, _ _ O
+until _ _ O
+October _ _ O
+27 _ _ O
+. _ _ O
+
+*1975 _ _ O
+: _ _ O
+New _ _ B-LOC
+Jersey _ _ I-LOC
+State _ _ I-LOC
+Museum _ _ I-LOC
+, _ _ I-LOC
+Trenton _ _ I-LOC
+, _ _ I-LOC
+New _ _ I-LOC
+Jersey _ _ I-LOC
+; _ _ O
+
+At _ _ O
+the _ _ O
+age _ _ O
+of _ _ O
+11 _ _ O
+, _ _ O
+she _ _ O
+decided _ _ O
+that _ _ O
+she _ _ O
+wished _ _ O
+to _ _ O
+join _ _ O
+the _ _ O
+Religious _ _ B-ORG
+Hospitallers _ _ I-ORG
+of _ _ I-ORG
+Ville-Marie _ _ I-ORG
+in _ _ O
+Montreal _ _ B-LOC
+. _ _ O
+
+Grimjack _ _ B-PER
+'' _ _ O
+11 _ _ O
+( _ _ O
+1985 _ _ O
+) _ _ O
+
+It _ _ O
+is _ _ O
+found _ _ O
+in _ _ O
+Rwanda _ _ B-LOC
+and _ _ O
+possibly _ _ O
+Kenya _ _ B-LOC
+. _ _ O
+
+Enrique _ _ B-PER
+Lihn _ _ I-PER
+– _ _ O
+poet _ _ O
+, _ _ O
+playwright _ _ O
+, _ _ O
+and _ _ O
+novelist _ _ O
+
+Peter _ _ B-PER
+Thomas _ _ I-PER
+Hay _ _ I-PER
+
+Valeria _ _ B-PER
+Sorokina _ _ I-PER
+/ _ _ O
+Nina _ _ B-PER
+Vislova _ _ I-PER
+
+As _ _ O
+of _ _ O
+May _ _ O
+24 _ _ O
+2016 _ _ O
+, _ _ O
+he _ _ O
+makes _ _ O
+over _ _ O
+$ _ _ O
+7200 _ _ O
+( _ _ O
+~£4900 _ _ O
+) _ _ O
+a _ _ O
+month _ _ O
+from _ _ O
+his _ _ O
+Patreon _ _ B-ORG
+page _ _ O
+. _ _ O
+
+He _ _ O
+died _ _ O
+in _ _ O
+Auckland _ _ B-LOC
+City _ _ I-LOC
+Hospital _ _ I-LOC
+on _ _ O
+27 _ _ O
+May _ _ O
+1987 _ _ O
+. _ _ O
+
+Dark _ _ O
+Reign _ _ O
+: _ _ O
+Rise _ _ O
+of _ _ O
+the _ _ O
+Shadowhand _ _ O
+'' _ _ O
+
+It _ _ O
+implemented _ _ O
+recommendations _ _ O
+of _ _ O
+the _ _ O
+Law _ _ B-ORG
+Commission _ _ I-ORG
+. _ _ O
+
+Air _ _ O
+Chief _ _ O
+Marshal _ _ B-PER
+Chris _ _ I-PER
+Moran _ _ I-PER
+1997-9 _ _ O
+
+Clearwater _ _ B-LOC
+River _ _ I-LOC
+( _ _ I-LOC
+Quebec _ _ I-LOC
+) _ _ I-LOC
+
+Alexandra _ _ B-PER
+Eames _ _ I-PER
+( _ _ O
+Kathryn _ _ B-PER
+Erbe _ _ I-PER
+) _ _ O
+. _ _ O
+
+: _ _ O
+Lithuanian _ _ B-ORG
+Armed _ _ I-ORG
+Forces _ _ I-ORG
+. _ _ O
+
+Three _ _ O
+days _ _ O
+later _ _ O
+the _ _ O
+Dutch _ _ B-LOC
+East _ _ I-LOC
+Indies _ _ I-LOC
+capitulated _ _ O
+. _ _ O
+
+Étienne _ _ B-PER
+Léopold _ _ I-PER
+Trouvelot _ _ I-PER
+
+Ruganzu _ _ B-PER
+II _ _ I-PER
+Ndoli _ _ I-PER
+( _ _ O
+1510–1543 _ _ O
+) _ _ O
+
+The _ _ B-LOC
+United _ _ I-LOC
+States _ _ I-LOC
+dominated _ _ O
+the _ _ O
+competition _ _ O
+, _ _ O
+winning _ _ O
+52 _ _ O
+of _ _ O
+87 _ _ O
+medals _ _ O
+. _ _ O
+
+' _ _ O
+'' _ _ O
+Courmes _ _ B-LOC
+'' _ _ O
+' _ _ O
+
+'' _ _ O
+Missing _ _ O
+You _ _ O
+'' _ _ O
+
+George _ _ B-PER
+Caleb _ _ I-PER
+Bingham _ _ I-PER
+( _ _ O
+1811–1879 _ _ O
+) _ _ O
+, _ _ O
+painter _ _ O
+
+Francis _ _ B-PER
+Gerald _ _ I-PER
+Agar-Robartes _ _ I-PER
+, _ _ O
+7th _ _ O
+Viscount _ _ B-LOC
+Clifden _ _ I-LOC
+( _ _ O
+1883–1966 _ _ O
+) _ _ O
+
+SV _ _ B-ORG
+Zulte _ _ I-ORG
+Waregem _ _ I-ORG
+( _ _ O
+women _ _ O
+) _ _ O
+
+Roman _ _ O
+Catholic _ _ O
+Diocese _ _ O
+of _ _ O
+Mandeville _ _ B-LOC
+
+Lists _ _ O
+of _ _ O
+wind _ _ O
+farms _ _ O
+by _ _ O
+country _ _ O
+
+He _ _ O
+was _ _ O
+considered _ _ O
+one _ _ O
+of _ _ O
+the _ _ O
+top _ _ O
+prospects _ _ O
+at _ _ O
+his _ _ O
+position _ _ O
+in _ _ O
+the _ _ O
+2013 _ _ O
+NFL _ _ B-ORG
+Draft _ _ O
+. _ _ O
+
+She _ _ O
+currently _ _ O
+lives _ _ O
+and _ _ O
+works _ _ O
+in _ _ O
+Berlin _ _ B-LOC
+. _ _ O
+
+'' _ _ O
+A47 _ _ O
+'' _ _ O
+' _ _ O
+- _ _ O
+Great _ _ O
+Yarmouth _ _ O
+to _ _ O
+Birmingham _ _ B-LOC
+( _ _ O
+partially _ _ O
+reclassified _ _ O
+as _ _ O
+the _ _ O
+B4114 _ _ O
+) _ _ O
+
+He _ _ O
+also _ _ O
+served _ _ O
+as _ _ O
+a _ _ O
+Senator _ _ O
+of _ _ O
+the _ _ O
+Republic _ _ O
+and _ _ O
+as _ _ O
+Governor _ _ O
+of _ _ O
+the _ _ O
+State _ _ O
+of _ _ O
+Tabasco _ _ B-LOC
+. _ _ O
+
+Roy _ _ B-PER
+Edward _ _ I-PER
+Dodds _ _ I-PER
+
+'' _ _ O
+Space _ _ O
+Gamer _ _ O
+'' _ _ O
+72 _ _ O
+( _ _ O
+Jan. _ _ O
+1985 _ _ O
+) _ _ O
+
+The _ _ O
+episode _ _ O
+was _ _ O
+written _ _ O
+and _ _ O
+directed _ _ O
+by _ _ O
+Tim _ _ B-PER
+Minear _ _ I-PER
+. _ _ O
+
+Lviv _ _ B-ORG
+Bus _ _ I-ORG
+Factory _ _ I-ORG
+
+Prionus _ _ O
+lecontei _ _ O
+'' _ _ O
+Lameere _ _ O
+, _ _ O
+1912 _ _ O
+
+2012 _ _ O
+''Fade _ _ O
+'' _ _ O
+- _ _ O
+Yo _ _ B-ORG
+La _ _ I-ORG
+Tengo _ _ I-ORG
+
+11 _ _ O
+consecutive _ _ O
+titles _ _ O
+— _ _ O
+Raymond _ _ B-PER
+Ceulemans _ _ I-PER
+
+La _ _ B-PER
+Niña _ _ I-PER
+de _ _ I-PER
+los _ _ I-PER
+Peines _ _ I-PER
+is _ _ O
+also _ _ O
+an _ _ O
+important _ _ O
+reference _ _ O
+for _ _ O
+all _ _ O
+these _ _ O
+styles _ _ O
+. _ _ O
+
+The _ _ O
+Singles _ _ O
+81?85 _ _ O
+
+1952 _ _ O
+, _ _ O
+Gertrude _ _ B-PER
+Melville _ _ I-PER
+( _ _ O
+ALP _ _ O
+) _ _ O
+
+Kodandera _ _ B-PER
+Subayya _ _ I-PER
+Thimayya _ _ I-PER
+
+Billdal _ _ B-LOC
+( _ _ O
+part _ _ O
+of _ _ O
+) _ _ O
+
+George _ _ B-PER
+Benson _ _ I-PER
+Johnston _ _ I-PER
+
+Przemy?l _ _ B-LOC
+( _ _ O
+68,9 _ _ O
+) _ _ O
+
+Nikita _ _ B-PER
+Andreev _ _ I-PER
+'' _ _ O
+( _ _ O
+Tambov _ _ B-LOC
+) _ _ O
+'' _ _ O
+
+Tear _ _ O
+from _ _ O
+the _ _ O
+Red _ _ O
+
+Topole _ _ B-LOC
+, _ _ I-LOC
+Mengeš _ _ I-LOC
+
+' _ _ O
+'' _ _ O
+Faridabad _ _ B-LOC
+'' _ _ O
+' _ _ O
+
+' _ _ O
+'' _ _ O
+Most _ _ O
+matches _ _ O
+in _ _ O
+a _ _ O
+career _ _ O
+: _ _ O
+' _ _ O
+'' _ _ O
+131 _ _ O
+( _ _ O
+Bismarck _ _ B-PER
+du _ _ I-PER
+Plessis _ _ I-PER
+) _ _ O
+
+Nellie _ _ B-PER
+Campobello _ _ I-PER
+, _ _ O
+''Tres _ _ O
+poemas _ _ O
+'' _ _ O
+, _ _ O
+Mexico _ _ B-LOC
+
+Leithtown _ _ B-LOC
+, _ _ I-LOC
+Virginia _ _ I-LOC
+
+Gmelin _ _ B-PER
+'s _ _ O
+white-toothed _ _ O
+shrew _ _ O
+
+Discovery _ _ O
+World _ _ O
+( _ _ O
+TV _ _ O
+channel _ _ O
+) _ _ O
+
+Redhill _ _ B-LOC
+School _ _ I-LOC
+, _ _ I-LOC
+Sandton _ _ I-LOC
+
+Louth _ _ B-LOC
+( _ _ O
+from _ _ O
+4 _ _ O
+to _ _ O
+5 _ _ O
+) _ _ O
+
+Now _ _ O
+lives _ _ O
+in _ _ O
+Århus _ _ B-LOC
+, _ _ I-LOC
+Denmark _ _ I-LOC
+. _ _ O
+
+Family _ _ O
+Guy _ _ O
+( _ _ O
+2006–16 _ _ O
+) _ _ O
+
+W?odzimierz _ _ B-PER
+Smolarek _ _ I-PER
+, _ _ O
+Euzebiusz _ _ B-PER
+Smolarek _ _ I-PER
+( _ _ O
+son _ _ O
+) _ _ O
+
+**Slalom _ _ O
+: _ _ O
+Tina _ _ B-PER
+Maze _ _ I-PER
+0,0621875 _ _ O
+( _ _ O
+1,838888889 _ _ O
+/ _ _ O
+1,892361111 _ _ O
+) _ _ O
+Marlies _ _ B-PER
+Schild _ _ I-PER
+0,06224537 _ _ O
+( _ _ O
+1,818055556 _ _ O
+/ _ _ O
+1,916666667 _ _ O
+) _ _ O
+Veronika _ _ B-PER
+Zuzulová _ _ I-PER
+0,062928241 _ _ O
+( _ _ O
+44.92 _ _ O
+/ _ _ O
+1,878472222 _ _ O
+) _ _ O
+
+The _ _ O
+coach _ _ O
+for _ _ O
+the _ _ O
+Eastern _ _ B-ORG
+Conference _ _ I-ORG
+was _ _ O
+New _ _ B-ORG
+York _ _ I-ORG
+Liberty _ _ I-ORG
+coach _ _ O
+Richie _ _ B-PER
+Adubato _ _ I-PER
+. _ _ O
+
+Believe _ _ O
+( _ _ O
+Justin _ _ B-PER
+Bieber _ _ I-PER
+album _ _ O
+) _ _ O
+
+'' _ _ O
+APPG _ _ B-ORG
+'' _ _ O
+' _ _ O
+
+Born _ _ O
+in _ _ O
+Bangkok _ _ B-LOC
+, _ _ O
+she _ _ O
+is _ _ O
+the _ _ O
+eldest _ _ O
+daughter _ _ O
+of _ _ O
+a _ _ O
+large _ _ O
+multi-cultural _ _ O
+family _ _ O
+. _ _ O
+
+SpVgg _ _ B-ORG
+Selbitz _ _ I-ORG
+( _ _ O
+5 _ _ O
+) _ _ O
+
+' _ _ O
+'' _ _ O
+Gale _ _ B-PER
+H. _ _ I-PER
+Stalker _ _ I-PER
+'' _ _ O
+' _ _ O
+'' _ _ O
+: _ _ O
+59,498 _ _ O
+
+He _ _ O
+was _ _ O
+a _ _ O
+Professor _ _ O
+in _ _ O
+Lüttich _ _ O
+and _ _ O
+at _ _ O
+the _ _ O
+University _ _ B-ORG
+of _ _ I-ORG
+Liège _ _ I-ORG
+. _ _ O
+
+The _ _ O
+program _ _ O
+expanded _ _ O
+in _ _ O
+2006 _ _ O
+to _ _ O
+Calgary _ _ B-LOC
+. _ _ O
+
+' _ _ O
+'' _ _ O
+Movie _ _ O
+Mania _ _ O
+'' _ _ O
+' _ _ O
+
+It _ _ O
+was _ _ O
+formerly _ _ O
+confused _ _ O
+with _ _ O
+the _ _ O
+North _ _ B-LOC
+Atlantic _ _ I-LOC
+species _ _ O
+Dendronotus _ _ O
+frondosus _ _ O
+'' _ _ O
+. _ _ O
+
+Architect _ _ O
+of _ _ O
+the _ _ O
+Capitol _ _ O
+: _ _ O
+Thomas _ _ B-PER
+U. _ _ I-PER
+Walter _ _ I-PER
+
+Pedro _ _ B-PER
+de _ _ I-PER
+Quevedo _ _ I-PER
+y _ _ I-PER
+Quintano _ _ I-PER
+
+In _ _ O
+early _ _ O
+2010 _ _ O
+, _ _ O
+she _ _ O
+toured _ _ O
+South _ _ B-LOC
+Korea _ _ I-LOC
+with _ _ O
+wrestlers _ _ O
+including _ _ O
+Raven _ _ B-PER
+, _ _ O
+Scotty _ _ B-PER
+2 _ _ I-PER
+Hotty _ _ I-PER
+, _ _ O
+Eugene _ _ B-PER
+, _ _ O
+and _ _ O
+Billy _ _ B-PER
+Gunn _ _ I-PER
+. _ _ O
+
+He _ _ O
+went _ _ O
+on _ _ O
+to _ _ O
+defeat _ _ O
+David _ _ B-PER
+Gilbert _ _ I-PER
+6–2 _ _ O
+in _ _ O
+the _ _ O
+last _ _ O
+32 _ _ O
+, _ _ O
+but _ _ O
+lost _ _ O
+3–6 _ _ O
+to _ _ O
+Stephen _ _ B-PER
+Maguire _ _ I-PER
+in _ _ O
+the _ _ O
+last _ _ O
+16 _ _ O
+. _ _ O
+
+'' _ _ O
+Farscape _ _ O
+'' _ _ O
+- _ _ O
+Claudia _ _ B-PER
+Black _ _ I-PER
+
+The _ _ O
+Karaite _ _ O
+tradition _ _ O
+originated _ _ O
+in _ _ O
+Abbasid _ _ B-LOC
+Baghdad _ _ I-LOC
+. _ _ O
+
+Kevin _ _ B-PER
+van _ _ I-PER
+der _ _ I-PER
+Perren _ _ I-PER
+Jorik _ _ I-PER
+Hendrickx _ _ I-PER
+
+Jack _ _ B-PER
+Johnson _ _ I-PER
+( _ _ O
+2008 _ _ O
+) _ _ O
+
+92 _ _ B-LOC
+Speedway _ _ I-LOC
+, _ _ I-LOC
+Indiana _ _ I-LOC
+$ _ _ O
+21,467 _ _ O
+
+William _ _ B-PER
+Paul _ _ I-PER
+– _ _ O
+CD _ _ B-ORG
+Aves _ _ I-ORG
+– _ _ O
+2005–2007 _ _ O
+
+Ngo _ _ B-PER
+Dinh _ _ I-PER
+Diem _ _ I-PER
+
+Joanne _ _ B-PER
+Woodward _ _ I-PER
+( _ _ O
+2-14-76 _ _ O
+) _ _ O
+
+2000–01 _ _ O
+Cymru _ _ B-ORG
+Alliance _ _ I-ORG
+
+Earl _ _ O
+of _ _ O
+Shannon _ _ O
+
+Kilmuir _ _ B-LOC
+, _ _ I-LOC
+Easter _ _ I-LOC
+Ross _ _ I-LOC
+
+Rizzo _ _ B-PER
+the _ _ I-PER
+Rat _ _ I-PER
+as _ _ O
+Wilhem _ _ B-PER
+Grimm _ _ I-PER
+
+Frans _ _ B-PER
+Banninck _ _ I-PER
+Cocq _ _ I-PER
+
+Clontarf _ _ B-LOC
+Township _ _ I-LOC
+, _ _ I-LOC
+Swift _ _ I-LOC
+County _ _ I-LOC
+, _ _ I-LOC
+Minnesota _ _ I-LOC
+
+Prior _ _ O
+to _ _ O
+1945 _ _ O
+it _ _ O
+was _ _ O
+in _ _ O
+Germany _ _ B-LOC
+. _ _ O
+
+Haza _ _ B-LOC
+, _ _ I-LOC
+Province _ _ I-LOC
+of _ _ I-LOC
+Burgos _ _ I-LOC
+
+Westward _ _ B-LOC
+Islet _ _ I-LOC
+, _ _ I-LOC
+in _ _ I-LOC
+the _ _ I-LOC
+Pitcairn _ _ I-LOC
+Islands _ _ I-LOC
+
+He _ _ O
+was _ _ O
+the _ _ O
+Director _ _ O
+of _ _ O
+Peter _ _ B-PER
+the _ _ O
+Great _ _ O
+Museum _ _ O
+of _ _ O
+Anthropology _ _ O
+and _ _ O
+Ethnography _ _ O
+in _ _ O
+St. _ _ B-LOC
+Petersburg _ _ I-LOC
+, _ _ I-LOC
+Russia _ _ I-LOC
+from _ _ O
+1997 _ _ O
+to _ _ O
+2001 _ _ O
+. _ _ O
+
+Mario _ _ B-PER
+Soldati _ _ I-PER
+( _ _ O
+1906–1999 _ _ O
+) _ _ O
+, _ _ O
+writer _ _ O
+, _ _ O
+director _ _ O
+
+Ozyorskoye _ _ B-LOC
+, _ _ I-LOC
+Leningrad _ _ I-LOC
+Oblast _ _ I-LOC
+
+'' _ _ O
+Legal _ _ O
+Affairs _ _ O
+'' _ _ O
+( _ _ O
+1998 _ _ O
+) _ _ O
+
+Warminster _ _ B-LOC
+Township _ _ I-LOC
+, _ _ I-LOC
+Bucks _ _ I-LOC
+County _ _ I-LOC
+, _ _ I-LOC
+Pennsylvania _ _ I-LOC
+
+' _ _ O
+'' _ _ O
+Liga _ _ B-ORG
+Indonesia _ _ I-ORG
+Premier _ _ I-ORG
+Division _ _ I-ORG
+'' _ _ O
+' _ _ O
+
+Swan _ _ I-ORG
+Lake _ _ B-LOC
+7A _ _ B-LOC
+— _ _ O
+Swan _ _ B-ORG
+Lake _ _ I-ORG
+First _ _ I-ORG
+Nation _ _ I-ORG
+
+Scud _ _ O
+( _ _ O
+film _ _ O
+producer _ _ O
+/ _ _ O
+writer _ _ O
+) _ _ O
+
+John _ _ B-LOC
+Smith _ _ I-LOC
+'s _ _ I-LOC
+Stadium _ _ I-LOC
+
+W. _ _ B-PER
+H. _ _ I-PER
+Gaskell _ _ I-PER
+
+Her _ _ O
+brother _ _ O
+was _ _ O
+poet _ _ O
+Chittadhar _ _ B-PER
+Hridaya _ _ I-PER
+. _ _ O
+
+Pierre _ _ B-PER
+Arditi _ _ I-PER
+, _ _ O
+Jane _ _ B-PER
+Birkin _ _ I-PER
+
+'' _ _ O
+As _ _ O
+told _ _ O
+by _ _ O
+Walter _ _ B-PER
+Wright _ _ I-PER
+. _ _ O
+
+100px _ _ O
+'' _ _ O
+Thomas _ _ B-PER
+E. _ _ I-PER
+Martin _ _ I-PER
+
+' _ _ O
+'' _ _ O
+Nona _ _ B-PER
+Gaprindashvili _ _ I-PER
+'' _ _ O
+' _ _ O
+
+Pickering _ _ O
+is _ _ O
+some _ _ O
+17 _ _ O
+miles _ _ O
+to _ _ O
+the _ _ O
+south-east _ _ O
+and _ _ O
+Helmsley _ _ B-LOC
+17 _ _ O
+miles _ _ O
+to _ _ O
+the _ _ O
+south-west _ _ O
+. _ _ O
+
+One _ _ B-ORG
+Direction _ _ I-ORG
+performed _ _ O
+again _ _ O
+in _ _ O
+the _ _ O
+final _ _ O
+, _ _ O
+and _ _ O
+Pitbull _ _ B-PER
+also _ _ O
+performed _ _ O
+. _ _ O
+
+It _ _ O
+is _ _ O
+found _ _ O
+in _ _ O
+Guinea _ _ B-LOC
+, _ _ I-LOC
+Ivory _ _ I-LOC
+Coast _ _ I-LOC
+, _ _ I-LOC
+Ghana _ _ I-LOC
+and _ _ O
+Cameroon _ _ B-LOC
+. _ _ O
+
+2012 _ _ O
+– _ _ O
+''8th _ _ O
+place _ _ O
+'' _ _ O
+
+Time _ _ O
+to _ _ O
+Be _ _ O
+King _ _ O
+'' _ _ O
+( _ _ O
+2010 _ _ O
+) _ _ O
+
+** _ _ O
+'' _ _ O
+WWE _ _ O
+2K16 _ _ O
+'' _ _ O
+- _ _ O
+Yuke _ _ B-ORG
+'s _ _ I-ORG
+
+Her _ _ O
+performance _ _ O
+in _ _ O
+Lena _ _ B-PER
+Horne _ _ I-PER
+: _ _ O
+The _ _ O
+Lady _ _ O
+and _ _ O
+Her _ _ O
+Music _ _ O
+'' _ _ O
+
+The _ _ O
+hijackers _ _ O
+and _ _ O
+$ _ _ O
+2 _ _ O
+million _ _ O
+stayed _ _ O
+in _ _ O
+Cuba _ _ B-LOC
+. _ _ O
+
+Bridgeforth _ _ B-LOC
+Stadium _ _ I-LOC
+and _ _ O
+Zane _ _ B-LOC
+Showker _ _ I-LOC
+Field _ _ I-LOC
+
+Hawkshead _ _ B-ORG
+Grammar _ _ I-ORG
+School _ _ I-ORG
+
+United _ _ B-ORG
+Nations _ _ I-ORG
+Transitional _ _ I-ORG
+Authority _ _ I-ORG
+in _ _ O
+Cambodia _ _ B-LOC
+
+F. _ _ B-PER
+Gwynplaine _ _ I-PER
+MacIntyre _ _ I-PER
+
+Ding _ _ B-PER
+Yang _ _ I-PER
+/ _ _ O
+Ren _ _ B-PER
+Zhongfei _ _ I-PER
+
+He _ _ O
+then _ _ O
+worked _ _ O
+at _ _ O
+the _ _ O
+Harvard-Smithsonian _ _ B-ORG
+Center _ _ I-ORG
+for _ _ O
+Astrophysics _ _ O
+in _ _ O
+Cambridge _ _ B-LOC
+, _ _ I-LOC
+Massachusetts _ _ I-LOC
+. _ _ O
+
+He _ _ O
+attended _ _ O
+Western _ _ B-ORG
+Washington _ _ I-ORG
+University _ _ I-ORG
+and _ _ O
+the _ _ O
+University _ _ B-ORG
+of _ _ I-ORG
+Colorado _ _ I-ORG
+. _ _ O
+
+:1st _ _ O
+Stage _ _ O
+2 _ _ O
+Vuelta _ _ B-ORG
+a _ _ I-ORG
+España _ _ I-ORG
+, _ _ O
+Nacer _ _ B-PER
+Bouhanni _ _ I-PER
+
+'' _ _ O
+Principality _ _ O
+of _ _ O
+Taranto _ _ B-LOC
+'' _ _ O
+' _ _ O
+– _ _ O
+Bohemond _ _ B-PER
+II _ _ I-PER
+( _ _ O
+1111–1128 _ _ O
+) _ _ O
+
+However _ _ O
+, _ _ O
+gameplay _ _ O
+aspects _ _ O
+such _ _ O
+as _ _ O
+AI _ _ O
+earned _ _ O
+a _ _ O
+mixed _ _ O
+response _ _ O
+. _ _ O
+
+Historic _ _ O
+Core _ _ O
+, _ _ O
+Los _ _ B-LOC
+Angeles _ _ I-LOC
+
+Lyon _ _ B-LOC
+County _ _ I-LOC
+, _ _ I-LOC
+Nevada _ _ I-LOC
+
+She _ _ O
+attended _ _ O
+Menlo-Atherton _ _ B-ORG
+High _ _ I-ORG
+School _ _ I-ORG
+. _ _ O
+
+Saint _ _ B-ORG
+Anthony _ _ I-ORG
+Cathedral _ _ I-ORG
+Basilica _ _ I-ORG
+
+Watervliet _ _ B-LOC
+, _ _ I-LOC
+New _ _ I-LOC
+York _ _ I-LOC
+
+Tanga _ _ B-LOC
+, _ _ I-LOC
+Tanzania _ _ I-LOC
+
+He _ _ O
+left _ _ O
+on _ _ O
+3 _ _ O
+April _ _ O
+2008 _ _ O
+, _ _ O
+announced _ _ O
+as _ _ O
+by _ _ O
+'mutual _ _ O
+consent _ _ O
+' _ _ O
+, _ _ O
+following _ _ O
+the _ _ O
+departure _ _ O
+of _ _ O
+manager _ _ O
+Andy _ _ B-PER
+Ritchie _ _ I-PER
+two _ _ O
+days _ _ O
+earlier _ _ O
+. _ _ O
+
+Springhill _ _ B-LOC
+Township _ _ I-LOC
+, _ _ I-LOC
+Fayette _ _ I-LOC
+County _ _ I-LOC
+, _ _ I-LOC
+Pennsylvania _ _ I-LOC
+
+Communes _ _ O
+of _ _ O
+the _ _ O
+Bas-Rhin _ _ B-ORG
+department _ _ I-ORG
+
+Petr _ _ B-PER
+Korda _ _ I-PER
+'' _ _ O
+( _ _ O
+Quarterfinals _ _ O
+) _ _ O
+
+Grand _ _ B-LOC
+View _ _ I-LOC
+, _ _ I-LOC
+Idaho _ _ I-LOC
+
+Industrial _ _ B-ORG
+Bank _ _ I-ORG
+of _ _ I-ORG
+Korea _ _ I-ORG
+FC _ _ I-ORG
+
+It _ _ O
+is _ _ O
+located _ _ O
+in _ _ O
+the _ _ O
+former _ _ O
+province _ _ O
+of _ _ O
+Soule _ _ B-LOC
+. _ _ O
+
+Marabou _ _ O
+stork _ _ O
+, _ _ O
+''Leptoptilos _ _ O
+crumeniferus _ _ O
+'' _ _ O
+
+from _ _ O
+: _ _ O
+1756 _ _ O
+till _ _ O
+: _ _ O
+1850 _ _ O
+text _ _ O
+: _ _ O
+Russian _ _ B-LOC
+Empire _ _ I-LOC
+
+Serra _ _ B-LOC
+de _ _ I-LOC
+Daró _ _ I-LOC
+
+He _ _ O
+is _ _ O
+a _ _ O
+Democrat _ _ O
+. _ _ O
+
+Sarah _ _ B-PER
+Jessica _ _ I-PER
+Parker _ _ I-PER
+- _ _ O
+''Amy-Beth _ _ B-PER
+'' _ _ O
+
+McCormick _ _ B-LOC
+County _ _ I-LOC
+, _ _ I-LOC
+South _ _ I-LOC
+Carolina _ _ I-LOC
+- _ _ I-LOC
+northeast _ _ I-LOC
+
+Buckley _ _ O
+'s _ _ O
+forest _ _ O
+falcon _ _ O
+
+Old _ _ B-LOC
+Patent _ _ I-LOC
+Office _ _ I-LOC
+Building _ _ I-LOC
+
+Apse _ _ B-LOC
+Heath _ _ I-LOC
+, _ _ I-LOC
+Arreton _ _ I-LOC
+) _ _ O
+. _ _ O
+
+Buffalo _ _ B-ORG
+Lake _ _ I-ORG
+Metis _ _ I-ORG
+Settlement _ _ I-ORG
+
+José _ _ B-PER
+Quique _ _ I-PER
+Meléndez _ _ I-PER
+
+He _ _ O
+also _ _ O
+holds _ _ O
+Spanish _ _ O
+citizenship _ _ O
+, _ _ O
+which _ _ O
+makes _ _ O
+him _ _ O
+eligible _ _ O
+as _ _ O
+an _ _ O
+EU _ _ O
+player _ _ O
+. _ _ O
+
+2012 _ _ O
+: _ _ O
+Mark _ _ B-PER
+Sherrod _ _ I-PER
+, _ _ O
+Memphis _ _ B-LOC
+
+23 _ _ O
+November _ _ O
+2009 _ _ O
+, _ _ O
+Hamburg _ _ B-LOC
+
+Budweiser _ _ B-ORG
+Budvar _ _ I-ORG
+Brewery _ _ I-ORG
+
+Published _ _ O
+: _ _ O
+Warsaw _ _ B-LOC
+, _ _ O
+1851 _ _ O
+
+`` _ _ O
+I _ _ O
+Can _ _ O
+See _ _ O
+Clearly _ _ O
+Now _ _ O
+'' _ _ O
+
+Alla _ _ B-PER
+Beknazarova _ _ I-PER
+/ _ _ O
+Vladimir _ _ B-PER
+Zuev _ _ I-PER
+
+Charley _ _ B-PER
+'s _ _ O
+War _ _ O
+
+`` _ _ O
+What _ _ O
+'s _ _ O
+My _ _ O
+Name _ _ O
+? _ _ O
+'' _ _ O
+– _ _ O
+Rihanna _ _ B-PER
+featuring _ _ O
+Drake _ _ B-PER
+( _ _ O
+1-week _ _ O
+) _ _ O
+
+Squires _ _ B-LOC
+, _ _ I-LOC
+Missouri _ _ I-LOC
+
+Turkish _ _ B-ORG
+Radio _ _ I-ORG
+and _ _ I-ORG
+Television _ _ I-ORG
+Corporation _ _ I-ORG
+
+Cuthbert _ _ B-PER
+Ormond _ _ I-PER
+Simpkins _ _ I-PER
+
+National _ _ O
+Curriculum _ _ O
+( _ _ O
+Australia _ _ B-LOC
+) _ _ O
+
+Military _ _ B-ORG
+of _ _ I-ORG
+South _ _ I-ORG
+Korea _ _ I-ORG
+
+: _ _ O
+A _ _ O
+single _ _ O
+by _ _ O
+The _ _ B-ORG
+5 _ _ I-ORG
+Torquays _ _ I-ORG
+, _ _ O
+an _ _ O
+early _ _ O
+incarnation _ _ O
+of _ _ O
+the _ _ B-ORG
+Monks _ _ I-ORG
+
+`` _ _ O
+Run _ _ O
+It _ _ O
+! _ _ O
+'' _ _ O
+
+Hangman _ _ O
+'s _ _ O
+Hymn _ _ O
+'' _ _ O
+( _ _ O
+??????? _ _ O
+) _ _ O
+( _ _ O
+2007 _ _ O
+) _ _ O
+
+Ascanio _ _ B-PER
+II _ _ I-PER
+Piccolomini _ _ I-PER
+( _ _ O
+1629 _ _ O
+- _ _ O
+14 _ _ O
+September _ _ O
+1671 _ _ O
+deceased _ _ O
+) _ _ O
+
+Religion _ _ O
+in _ _ O
+the _ _ O
+United _ _ B-LOC
+Kingdom _ _ I-LOC
+
+Matty _ _ B-PER
+Mullins _ _ I-PER
+, _ _ O
+Lead _ _ O
+Singer _ _ O
+/ _ _ O
+Vocalist _ _ O
+for _ _ O
+Memphis _ _ B-ORG
+May _ _ I-ORG
+Fire _ _ I-ORG
+. _ _ O
+
+Potijze _ _ B-LOC
+Château _ _ I-LOC
+Wood _ _ I-LOC
+Commonwealth _ _ I-LOC
+War _ _ I-LOC
+Graves _ _ I-LOC
+Commission _ _ I-LOC
+Cemetery _ _ I-LOC
+
+It _ _ O
+spans _ _ O
+the _ _ O
+Des _ _ B-LOC
+Moines _ _ I-LOC
+River _ _ I-LOC
+for _ _ O
+. _ _ O
+
+Taluk _ _ B-LOC
+/ _ _ I-LOC
+Tehsil _ _ I-LOC
+: _ _ I-LOC
+Taliparamba _ _ I-LOC
+
+Dave _ _ O
+( _ _ O
+TV _ _ O
+channel _ _ O
+) _ _ O
+
+He _ _ O
+was _ _ O
+one _ _ O
+of _ _ O
+the _ _ O
+Wali _ _ O
+Songo _ _ O
+, _ _ O
+along _ _ O
+with _ _ O
+his _ _ O
+father _ _ O
+Sunan _ _ B-PER
+Ampel _ _ I-PER
+and _ _ O
+his _ _ O
+brother _ _ O
+Sunan _ _ B-PER
+Bonang _ _ I-PER
+. _ _ O
+
+Ofir _ _ B-LOC
+( _ _ I-LOC
+Esposende _ _ I-LOC
+) _ _ I-LOC
+, _ _ I-LOC
+Portugal _ _ I-LOC
+. _ _ O
+
+Santa _ _ B-PER
+Helena _ _ I-PER
+de _ _ I-PER
+Goiás _ _ I-PER
+
+Manfred _ _ B-PER
+Schwartz _ _ I-PER
+( _ _ O
+1909–1970 _ _ O
+) _ _ O
+, _ _ O
+painter _ _ O
+
+Ebbw _ _ B-ORG
+Vale _ _ I-ORG
+F.C _ _ I-ORG
+. _ _ O
+
+Henry _ _ B-PER
+FitzRoy _ _ I-PER
+( _ _ O
+d. _ _ O
+1158 _ _ O
+) _ _ O
+
+Tupac _ _ B-PER
+A. _ _ I-PER
+Hunter _ _ I-PER
+
+La _ _ B-LOC
+Trinité _ _ I-LOC
+, _ _ I-LOC
+Savoie _ _ I-LOC
+
+William _ _ B-PER
+S. _ _ I-PER
+Duffey _ _ I-PER
+Jr _ _ I-PER
+. _ _ O
+
+De _ _ B-ORG
+La _ _ I-ORG
+Salle _ _ I-ORG
+Catholic _ _ I-ORG
+University _ _ I-ORG
+, _ _ O
+Manado _ _ I-LOC
+
+Fire _ _ O
+Emblem _ _ O
+: _ _ O
+Awakening _ _ O
+'' _ _ O
+
+Al _ _ B-PER
+Jefferson _ _ I-PER
+( _ _ O
+10 _ _ O
+) _ _ O
+
+' _ _ O
+'' _ _ O
+Alex _ _ B-PER
+Barros _ _ I-PER
+'' _ _ O
+' _ _ O
+
+Service _ _ B-ORG
+data _ _ I-ORG
+unit _ _ I-ORG
+
+Massimo _ _ B-PER
+Maccarone _ _ I-PER
+– _ _ O
+Middlesbrough _ _ B-ORG
+– _ _ O
+2002–04 _ _ O
+, _ _ O
+2005–07 _ _ O
+
+The _ _ O
+two _ _ O
+of _ _ O
+them _ _ O
+went _ _ O
+to _ _ O
+Venice _ _ B-LOC
+and _ _ O
+lived _ _ O
+together _ _ O
+. _ _ O
+
+Micah _ _ B-PER
+P. _ _ I-PER
+Hinson _ _ I-PER
+and _ _ O
+the _ _ O
+Opera _ _ B-ORG
+Circuit _ _ I-ORG
+'' _ _ O
+
+Sands _ _ B-LOC
+Atlantic _ _ I-LOC
+City _ _ I-LOC
+, _ _ I-LOC
+Atlantic _ _ I-LOC
+City _ _ I-LOC
+, _ _ I-LOC
+New _ _ I-LOC
+Jersey _ _ I-LOC
+, _ _ I-LOC
+United _ _ I-LOC
+States _ _ I-LOC
+
+Merced _ _ B-LOC
+County _ _ I-LOC
+( _ _ O
+2,252777778 _ _ O
+% _ _ O
+) _ _ O
+
+Administratively _ _ O
+it _ _ O
+is _ _ O
+designated _ _ O
+a _ _ O
+commune _ _ O
+within _ _ O
+the _ _ O
+department _ _ B-LOC
+of _ _ I-LOC
+Loire _ _ I-LOC
+. _ _ O
+
+Endgame _ _ O
+'' _ _ O
+( _ _ O
+Diane _ _ B-PER
+Carey _ _ I-PER
+) _ _ O
+, _ _ O
+2001 _ _ O
+
+Across _ _ O
+Sonora _ _ B-LOC
+, _ _ O
+many _ _ O
+homes _ _ O
+were _ _ O
+wrecked _ _ O
+due _ _ O
+to _ _ O
+flooding _ _ O
+. _ _ O
+
+Mr. _ _ O
+R. _ _ B-PER
+S. _ _ I-PER
+Lugani _ _ I-PER
+, _ _ O
+after _ _ O
+a _ _ O
+few _ _ O
+years _ _ O
+, _ _ O
+took _ _ O
+over _ _ O
+as _ _ O
+its _ _ O
+first _ _ O
+principal _ _ O
+. _ _ O
+
+Yellow-naped _ _ O
+amazon _ _ O
+, _ _ O
+''Amazona _ _ O
+auropalliata _ _ O
+'' _ _ O
+
+Young _ _ B-PER
+Buck _ _ I-PER
+- _ _ O
+Straight _ _ O
+Outta _ _ O
+Cashville _ _ B-LOC
+'' _ _ O
+== _ _ O
+
+J.J. _ _ B-PER
+Hickson _ _ I-PER
+( _ _ O
+21 _ _ O
+) _ _ O
+
+*2004 _ _ O
+- _ _ O
+Saskia _ _ B-PER
+Olde _ _ I-PER
+Wolbers _ _ I-PER
+
+He _ _ O
+was _ _ O
+buried _ _ O
+in _ _ O
+Druid _ _ B-LOC
+Ridge _ _ I-LOC
+Cemetery _ _ I-LOC
+in _ _ I-LOC
+Pikesville _ _ I-LOC
+, _ _ I-LOC
+Maryland _ _ I-LOC
+. _ _ O
+
+*1984 _ _ O
+: _ _ O
+Stella _ _ B-ORG
+Club _ _ I-ORG
+d'Adjamé _ _ I-ORG
+( _ _ O
+3 _ _ O
+) _ _ O
+
+Les _ _ B-PER
+Binkley _ _ I-PER
+( _ _ O
+G _ _ O
+) _ _ O
+
+Jodi _ _ B-PER
+Albert _ _ I-PER
+( _ _ O
+Debbie _ _ B-PER
+Dean _ _ I-PER
+) _ _ O
+
+Montclar _ _ B-ORG
+( _ _ O
+disambiguation _ _ O
+) _ _ O
+
+*Beyoncé _ _ B-PER
+— _ _ O
+`` _ _ O
+Single _ _ O
+Ladies _ _ O
+( _ _ O
+Put _ _ O
+a _ _ O
+Ring _ _ O
+on _ _ O
+It _ _ O
+) _ _ O
+” _ _ O
+( _ _ O
+2008 _ _ O
+) _ _ O
+
+22px _ _ O
+Rio _ _ B-LOC
+de _ _ I-LOC
+Oro _ _ I-LOC
+
+Vik _ _ B-PER
+Sahay _ _ I-PER
+as _ _ O
+Male _ _ O
+Assistant _ _ O
+
+• _ _ O
+Vlkovija _ _ B-LOC
+( _ _ O
+17 _ _ O
+) _ _ O
+
+Cristian _ _ B-PER
+Petre _ _ I-PER
+, _ _ O
+4 _ _ O
+. _ _ O
+
+It _ _ O
+began _ _ O
+on _ _ O
+2 _ _ O
+April _ _ O
+at _ _ O
+Motegi _ _ O
+and _ _ O
+ended _ _ O
+on _ _ O
+23 _ _ O
+October _ _ O
+at _ _ O
+the _ _ O
+same _ _ O
+place _ _ O
+. _ _ O
+
+Hussain _ _ B-PER
+Al _ _ I-PER
+Jasmi _ _ I-PER
+( _ _ O
+singer _ _ O
+) _ _ O
+helped _ _ O
+in _ _ O
+the _ _ O
+composition _ _ O
+of _ _ O
+the _ _ O
+album _ _ O
+'s _ _ O
+title _ _ O
+song _ _ O
+Mashaklni _ _ O
+. _ _ O
+
+She _ _ O
+was _ _ O
+daughter _ _ O
+of _ _ O
+a _ _ O
+Hessian _ _ O
+officer _ _ O
+and _ _ O
+was _ _ O
+educated _ _ O
+in _ _ O
+Berlin _ _ B-LOC
+. _ _ O
+
+' _ _ O
+'' _ _ O
+Andy _ _ B-PER
+Rouse _ _ I-PER
+'' _ _ O
+' _ _ O
+
+Urbenville _ _ B-LOC
+, _ _ I-LOC
+New _ _ I-LOC
+South _ _ I-LOC
+Wales _ _ I-LOC
+
+' _ _ O
+'' _ _ O
+Ahmed _ _ B-PER
+Maiteeq _ _ I-PER
+'' _ _ O
+' _ _ O
+
+Laurindo _ _ B-PER
+Almeida _ _ I-PER
+( _ _ O
+composer _ _ O
+and _ _ O
+artist _ _ O
+) _ _ O
+for _ _ O
+''Discantus _ _ O
+'' _ _ O
+
+Voine?ti _ _ B-LOC
+River _ _ I-LOC
+( _ _ O
+Tutova _ _ O
+) _ _ O
+
+River _ _ B-LOC
+Valley _ _ I-LOC
+High _ _ I-LOC
+School _ _ I-LOC
+( _ _ I-LOC
+Yuba _ _ I-LOC
+City _ _ I-LOC
+, _ _ I-LOC
+California _ _ I-LOC
+) _ _ I-LOC
+
+He _ _ O
+continued _ _ O
+his _ _ O
+career _ _ O
+in _ _ O
+Serie _ _ O
+C2 _ _ O
+with _ _ O
+Pro _ _ B-ORG
+Vercelli _ _ I-ORG
+and _ _ O
+Alexandria _ _ B-ORG
+, _ _ O
+ending _ _ O
+his _ _ O
+career _ _ O
+at _ _ O
+age _ _ O
+30 _ _ O
+. _ _ O
+
+'' _ _ O
+Depressaria _ _ O
+douglasella _ _ O
+'' _ _ O
+Stainton _ _ O
+, _ _ O
+1849 _ _ O
+
+Leonardo _ _ B-PER
+Grosso _ _ I-PER
+della _ _ I-PER
+Rovere _ _ I-PER
+( _ _ O
+15 _ _ O
+September _ _ O
+1508 _ _ O
+– _ _ O
+9 _ _ O
+March _ _ O
+1517 _ _ O
+) _ _ O
+
+Joan _ _ B-PER
+, _ _ I-PER
+Heiress _ _ O
+of _ _ O
+Navarre _ _ B-LOC
+
+Hamilton _ _ B-LOC
+, _ _ I-LOC
+Ontario _ _ I-LOC
+( _ _ O
+township _ _ O
+) _ _ O
+
+28 _ _ O
+May _ _ O
+— _ _ O
+Clough _ _ B-PER
+Williams-Ellis _ _ I-PER
+, _ _ O
+architect _ _ O
+( _ _ O
+died _ _ O
+1978 _ _ O
+) _ _ O
+
+College _ _ B-LOC
+of _ _ I-LOC
+DuPage _ _ I-LOC
+( _ _ I-LOC
+Glen _ _ I-LOC
+Ellyn _ _ I-LOC
+) _ _ I-LOC
+
+Beltzville _ _ B-LOC
+State _ _ I-LOC
+Park _ _ I-LOC
+( _ _ I-LOC
+Carbon _ _ I-LOC
+County _ _ I-LOC
+) _ _ I-LOC
