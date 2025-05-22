@@ -30,7 +30,7 @@ Now, all final code and results can be run through the Main.IPYNB file in the ro
 The repository contains 3 front-page files and 5 folders: 
  - The Main.IPYNB is the jupyter notebook through which all our final code can be run. It pulls functions from python-files, and lets you centralize the entire project's final code results.
  - README.md is self-explanatory - you're reading me ;-)
- - requirements.yml is our environment-file, and it contains all dependencies. It is made to be run through conda, if you use pip, you may need to convert the dependencies to a .txt-file instead.
+ - requirements.yml is our environment-file, and it contains all dependencies. It is made to be run through conda, if you use pip, you may use the .txt-file instead.
 <br>
 
  - baseline_and_project_proposal contains our previous submissions of baseline results, project proposal and project proposal presentation
