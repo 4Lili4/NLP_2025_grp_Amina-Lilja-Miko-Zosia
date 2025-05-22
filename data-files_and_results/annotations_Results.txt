@@ -16,7 +16,7 @@ MW	0	0
 MHz	0	0
 Triple	0	3
 J	0	4
-–	0	
+–	0	0
 ABC	0	3
 # New sentence = Civic Freedom Party	0	
 Civic	3	3
@@ -2550,7 +2550,7 @@ trader	0	0
 (	0	0
 ''fl	0	0
 .	0	0
-"# New sentence = ; Los Angeles Film Critics Association"	0	
+# New sentence =  Los Angeles Film Critics Association	0	
 ";"	0	0
 Los	3	3
 Angeles	4	4
@@ -6506,7 +6506,7 @@ C.	2	2
 O'Mahoney	2	2
 ''	0	0
 '	0	0
-"# New sentence = It was located on Cache Creek ; its precise location is unknown ."	0	
+# New sentence = It was located on Cache Creek  its precise location is unknown .	0	
 It	0	0
 was	0	0
 located	0	0
@@ -7138,7 +7138,7 @@ on	0	0
 May	0	0
 2012	0	0
 .	0	0
-"# New sentence = ; Felicia Forrester : played by Colleen Dion-Scotti ( 1990–92 , 1997–2004 ) ; Lesli Kay ( 2005–09 , 2010 , 2011 , 2012 , 2013 , 2014 )"	0	
+# New sentence =  Felicia Forrester : played by Colleen Dion-Scotti ( 1990–92 , 1997–2004 )  Lesli Kay ( 2005–09 , 2010 , 2011 , 2012 , 2013 , 2014 )	0	
 ";"	0	0
 Felicia	1	1
 Forrester	2	2
@@ -7723,7 +7723,7 @@ in	0	0
 Springview	5	5
 ,	0	0
 Nebraska	5	5
-"# New sentence = ; 2006 – Scott-Marcondes Cesar-São José dos Campos"	0	
+# New sentence =  2006 – Scott-Marcondes Cesar-São José dos Campos	0	
 ";"	0	0
 2006	0	0
 –	0	0
