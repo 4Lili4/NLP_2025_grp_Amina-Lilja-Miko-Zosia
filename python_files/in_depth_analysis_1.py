@@ -47,10 +47,10 @@ def plotting_wikiann(results, silver, gold_a, gold_b, colours):
     #ax.savefig("class_distribution.png", dpi=300)
     
     # Get consistent set of labels
-    labels = sorted(set(y_true) | set(y_pred))
+    conf_labels = sorted(set(y_true) | set(y_pred))
     
     # Now safely compute and display the confusion matrix
-    cm = confusion_matrix(y_true, y_pred, labels=labels)
+    cm = confusion_matrix(y_true, y_pred, labels=conf_labels)
     disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=labels)
     disp.plot(xticks_rotation=45, cmap=c2)
              #title="Confusion Matrix: Silver vs Gold")
