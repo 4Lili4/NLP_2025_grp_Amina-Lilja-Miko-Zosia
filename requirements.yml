@@ -1,4 +1,4 @@
-name: NLP_grp1
+name: nlp_grp1
 
 channels:
  - defaults
@@ -6,6 +6,7 @@ channels:
 
 dependencies:
  - python
+ - pyspark
  - scikit-learn
  - numpy
  - pandas
@@ -20,3 +21,5 @@ dependencies:
  - transformers
  - matplotlib
  - pip
+ - pip:
+   - spark-nlp
